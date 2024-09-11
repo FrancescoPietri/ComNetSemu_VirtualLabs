@@ -1,15 +1,19 @@
+#!/usr/bin/python
+
 from mininet.topo import Topo
 from mininet.net import Mininet
 from mininet.node import OVSKernelSwitch, RemoteController
 from mininet.cli import CLI
 from mininet.link import TCLink
-from topology_tools import *
-
+from TopologyTools import *
 
 class OfficeTopology(Topo):
     "OfficeTopology"
 
-    def build(self):
+    def __init__(self):
+
+        Topo.__init__(self)
+
         # Define switches
         sof1 = self.addSwitch('sof1')       # Switch office 1
         sof2 = self.addSwitch('sof2')
@@ -20,14 +24,14 @@ class OfficeTopology(Topo):
         spr1 = self.addSwitch('spr1')       # Switch print room 1
 
         # Define hosts with VLANs
-        h1of1 = self.addHost('h1of1', cls=VLANHost, vlan=1)
-        h2of1 = self.addHost('h2of1', cls=VLANHost, vlan=1)
-        h1of2 = self.addHost('h1of2', cls=VLANHost, vlan=2)
-        h2of2 = self.addHost('h2of2', cls=VLANHost, vlan=2)
-        h1of3 = self.addHost('h1of3', cls=VLANHost, vlan=3)
-        h2of3 = self.addHost('h2of3', cls=VLANHost, vlan=3)
-        h1mo1 = self.addHost('h1om1', cls=VLANHost, vlan=4)
-        h1pr1 = self.addHost('h1pr1', cls=VLANHost, vlan=5)
+        h1of1 = self.addHost('h1of1')
+        h2of1 = self.addHost('h2of1')
+        h1of2 = self.addHost('h1of2')
+        h2of2 = self.addHost('h2of2')
+        h1of3 = self.addHost('h1of3')
+        h2of3 = self.addHost('h2of3')
+        h1mo1 = self.addHost('h1om1')
+        h1pr1 = self.addHost('h1pr1')
 
         # Add links between hosts and switches
         self.addLink(h1of1, sof1)
@@ -51,32 +55,5 @@ class OfficeTopology(Topo):
         self.addLink(spr1, sbb2)
         self.addLink(sbb1, sbb2)
 
-
-if __name__ == '__main__':
-    # Define Mininet network
-    net = Mininet(
-        topo=OfficeTopology(),
-        waitConnected=True,
-        ipBase='10.0.0.0/8',
-        link=TCLink,
-        switch=OVSKernelSwitch
-    )
-
-    # Add RemoteController and use OpenFlow 1.3
-    c0 = net.addController(
-        name='c0',
-        controller=RemoteController,
-        ip='127.0.0.1',
-        protocol='tcp',
-        port=6633
-    )
-
-    # Start switches with OpenFlow 1.3 protocol
-    for sw in net.switches:
-        sw.start([c0])
-        sw.cmd('ovs-vsctl set Bridge {} protocols=OpenFlow13'.format(sw.name))
-
-    net.start()
-    CLI(net)
-    net.stop()
+topos = { 'officeotopology': ( lambda: OfficeTopology() ) }
 
