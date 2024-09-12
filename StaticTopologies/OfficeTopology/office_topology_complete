@@ -62,26 +62,32 @@ class OfficeTopologyVlan(Topo):
         h1mo1 = self.addHost('h1om1', cls=VLANHost, vlan=4, ip='10.0.4.1/24')
         h1pr1 = self.addHost('h1pr1', cls=VLANHost, vlan=5, ip='10.0.5.1/24')
 
-        # Add links between hosts and switches
-        self.addLink(h1of1, sof1)
-        self.addLink(h2of1, sof1)
-        self.addLink(h1of2, sof2)
-        self.addLink(h2of2, sof2)
-        self.addLink(h1of3, sof3)
-        self.addLink(h2of3, sof3)
-        self.addLink(h1mo1, smo1)
-        self.addLink(h1pr1, spr1)
+        # Link configurations
+        queue_lenght = 10
+        host_link_config = dict()             # Default host links
+        weakbb_link_config = dict(delay='20ms', use_tbf=True, bw=20, max_queue_size=queue_lenght, latency_ms=10000000, burst=1000000)     # Weak backbone links (low bandwidth)
+        strongbb_link_config = dict(delay='25ms', use_tbf=True, bw=50, max_queue_size=queue_lenght, latency_ms=10000000, burst=1000000)     # Strong backbone links (high bandwidth)
 
-        # Add links between switches
-        self.addLink(sof1, sof2)
-        self.addLink(sof2, sof3)
-        self.addLink(sof1, sbb1)
-        self.addLink(sof2, sbb1)
-        self.addLink(sof3, sbb1)
-        self.addLink(sof1, spr1)
-        self.addLink(sof3, smo1)
-        self.addLink(smo1, sbb2)
-        self.addLink(spr1, sbb2)
-        self.addLink(sbb1, sbb2)
+        # Add links between hosts and switches
+        self.addLink(h1of1, sof1, **host_link_config)
+        self.addLink(h2of1, sof1, **host_link_config)
+        self.addLink(h1of2, sof2, **host_link_config)
+        self.addLink(h2of2, sof2, **host_link_config)
+        self.addLink(h1of3, sof3, **host_link_config)
+        self.addLink(h2of3, sof3, **host_link_config)
+        self.addLink(h1mo1, smo1, **host_link_config)
+        self.addLink(h1pr1, spr1, **host_link_config)
+
+        # Add links between switches with custom bandwidths
+        self.addLink(sof1, sof2, **weakbb_link_config)
+        self.addLink(sof2, sof3, **strongbb_link_config)
+        self.addLink(sof1, sbb1, **strongbb_link_config)
+        self.addLink(sof2, sbb1, **weakbb_link_config)
+        self.addLink(sof3, sbb1, **strongbb_link_config)
+        self.addLink(sof1, spr1, **weakbb_link_config)
+        self.addLink(sof3, smo1, **strongbb_link_config)
+        self.addLink(smo1, sbb2, **weakbb_link_config)
+        self.addLink(spr1, sbb2, **strongbb_link_config)
+        self.addLink(sbb1, sbb2, **strongbb_link_config)
 
 topos = { 'officetopologyvlan': ( lambda: OfficeTopologyVlan() ) }

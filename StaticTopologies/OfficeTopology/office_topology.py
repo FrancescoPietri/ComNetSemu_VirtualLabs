@@ -5,7 +5,6 @@ from mininet.net import Mininet
 from mininet.node import OVSKernelSwitch, RemoteController
 from mininet.cli import CLI
 from mininet.link import TCLink
-from TopologyTools import *
 
 class OfficeTopology(Topo):
     "OfficeTopology"
@@ -15,13 +14,13 @@ class OfficeTopology(Topo):
         Topo.__init__(self)
 
         # Define switches
-        sof1 = self.addSwitch('sof1')       # Switch office 1
-        sof2 = self.addSwitch('sof2')
-        sof3 = self.addSwitch('sof3')
-        sbb1 = self.addSwitch('sbb1')       # Switch backbone 1
-        sbb2 = self.addSwitch('sbb2')
-        smo1 = self.addSwitch('smo1')       # Switch main office 1
-        spr1 = self.addSwitch('spr1')       # Switch print room 1
+        sof1 = self.addSwitch('sof1', dpid='0000000000000002')  # Switch office 1
+        sof2 = self.addSwitch('sof2', dpid='0000000000000003')
+        sof3 = self.addSwitch('sof3', dpid='0000000000000004')
+        sbb1 = self.addSwitch('sbb1', dpid='0000000000000005')  # Switch backbone 1
+        sbb2 = self.addSwitch('sbb2', dpid='0000000000000006')
+        smo1 = self.addSwitch('smo1', dpid='0000000000000007')  # Switch main office 1
+        spr1 = self.addSwitch('spr1', dpid='0000000000000008')       # Switch print room 1
 
         # Define hosts with VLANs
         h1of1 = self.addHost('h1of1')
@@ -55,5 +54,5 @@ class OfficeTopology(Topo):
         self.addLink(spr1, sbb2)
         self.addLink(sbb1, sbb2)
 
-topos = { 'officeotopology': ( lambda: OfficeTopology() ) }
+topos = { 'officetopology': ( lambda: OfficeTopology() ) }
 
