@@ -36,8 +36,8 @@ class VLANHost( Host ):
 
         return r
 
-class OfficeTopologyVlan(Topo):
-    "OfficeTopologyVlan"
+class OfficeTopologyComplete(Topo):
+    "OfficeTopologyComplete"
 
     def __init__(self):
 
@@ -90,4 +90,4 @@ class OfficeTopologyVlan(Topo):
         self.addLink(spr1, sbb2, **strongbb_link_config)
         self.addLink(sbb1, sbb2, **strongbb_link_config)
 
-topos = { 'officetopologyvlan': ( lambda: OfficeTopologyVlan() ) }
+topos = { 'officetopologycomplete': ( lambda: OfficeTopologyComplete() ) }
