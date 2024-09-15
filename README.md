@@ -13,5 +13,5 @@ This repository contains a collection of various Mininet topologies designed for
 3. Navigate to the desired topology and execute:
    ```bash
    sudo mn --custom [TOPOLOGY_SCRIPT_NAME] --topo [TOPOLOGY_NAME] --link tc
-   
-   *(You can find the topology name at the end of each script file.)
+
+*(You can find the topology name at the end of each script file.)
