@@ -4,6 +4,7 @@ from inspect import stack
 import networkx as nx
 import sys
 import black
+import re
 
 class GMLtoTopology:
     def __init__(self):
@@ -25,6 +26,8 @@ from mininet.link import TCLink\n\n""")
     def format_string(self, s):
         tmp = s.lower().replace(" ", "")[:8]
 
+        tmp = re.sub(r'[^a-zA-Z0-9]', '', tmp)
+
         if len(s) > 8 and s[-1].isdigit():
             tmp += s[-1]
         
@@ -39,7 +42,14 @@ from mininet.link import TCLink\n\n""")
         with open(file_path, 'w') as file:
             file.write(formatted_code)
 
+    """def standardize_gml(name):
+        file_gml = open"""
+
     def convert_gml_topo(self, name, datasetDirPath, topologyDirPath):
+
+        name = os.path.splitext(name)[0]
+        print(name)
+
         graph = nx.read_gml(op.join(datasetDirPath, name + '.gml'))
 
         self.init_topo(name, topologyDirPath)

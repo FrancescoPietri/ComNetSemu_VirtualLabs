@@ -1,0 +1,88 @@
+#!/usr/bin/python
+from mininet.topo import Topo
+from mininet.net import Mininet
+from mininet.node import OVSKernelSwitch, RemoteController
+from mininet.cli import CLI
+from mininet.link import TCLink
+
+
+class CrlNetworkServices(Topo):
+    def __init__(self):
+        Topo.__init__(self)
+        # Adding Switches
+        phoenix = self.addSwitch("phoenix", dpid="0000000000000002")
+        albuquer = self.addSwitch("albuquer", dpid="0000000000000003")
+        anaheim = self.addSwitch("anaheim", dpid="0000000000000004")
+        sandiego = self.addSwitch("sandiego", dpid="0000000000000005")
+        sananton = self.addSwitch("sananton", dpid="0000000000000006")
+        houston = self.addSwitch("houston", dpid="0000000000000007")
+        dallas = self.addSwitch("dallas", dpid="0000000000000008")
+        austin = self.addSwitch("austin", dpid="0000000000000009")
+        atlanta = self.addSwitch("atlanta", dpid="000000000000000a")
+        raleigh = self.addSwitch("raleigh", dpid="000000000000000b")
+        kansasci = self.addSwitch("kansasci", dpid="000000000000000c")
+        denver = self.addSwitch("denver", dpid="000000000000000d")
+        tampa = self.addSwitch("tampa", dpid="000000000000000e")
+        stlouis = self.addSwitch("stlouis", dpid="000000000000000f")
+        pittsbur = self.addSwitch("pittsbur", dpid="0000000000000010")
+        newyork = self.addSwitch("newyork", dpid="0000000000000011")
+        philadel = self.addSwitch("philadel", dpid="0000000000000012")
+        baltimor = self.addSwitch("baltimor", dpid="0000000000000013")
+        washingt = self.addSwitch("washingt", dpid="0000000000000014")
+        chicago = self.addSwitch("chicago", dpid="0000000000000015")
+        detroit = self.addSwitch("detroit", dpid="0000000000000016")
+        clevelan = self.addSwitch("clevelan", dpid="0000000000000017")
+        boston = self.addSwitch("boston", dpid="0000000000000018")
+        sanjose = self.addSwitch("sanjose", dpid="0000000000000019")
+        losangel = self.addSwitch("losangel", dpid="000000000000001a")
+        seattle = self.addSwitch("seattle", dpid="000000000000001b")
+        portland = self.addSwitch("portland", dpid="000000000000001c")
+        santaros = self.addSwitch("santaros", dpid="000000000000001d")
+        sacramen = self.addSwitch("sacramen", dpid="000000000000001e")
+        stockton = self.addSwitch("stockton", dpid="000000000000001f")
+        concord = self.addSwitch("concord", dpid="0000000000000020")
+        sanrafae = self.addSwitch("sanrafae", dpid="0000000000000021")
+        sanfranc = self.addSwitch("sanfranc", dpid="0000000000000022")
+
+        # Adding Links
+        self.addLink(phoenix, albuquer)
+        self.addLink(phoenix, sandiego)
+        self.addLink(albuquer, dallas)
+        self.addLink(anaheim, losangel)
+        self.addLink(anaheim, sandiego)
+        self.addLink(sananton, houston)
+        self.addLink(sananton, austin)
+        self.addLink(houston, dallas)
+        self.addLink(dallas, atlanta)
+        self.addLink(dallas, stlouis)
+        self.addLink(dallas, austin)
+        self.addLink(atlanta, raleigh)
+        self.addLink(atlanta, tampa)
+        self.addLink(raleigh, washingt)
+        self.addLink(kansasci, denver)
+        self.addLink(kansasci, stlouis)
+        self.addLink(denver, sanfranc)
+        self.addLink(stlouis, chicago)
+        self.addLink(pittsbur, washingt)
+        self.addLink(pittsbur, clevelan)
+        self.addLink(newyork, philadel)
+        self.addLink(newyork, boston)
+        self.addLink(philadel, baltimor)
+        self.addLink(baltimor, washingt)
+        self.addLink(chicago, seattle)
+        self.addLink(chicago, detroit)
+        self.addLink(detroit, clevelan)
+        self.addLink(clevelan, boston)
+        self.addLink(sanjose, losangel)
+        self.addLink(sanjose, sanfranc)
+        self.addLink(seattle, portland)
+        self.addLink(portland, santaros)
+        self.addLink(santaros, sacramen)
+        self.addLink(santaros, sanrafae)
+        self.addLink(sacramen, stockton)
+        self.addLink(stockton, concord)
+        self.addLink(concord, sanfranc)
+        self.addLink(sanrafae, sanfranc)
+
+
+topos = {"CrlNetworkServices": (lambda: CrlNetworkServices())}

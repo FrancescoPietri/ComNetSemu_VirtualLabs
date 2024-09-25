@@ -1,0 +1,87 @@
+#!/usr/bin/python
+from mininet.topo import Topo
+from mininet.net import Mininet
+from mininet.node import OVSKernelSwitch, RemoteController
+from mininet.cli import CLI
+from mininet.link import TCLink
+
+
+class GtsPoland(Topo):
+    def __init__(self):
+        Topo.__init__(self)
+        # Adding Switches
+        warsaw = self.addSwitch("warsaw", dpid="0000000000000002")
+        bialysto = self.addSwitch("bialysto", dpid="0000000000000003")
+        wlocawek = self.addSwitch("wlocawek", dpid="0000000000000004")
+        plock = self.addSwitch("plock", dpid="0000000000000005")
+        opole = self.addSwitch("opole", dpid="0000000000000006")
+        wroclaw = self.addSwitch("wroclaw", dpid="0000000000000007")
+        lublin = self.addSwitch("lublin", dpid="0000000000000008")
+        rzeszow = self.addSwitch("rzeszow", dpid="0000000000000009")
+        kalisz = self.addSwitch("kalisz", dpid="000000000000000a")
+        lodz = self.addSwitch("lodz", dpid="000000000000000b")
+        none = self.addSwitch("none", dpid="000000000000000c")
+        krakow = self.addSwitch("krakow", dpid="000000000000000d")
+        zielonag = self.addSwitch("zielonag", dpid="000000000000000e")
+        gdansk = self.addSwitch("gdansk", dpid="000000000000000f")
+        olszlyn = self.addSwitch("olszlyn", dpid="0000000000000010")
+        tarnow = self.addSwitch("tarnow", dpid="0000000000000011")
+        kalowice = self.addSwitch("kalowice", dpid="0000000000000012")
+        kielce = self.addSwitch("kielce", dpid="0000000000000013")
+        radom = self.addSwitch("radom", dpid="0000000000000014")
+        prague = self.addSwitch("prague", dpid="0000000000000015")
+        bratisla = self.addSwitch("bratisla", dpid="0000000000000016")
+        frankfur = self.addSwitch("frankfur", dpid="0000000000000017")
+        berlin = self.addSwitch("berlin", dpid="0000000000000018")
+        bydgoszc = self.addSwitch("bydgoszc", dpid="0000000000000019")
+        torun = self.addSwitch("torun", dpid="000000000000001a")
+        gdyia = self.addSwitch("gdyia", dpid="000000000000001b")
+        slupsk = self.addSwitch("slupsk", dpid="000000000000001c")
+        koszalin = self.addSwitch("koszalin", dpid="000000000000001d")
+        kolobrze = self.addSwitch("kolobrze", dpid="000000000000001e")
+        szczecin = self.addSwitch("szczecin", dpid="000000000000001f")
+        gorzowwi = self.addSwitch("gorzowwi", dpid="0000000000000020")
+        poznan = self.addSwitch("poznan", dpid="0000000000000021")
+        pila = self.addSwitch("pila", dpid="0000000000000022")
+
+        # Adding Links
+        self.addLink(warsaw, bialysto)
+        self.addLink(warsaw, plock)
+        self.addLink(warsaw, lublin)
+        self.addLink(warsaw, lodz)
+        self.addLink(warsaw, radom)
+        self.addLink(warsaw, frankfur)
+        self.addLink(warsaw, berlin)
+        self.addLink(bialysto, olszlyn)
+        self.addLink(wlocawek, torun)
+        self.addLink(wlocawek, plock)
+        self.addLink(opole, kalowice)
+        self.addLink(opole, wroclaw)
+        self.addLink(wroclaw, kalisz)
+        self.addLink(lublin, rzeszow)
+        self.addLink(rzeszow, krakow)
+        self.addLink(kalisz, lodz)
+        self.addLink(kalisz, poznan)
+        self.addLink(none, kalowice)
+        self.addLink(none, krakow)
+        self.addLink(none, prague)
+        self.addLink(none, bratisla)
+        self.addLink(krakow, kielce)
+        self.addLink(krakow, tarnow)
+        self.addLink(zielonag, poznan)
+        self.addLink(gdansk, gdyia)
+        self.addLink(gdansk, olszlyn)
+        self.addLink(gdansk, bydgoszc)
+        self.addLink(kielce, radom)
+        self.addLink(bydgoszc, torun)
+        self.addLink(bydgoszc, pila)
+        self.addLink(gdyia, slupsk)
+        self.addLink(slupsk, koszalin)
+        self.addLink(koszalin, kolobrze)
+        self.addLink(kolobrze, szczecin)
+        self.addLink(szczecin, pila)
+        self.addLink(gorzowwi, poznan)
+        self.addLink(poznan, pila)
+
+
+topos = {"GtsPoland": (lambda: GtsPoland())}
