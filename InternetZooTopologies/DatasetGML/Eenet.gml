@@ -198,14 +198,6 @@ graph [
   ]
   edge [
     source 5
-    target 7
-    LinkSpeed "1"
-    LinkLabel "1Gb/s"
-    LinkSpeedUnits "G"
-    LinkSpeedRaw 1000000000.0
-  ]
-  edge [
-    source 5
     target 9
     LinkSpeed "10"
     LinkLabel "10Mb/s"

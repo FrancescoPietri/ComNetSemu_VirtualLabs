@@ -31,4 +31,4 @@ if __name__ == "__main__":
                 try:
                     converter.convert_gml_topo(file, PATH_DATASET, PATH_TOPOLOGIES)
                 except:
-                    print(file + "\n")
+                    print(file)

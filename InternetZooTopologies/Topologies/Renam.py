@@ -10,17 +10,17 @@ class Renam(Topo):
     def __init__(self):
         Topo.__init__(self)
         # Adding Switches
-        chisinau = self.addSwitch("chisinau", dpid="0000000000000002")
-        balti = self.addSwitch("balti", dpid="0000000000000003")
-        cahul = self.addSwitch("cahul", dpid="0000000000000004")
-        starneti = self.addSwitch("starneti", dpid="0000000000000005")
-        roedunet = self.addSwitch("roedunet", dpid="0000000000000006")
+        s0 = self.addSwitch("chisinau0", dpid="0000000000000002")
+        s1 = self.addSwitch("balti1", dpid="0000000000000003")
+        s2 = self.addSwitch("cahul22", dpid="0000000000000004")
+        s3 = self.addSwitch("starneti3", dpid="0000000000000005")
+        s4 = self.addSwitch("roedunet4", dpid="0000000000000006")
 
         # Adding Links
-        self.addLink(chisinau, balti)
-        self.addLink(chisinau, cahul)
-        self.addLink(chisinau, starneti)
-        self.addLink(chisinau, roedunet)
+        self.addLink(s0, s1)
+        self.addLink(s0, s2)
+        self.addLink(s0, s3)
+        self.addLink(s0, s4)
 
 
 topos = {"Renam": (lambda: Renam())}

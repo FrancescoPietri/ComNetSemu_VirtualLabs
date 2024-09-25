@@ -10,21 +10,21 @@ class Basnet(Topo):
     def __init__(self):
         Topo.__init__(self)
         # Adding Switches
-        grodno = self.addSwitch("grodno", dpid="0000000000000002")
-        minsk = self.addSwitch("minsk", dpid="0000000000000003")
-        vitebsk = self.addSwitch("vitebsk", dpid="0000000000000004")
-        mogilev = self.addSwitch("mogilev", dpid="0000000000000005")
-        gomel = self.addSwitch("gomel", dpid="0000000000000006")
-        brest = self.addSwitch("brest", dpid="0000000000000007")
-        pionierg2 = self.addSwitch("pionierg2", dpid="0000000000000008")
+        s0 = self.addSwitch("grodno0", dpid="0000000000000002")
+        s1 = self.addSwitch("minsk1", dpid="0000000000000003")
+        s2 = self.addSwitch("vitebsk2", dpid="0000000000000004")
+        s3 = self.addSwitch("mogilev3", dpid="0000000000000005")
+        s4 = self.addSwitch("gomel4", dpid="0000000000000006")
+        s5 = self.addSwitch("brest5", dpid="0000000000000007")
+        s6 = self.addSwitch("pionierg6", dpid="0000000000000008")
 
         # Adding Links
-        self.addLink(grodno, minsk)
-        self.addLink(minsk, vitebsk)
-        self.addLink(minsk, mogilev)
-        self.addLink(minsk, gomel)
-        self.addLink(minsk, brest)
-        self.addLink(minsk, pionierg2)
+        self.addLink(s0, s1)
+        self.addLink(s1, s2)
+        self.addLink(s1, s3)
+        self.addLink(s1, s4)
+        self.addLink(s1, s5)
+        self.addLink(s1, s6)
 
 
 topos = {"Basnet": (lambda: Basnet())}

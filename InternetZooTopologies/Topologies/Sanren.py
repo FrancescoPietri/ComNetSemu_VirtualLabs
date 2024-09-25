@@ -10,22 +10,22 @@ class Sanren(Topo):
     def __init__(self):
         Topo.__init__(self)
         # Adding Switches
-        johannes = self.addSwitch("johannes", dpid="0000000000000002")
-        pretoria = self.addSwitch("pretoria", dpid="0000000000000003")
-        durban = self.addSwitch("durban", dpid="0000000000000004")
-        bloemfon = self.addSwitch("bloemfon", dpid="0000000000000005")
-        eastlond = self.addSwitch("eastlond", dpid="0000000000000006")
-        porteliz = self.addSwitch("porteliz", dpid="0000000000000007")
-        capetown = self.addSwitch("capetown", dpid="0000000000000008")
+        s0 = self.addSwitch("johannes0", dpid="0000000000000002")
+        s1 = self.addSwitch("pretoria1", dpid="0000000000000003")
+        s2 = self.addSwitch("durban2", dpid="0000000000000004")
+        s3 = self.addSwitch("bloemfon3", dpid="0000000000000005")
+        s4 = self.addSwitch("eastlond4", dpid="0000000000000006")
+        s5 = self.addSwitch("porteliz5", dpid="0000000000000007")
+        s6 = self.addSwitch("capetown6", dpid="0000000000000008")
 
         # Adding Links
-        self.addLink(johannes, pretoria)
-        self.addLink(johannes, bloemfon)
-        self.addLink(pretoria, durban)
-        self.addLink(durban, eastlond)
-        self.addLink(bloemfon, capetown)
-        self.addLink(eastlond, porteliz)
-        self.addLink(porteliz, capetown)
+        self.addLink(s0, s1)
+        self.addLink(s0, s3)
+        self.addLink(s1, s2)
+        self.addLink(s2, s4)
+        self.addLink(s3, s6)
+        self.addLink(s4, s5)
+        self.addLink(s5, s6)
 
 
 topos = {"Sanren": (lambda: Sanren())}

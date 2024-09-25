@@ -48,9 +48,8 @@ from mininet.link import TCLink\n\n""")
     def convert_gml_topo(self, name, datasetDirPath, topologyDirPath):
 
         name = os.path.splitext(name)[0]
-        print(name)
 
-        graph = nx.read_gml(op.join(datasetDirPath, name + '.gml'))
+        graph = nx.read_gml(op.join(datasetDirPath, name + '.gml'), "id")
 
         self.init_topo(name, topologyDirPath)
 
@@ -59,13 +58,14 @@ from mininet.link import TCLink\n\n""")
             i = 0
             for node_name, properties in graph.nodes.items():
                 i += 1
+                node_name = properties['label'] + str(node_name)
                 node_name = self.format_string(node_name)
                 dpid = f"{i + 1:016x}"
-                file_topo.write(f"  {node_name} = self.addSwitch('{node_name}', dpid='{dpid}')\n")
+                file_topo.write(f"  s{i-1} = self.addSwitch('{node_name}', dpid='{dpid}')\n")
 
             file_topo.write("\n  # Adding Links\n")
             for link in graph.edges():
-                file_topo.write(f"  self.addLink({self.format_string(str(link[0]))}, {self.format_string(str(link[1]))})\n")
+                file_topo.write(f"  self.addLink(s{self.format_string(str(link[0]))}, s{self.format_string(str(link[1]))})\n")
 
             file_topo.write(f"\ntopos = {{ '{name}': (lambda: {name}()) }}")
 

@@ -10,20 +10,20 @@ class Telecomserbia(Topo):
     def __init__(self):
         Topo.__init__(self)
         # Adding Switches
-        novisad = self.addSwitch("novisad", dpid="0000000000000002")
-        belgrade = self.addSwitch("belgrade", dpid="0000000000000003")
-        kragujev = self.addSwitch("kragujev", dpid="0000000000000004")
-        nis = self.addSwitch("nis", dpid="0000000000000005")
-        krusevac = self.addSwitch("krusevac", dpid="0000000000000006")
-        podgoric = self.addSwitch("podgoric", dpid="0000000000000007")
+        s0 = self.addSwitch("novisad00", dpid="0000000000000002")
+        s1 = self.addSwitch("belgrade1", dpid="0000000000000003")
+        s2 = self.addSwitch("kragujev2", dpid="0000000000000004")
+        s3 = self.addSwitch("nis3", dpid="0000000000000005")
+        s4 = self.addSwitch("krusevac4", dpid="0000000000000006")
+        s5 = self.addSwitch("podgoric5", dpid="0000000000000007")
 
         # Adding Links
-        self.addLink(novisad, belgrade)
-        self.addLink(novisad, podgoric)
-        self.addLink(belgrade, kragujev)
-        self.addLink(kragujev, nis)
-        self.addLink(nis, krusevac)
-        self.addLink(krusevac, podgoric)
+        self.addLink(s0, s1)
+        self.addLink(s0, s5)
+        self.addLink(s1, s2)
+        self.addLink(s2, s3)
+        self.addLink(s3, s4)
+        self.addLink(s4, s5)
 
 
 topos = {"Telecomserbia": (lambda: Telecomserbia())}

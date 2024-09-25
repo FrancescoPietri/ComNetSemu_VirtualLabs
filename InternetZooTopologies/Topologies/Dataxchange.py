@@ -10,25 +10,25 @@ class Dataxchange(Topo):
     def __init__(self):
         Topo.__init__(self)
         # Adding Switches
-        sanfranc = self.addSwitch("sanfranc", dpid="0000000000000002")
-        losangel = self.addSwitch("losangel", dpid="0000000000000003")
-        chicago = self.addSwitch("chicago", dpid="0000000000000004")
-        mclean = self.addSwitch("mclean", dpid="0000000000000005")
-        washingt = self.addSwitch("washingt", dpid="0000000000000006")
-        atlanta = self.addSwitch("atlanta", dpid="0000000000000007")
+        s0 = self.addSwitch("sanfranc0", dpid="0000000000000002")
+        s1 = self.addSwitch("losangel1", dpid="0000000000000003")
+        s2 = self.addSwitch("chicago2", dpid="0000000000000004")
+        s3 = self.addSwitch("mclean3", dpid="0000000000000005")
+        s4 = self.addSwitch("washingt4", dpid="0000000000000006")
+        s5 = self.addSwitch("atlanta5", dpid="0000000000000007")
 
         # Adding Links
-        self.addLink(sanfranc, losangel)
-        self.addLink(sanfranc, chicago)
-        self.addLink(sanfranc, washingt)
-        self.addLink(sanfranc, atlanta)
-        self.addLink(losangel, chicago)
-        self.addLink(losangel, washingt)
-        self.addLink(losangel, atlanta)
-        self.addLink(chicago, washingt)
-        self.addLink(chicago, atlanta)
-        self.addLink(mclean, washingt)
-        self.addLink(washingt, atlanta)
+        self.addLink(s0, s1)
+        self.addLink(s0, s2)
+        self.addLink(s0, s4)
+        self.addLink(s0, s5)
+        self.addLink(s1, s2)
+        self.addLink(s1, s4)
+        self.addLink(s1, s5)
+        self.addLink(s2, s4)
+        self.addLink(s2, s5)
+        self.addLink(s3, s4)
+        self.addLink(s4, s5)
 
 
 topos = {"Dataxchange": (lambda: Dataxchange())}

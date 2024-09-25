@@ -10,21 +10,21 @@ class Epoch(Topo):
     def __init__(self):
         Topo.__init__(self)
         # Adding Switches
-        paloalto = self.addSwitch("paloalto", dpid="0000000000000002")
-        losangel = self.addSwitch("losangel", dpid="0000000000000003")
-        denver = self.addSwitch("denver", dpid="0000000000000004")
-        chicago = self.addSwitch("chicago", dpid="0000000000000005")
-        vienna = self.addSwitch("vienna", dpid="0000000000000006")
-        atlanta = self.addSwitch("atlanta", dpid="0000000000000007")
+        s0 = self.addSwitch("paloalto0", dpid="0000000000000002")
+        s1 = self.addSwitch("losangel1", dpid="0000000000000003")
+        s2 = self.addSwitch("denver2", dpid="0000000000000004")
+        s3 = self.addSwitch("chicago3", dpid="0000000000000005")
+        s4 = self.addSwitch("vienna4", dpid="0000000000000006")
+        s5 = self.addSwitch("atlanta5", dpid="0000000000000007")
 
         # Adding Links
-        self.addLink(paloalto, losangel)
-        self.addLink(paloalto, denver)
-        self.addLink(paloalto, vienna)
-        self.addLink(losangel, atlanta)
-        self.addLink(denver, chicago)
-        self.addLink(chicago, vienna)
-        self.addLink(vienna, atlanta)
+        self.addLink(s0, s1)
+        self.addLink(s0, s2)
+        self.addLink(s0, s4)
+        self.addLink(s1, s5)
+        self.addLink(s2, s3)
+        self.addLink(s3, s4)
+        self.addLink(s4, s5)
 
 
 topos = {"Epoch": (lambda: Epoch())}

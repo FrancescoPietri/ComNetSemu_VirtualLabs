@@ -1,0 +1,87 @@
+#!/usr/bin/python
+from mininet.topo import Topo
+from mininet.net import Mininet
+from mininet.node import OVSKernelSwitch, RemoteController
+from mininet.cli import CLI
+from mininet.link import TCLink
+
+
+class Zamren(Topo):
+    def __init__(self):
+        Topo.__init__(self)
+        # Adding Switches
+        s0 = self.addSwitch("nwester0", dpid="0000000000000002")
+        s1 = self.addSwitch("northern1", dpid="0000000000000003")
+        s2 = self.addSwitch("easternp2", dpid="0000000000000004")
+        s3 = self.addSwitch("luapulap3", dpid="0000000000000005")
+        s4 = self.addSwitch("nrdc4", dpid="0000000000000006")
+        s5 = self.addSwitch("unzarese5", dpid="0000000000000007")
+        s6 = self.addSwitch("solwezi6", dpid="0000000000000008")
+        s7 = self.addSwitch("livingst7", dpid="0000000000000009")
+        s8 = self.addSwitch("nipa8", dpid="000000000000000a")
+        s9 = self.addSwitch("zicas9", dpid="000000000000000b")
+        s10 = self.addSwitch("gatewayr0", dpid="000000000000000c")
+        s11 = self.addSwitch("gatewayr1", dpid="000000000000000d")
+        s12 = self.addSwitch("gatewayr2", dpid="000000000000000e")
+        s13 = self.addSwitch("none13", dpid="000000000000000f")
+        s14 = self.addSwitch("none14", dpid="0000000000000010")
+        s15 = self.addSwitch("none15", dpid="0000000000000011")
+        s16 = self.addSwitch("zescots16", dpid="0000000000000012")
+        s17 = self.addSwitch("zamtelts7", dpid="0000000000000013")
+        s18 = self.addSwitch("chainama8", dpid="0000000000000014")
+        s19 = self.addSwitch("nisr19", dpid="0000000000000015")
+        s20 = self.addSwitch("mtmakulu0", dpid="0000000000000016")
+        s21 = self.addSwitch("evelynho1", dpid="0000000000000017")
+        s22 = self.addSwitch("ktc22", dpid="0000000000000018")
+        s23 = self.addSwitch("cosetco23", dpid="0000000000000019")
+        s24 = self.addSwitch("kabwetra4", dpid="000000000000001a")
+        s25 = self.addSwitch("nkrumah25", dpid="000000000000001b")
+        s26 = self.addSwitch("gatewayr6", dpid="000000000000001c")
+        s27 = self.addSwitch("southern7", dpid="000000000000001d")
+        s28 = self.addSwitch("universi8", dpid="000000000000001e")
+        s29 = self.addSwitch("mulungus9", dpid="000000000000001f")
+        s30 = self.addSwitch("copperbe0", dpid="0000000000000020")
+        s31 = self.addSwitch("kitwe31", dpid="0000000000000021")
+        s32 = self.addSwitch("kabwe32", dpid="0000000000000022")
+        s33 = self.addSwitch("lusaka33", dpid="0000000000000023")
+        s34 = self.addSwitch("gatewayr4", dpid="0000000000000024")
+        s35 = self.addSwitch("gatewayr5", dpid="0000000000000025")
+
+        # Adding Links
+        self.addLink(s0, s15)
+        self.addLink(s1, s31)
+        self.addLink(s2, s13)
+        self.addLink(s3, s15)
+        self.addLink(s4, s28)
+        self.addLink(s6, s31)
+        self.addLink(s7, s14)
+        self.addLink(s8, s28)
+        self.addLink(s9, s28)
+        self.addLink(s10, s30)
+        self.addLink(s11, s30)
+        self.addLink(s12, s30)
+        self.addLink(s13, s32)
+        self.addLink(s13, s33)
+        self.addLink(s14, s33)
+        self.addLink(s14, s27)
+        self.addLink(s15, s32)
+        self.addLink(s15, s31)
+        self.addLink(s16, s30)
+        self.addLink(s17, s30)
+        self.addLink(s18, s28)
+        self.addLink(s19, s28)
+        self.addLink(s20, s28)
+        self.addLink(s21, s28)
+        self.addLink(s22, s30)
+        self.addLink(s23, s30)
+        self.addLink(s24, s29)
+        self.addLink(s25, s29)
+        self.addLink(s26, s32)
+        self.addLink(s26, s29)
+        self.addLink(s28, s35)
+        self.addLink(s30, s34)
+        self.addLink(s31, s34)
+        self.addLink(s33, s35)
+
+
+topos = {"Zamren": (lambda: Zamren())}

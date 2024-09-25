@@ -10,19 +10,19 @@ class Mren(Topo):
     def __init__(self):
         Topo.__init__(self)
         # Adding Switches
-        bijelopo = self.addSwitch("bijelopo", dpid="0000000000000002")
-        niksic = self.addSwitch("niksic", dpid="0000000000000003")
-        podgoric = self.addSwitch("podgoric", dpid="0000000000000004")
-        njegusi = self.addSwitch("njegusi", dpid="0000000000000005")
-        kotor = self.addSwitch("kotor", dpid="0000000000000006")
-        hercegno = self.addSwitch("hercegno", dpid="0000000000000007")
+        s0 = self.addSwitch("bijelopo0", dpid="0000000000000002")
+        s1 = self.addSwitch("niksic1", dpid="0000000000000003")
+        s2 = self.addSwitch("podgoric2", dpid="0000000000000004")
+        s3 = self.addSwitch("njegusi3", dpid="0000000000000005")
+        s4 = self.addSwitch("kotor4", dpid="0000000000000006")
+        s5 = self.addSwitch("hercegno5", dpid="0000000000000007")
 
         # Adding Links
-        self.addLink(bijelopo, podgoric)
-        self.addLink(niksic, podgoric)
-        self.addLink(podgoric, njegusi)
-        self.addLink(podgoric, kotor)
-        self.addLink(podgoric, hercegno)
+        self.addLink(s0, s2)
+        self.addLink(s1, s2)
+        self.addLink(s2, s3)
+        self.addLink(s2, s4)
+        self.addLink(s2, s5)
 
 
 topos = {"Mren": (lambda: Mren())}

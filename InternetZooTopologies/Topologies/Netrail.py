@@ -10,25 +10,25 @@ class Netrail(Topo):
     def __init__(self):
         Topo.__init__(self)
         # Adding Switches
-        paloalto = self.addSwitch("paloalto", dpid="0000000000000002")
-        chicago = self.addSwitch("chicago", dpid="0000000000000003")
-        newyork = self.addSwitch("newyork", dpid="0000000000000004")
-        baltimor = self.addSwitch("baltimor", dpid="0000000000000005")
-        washingt = self.addSwitch("washingt", dpid="0000000000000006")
-        miami = self.addSwitch("miami", dpid="0000000000000007")
-        atlanta = self.addSwitch("atlanta", dpid="0000000000000008")
+        s0 = self.addSwitch("paloalto0", dpid="0000000000000002")
+        s1 = self.addSwitch("chicago1", dpid="0000000000000003")
+        s2 = self.addSwitch("newyork22", dpid="0000000000000004")
+        s3 = self.addSwitch("baltimor3", dpid="0000000000000005")
+        s4 = self.addSwitch("washingt4", dpid="0000000000000006")
+        s5 = self.addSwitch("miami5", dpid="0000000000000007")
+        s6 = self.addSwitch("atlanta6", dpid="0000000000000008")
 
         # Adding Links
-        self.addLink(paloalto, washingt)
-        self.addLink(paloalto, atlanta)
-        self.addLink(chicago, newyork)
-        self.addLink(chicago, atlanta)
-        self.addLink(newyork, baltimor)
-        self.addLink(newyork, washingt)
-        self.addLink(baltimor, washingt)
-        self.addLink(washingt, miami)
-        self.addLink(washingt, atlanta)
-        self.addLink(miami, atlanta)
+        self.addLink(s0, s4)
+        self.addLink(s0, s6)
+        self.addLink(s1, s2)
+        self.addLink(s1, s6)
+        self.addLink(s2, s3)
+        self.addLink(s2, s4)
+        self.addLink(s3, s4)
+        self.addLink(s4, s5)
+        self.addLink(s4, s6)
+        self.addLink(s5, s6)
 
 
 topos = {"Netrail": (lambda: Netrail())}
