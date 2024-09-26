@@ -30,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Bordeaux"
+    label "0"
     Country "France"
     Longitude -0.56667
     Internal 1
@@ -39,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "Pau"
+    label "1"
     Country "France"
     Longitude -0.36667
     Internal 1
@@ -48,7 +48,7 @@ graph [
   ]
   node [
     id 2
-    label "Orleans"
+    label "2"
     Country "France"
     Longitude 1.9
     Internal 1
@@ -57,7 +57,7 @@ graph [
   ]
   node [
     id 3
-    label "Limoges"
+    label "3"
     Country "France"
     Longitude 1.2578
     Internal 1
@@ -66,7 +66,7 @@ graph [
   ]
   node [
     id 4
-    label "Clermont-Ferrand"
+    label "4"
     Country "France"
     Longitude 3.08333
     Internal 1
@@ -75,7 +75,7 @@ graph [
   ]
   node [
     id 5
-    label "Dijon"
+    label "5"
     Country "France"
     Longitude 5.01667
     Internal 1
@@ -84,7 +84,7 @@ graph [
   ]
   node [
     id 6
-    label "Toulouse"
+    label "6"
     Country "France"
     Longitude 1.44367
     Internal 1
@@ -93,7 +93,7 @@ graph [
   ]
   node [
     id 7
-    label "Montpellier"
+    label "7"
     Country "France"
     Longitude 3.88333
     Internal 1
@@ -102,7 +102,7 @@ graph [
   ]
   node [
     id 8
-    label "Besancon"
+    label "8"
     Country "France"
     Longitude 6.03333
     Internal 1
@@ -111,7 +111,7 @@ graph [
   ]
   node [
     id 9
-    label "Grenoble"
+    label "9"
     Country "France"
     Longitude 5.71667
     Internal 1
@@ -120,7 +120,7 @@ graph [
   ]
   node [
     id 10
-    label "Lannion"
+    label "10"
     Country "France"
     Longitude -3.46667
     Internal 1
@@ -129,7 +129,7 @@ graph [
   ]
   node [
     id 11
-    label "Brest"
+    label "11"
     Country "France"
     Longitude -4.48333
     Internal 1
@@ -138,7 +138,7 @@ graph [
   ]
   node [
     id 12
-    label "Le Mans"
+    label "12"
     Country "France"
     Longitude 0.2
     Internal 1
@@ -147,7 +147,7 @@ graph [
   ]
   node [
     id 13
-    label "Tours"
+    label "13"
     Country "France"
     Longitude 0.68333
     Internal 1
@@ -156,7 +156,7 @@ graph [
   ]
   node [
     id 14
-    label "Vierzon"
+    label "14"
     Country "France"
     Longitude 2.08333
     Internal 1
@@ -165,7 +165,7 @@ graph [
   ]
   node [
     id 15
-    label "Geneve"
+    label "15"
     Country "Switzerland"
     Longitude 6.46906
     Internal 1
@@ -174,7 +174,7 @@ graph [
   ]
   node [
     id 16
-    label "Vannes"
+    label "16"
     Country "France"
     Longitude -2.75
     Internal 1
@@ -183,7 +183,7 @@ graph [
   ]
   node [
     id 17
-    label "Loreient"
+    label "17"
     Country "France"
     Longitude -3.36667
     Internal 1
@@ -192,7 +192,7 @@ graph [
   ]
   node [
     id 18
-    label "Quimper"
+    label "18"
     Country "France"
     Longitude -4.1
     Internal 1
@@ -201,7 +201,7 @@ graph [
   ]
   node [
     id 19
-    label "Saint-Brieuc"
+    label "19"
     Country "France"
     Longitude -2.78333
     Internal 1
@@ -210,23 +210,23 @@ graph [
   ]
   node [
     id 20
-    label "None"
+    label "20"
     hyperedge 1
     Internal 1
   ]
   node [
     id 21
-    label "Outre Mer: Nouvelle Caledonie, Polynesie Francaise, La Reunion"
+    label "21"
     Internal 0
   ]
   node [
     id 22
-    label "Mayotte, Guadeloupe, Martinique, Guyane"
+    label "22"
     Internal 0
   ]
   node [
     id 23
-    label "Angers"
+    label "23"
     Country "France"
     Longitude -0.55
     Internal 1
@@ -235,12 +235,12 @@ graph [
   ]
   node [
     id 24
-    label "Geant2"
+    label "24"
     Internal 0
   ]
   node [
     id 25
-    label "Corte"
+    label "25"
     Country "France"
     Longitude 9.15
     Internal 1
@@ -249,7 +249,7 @@ graph [
   ]
   node [
     id 26
-    label "Cadarache"
+    label "26"
     Country "France"
     Longitude 5.75
     Internal 1
@@ -258,7 +258,7 @@ graph [
   ]
   node [
     id 27
-    label "Marseille"
+    label "27"
     Country "France"
     Longitude 5.4
     Internal 1
@@ -267,7 +267,7 @@ graph [
   ]
   node [
     id 28
-    label "Nice"
+    label "28"
     Country "France"
     Longitude 7.26608
     Internal 1
@@ -276,17 +276,17 @@ graph [
   ]
   node [
     id 29
-    label "SFINX"
+    label "29"
     Internal 0
   ]
   node [
     id 30
-    label "Internet mondial"
+    label "30"
     Internal 0
   ]
   node [
     id 31
-    label "Lyon"
+    label "31"
     Country "France"
     Longitude 4.85
     Internal 1
@@ -295,7 +295,7 @@ graph [
   ]
   node [
     id 32
-    label "Paris"
+    label "32"
     Country "France"
     Longitude 2.3488
     Internal 1
@@ -304,7 +304,7 @@ graph [
   ]
   node [
     id 33
-    label "Nantes"
+    label "33"
     Country "France"
     Longitude -1.55336
     Internal 1
@@ -313,7 +313,7 @@ graph [
   ]
   node [
     id 34
-    label "Poiters"
+    label "34"
     Country "France"
     Longitude 0.33333
     Internal 1
@@ -322,7 +322,7 @@ graph [
   ]
   node [
     id 35
-    label "Strasbourg"
+    label "35"
     Country "France"
     Longitude 7.75
     Internal 1
@@ -331,7 +331,7 @@ graph [
   ]
   node [
     id 36
-    label "Nancy"
+    label "36"
     Country "France"
     Longitude 6.2
     Internal 1
@@ -340,7 +340,7 @@ graph [
   ]
   node [
     id 37
-    label "Reims"
+    label "37"
     Country "France"
     Longitude 4.03333
     Internal 1
@@ -349,7 +349,7 @@ graph [
   ]
   node [
     id 38
-    label "Compiegne"
+    label "38"
     Country "France"
     Longitude 2.82606
     Internal 1
@@ -358,7 +358,7 @@ graph [
   ]
   node [
     id 39
-    label "Lille"
+    label "39"
     Country "France"
     Longitude 3.06667
     Internal 1
@@ -367,7 +367,7 @@ graph [
   ]
   node [
     id 40
-    label "Rouen"
+    label "40"
     Country "France"
     Longitude 1.09932
     Internal 1
@@ -376,7 +376,7 @@ graph [
   ]
   node [
     id 41
-    label "Caen"
+    label "41"
     Country "France"
     Longitude -0.35912
     Internal 1
@@ -385,7 +385,7 @@ graph [
   ]
   node [
     id 42
-    label "Rennes"
+    label "42"
     Country "France"
     Longitude -1.68333
     Internal 1

@@ -29,23 +29,23 @@ graph [
   Testbed 0
   node [
     id 0
-    label "None"
+    label "0"
     hyperedge 1
     Internal 1
   ]
   node [
     id 1
-    label "Lithuania"
+    label "1"
     Internal 0
   ]
   node [
     id 2
-    label "Russia"
+    label "2"
     Internal 0
   ]
   node [
     id 3
-    label "Olsztyn"
+    label "3"
     Country "Poland"
     Longitude 20.48333
     Internal 1
@@ -53,7 +53,7 @@ graph [
   ]
   node [
     id 4
-    label "Bialystok"
+    label "4"
     Country "Poland"
     Longitude 23.15
     Internal 1
@@ -61,7 +61,7 @@ graph [
   ]
   node [
     id 5
-    label "warszawa"
+    label "5"
     Country "Poland"
     Longitude 21.01178
     Internal 1
@@ -69,18 +69,18 @@ graph [
   ]
   node [
     id 6
-    label "None"
+    label "6"
     hyperedge 1
     Internal 1
   ]
   node [
     id 7
-    label "Belarus"
+    label "7"
     Internal 0
   ]
   node [
     id 8
-    label "Radom"
+    label "8"
     Country "Poland"
     Longitude 21.14714
     Internal 1
@@ -88,18 +88,18 @@ graph [
   ]
   node [
     id 9
-    label "None"
+    label "9"
     hyperedge 1
     Internal 1
   ]
   node [
     id 10
-    label "Czech Republic"
+    label "10"
     Internal 0
   ]
   node [
     id 11
-    label "Czechtochowa"
+    label "11"
     Country "Poland"
     Longitude 19.12409
     Internal 1
@@ -107,7 +107,7 @@ graph [
   ]
   node [
     id 12
-    label "Gliwice"
+    label "12"
     Country "Poland"
     Longitude 18.66667
     Internal 1
@@ -115,7 +115,7 @@ graph [
   ]
   node [
     id 13
-    label "Opole"
+    label "13"
     Country "Poland"
     Longitude 17.95
     Internal 1
@@ -123,7 +123,7 @@ graph [
   ]
   node [
     id 14
-    label "Wroclaw"
+    label "14"
     Country "Poland"
     Longitude 17.03333
     Internal 1
@@ -131,29 +131,29 @@ graph [
   ]
   node [
     id 15
-    label "GEANT2"
+    label "15"
     Internal 0
   ]
   node [
     id 16
-    label "Slovenia"
+    label "16"
     Internal 0
   ]
   node [
     id 17
-    label "None"
+    label "17"
     hyperedge 1
     Internal 1
   ]
   node [
     id 18
-    label "None"
+    label "18"
     hyperedge 1
     Internal 1
   ]
   node [
     id 19
-    label "Lublin"
+    label "19"
     Country "Poland"
     Longitude 22.56667
     Internal 1
@@ -161,7 +161,7 @@ graph [
   ]
   node [
     id 20
-    label "Pulawy"
+    label "20"
     Country "Poland"
     Longitude 21.96939
     Internal 1
@@ -169,7 +169,7 @@ graph [
   ]
   node [
     id 21
-    label "Lodz"
+    label "21"
     Country "Poland"
     Longitude 19.46667
     Internal 1
@@ -177,7 +177,7 @@ graph [
   ]
   node [
     id 22
-    label "Krakow"
+    label "22"
     Country "Poland"
     Longitude 19.91667
     Internal 1
@@ -185,7 +185,7 @@ graph [
   ]
   node [
     id 23
-    label "Kielce"
+    label "23"
     Country "Poland"
     Longitude 20.62752
     Internal 1
@@ -193,7 +193,7 @@ graph [
   ]
   node [
     id 24
-    label "Rzeszow"
+    label "24"
     Country "Poland"
     Longitude 21.99901
     Internal 1
@@ -201,12 +201,12 @@ graph [
   ]
   node [
     id 25
-    label "Ukraine"
+    label "25"
     Internal 0
   ]
   node [
     id 26
-    label "Torun"
+    label "26"
     Country "Poland"
     Longitude 18.59814
     Internal 1
@@ -214,13 +214,13 @@ graph [
   ]
   node [
     id 27
-    label "None"
+    label "27"
     hyperedge 1
     Internal 1
   ]
   node [
     id 28
-    label "Gdansk"
+    label "28"
     Country "Poland"
     Longitude 18.64637
     Internal 1
@@ -228,7 +228,7 @@ graph [
   ]
   node [
     id 29
-    label "Koszalin"
+    label "29"
     Country "Poland"
     Longitude 16.17222
     Internal 1
@@ -236,7 +236,7 @@ graph [
   ]
   node [
     id 30
-    label "Szczecin"
+    label "30"
     Country "Poland"
     Longitude 14.55302
     Internal 1
@@ -244,18 +244,18 @@ graph [
   ]
   node [
     id 31
-    label "None"
+    label "31"
     hyperedge 1
     Internal 1
   ]
   node [
     id 32
-    label "Germany"
+    label "32"
     Internal 0
   ]
   node [
     id 33
-    label "Zielona gora"
+    label "33"
     Country "Poland"
     Longitude 15.50643
     Internal 1
@@ -263,7 +263,7 @@ graph [
   ]
   node [
     id 34
-    label "Poznan"
+    label "34"
     Country "Poland"
     Longitude 16.96667
     Internal 1
@@ -271,7 +271,7 @@ graph [
   ]
   node [
     id 35
-    label "Bydgoszcz"
+    label "35"
     Country "Poland"
     Longitude 18.00762
     Internal 1

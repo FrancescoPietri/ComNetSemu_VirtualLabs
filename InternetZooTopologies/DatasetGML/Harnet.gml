@@ -29,108 +29,108 @@ graph [
   Testbed 0
   node [
     id 0
-    label "ASGCNET"
+    label "0"
     Internal 0
   ]
   node [
     id 1
-    label "KREPNET2"
+    label "1"
     Internal 0
   ]
   node [
     id 2
-    label "HKIX"
+    label "2"
     Internal 1
     type "IX"
   ]
   node [
     id 3
-    label "APAN-JP"
+    label "3"
     Internal 0
   ]
   node [
     id 4
-    label "International"
+    label "4"
     Internal 0
   ]
   node [
     id 5
-    label "CERNET"
+    label "5"
     Internal 0
   ]
   node [
     id 6
-    label "ASNET"
+    label "6"
     Internal 0
   ]
   node [
     id 7
-    label "GOOGLE"
+    label "7"
     Internal 0
   ]
   node [
     id 8
-    label "TEIN3"
+    label "8"
     Internal 0
   ]
   node [
     id 9
-    label "Vocational Training Council"
+    label "9"
     Internal 0
   ]
   node [
     id 10
-    label "HKEAA"
+    label "10"
     Internal 0
   ]
   node [
     id 11
-    label "Open Uni"
+    label "11"
     Internal 0
   ]
   node [
     id 12
-    label "Technology Park"
+    label "12"
     Internal 0
   ]
   node [
     id 13
-    label "LU"
+    label "13"
     Internal 1
   ]
   node [
     id 14
-    label "HKIEd"
+    label "14"
     Internal 1
   ]
   node [
     id 15
-    label "HKU"
+    label "15"
     Internal 1
   ]
   node [
     id 16
-    label "HKUST"
+    label "16"
     Internal 1
   ]
   node [
     id 17
-    label "PolyU"
+    label "17"
     Internal 1
   ]
   node [
     id 18
-    label "CUHK"
+    label "18"
     Internal 1
   ]
   node [
     id 19
-    label "CityU"
+    label "19"
     Internal 1
   ]
   node [
     id 20
-    label "HKBU"
+    label "20"
     Internal 1
   ]
   edge [
@@ -237,18 +237,6 @@ graph [
   edge [
     source 15
     target 17
-    LinkType "Fiber"
-    LinkLabel "fiber"
-  ]
-  edge [
-    source 15
-    target 17
-    LinkType "Fiber"
-    LinkLabel "fiber"
-  ]
-  edge [
-    source 16
-    target 18
     LinkType "Fiber"
     LinkLabel "fiber"
   ]

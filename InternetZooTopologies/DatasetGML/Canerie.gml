@@ -30,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Thunder Bay"
+    label "0"
     Country "Canada"
     Longitude -89.31683
     Internal 1
@@ -38,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "Chicago"
+    label "1"
     Country "United States"
     Longitude -87.65005
     Internal 1
@@ -46,7 +46,7 @@ graph [
   ]
   node [
     id 2
-    label "Regina"
+    label "2"
     Country "Canada"
     Longitude -104.6178
     Internal 1
@@ -54,7 +54,7 @@ graph [
   ]
   node [
     id 3
-    label "Winnipeg"
+    label "3"
     Country "Canada"
     Longitude -97.14704
     Internal 1
@@ -62,7 +62,7 @@ graph [
   ]
   node [
     id 4
-    label "Ottawa"
+    label "4"
     Country "Canada"
     Longitude -75.69812
     Internal 1
@@ -70,7 +70,7 @@ graph [
   ]
   node [
     id 5
-    label "Montreal"
+    label "5"
     Country "Canada"
     Longitude -73.58781
     Internal 1
@@ -78,7 +78,7 @@ graph [
   ]
   node [
     id 6
-    label "Windsor/Detroit"
+    label "6"
     Country "United States"
     Longitude -83.04575
     Internal 1
@@ -86,7 +86,7 @@ graph [
   ]
   node [
     id 7
-    label "Toronto"
+    label "7"
     Country "Canada"
     Longitude -79.4163
     Internal 1
@@ -94,7 +94,7 @@ graph [
   ]
   node [
     id 8
-    label "Fredericton"
+    label "8"
     Country "Canada"
     Longitude -66.66558
     Internal 1
@@ -102,7 +102,7 @@ graph [
   ]
   node [
     id 9
-    label "Charlottetown"
+    label "9"
     Country "Canada"
     Longitude -63.12671
     Internal 1
@@ -110,12 +110,12 @@ graph [
   ]
   node [
     id 10
-    label "Asie-Pacifique"
+    label "10"
     Internal 0
   ]
   node [
     id 11
-    label "Boston"
+    label "11"
     Country "United States"
     Longitude -71.05977
     Internal 1
@@ -123,22 +123,22 @@ graph [
   ]
   node [
     id 12
-    label "Asia-Pacific"
+    label "12"
     Internal 0
   ]
   node [
     id 13
-    label "Amerique du Nord et Amerique du Sud"
+    label "13"
     Internal 0
   ]
   node [
     id 14
-    label "Europe"
+    label "14"
     Internal 0
   ]
   node [
     id 15
-    label "New York"
+    label "15"
     Country "United States"
     Longitude -74.00597
     Internal 1
@@ -146,7 +146,7 @@ graph [
   ]
   node [
     id 16
-    label "St John's"
+    label "16"
     Country "Canada"
     Longitude -52.70931
     Internal 1
@@ -154,7 +154,7 @@ graph [
   ]
   node [
     id 17
-    label "Halifax"
+    label "17"
     Country "Canada"
     Longitude -63.57333
     Internal 1
@@ -162,27 +162,27 @@ graph [
   ]
   node [
     id 18
-    label "North and South America"
+    label "18"
     Internal 0
   ]
   node [
     id 19
-    label "Europe and other countries"
+    label "19"
     Internal 0
   ]
   node [
     id 20
-    label "Europe et autres pays"
+    label "20"
     Internal 0
   ]
   node [
     id 21
-    label "Europe and other countries"
+    label "21"
     Internal 0
   ]
   node [
     id 22
-    label "Calgary"
+    label "22"
     Country "Canada"
     Longitude -114.08529
     Internal 1
@@ -190,7 +190,7 @@ graph [
   ]
   node [
     id 23
-    label "Saskatoon"
+    label "23"
     Country "Canada"
     Longitude -106.63452
     Internal 1
@@ -198,7 +198,7 @@ graph [
   ]
   node [
     id 24
-    label "Whitehorse"
+    label "24"
     Country "Canada"
     Longitude -135.05375
     Internal 1
@@ -206,7 +206,7 @@ graph [
   ]
   node [
     id 25
-    label "Yellowknife"
+    label "25"
     Country "Canada"
     Longitude -114.35255
     Internal 1
@@ -214,7 +214,7 @@ graph [
   ]
   node [
     id 26
-    label "Edmonton"
+    label "26"
     Country "Canada"
     Longitude -113.46871
     Internal 1
@@ -222,7 +222,7 @@ graph [
   ]
   node [
     id 27
-    label "Kamloops"
+    label "27"
     Country "Canada"
     Longitude -120.3192
     Internal 1
@@ -230,7 +230,7 @@ graph [
   ]
   node [
     id 28
-    label "Kelowna"
+    label "28"
     Country "Canada"
     Longitude -119.48568
     Internal 1
@@ -238,7 +238,7 @@ graph [
   ]
   node [
     id 29
-    label "Vancouver"
+    label "29"
     Country "Canada"
     Longitude -123.11934
     Internal 1
@@ -246,7 +246,7 @@ graph [
   ]
   node [
     id 30
-    label "Victoria"
+    label "30"
     Country "Canada"
     Longitude -123.3693
     Internal 1
@@ -254,7 +254,7 @@ graph [
   ]
   node [
     id 31
-    label "Seattle"
+    label "31"
     Country "United States"
     Longitude -122.33207
     Internal 1

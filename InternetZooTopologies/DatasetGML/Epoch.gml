@@ -30,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Palo Alto"
+    label "0"
     Country "United States"
     Longitude -122.14302
     Internal 1
@@ -38,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "Los Angeles"
+    label "1"
     Country "United States"
     Longitude -118.24368
     Internal 1
@@ -46,7 +46,7 @@ graph [
   ]
   node [
     id 2
-    label "Denver"
+    label "2"
     Country "United States"
     Longitude -104.9847
     Internal 1
@@ -54,7 +54,7 @@ graph [
   ]
   node [
     id 3
-    label "Chicago"
+    label "3"
     Country "United States"
     Longitude -87.65005
     Internal 1
@@ -62,7 +62,7 @@ graph [
   ]
   node [
     id 4
-    label "Vienna"
+    label "4"
     Country "United States"
     Longitude -77.26526
     Internal 1
@@ -70,7 +70,7 @@ graph [
   ]
   node [
     id 5
-    label "Atlanta"
+    label "5"
     Country "United States"
     Longitude -84.38798
     Internal 1

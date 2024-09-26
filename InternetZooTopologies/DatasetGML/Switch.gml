@@ -30,51 +30,51 @@ graph [
   Testbed 0
   node [
     id 0
-    label "None"
+    label "0"
     hyperedge 1
     Internal 1
   ]
   node [
     id 1
-    label "None"
+    label "1"
     hyperedge 1
     Internal 1
   ]
   node [
     id 2
-    label "None"
+    label "2"
     hyperedge 1
     Internal 1
   ]
   node [
     id 3
-    label "None"
+    label "3"
     hyperedge 1
     Internal 1
   ]
   node [
     id 4
-    label "GLBX"
+    label "4"
     Internal 0
   ]
   node [
     id 5
-    label "CIXP"
+    label "5"
     Internal 0
   ]
   node [
     id 6
-    label "CBF Link GARR Lightpath"
+    label "6"
     Internal 0
   ]
   node [
     id 7
-    label "Swisscom"
+    label "7"
     Internal 0
   ]
   node [
     id 8
-    label "UniNE"
+    label "8"
     Country "Switzerland"
     Longitude 6.931
     Internal 1
@@ -82,7 +82,7 @@ graph [
   ]
   node [
     id 9
-    label "SNF"
+    label "9"
     Country "Switzerland"
     Longitude 7.44744
     Internal 1
@@ -90,17 +90,17 @@ graph [
   ]
   node [
     id 10
-    label "AMS-IX"
+    label "10"
     Internal 0
   ]
   node [
     id 11
-    label "GEANT2"
+    label "11"
     Internal 0
   ]
   node [
     id 12
-    label "CSCS TI-EDU"
+    label "12"
     Country "Switzerland"
     Longitude 8.91892
     Internal 1
@@ -108,7 +108,7 @@ graph [
   ]
   node [
     id 13
-    label "Jungfraujoch"
+    label "13"
     Country "Switzerland"
     Longitude 7.98831
     Internal 1
@@ -117,7 +117,7 @@ graph [
   ]
   node [
     id 14
-    label "HEIG-VD"
+    label "14"
     Country "Switzerland"
     Longitude 6.64115
     Internal 1
@@ -125,7 +125,7 @@ graph [
   ]
   node [
     id 15
-    label "VSNet"
+    label "15"
     Country "Switzerland"
     Longitude 7.98333
     Internal 1
@@ -133,7 +133,7 @@ graph [
   ]
   node [
     id 16
-    label "IBM"
+    label "16"
     Country "Switzerland"
     Longitude 6.14569
     Internal 1
@@ -141,7 +141,7 @@ graph [
   ]
   node [
     id 17
-    label "UniGE"
+    label "17"
     Country "Switzerland"
     Longitude 6.14569
     Internal 1
@@ -149,49 +149,49 @@ graph [
   ]
   node [
     id 18
-    label "None"
+    label "18"
     hyperedge 1
     Internal 1
   ]
   node [
     id 19
-    label "None"
+    label "19"
     hyperedge 1
     Internal 1
   ]
   node [
     id 20
-    label "None"
+    label "20"
     hyperedge 1
     Internal 1
   ]
   node [
     id 21
-    label "None"
+    label "21"
     hyperedge 1
     Internal 1
   ]
   node [
     id 22
-    label "None"
+    label "22"
     hyperedge 1
     Internal 1
   ]
   node [
     id 23
-    label "None"
+    label "23"
     hyperedge 1
     Internal 1
   ]
   node [
     id 24
-    label "None"
+    label "24"
     hyperedge 1
     Internal 1
   ]
   node [
     id 25
-    label "HSLU"
+    label "25"
     Country "Switzerland"
     Longitude 8.30635
     Internal 1
@@ -199,7 +199,7 @@ graph [
   ]
   node [
     id 26
-    label "UniFR"
+    label "26"
     Country "Switzerland"
     Longitude 7.15128
     Internal 1
@@ -207,12 +207,12 @@ graph [
   ]
   node [
     id 27
-    label "GEANT2 Lightpaths"
+    label "27"
     Internal 0
   ]
   node [
     id 28
-    label "UniSG"
+    label "28"
     Country "Switzerland"
     Longitude 9.37477
     Internal 1
@@ -220,7 +220,7 @@ graph [
   ]
   node [
     id 29
-    label "UniBE"
+    label "29"
     Country "Switzerland"
     Longitude 7.44744
     Internal 1
@@ -228,7 +228,7 @@ graph [
   ]
   node [
     id 30
-    label "HFT-SO"
+    label "30"
     Country "Switzerland"
     Longitude 7.39586
     Internal 1
@@ -236,7 +236,7 @@ graph [
   ]
   node [
     id 31
-    label "ETH-Rat"
+    label "31"
     Country "Switzerland"
     Longitude 7.44744
     Internal 1
@@ -244,7 +244,7 @@ graph [
   ]
   node [
     id 32
-    label "PMOD"
+    label "32"
     Country "Switzerland"
     Longitude 9.83723
     Internal 1
@@ -252,7 +252,7 @@ graph [
   ]
   node [
     id 33
-    label "EHL"
+    label "33"
     Country "Switzerland"
     Longitude 6.63282
     Internal 1
@@ -260,7 +260,7 @@ graph [
   ]
   node [
     id 34
-    label "HSR"
+    label "34"
     Country "Switzerland"
     Longitude 8.82228
     Internal 1
@@ -268,7 +268,7 @@ graph [
   ]
   node [
     id 35
-    label "ENSI"
+    label "35"
     Country "Switzerland"
     Longitude 7.27887
     Internal 1
@@ -276,7 +276,7 @@ graph [
   ]
   node [
     id 36
-    label "PSI"
+    label "36"
     Country "Switzerland"
     Longitude 8.25666
     Internal 1
@@ -284,7 +284,7 @@ graph [
   ]
   node [
     id 37
-    label "UniBAS"
+    label "37"
     Country "Switzerland"
     Longitude 7.57327
     Internal 1
@@ -292,7 +292,7 @@ graph [
   ]
   node [
     id 38
-    label "BSSE"
+    label "38"
     Country "Switzerland"
     Longitude 7.57327
     Internal 1
@@ -300,7 +300,7 @@ graph [
   ]
   node [
     id 39
-    label "HES-SO"
+    label "39"
     Country "Switzerland"
     Longitude 7.34453
     Internal 1
@@ -308,7 +308,7 @@ graph [
   ]
   node [
     id 40
-    label "CERN"
+    label "40"
     Country "Switzerland"
     Longitude 6.14569
     Internal 1
@@ -316,7 +316,7 @@ graph [
   ]
   node [
     id 41
-    label "Skyguide"
+    label "41"
     Country "Switzerland"
     Longitude 6.14569
     Internal 1
@@ -324,7 +324,7 @@ graph [
   ]
   node [
     id 42
-    label "EPFL"
+    label "42"
     Country "Switzerland"
     Longitude 6.63282
     Internal 1
@@ -332,7 +332,7 @@ graph [
   ]
   node [
     id 43
-    label "UniL"
+    label "43"
     Country "Switzerland"
     Longitude 6.63282
     Internal 1
@@ -340,7 +340,7 @@ graph [
   ]
   node [
     id 44
-    label "HES-SO AvdP"
+    label "44"
     Country "Switzerland"
     Longitude 6.63282
     Internal 1
@@ -348,7 +348,7 @@ graph [
   ]
   node [
     id 45
-    label "IMD"
+    label "45"
     Country "Switzerland"
     Longitude 6.63282
     Internal 1
@@ -356,7 +356,7 @@ graph [
   ]
   node [
     id 46
-    label "EESP"
+    label "46"
     Country "Switzerland"
     Longitude 6.63282
     Internal 1
@@ -364,7 +364,7 @@ graph [
   ]
   node [
     id 47
-    label "HTW"
+    label "47"
     Country "Switzerland"
     Longitude 9.53287
     Internal 1
@@ -372,7 +372,7 @@ graph [
   ]
   node [
     id 48
-    label "EUResearch"
+    label "48"
     Country "Switzerland"
     Longitude 7.44744
     Internal 1
@@ -380,13 +380,13 @@ graph [
   ]
   node [
     id 49
-    label "None"
+    label "49"
     hyperedge 1
     Internal 1
   ]
   node [
     id 50
-    label "IWB"
+    label "50"
     Country "Switzerland"
     Longitude 7.57327
     Internal 1
@@ -394,7 +394,7 @@ graph [
   ]
   node [
     id 51
-    label "HLI"
+    label "51"
     geocode_country "Liechtenstein"
     Country "Liechtenstein"
     Longitude 9.53333
@@ -403,22 +403,22 @@ graph [
   ]
   node [
     id 52
-    label "Swisscom"
+    label "52"
     Internal 0
   ]
   node [
     id 53
-    label "BelWu"
+    label "53"
     Internal 0
   ]
   node [
     id 54
-    label "CBF Link DFN Lightpath"
+    label "54"
     Internal 0
   ]
   node [
     id 55
-    label "NTB"
+    label "55"
     Country "Switzerland"
     Longitude 9.47794
     Internal 1
@@ -426,27 +426,27 @@ graph [
   ]
   node [
     id 56
-    label "Swissix"
+    label "56"
     Internal 0
   ]
   node [
     id 57
-    label "Swissix"
+    label "57"
     Internal 0
   ]
   node [
     id 58
-    label "Equinix"
+    label "58"
     Internal 0
   ]
   node [
     id 59
-    label "Telia"
+    label "59"
     Internal 0
   ]
   node [
     id 60
-    label "PHTG"
+    label "60"
     Country "Switzerland"
     Longitude 8.89854
     Internal 1
@@ -454,7 +454,7 @@ graph [
   ]
   node [
     id 61
-    label "RERO"
+    label "61"
     Country "Switzerland"
     Longitude 7.07245
     Internal 1
@@ -462,7 +462,7 @@ graph [
   ]
   node [
     id 62
-    label "FHSG"
+    label "62"
     Country "Switzerland"
     Longitude 9.37477
     Internal 1
@@ -470,7 +470,7 @@ graph [
   ]
   node [
     id 63
-    label "SLF"
+    label "63"
     Country "Switzerland"
     Longitude 9.83723
     Internal 1
@@ -478,7 +478,7 @@ graph [
   ]
   node [
     id 64
-    label "Equinix"
+    label "64"
     Country "Switzerland"
     Longitude 8.55
     Internal 1
@@ -486,13 +486,13 @@ graph [
   ]
   node [
     id 65
-    label "None"
+    label "65"
     hyperedge 1
     Internal 1
   ]
   node [
     id 66
-    label "ZHAW"
+    label "66"
     Country "Switzerland"
     Longitude 8.75
     Internal 1
@@ -500,7 +500,7 @@ graph [
   ]
   node [
     id 67
-    label "meteoGH"
+    label "67"
     Country "Switzerland"
     Longitude 8.55
     Internal 1
@@ -508,7 +508,7 @@ graph [
   ]
   node [
     id 68
-    label "NAZ"
+    label "68"
     Country "Switzerland"
     Longitude 8.55
     Internal 1
@@ -516,7 +516,7 @@ graph [
   ]
   node [
     id 69
-    label "UZH"
+    label "69"
     Country "Switzerland"
     Longitude 8.55
     Internal 1
@@ -524,7 +524,7 @@ graph [
   ]
   node [
     id 70
-    label "ETH"
+    label "70"
     Country "Switzerland"
     Longitude 8.55
     Internal 1
@@ -532,7 +532,7 @@ graph [
   ]
   node [
     id 71
-    label "ITIS"
+    label "71"
     Country "Switzerland"
     Longitude 8.55
     Internal 1
@@ -540,7 +540,7 @@ graph [
   ]
   node [
     id 72
-    label "IBM"
+    label "72"
     Country "Switzerland"
     Longitude 8.55
     Internal 1
@@ -548,7 +548,7 @@ graph [
   ]
   node [
     id 73
-    label "WSL"
+    label "73"
     Country "Switzerland"
     Longitude 8.44256
     Internal 1

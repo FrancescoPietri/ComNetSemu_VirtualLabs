@@ -29,7 +29,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "New York"
+    label "0"
     Country "United States"
     Longitude -74.00597
     Internal 1
@@ -37,7 +37,7 @@ graph [
   ]
   node [
     id 1
-    label "Chicago"
+    label "1"
     Country "United States"
     Longitude -87.65005
     Internal 1
@@ -45,7 +45,7 @@ graph [
   ]
   node [
     id 2
-    label "Washington DC"
+    label "2"
     Country "United States"
     Longitude -77.03637
     Internal 1
@@ -53,7 +53,7 @@ graph [
   ]
   node [
     id 3
-    label "Seattle"
+    label "3"
     Country "United States"
     Longitude -122.33207
     Internal 1
@@ -61,7 +61,7 @@ graph [
   ]
   node [
     id 4
-    label "Sunnyvale"
+    label "4"
     Country "United States"
     Longitude -122.03635
     Internal 1
@@ -69,7 +69,7 @@ graph [
   ]
   node [
     id 5
-    label "Los Angeles"
+    label "5"
     Country "United States"
     Longitude -118.24368
     Internal 1
@@ -77,7 +77,7 @@ graph [
   ]
   node [
     id 6
-    label "Denver"
+    label "6"
     Country "United States"
     Longitude -104.9847
     Internal 1
@@ -85,7 +85,7 @@ graph [
   ]
   node [
     id 7
-    label "Kansas City"
+    label "7"
     Country "United States"
     Longitude -94.62746
     Internal 1
@@ -93,7 +93,7 @@ graph [
   ]
   node [
     id 8
-    label "Houston"
+    label "8"
     Country "United States"
     Longitude -95.36327
     Internal 1
@@ -101,7 +101,7 @@ graph [
   ]
   node [
     id 9
-    label "Atlanta"
+    label "9"
     Country "United States"
     Longitude -84.38798
     Internal 1
@@ -109,7 +109,7 @@ graph [
   ]
   node [
     id 10
-    label "Indianapolis"
+    label "10"
     Country "United States"
     Longitude -86.15804
     Internal 1

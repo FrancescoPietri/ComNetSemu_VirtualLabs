@@ -30,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Karditsa"
+    label "0"
     Country "Greece"
     Longitude 21.92167
     Internal 1
@@ -39,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "Volos"
+    label "1"
     Country "Greece"
     Longitude 22.94583
     Internal 1
@@ -48,7 +48,7 @@ graph [
   ]
   node [
     id 2
-    label "Larissa"
+    label "2"
     Country "Greece"
     Longitude 22.42028
     Internal 1
@@ -57,7 +57,7 @@ graph [
   ]
   node [
     id 3
-    label "Trikala"
+    label "3"
     Country "Greece"
     Longitude 21.7675
     Internal 1
@@ -66,7 +66,7 @@ graph [
   ]
   node [
     id 4
-    label "Mytilini"
+    label "4"
     Country "Greece"
     Longitude 26.55472
     Internal 1
@@ -75,7 +75,7 @@ graph [
   ]
   node [
     id 5
-    label "Chios"
+    label "5"
     Country "Greece"
     Longitude 26.13583
     Internal 1
@@ -84,7 +84,7 @@ graph [
   ]
   node [
     id 6
-    label "Igoumenitsa"
+    label "6"
     Country "Greece"
     Longitude 20.26556
     Internal 1
@@ -93,7 +93,7 @@ graph [
   ]
   node [
     id 7
-    label "Kerkira"
+    label "7"
     Country "Greece"
     Longitude 19.91972
     Internal 1
@@ -102,7 +102,7 @@ graph [
   ]
   node [
     id 8
-    label "Ermoupoli"
+    label "8"
     Country "Greece"
     Longitude 24.94248
     Internal 1
@@ -111,7 +111,7 @@ graph [
   ]
   node [
     id 9
-    label "Mykonos"
+    label "9"
     Country "Greece"
     Longitude 25.32872
     Internal 1
@@ -120,7 +120,7 @@ graph [
   ]
   node [
     id 10
-    label "Mesologgi"
+    label "10"
     Country "Greece"
     Longitude 21.42952
     Internal 1
@@ -129,22 +129,22 @@ graph [
   ]
   node [
     id 11
-    label "AMSIX"
+    label "11"
     Internal 0
   ]
   node [
     id 12
-    label "GRIX"
+    label "12"
     Internal 0
   ]
   node [
     id 13
-    label "GEANT"
+    label "13"
     Internal 0
   ]
   node [
     id 14
-    label "Chania"
+    label "14"
     Country "Greece"
     Longitude 24.01556
     Internal 1
@@ -153,7 +153,7 @@ graph [
   ]
   node [
     id 15
-    label "Heraklio"
+    label "15"
     Country "Greece"
     Longitude 25.14341
     Internal 1
@@ -162,7 +162,7 @@ graph [
   ]
   node [
     id 16
-    label "Rethymno"
+    label "16"
     Country "Greece"
     Longitude 24.47139
     Internal 1
@@ -171,7 +171,7 @@ graph [
   ]
   node [
     id 17
-    label "Pylos"
+    label "17"
     Country "Greece"
     Longitude 21.69639
     Internal 1
@@ -180,7 +180,7 @@ graph [
   ]
   node [
     id 18
-    label "Kalamata"
+    label "18"
     Country "Greece"
     Longitude 22.11417
     Internal 1
@@ -189,7 +189,7 @@ graph [
   ]
   node [
     id 19
-    label "Halkida"
+    label "19"
     Country "Greece"
     Longitude 23.59944
     Internal 1
@@ -198,7 +198,7 @@ graph [
   ]
   node [
     id 20
-    label "Athens"
+    label "20"
     Country "Greece"
     Longitude 23.71622
     Internal 1
@@ -207,7 +207,7 @@ graph [
   ]
   node [
     id 21
-    label "Rhodos"
+    label "21"
     Country "Greece"
     Longitude 28.2225
     Internal 1
@@ -216,7 +216,7 @@ graph [
   ]
   node [
     id 22
-    label "Karlovassi"
+    label "22"
     Country "Greece"
     Longitude 26.70444
     Internal 1
@@ -225,7 +225,7 @@ graph [
   ]
   node [
     id 23
-    label "Tripoli"
+    label "23"
     Country "Greece"
     Longitude 22.37944
     Internal 1
@@ -234,7 +234,7 @@ graph [
   ]
   node [
     id 24
-    label "Patra"
+    label "24"
     Country "Greece"
     Longitude 21.73444
     Internal 1
@@ -243,7 +243,7 @@ graph [
   ]
   node [
     id 25
-    label "Kalavrita"
+    label "25"
     Country "Greece"
     Longitude 22.1125
     Internal 1
@@ -252,7 +252,7 @@ graph [
   ]
   node [
     id 26
-    label "Korinthos"
+    label "26"
     Country "Greece"
     Longitude 22.88333
     Internal 1
@@ -261,7 +261,7 @@ graph [
   ]
   node [
     id 27
-    label "Limnos"
+    label "27"
     Country "Greece"
     Longitude 25.91222
     Internal 1
@@ -270,7 +270,7 @@ graph [
   ]
   node [
     id 28
-    label "Ioannina"
+    label "28"
     Country "Greece"
     Longitude 20.85083
     Internal 1
@@ -279,7 +279,7 @@ graph [
   ]
   node [
     id 29
-    label "Serres"
+    label "29"
     Country "Greece"
     Longitude 23.54972
     Internal 1
@@ -288,7 +288,7 @@ graph [
   ]
   node [
     id 30
-    label "Thessaloniki"
+    label "30"
     Country "Greece"
     Longitude 22.94389
     Internal 1
@@ -297,7 +297,7 @@ graph [
   ]
   node [
     id 31
-    label "Edessa"
+    label "31"
     Country "Greece"
     Longitude 22.04722
     Internal 1
@@ -306,7 +306,7 @@ graph [
   ]
   node [
     id 32
-    label "Kastoria"
+    label "32"
     Country "Greece"
     Longitude 21.26667
     Internal 1
@@ -315,7 +315,7 @@ graph [
   ]
   node [
     id 33
-    label "Kavala"
+    label "33"
     Country "Greece"
     Longitude 24.40194
     Internal 1
@@ -324,7 +324,7 @@ graph [
   ]
   node [
     id 34
-    label "Xanthi"
+    label "34"
     Country "Greece"
     Longitude 24.88361
     Internal 1
@@ -333,7 +333,7 @@ graph [
   ]
   node [
     id 35
-    label "Komotini"
+    label "35"
     Country "Greece"
     Longitude 25.39639
     Internal 1
@@ -342,7 +342,7 @@ graph [
   ]
   node [
     id 36
-    label "Alexandroupoli"
+    label "36"
     Country "Greece"
     Longitude 25.87444
     Internal 1
@@ -462,28 +462,12 @@ graph [
     LinkSpeedRaw 2500000000.0
   ]
   edge [
-    source 8
-    target 15
-    LinkSpeed "1"
-    LinkLabel "1Gb/s"
-    LinkSpeedUnits "G"
-    LinkSpeedRaw 1000000000.0
-  ]
-  edge [
     source 9
     target 22
     LinkSpeed "100"
     LinkLabel "100Mb/s"
     LinkSpeedUnits "M"
     LinkSpeedRaw 100000000.0
-  ]
-  edge [
-    source 9
-    target 22
-    LinkSpeed "1"
-    LinkLabel "1Gb/s"
-    LinkSpeedUnits "G"
-    LinkSpeedRaw 1000000000.0
   ]
   edge [
     source 10
@@ -548,14 +532,6 @@ graph [
   ]
   edge [
     source 15
-    target 20
-    LinkSpeed "10"
-    LinkLabel "10Gb/s"
-    LinkSpeedUnits "G"
-    LinkSpeedRaw 10000000000.0
-  ]
-  edge [
-    source 15
     target 21
     LinkSpeed "1"
     LinkLabel "1Gb/s"
@@ -596,14 +572,6 @@ graph [
   ]
   edge [
     source 20
-    target 24
-    LinkSpeed "10"
-    LinkLabel "10Gb/s"
-    LinkSpeedUnits "G"
-    LinkSpeedRaw 10000000000.0
-  ]
-  edge [
-    source 20
     target 26
     LinkSpeed "1"
     LinkLabel "1Gb/s"
@@ -629,14 +597,6 @@ graph [
   edge [
     source 23
     target 26
-    LinkSpeed "1"
-    LinkLabel "1Gb/s"
-    LinkSpeedUnits "G"
-    LinkSpeedRaw 1000000000.0
-  ]
-  edge [
-    source 24
-    target 25
     LinkSpeed "1"
     LinkLabel "1Gb/s"
     LinkSpeedUnits "G"

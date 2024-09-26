@@ -30,13 +30,13 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Liege1 "
+    label "0"
     Internal 1
     type "One of two small nodes in same city"
   ]
   node [
     id 1
-    label "Brussels Campus"
+    label "1"
     Country "Belgium"
     Longitude 4.34878
     Internal 1
@@ -45,7 +45,7 @@ graph [
   ]
   node [
     id 2
-    label "Arlon"
+    label "2"
     Country "Belgium"
     Longitude 5.81667
     Internal 1
@@ -54,7 +54,7 @@ graph [
   ]
   node [
     id 3
-    label "Liege2"
+    label "3"
     Country "Belgium"
     Longitude 5.57178
     Internal 1
@@ -63,7 +63,7 @@ graph [
   ]
   node [
     id 4
-    label "Vilvoorde"
+    label "4"
     Country "Belgium"
     Longitude 4.40731
     Internal 1
@@ -72,7 +72,7 @@ graph [
   ]
   node [
     id 5
-    label "Leuven1"
+    label "5"
     Country "Belgium"
     Longitude 4.70093
     Internal 1
@@ -81,13 +81,13 @@ graph [
   ]
   node [
     id 6
-    label "Bruzav"
+    label "6"
     Internal 1
     type "Small Node"
   ]
   node [
     id 7
-    label "Evere"
+    label "7"
     Country "Belgium"
     Longitude 4.4
     Internal 1
@@ -96,7 +96,7 @@ graph [
   ]
   node [
     id 8
-    label "Leuven2"
+    label "8"
     Country "Belgium"
     Longitude 4.70093
     Internal 1
@@ -105,7 +105,7 @@ graph [
   ]
   node [
     id 9
-    label "Hasselt"
+    label "9"
     Country "Belgium"
     Longitude 5.33333
     Internal 1
@@ -114,13 +114,13 @@ graph [
   ]
   node [
     id 10
-    label "Brudie"
+    label "10"
     Internal 1
     type "Small Node"
   ]
   node [
     id 11
-    label "Geel"
+    label "11"
     Country "Belgium"
     Longitude 5.0
     Internal 1
@@ -129,7 +129,7 @@ graph [
   ]
   node [
     id 12
-    label "Louvain-la-Neuve"
+    label "12"
     Country "Belgium"
     Longitude 4.61443
     Internal 1
@@ -138,7 +138,7 @@ graph [
   ]
   node [
     id 13
-    label "Namur"
+    label "13"
     Country "Belgium"
     Longitude 4.82577
     Internal 1
@@ -147,7 +147,7 @@ graph [
   ]
   node [
     id 14
-    label "Brugge"
+    label "14"
     Country "Belgium"
     Longitude 3.22424
     Internal 1
@@ -156,7 +156,7 @@ graph [
   ]
   node [
     id 15
-    label "Gent1"
+    label "15"
     Country "Belgium"
     Longitude 3.71667
     Internal 1
@@ -165,7 +165,7 @@ graph [
   ]
   node [
     id 16
-    label "Gent2"
+    label "16"
     Country "Belgium"
     Longitude 3.71667
     Internal 1
@@ -174,7 +174,7 @@ graph [
   ]
   node [
     id 17
-    label "Antwerpen1"
+    label "17"
     Country "Belgium"
     Longitude 4.41667
     Internal 1
@@ -183,7 +183,7 @@ graph [
   ]
   node [
     id 18
-    label "Antwerpen2"
+    label "18"
     Country "Belgium"
     Longitude 4.41667
     Internal 1
@@ -192,7 +192,7 @@ graph [
   ]
   node [
     id 19
-    label "Korthijk"
+    label "19"
     Country "Belgium"
     Longitude 3.26487
     Internal 1
@@ -201,7 +201,7 @@ graph [
   ]
   node [
     id 20
-    label "Mons"
+    label "20"
     Country "Belgium"
     Longitude 3.95229
     Internal 1
@@ -210,17 +210,12 @@ graph [
   ]
   node [
     id 21
-    label "Charleroi"
+    label "21"
     Country "Belgium"
     Longitude 4.43333
     Internal 1
     Latitude 50.41667
     type "Small Node"
-  ]
-  edge [
-    source 0
-    target 3
-    LinkLabel "Green"
   ]
   edge [
     source 0
@@ -270,26 +265,6 @@ graph [
   edge [
     source 4
     target 7
-    LinkLabel "Grey"
-  ]
-  edge [
-    source 4
-    target 7
-    LinkLabel "Green"
-  ]
-  edge [
-    source 4
-    target 7
-    LinkLabel "Red"
-  ]
-  edge [
-    source 4
-    target 7
-    LinkLabel "Blue"
-  ]
-  edge [
-    source 5
-    target 8
     LinkLabel "Grey"
   ]
   edge [
@@ -353,18 +328,8 @@ graph [
     LinkLabel "Blue"
   ]
   edge [
-    source 15
-    target 16
-    LinkLabel "Blue"
-  ]
-  edge [
     source 16
     target 17
-    LinkLabel "Blue"
-  ]
-  edge [
-    source 17
-    target 18
     LinkLabel "Blue"
   ]
   edge [

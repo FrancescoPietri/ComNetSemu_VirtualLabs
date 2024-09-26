@@ -29,7 +29,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Spokane"
+    label "0"
     Country "United States"
     Longitude -117.42605
     Internal 1
@@ -37,7 +37,7 @@ graph [
   ]
   node [
     id 1
-    label "Coeur d'Alene"
+    label "1"
     Country "United States"
     Longitude -116.78047
     Internal 1
@@ -45,7 +45,7 @@ graph [
   ]
   node [
     id 2
-    label "Wenatchee"
+    label "2"
     Country "United States"
     Longitude -120.31035
     Internal 1
@@ -53,7 +53,7 @@ graph [
   ]
   node [
     id 3
-    label "Othello"
+    label "3"
     Country "United States"
     Longitude -119.17529
     Internal 1
@@ -61,7 +61,7 @@ graph [
   ]
   node [
     id 4
-    label "Walla Walla"
+    label "4"
     Country "United States"
     Longitude -118.34302
     Internal 1
@@ -69,7 +69,7 @@ graph [
   ]
   node [
     id 5
-    label "Pasco"
+    label "5"
     Country "United States"
     Longitude -119.10057
     Internal 1
@@ -77,7 +77,7 @@ graph [
   ]
   node [
     id 6
-    label "Pullman"
+    label "6"
     Country "United States"
     Longitude -117.17962
     Internal 1
@@ -85,7 +85,7 @@ graph [
   ]
   node [
     id 7
-    label "Lewiston"
+    label "7"
     Country "United States"
     Longitude -117.01766
     Internal 1
@@ -93,7 +93,7 @@ graph [
   ]
   node [
     id 8
-    label "Kennewick"
+    label "8"
     Country "United States"
     Longitude -119.13723
     Internal 1
@@ -101,7 +101,7 @@ graph [
   ]
   node [
     id 9
-    label "Yakima"
+    label "9"
     Country "United States"
     Longitude -120.5059
     Internal 1
@@ -109,7 +109,7 @@ graph [
   ]
   node [
     id 10
-    label "Ellensburg"
+    label "10"
     Country "United States"
     Longitude -120.54785
     Internal 1
@@ -117,7 +117,7 @@ graph [
   ]
   node [
     id 11
-    label "Vancouver"
+    label "11"
     Country "Canada"
     Longitude -123.11934
     Internal 1
@@ -125,7 +125,7 @@ graph [
   ]
   node [
     id 12
-    label "Bellingham"
+    label "12"
     Country "United States"
     Longitude -122.48822
     Internal 1
@@ -133,7 +133,7 @@ graph [
   ]
   node [
     id 13
-    label "Mt Vernon"
+    label "13"
     Country "United States"
     Longitude -122.33405
     Internal 1
@@ -141,7 +141,7 @@ graph [
   ]
   node [
     id 14
-    label "Everett"
+    label "14"
     Country "United States"
     Longitude -122.20208
     Internal 1
@@ -149,7 +149,7 @@ graph [
   ]
   node [
     id 15
-    label "Westin - Seattle"
+    label "15"
     Country "United States"
     Longitude -122.3377
     Internal 1
@@ -157,7 +157,7 @@ graph [
   ]
   node [
     id 16
-    label "Tacoma"
+    label "16"
     Country "United States"
     Longitude -122.44429
     Internal 1
@@ -165,7 +165,7 @@ graph [
   ]
   node [
     id 17
-    label "Olympia"
+    label "17"
     Country "United States"
     Longitude -122.9007
     Internal 1
@@ -173,7 +173,7 @@ graph [
   ]
   node [
     id 18
-    label "Portland"
+    label "18"
     Country "United States"
     Longitude -122.67621
     Internal 1

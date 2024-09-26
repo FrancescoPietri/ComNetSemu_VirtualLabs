@@ -30,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Gullin"
+    label "0"
     Country "China"
     Longitude 110.28639
     Internal 1
@@ -39,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "Kunming"
+    label "1"
     Country "China"
     Longitude 102.71833
     Internal 1
@@ -48,7 +48,7 @@ graph [
   ]
   node [
     id 2
-    label "Chongqing"
+    label "2"
     Country "China"
     Longitude 106.55278
     Internal 1
@@ -57,7 +57,7 @@ graph [
   ]
   node [
     id 3
-    label "Guiyang"
+    label "3"
     Country "China"
     Longitude 106.71667
     Internal 1
@@ -66,7 +66,7 @@ graph [
   ]
   node [
     id 4
-    label "Haikou"
+    label "4"
     Country "China"
     Longitude 110.34167
     Internal 1
@@ -75,7 +75,7 @@ graph [
   ]
   node [
     id 5
-    label "Xianggang"
+    label "5"
     Country "China"
     Longitude 112.82111
     Internal 1
@@ -84,7 +84,7 @@ graph [
   ]
   node [
     id 6
-    label "Nanning"
+    label "6"
     Country "China"
     Longitude 108.31667
     Internal 1
@@ -93,7 +93,7 @@ graph [
   ]
   node [
     id 7
-    label "Guangzhou"
+    label "7"
     Country "China"
     Longitude 113.25
     Internal 1
@@ -102,7 +102,7 @@ graph [
   ]
   node [
     id 8
-    label "Shenzhen"
+    label "8"
     Country "China"
     Longitude 114.0683
     Internal 1
@@ -111,7 +111,7 @@ graph [
   ]
   node [
     id 9
-    label "Xiemen"
+    label "9"
     Country "China"
     Longitude 118.08187
     Internal 1
@@ -120,17 +120,17 @@ graph [
   ]
   node [
     id 10
-    label "Japan"
+    label "10"
     Internal 0
   ]
   node [
     id 11
-    label "Europe"
+    label "11"
     Internal 0
   ]
   node [
     id 12
-    label "Shijiazhuang"
+    label "12"
     Country "China"
     Longitude 114.47861
     Internal 1
@@ -139,7 +139,7 @@ graph [
   ]
   node [
     id 13
-    label "Tianjing"
+    label "13"
     Country "China"
     Longitude 117.17667
     Internal 1
@@ -148,7 +148,7 @@ graph [
   ]
   node [
     id 14
-    label "Dalian"
+    label "14"
     Country "China"
     Longitude 121.60222
     Internal 1
@@ -157,7 +157,7 @@ graph [
   ]
   node [
     id 15
-    label "Shenyang"
+    label "15"
     Country "China"
     Longitude 123.43278
     Internal 1
@@ -166,7 +166,7 @@ graph [
   ]
   node [
     id 16
-    label "Harbin"
+    label "16"
     Country "China"
     Longitude 126.65
     Internal 1
@@ -175,7 +175,7 @@ graph [
   ]
   node [
     id 17
-    label "Chanchun"
+    label "17"
     Country "China"
     Longitude 125.32278
     Internal 1
@@ -184,17 +184,17 @@ graph [
   ]
   node [
     id 18
-    label "N.A"
+    label "18"
     Internal 0
   ]
   node [
     id 19
-    label "Korea"
+    label "19"
     Internal 0
   ]
   node [
     id 20
-    label "Hefei"
+    label "20"
     Country "China"
     Longitude 117.28083
     Internal 1
@@ -203,7 +203,7 @@ graph [
   ]
   node [
     id 21
-    label "Beijing"
+    label "21"
     Country "China"
     Longitude 116.39723
     Internal 1
@@ -212,7 +212,7 @@ graph [
   ]
   node [
     id 22
-    label "Shijiazhuang"
+    label "22"
     Country "China"
     Longitude 114.47861
     Internal 1
@@ -221,7 +221,7 @@ graph [
   ]
   node [
     id 23
-    label "Nanchang"
+    label "23"
     Country "China"
     Longitude 115.88333
     Internal 1
@@ -230,7 +230,7 @@ graph [
   ]
   node [
     id 24
-    label "Wuhan"
+    label "24"
     Country "China"
     Longitude 114.26667
     Internal 1
@@ -239,7 +239,7 @@ graph [
   ]
   node [
     id 25
-    label "Changsha"
+    label "25"
     Country "China"
     Longitude 112.96667
     Internal 1
@@ -248,7 +248,7 @@ graph [
   ]
   node [
     id 26
-    label "Fuzhou"
+    label "26"
     Country "China"
     Longitude 119.30611
     Internal 1
@@ -257,7 +257,7 @@ graph [
   ]
   node [
     id 27
-    label "Qingdao"
+    label "27"
     Country "China"
     Longitude 120.37194
     Internal 1
@@ -266,7 +266,7 @@ graph [
   ]
   node [
     id 28
-    label "Nanjing"
+    label "28"
     Country "China"
     Longitude 118.77778
     Internal 1
@@ -275,7 +275,7 @@ graph [
   ]
   node [
     id 29
-    label "Shanghai"
+    label "29"
     Country "China"
     Longitude 121.45806
     Internal 1
@@ -284,7 +284,7 @@ graph [
   ]
   node [
     id 30
-    label "Hangzhou"
+    label "30"
     Country "China"
     Longitude 120.16889
     Internal 1
@@ -293,7 +293,7 @@ graph [
   ]
   node [
     id 31
-    label "Zhengzhou"
+    label "31"
     Country "China"
     Longitude 113.64861
     Internal 1
@@ -302,7 +302,7 @@ graph [
   ]
   node [
     id 32
-    label "Chengdou"
+    label "32"
     Country "China"
     Longitude 116.97865
     Internal 1
@@ -311,7 +311,7 @@ graph [
   ]
   node [
     id 33
-    label "Urumchi"
+    label "33"
     Country "China"
     Longitude 87.58333
     Internal 1
@@ -320,7 +320,7 @@ graph [
   ]
   node [
     id 34
-    label "Lasa"
+    label "34"
     Country "China"
     Longitude 91.1
     Internal 1
@@ -329,7 +329,7 @@ graph [
   ]
   node [
     id 35
-    label "Xining"
+    label "35"
     Country "China"
     Longitude 101.76667
     Internal 1
@@ -338,7 +338,7 @@ graph [
   ]
   node [
     id 36
-    label "Lanzhou"
+    label "36"
     Country "China"
     Longitude 103.79222
     Internal 1
@@ -347,7 +347,7 @@ graph [
   ]
   node [
     id 37
-    label "Xi'an"
+    label "37"
     Country "China"
     Longitude 108.92861
     Internal 1
@@ -356,7 +356,7 @@ graph [
   ]
   node [
     id 38
-    label "Yinchuan"
+    label "38"
     Country "China"
     Longitude 106.27306
     Internal 1
@@ -365,7 +365,7 @@ graph [
   ]
   node [
     id 39
-    label "Hohhot"
+    label "39"
     Country "China"
     Longitude 111.65222
     Internal 1
@@ -374,7 +374,7 @@ graph [
   ]
   node [
     id 40
-    label "Taiyuan"
+    label "40"
     Country "China"
     Longitude 112.56028
     Internal 1
@@ -674,14 +674,6 @@ graph [
     LinkLabel "2.5G"
     LinkSpeedUnits "G"
     LinkSpeedRaw 2500000000.0
-  ]
-  edge [
-    source 21
-    target 37
-    LinkSpeed "155"
-    LinkLabel "155M"
-    LinkSpeedUnits "M"
-    LinkSpeedRaw 155000000.0
   ]
   edge [
     source 21

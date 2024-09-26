@@ -29,7 +29,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Cisco 3640 Samtredia"
+    label "0"
     Country "Georgia"
     Longitude 42.33517
     Internal 1
@@ -38,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "Cisco 2621 Batumi"
+    label "1"
     Country "Georgia"
     Longitude 41.63593
     Internal 1
@@ -47,7 +47,7 @@ graph [
   ]
   node [
     id 2
-    label "Cisco 2511 Kutaisi"
+    label "2"
     Country "Georgia"
     Longitude 42.69974
     Internal 1
@@ -56,7 +56,7 @@ graph [
   ]
   node [
     id 3
-    label "Cisco 3640 Kutaisi C04"
+    label "3"
     Country "Georgia"
     Longitude 42.69974
     Internal 1
@@ -65,7 +65,7 @@ graph [
   ]
   node [
     id 4
-    label "Cisco 3640 Poti"
+    label "4"
     Country "Georgia"
     Longitude 41.67197
     Internal 1
@@ -74,7 +74,7 @@ graph [
   ]
   node [
     id 5
-    label "Cisco 3640 Zugididi"
+    label "5"
     Country "Georgia"
     Longitude 41.87088
     Internal 1
@@ -83,7 +83,7 @@ graph [
   ]
   node [
     id 6
-    label "Cisco 3640 Khashuri"
+    label "6"
     Country "Georgia"
     Longitude 43.59994
     Internal 1
@@ -92,13 +92,13 @@ graph [
   ]
   node [
     id 7
-    label "Corecess DX6524"
+    label "7"
     Internal 1
     type "Router"
   ]
   node [
     id 8
-    label "Tbilisi GRENA Network"
+    label "8"
     Country "Georgia"
     Longitude 44.83368
     Internal 1
@@ -107,13 +107,13 @@ graph [
   ]
   node [
     id 9
-    label "Corecess DX6524"
+    label "9"
     Internal 1
     type "Router"
   ]
   node [
     id 10
-    label "Rustavi CO14"
+    label "10"
     Country "Georgia"
     Longitude 44.99323
     Internal 1
@@ -122,7 +122,7 @@ graph [
   ]
   node [
     id 11
-    label "Cisco 3640 Telavi"
+    label "11"
     Country "Georgia"
     Longitude 45.47315
     Internal 1
@@ -131,13 +131,13 @@ graph [
   ]
   node [
     id 12
-    label "Corecess DX6524"
+    label "12"
     Internal 1
     type "Router"
   ]
   node [
     id 13
-    label "Rustavi CO15"
+    label "13"
     Country "Georgia"
     Longitude 44.99323
     Internal 1
@@ -146,7 +146,7 @@ graph [
   ]
   node [
     id 14
-    label "Cisco 3640 Gori"
+    label "14"
     Country "Georgia"
     Longitude 44.11578
     Internal 1
@@ -155,7 +155,7 @@ graph [
   ]
   node [
     id 15
-    label "Cisco 3640 Kutaisi C07"
+    label "15"
     Country "Georgia"
     Longitude 42.69974
     Internal 1

@@ -29,7 +29,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Los Angeles"
+    label "0"
     Country "United States"
     Longitude -118.24368
     Internal 1
@@ -37,7 +37,7 @@ graph [
   ]
   node [
     id 1
-    label "Chennai"
+    label "1"
     Country "India"
     Longitude 80.27847
     Internal 1
@@ -45,32 +45,32 @@ graph [
   ]
   node [
     id 2
-    label "NYIX"
+    label "2"
     Internal 0
   ]
   node [
     id 3
-    label "LAIX"
+    label "3"
     Internal 0
   ]
   node [
     id 4
-    label "NiXI"
+    label "4"
     Internal 0
   ]
   node [
     id 5
-    label "LINX"
+    label "5"
     Internal 0
   ]
   node [
     id 6
-    label "EQUINOX IX"
+    label "6"
     Internal 0
   ]
   node [
     id 7
-    label "New York"
+    label "7"
     Country "United States"
     Longitude -74.00597
     Internal 1
@@ -78,7 +78,7 @@ graph [
   ]
   node [
     id 8
-    label "London"
+    label "8"
     Country "United Kingdom"
     Longitude -0.12574
     Internal 1
@@ -86,7 +86,7 @@ graph [
   ]
   node [
     id 9
-    label "Mumbai"
+    label "9"
     Country "India"
     Longitude 72.84794
     Internal 1
@@ -94,7 +94,7 @@ graph [
   ]
   node [
     id 10
-    label "Palermo"
+    label "10"
     Country "Italy"
     Longitude 13.35976
     Internal 1
@@ -102,7 +102,7 @@ graph [
   ]
   node [
     id 11
-    label "Marseille"
+    label "11"
     Country "France"
     Longitude 5.4
     Internal 1
@@ -110,12 +110,12 @@ graph [
   ]
   node [
     id 12
-    label "HKIX"
+    label "12"
     Internal 0
   ]
   node [
     id 13
-    label "Hong Kong"
+    label "13"
     Country "Hong Kong"
     Longitude 114.15769
     Internal 1
@@ -123,7 +123,7 @@ graph [
   ]
   node [
     id 14
-    label "Singapore"
+    label "14"
     Country "Singapore"
     Longitude 103.85007
     Internal 1
@@ -131,18 +131,13 @@ graph [
   ]
   node [
     id 15
-    label "STIX"
+    label "15"
     Internal 0
   ]
   edge [
     source 0
     target 1
     LinkLabel "Medium-High Bandwidth"
-  ]
-  edge [
-    source 0
-    target 1
-    LinkLabel "High Bandwidth"
   ]
   edge [
     source 0
@@ -161,21 +156,6 @@ graph [
   ]
   edge [
     source 0
-    target 14
-    LinkLabel "Medium-High Bandwidth"
-  ]
-  edge [
-    source 0
-    target 7
-    LinkLabel "Low Bandwidth"
-  ]
-  edge [
-    source 0
-    target 7
-    LinkLabel "Low Bandwidth"
-  ]
-  edge [
-    source 0
     target 7
     LinkLabel "Low Bandwidth"
   ]
@@ -183,16 +163,6 @@ graph [
     source 1
     target 7
     LinkLabel "High Bandwidth"
-  ]
-  edge [
-    source 1
-    target 7
-    LinkLabel "High Bandwidth"
-  ]
-  edge [
-    source 1
-    target 7
-    LinkLabel "Low Bandwidth"
   ]
   edge [
     source 1
@@ -218,11 +188,6 @@ graph [
     source 1
     target 13
     LinkLabel "Medium-Low Bandwidth"
-  ]
-  edge [
-    source 1
-    target 14
-    LinkLabel "High Bandwidth"
   ]
   edge [
     source 1
@@ -256,21 +221,6 @@ graph [
   ]
   edge [
     source 7
-    target 8
-    LinkLabel "Low Bandwidth"
-  ]
-  edge [
-    source 7
-    target 8
-    LinkLabel "Low Bandwidth"
-  ]
-  edge [
-    source 7
-    target 9
-    LinkLabel "Low Bandwidth"
-  ]
-  edge [
-    source 7
     target 9
     LinkLabel "Low Bandwidth"
   ]
@@ -283,11 +233,6 @@ graph [
     source 7
     target 14
     LinkLabel "Medium-Low Bandwidth"
-  ]
-  edge [
-    source 8
-    target 9
-    LinkLabel "Low Bandwidth"
   ]
   edge [
     source 8

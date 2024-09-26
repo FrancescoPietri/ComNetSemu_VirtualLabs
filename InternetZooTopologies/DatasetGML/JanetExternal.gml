@@ -29,27 +29,27 @@ graph [
   Testbed 0
   node [
     id 0
-    label "HEAnet"
+    label "0"
     Internal 0
   ]
   node [
     id 1
-    label "Europe (GEANT2)"
+    label "1"
     Internal 0
   ]
   node [
     id 2
-    label "People's Republic of China"
+    label "2"
     Internal 0
   ]
   node [
     id 3
-    label "Japan (NII)"
+    label "3"
     Internal 0
   ]
   node [
     id 4
-    label "Belfast"
+    label "4"
     Country "United Kingdom"
     Longitude -5.93333
     Internal 1
@@ -57,37 +57,37 @@ graph [
   ]
   node [
     id 5
-    label "JANET"
+    label "5"
     Internal 1
   ]
   node [
     id 6
-    label "US Research Networks ESnet"
+    label "6"
     Internal 0
   ]
   node [
     id 7
-    label "US Research Networks Abilene"
+    label "7"
     Internal 0
   ]
   node [
     id 8
-    label "LINX"
+    label "8"
     Internal 0
   ]
   node [
     id 9
-    label "UK ISPs"
+    label "9"
     Internal 0
   ]
   node [
     id 10
-    label "Private Peering with ISPs"
+    label "10"
     Internal 0
   ]
   node [
     id 11
-    label "Global Transit to the World"
+    label "11"
     Internal 0
   ]
   edge [

@@ -30,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Rolla"
+    label "0"
     geocode_append "Missouri"
     Country "United States"
     Longitude -91.77127
@@ -39,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "Sedalia"
+    label "1"
     geocode_append "Missouri"
     Country "United States"
     Longitude -93.22826
@@ -48,7 +48,7 @@ graph [
   ]
   node [
     id 2
-    label "Rogers"
+    label "2"
     geocode_append "Arkansas"
     Country "United States"
     Longitude -94.11854
@@ -57,7 +57,7 @@ graph [
   ]
   node [
     id 3
-    label "Boonville"
+    label "3"
     geocode_append "Missouri"
     Country "United States"
     Longitude -92.74324
@@ -66,7 +66,7 @@ graph [
   ]
   node [
     id 4
-    label "Bentonville"
+    label "4"
     geocode_append "Arkansas"
     Country "United States"
     Longitude -94.20882
@@ -75,7 +75,7 @@ graph [
   ]
   node [
     id 5
-    label "Waukesha"
+    label "5"
     geocode_append "Wisconsin"
     Country "United States"
     Longitude -88.23148
@@ -84,7 +84,7 @@ graph [
   ]
   node [
     id 6
-    label "Milwaukee"
+    label "6"
     geocode_append "Wisconsin"
     Country "United States"
     Longitude -87.90647
@@ -93,7 +93,7 @@ graph [
   ]
   node [
     id 7
-    label "Gary?"
+    label "7"
     geocode_append "Indiana"
     Country "United States"
     Longitude -87.34643
@@ -102,7 +102,7 @@ graph [
   ]
   node [
     id 8
-    label "Wichita Falls"
+    label "8"
     geocode_append "Texas"
     Country "United States"
     Longitude -98.49339
@@ -111,7 +111,7 @@ graph [
   ]
   node [
     id 9
-    label "Bowle"
+    label "9"
     geocode_append "Texas"
     Country "United States"
     geocode_id "7173052"
@@ -121,7 +121,7 @@ graph [
   ]
   node [
     id 10
-    label "Watersmeet"
+    label "10"
     geocode_append "Michigan"
     Country "United States"
     Longitude -89.17792
@@ -130,7 +130,7 @@ graph [
   ]
   node [
     id 11
-    label "Ironwood"
+    label "11"
     geocode_append "Michigan"
     Country "United States"
     Longitude -90.17101
@@ -139,7 +139,7 @@ graph [
   ]
   node [
     id 12
-    label "Flatonia"
+    label "12"
     geocode_append "Texas"
     Country "United States"
     Longitude -97.1086
@@ -148,7 +148,7 @@ graph [
   ]
   node [
     id 13
-    label "Marquette"
+    label "13"
     geocode_append "Michigan"
     Country "United States"
     Longitude -87.39542
@@ -157,7 +157,7 @@ graph [
   ]
   node [
     id 14
-    label "Escanaba"
+    label "14"
     geocode_append "Michigan"
     Country "United States"
     Longitude -87.06458
@@ -166,7 +166,7 @@ graph [
   ]
   node [
     id 15
-    label "Iron Mountain"
+    label "15"
     geocode_append "Michigan"
     Country "United States"
     Longitude -88.06596
@@ -175,7 +175,7 @@ graph [
   ]
   node [
     id 16
-    label "Green Bay"
+    label "16"
     geocode_append "Wisconsin"
     Country "United States"
     Longitude -88.01983
@@ -184,7 +184,7 @@ graph [
   ]
   node [
     id 17
-    label "De Pere"
+    label "17"
     geocode_append "Wisconsin"
     Country "United States"
     Longitude -88.06038
@@ -193,7 +193,7 @@ graph [
   ]
   node [
     id 18
-    label "Jeffersonville"
+    label "18"
     Country "United States"
     Longitude -85.73718
     Internal 1
@@ -201,7 +201,7 @@ graph [
   ]
   node [
     id 19
-    label "Corydon"
+    label "19"
     geocode_append "Indiana"
     Country "United States"
     Longitude -86.12192
@@ -210,7 +210,7 @@ graph [
   ]
   node [
     id 20
-    label "Alton"
+    label "20"
     geocode_append "Illinois"
     Country "United States"
     Longitude -90.18428
@@ -219,7 +219,7 @@ graph [
   ]
   node [
     id 21
-    label "Nevada"
+    label "21"
     geocode_append "Missouri"
     Country "United States"
     Longitude -94.35467
@@ -228,7 +228,7 @@ graph [
   ]
   node [
     id 22
-    label "Byron Center"
+    label "22"
     geocode_append "Michigan"
     Country "United States"
     Longitude -85.72281
@@ -237,7 +237,7 @@ graph [
   ]
   node [
     id 23
-    label "Bryan"
+    label "23"
     geocode_append "Ohio"
     Country "United States"
     Longitude -84.55245
@@ -246,7 +246,7 @@ graph [
   ]
   node [
     id 24
-    label "Shepherdsville"
+    label "24"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -85.71579
@@ -255,7 +255,7 @@ graph [
   ]
   node [
     id 25
-    label "Toledo"
+    label "25"
     geocode_append "Ohio"
     Country "United States"
     Longitude -83.55521
@@ -264,7 +264,7 @@ graph [
   ]
   node [
     id 26
-    label "Macquoketa"
+    label "26"
     Country "United States"
     Longitude -90.66569
     Internal 1
@@ -272,7 +272,7 @@ graph [
   ]
   node [
     id 27
-    label "Clinton"
+    label "27"
     Country "United States"
     Longitude -90.18874
     Internal 1
@@ -280,7 +280,7 @@ graph [
   ]
   node [
     id 28
-    label "Mayfield"
+    label "28"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -88.63672
@@ -289,7 +289,7 @@ graph [
   ]
   node [
     id 29
-    label "Benton"
+    label "29"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -88.35032
@@ -298,7 +298,7 @@ graph [
   ]
   node [
     id 30
-    label "Cedar Rapids"
+    label "30"
     Country "United States"
     Longitude -91.64407
     Internal 1
@@ -306,7 +306,7 @@ graph [
   ]
   node [
     id 31
-    label "Marengo"
+    label "31"
     Country "United States"
     Longitude -92.07074
     Internal 1
@@ -314,7 +314,7 @@ graph [
   ]
   node [
     id 32
-    label "Davenport"
+    label "32"
     Country "United States"
     Longitude -90.57764
     Internal 1
@@ -322,7 +322,7 @@ graph [
   ]
   node [
     id 33
-    label "Iowa City"
+    label "33"
     Country "United States"
     Longitude -91.53017
     Internal 1
@@ -330,7 +330,7 @@ graph [
   ]
   node [
     id 34
-    label "Clarksville"
+    label "34"
     geocode_append "Tennessee"
     Country "United States"
     Longitude -87.35945
@@ -339,7 +339,7 @@ graph [
   ]
   node [
     id 35
-    label "Dickson"
+    label "35"
     geocode_append "Tennessee"
     Country "United States"
     Longitude -87.38779
@@ -348,7 +348,7 @@ graph [
   ]
   node [
     id 36
-    label "Hopkinsville"
+    label "36"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -87.48862
@@ -357,7 +357,7 @@ graph [
   ]
   node [
     id 37
-    label "Oak Grove"
+    label "37"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -87.44279
@@ -366,7 +366,7 @@ graph [
   ]
   node [
     id 38
-    label "Rochelle"
+    label "38"
     geocode_append "Illinois"
     Country "United States"
     Longitude -89.06871
@@ -375,7 +375,7 @@ graph [
   ]
   node [
     id 39
-    label "Dixon"
+    label "39"
     geocode_append "Illinois"
     Country "United States"
     Longitude -89.47955
@@ -384,7 +384,7 @@ graph [
   ]
   node [
     id 40
-    label "Huntingdon"
+    label "40"
     geocode_append "Tennessee"
     Country "United States"
     Longitude -88.42811
@@ -393,7 +393,7 @@ graph [
   ]
   node [
     id 41
-    label "McKenzie"
+    label "41"
     geocode_append "Tennessee"
     Country "United States"
     Longitude -88.51866
@@ -402,7 +402,7 @@ graph [
   ]
   node [
     id 42
-    label "Sellersburg"
+    label "42"
     geocode_append "Indiana"
     Country "United States"
     Longitude -85.75496
@@ -411,7 +411,7 @@ graph [
   ]
   node [
     id 43
-    label "New Albany"
+    label "43"
     geocode_append "Indiana"
     Country "United States"
     Longitude -85.82413
@@ -420,7 +420,7 @@ graph [
   ]
   node [
     id 44
-    label "Morgantown"
+    label "44"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -86.6836
@@ -429,7 +429,7 @@ graph [
   ]
   node [
     id 45
-    label "Beaver Dam"
+    label "45"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -86.87583
@@ -438,7 +438,7 @@ graph [
   ]
   node [
     id 46
-    label "Leitchfield"
+    label "46"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -86.29386
@@ -447,7 +447,7 @@ graph [
   ]
   node [
     id 47
-    label "Central City"
+    label "47"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -87.12333
@@ -456,7 +456,7 @@ graph [
   ]
   node [
     id 48
-    label "Evansville"
+    label "48"
     geocode_append "Indiana"
     Country "United States"
     Longitude -87.55585
@@ -465,7 +465,7 @@ graph [
   ]
   node [
     id 49
-    label "Owensboro"
+    label "49"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -87.11333
@@ -474,7 +474,7 @@ graph [
   ]
   node [
     id 50
-    label "Elizabeth Town"
+    label "50"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -85.85913
@@ -483,7 +483,7 @@ graph [
   ]
   node [
     id 51
-    label "Henderson"
+    label "51"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -87.59001
@@ -492,7 +492,7 @@ graph [
   ]
   node [
     id 52
-    label "Madisonville"
+    label "52"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -87.49889
@@ -501,7 +501,7 @@ graph [
   ]
   node [
     id 53
-    label "Providence"
+    label "53"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -87.76279
@@ -510,7 +510,7 @@ graph [
   ]
   node [
     id 54
-    label "Athens"
+    label "54"
     geocode_append "Ohio"
     Country "United States"
     Longitude -82.10126
@@ -519,7 +519,7 @@ graph [
   ]
   node [
     id 55
-    label "Houston"
+    label "55"
     geocode_append "Texas"
     Country "United States"
     Longitude -95.36327
@@ -528,7 +528,7 @@ graph [
   ]
   node [
     id 56
-    label "Liberty"
+    label "56"
     geocode_append "Texas"
     Country "United States"
     Longitude -94.79548
@@ -537,7 +537,7 @@ graph [
   ]
   node [
     id 57
-    label "Hancock"
+    label "57"
     geocode_append "Michigan"
     Country "United States"
     Longitude -88.58096
@@ -546,7 +546,7 @@ graph [
   ]
   node [
     id 58
-    label "Warsaw"
+    label "58"
     geocode_append "Virginia"
     Country "United States"
     Longitude -76.75801
@@ -555,7 +555,7 @@ graph [
   ]
   node [
     id 59
-    label "Heathsville"
+    label "59"
     geocode_append "Virginia"
     Country "United States"
     Longitude -76.47217
@@ -564,13 +564,13 @@ graph [
   ]
   node [
     id 60
-    label "None"
+    label "60"
     hyperedge 1
     Internal 1
   ]
   node [
     id 61
-    label "Richmond"
+    label "61"
     geocode_append "Virginia"
     Country "United States"
     Longitude -77.46026
@@ -579,7 +579,7 @@ graph [
   ]
   node [
     id 62
-    label "Petersburg"
+    label "62"
     geocode_append "Virginia"
     Country "United States"
     Longitude -77.40193
@@ -588,7 +588,7 @@ graph [
   ]
   node [
     id 63
-    label "South Hill"
+    label "63"
     geocode_append "Virginia"
     Country "United States"
     Longitude -78.12889
@@ -597,13 +597,13 @@ graph [
   ]
   node [
     id 64
-    label "None"
+    label "64"
     hyperedge 1
     Internal 1
   ]
   node [
     id 65
-    label "Chesapeake"
+    label "65"
     geocode_append "Virginia"
     Country "United States"
     Longitude -76.27494
@@ -612,7 +612,7 @@ graph [
   ]
   node [
     id 66
-    label "Elizabeth City"
+    label "66"
     geocode_append "North Carolina"
     Country "United States"
     Longitude -76.25105
@@ -621,7 +621,7 @@ graph [
   ]
   node [
     id 67
-    label "Hertford"
+    label "67"
     geocode_append "North Carolina"
     Country "United States"
     Longitude -76.46605
@@ -630,7 +630,7 @@ graph [
   ]
   node [
     id 68
-    label "Logan"
+    label "68"
     geocode_append "Ohio"
     Country "United States"
     Longitude -82.4071
@@ -639,13 +639,13 @@ graph [
   ]
   node [
     id 69
-    label "None"
+    label "69"
     hyperedge 1
     Internal 1
   ]
   node [
     id 70
-    label "Seguin"
+    label "70"
     geocode_append "Texas"
     Country "United States"
     Longitude -97.96473
@@ -654,7 +654,7 @@ graph [
   ]
   node [
     id 71
-    label "Monroe"
+    label "71"
     geocode_append "Louisiana"
     Country "United States"
     Longitude -92.1193
@@ -663,7 +663,7 @@ graph [
   ]
   node [
     id 72
-    label "Natchez"
+    label "72"
     geocode_append "Mississippi"
     Country "United States"
     Longitude -91.40317
@@ -672,7 +672,7 @@ graph [
   ]
   node [
     id 73
-    label "Franklin"
+    label "73"
     geocode_append "Tennessee"
     Country "United States"
     Longitude -86.86889
@@ -681,7 +681,7 @@ graph [
   ]
   node [
     id 74
-    label "Columbia"
+    label "74"
     geocode_append "Tennessee"
     Country "United States"
     Longitude -87.03528
@@ -690,7 +690,7 @@ graph [
   ]
   node [
     id 75
-    label "Collinwood"
+    label "75"
     geocode_append "Tennessee"
     Country "United States"
     Longitude -87.7378
@@ -699,7 +699,7 @@ graph [
   ]
   node [
     id 76
-    label "Loretto"
+    label "76"
     geocode_append "Tennessee"
     Country "United States"
     Longitude -87.43974
@@ -708,7 +708,7 @@ graph [
   ]
   node [
     id 77
-    label "Lewisburg"
+    label "77"
     geocode_append "Tennessee"
     Country "United States"
     Longitude -86.78889
@@ -717,7 +717,7 @@ graph [
   ]
   node [
     id 78
-    label "Pulaski"
+    label "78"
     geocode_append "Tennessee"
     Country "United States"
     Longitude -87.03084
@@ -726,7 +726,7 @@ graph [
   ]
   node [
     id 79
-    label "Lawrenceburg"
+    label "79"
     geocode_append "Tennessee"
     Country "United States"
     Longitude -87.33474
@@ -735,7 +735,7 @@ graph [
   ]
   node [
     id 80
-    label "Oneonta"
+    label "80"
     geocode_append "Alabama"
     Country "United States"
     Longitude -86.47276
@@ -744,7 +744,7 @@ graph [
   ]
   node [
     id 81
-    label "Cullman"
+    label "81"
     geocode_append "Alabama"
     Country "United States"
     Longitude -86.84361
@@ -753,7 +753,7 @@ graph [
   ]
   node [
     id 82
-    label "Arkdelphia"
+    label "82"
     geocode_append "Arkansas"
     Country "United States"
     Longitude -93.05378
@@ -762,13 +762,13 @@ graph [
   ]
   node [
     id 83
-    label "None"
+    label "83"
     hyperedge 1
     Internal 1
   ]
   node [
     id 84
-    label "Ann Arbor"
+    label "84"
     geocode_append "Michigan"
     Country "United States"
     Longitude -83.74088
@@ -777,7 +777,7 @@ graph [
   ]
   node [
     id 85
-    label "Southfield/Detroit"
+    label "85"
     geocode_append "Michigan"
     Country "United States"
     Longitude -83.2428
@@ -786,7 +786,7 @@ graph [
   ]
   node [
     id 86
-    label "Florence"
+    label "86"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -84.62661
@@ -795,7 +795,7 @@ graph [
   ]
   node [
     id 87
-    label "Covington"
+    label "87"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -84.50855
@@ -804,7 +804,7 @@ graph [
   ]
   node [
     id 88
-    label "Saginaw"
+    label "88"
     geocode_append "Michigan"
     Country "United States"
     Longitude -83.95081
@@ -813,7 +813,7 @@ graph [
   ]
   node [
     id 89
-    label "Bay City"
+    label "89"
     geocode_append "Michigan"
     Country "United States"
     Longitude -83.88886
@@ -822,7 +822,7 @@ graph [
   ]
   node [
     id 90
-    label "Pontiac"
+    label "90"
     geocode_append "Michigan"
     Country "United States"
     Longitude -83.29105
@@ -831,7 +831,7 @@ graph [
   ]
   node [
     id 91
-    label "Flint"
+    label "91"
     geocode_append "Michigan"
     Country "United States"
     Longitude -83.68746
@@ -840,7 +840,7 @@ graph [
   ]
   node [
     id 92
-    label "Lebanon"
+    label "92"
     geocode_append "Ohio"
     Country "United States"
     Longitude -84.20299
@@ -849,7 +849,7 @@ graph [
   ]
   node [
     id 93
-    label "Hamilton"
+    label "93"
     geocode_append "Ohio"
     Country "United States"
     Longitude -84.45689
@@ -858,7 +858,7 @@ graph [
   ]
   node [
     id 94
-    label "Midland"
+    label "94"
     geocode_append "Michigan"
     Country "United States"
     Longitude -84.24721
@@ -867,7 +867,7 @@ graph [
   ]
   node [
     id 95
-    label "Oxford"
+    label "95"
     geocode_append "Ohio"
     Country "United States"
     Longitude -84.74523
@@ -876,7 +876,7 @@ graph [
   ]
   node [
     id 96
-    label "Batesville"
+    label "96"
     geocode_append "Indiana"
     Country "United States"
     Longitude -85.22218
@@ -885,7 +885,7 @@ graph [
   ]
   node [
     id 97
-    label "Greensburg"
+    label "97"
     geocode_append "Indiana"
     Country "United States"
     Longitude -85.48358
@@ -894,7 +894,7 @@ graph [
   ]
   node [
     id 98
-    label "Cincinnati"
+    label "98"
     geocode_append "Ohio"
     Country "United States"
     Longitude -84.45689
@@ -903,7 +903,7 @@ graph [
   ]
   node [
     id 99
-    label "Evendale"
+    label "99"
     geocode_append "Ohio"
     Country "United States"
     Longitude -84.418
@@ -912,7 +912,7 @@ graph [
   ]
   node [
     id 100
-    label "Mason City"
+    label "100"
     Country "United States"
     Longitude -93.20104
     Internal 1
@@ -920,7 +920,7 @@ graph [
   ]
   node [
     id 101
-    label "Willmar"
+    label "101"
     geocode_append "Minnesota"
     Country "United States"
     Longitude -95.04334
@@ -929,7 +929,7 @@ graph [
   ]
   node [
     id 102
-    label "New London"
+    label "102"
     geocode_append "Minnesota"
     Country "United States"
     Longitude -94.94418
@@ -938,7 +938,7 @@ graph [
   ]
   node [
     id 103
-    label "Ames"
+    label "103"
     Country "United States"
     Longitude -93.61994
     Internal 1
@@ -946,7 +946,7 @@ graph [
   ]
   node [
     id 104
-    label "Worthington"
+    label "104"
     geocode_append "Minnesota"
     Country "United States"
     Longitude -95.5964
@@ -955,7 +955,7 @@ graph [
   ]
   node [
     id 105
-    label "Fairmont"
+    label "105"
     geocode_append "Minnesota"
     Country "United States"
     Longitude -94.46108
@@ -964,7 +964,7 @@ graph [
   ]
   node [
     id 106
-    label "Albert Lea"
+    label "106"
     geocode_append "Minnesota"
     Country "United States"
     Longitude -93.36827
@@ -973,7 +973,7 @@ graph [
   ]
   node [
     id 107
-    label "Austin"
+    label "107"
     geocode_append "Minnesota"
     Country "United States"
     Longitude -92.97464
@@ -982,7 +982,7 @@ graph [
   ]
   node [
     id 108
-    label "Des Moines"
+    label "108"
     Country "United States"
     Longitude -93.60911
     Internal 1
@@ -990,7 +990,7 @@ graph [
   ]
   node [
     id 109
-    label "Newton"
+    label "109"
     Country "United States"
     Longitude -93.04798
     Internal 1
@@ -998,7 +998,7 @@ graph [
   ]
   node [
     id 110
-    label "Paxton"
+    label "110"
     geocode_append "Illinois"
     Country "United States"
     Longitude -88.09532
@@ -1007,7 +1007,7 @@ graph [
   ]
   node [
     id 111
-    label "Cambridge"
+    label "111"
     geocode_append "Ohio"
     Country "United States"
     Longitude -81.58846
@@ -1016,7 +1016,7 @@ graph [
   ]
   node [
     id 112
-    label "Crossville"
+    label "112"
     geocode_append "Tennessee"
     Country "United States"
     Longitude -85.0269
@@ -1025,7 +1025,7 @@ graph [
   ]
   node [
     id 113
-    label "Scotland Neck"
+    label "113"
     geocode_append "North Carolina"
     Country "United States"
     Longitude -77.42025
@@ -1034,7 +1034,7 @@ graph [
   ]
   node [
     id 114
-    label "Windsor"
+    label "114"
     geocode_append "North Carolina"
     Country "United States"
     Longitude -76.94606
@@ -1043,7 +1043,7 @@ graph [
   ]
   node [
     id 115
-    label "Ronoake Rapids"
+    label "115"
     geocode_append "North Carolina"
     Country "United States"
     Longitude -77.65415
@@ -1052,7 +1052,7 @@ graph [
   ]
   node [
     id 116
-    label "Lees Summit"
+    label "116"
     geocode_append "Missouri"
     Country "United States"
     Longitude -94.38217
@@ -1061,7 +1061,7 @@ graph [
   ]
   node [
     id 117
-    label "Warrensburg"
+    label "117"
     geocode_append "Missouri"
     Country "United States"
     Longitude -93.73605
@@ -1070,7 +1070,7 @@ graph [
   ]
   node [
     id 118
-    label "Harrisonville"
+    label "118"
     geocode_append "Missouri"
     Country "United States"
     Longitude -94.34884
@@ -1079,7 +1079,7 @@ graph [
   ]
   node [
     id 119
-    label "Kansas City"
+    label "119"
     geocode_append "Missouri"
     Country "United States"
     Longitude -94.57857
@@ -1088,7 +1088,7 @@ graph [
   ]
   node [
     id 120
-    label "Columbia"
+    label "120"
     geocode_append "Missouri"
     Country "United States"
     Longitude -92.33407
@@ -1097,7 +1097,7 @@ graph [
   ]
   node [
     id 121
-    label "Jefferson City"
+    label "121"
     geocode_append "Missouri"
     Country "United States"
     Longitude -92.17352
@@ -1106,7 +1106,7 @@ graph [
   ]
   node [
     id 122
-    label "Jackson"
+    label "122"
     geocode_append "Alabama"
     Country "United States"
     geocode_id "4069458"
@@ -1116,7 +1116,7 @@ graph [
   ]
   node [
     id 123
-    label "McIntosh"
+    label "123"
     geocode_append "Alabama"
     Country "United States"
     Longitude -88.03139
@@ -1125,7 +1125,7 @@ graph [
   ]
   node [
     id 124
-    label "Evergreen"
+    label "124"
     geocode_append "Alabama"
     Country "United States"
     Longitude -86.95692
@@ -1134,7 +1134,7 @@ graph [
   ]
   node [
     id 125
-    label "Thomasville"
+    label "125"
     geocode_append "Alabama"
     Country "United States"
     Longitude -87.73584
@@ -1143,7 +1143,7 @@ graph [
   ]
   node [
     id 126
-    label "Dothan"
+    label "126"
     geocode_append "Alabama"
     Country "United States"
     Longitude -85.39049
@@ -1152,7 +1152,7 @@ graph [
   ]
   node [
     id 127
-    label "Pine Apple"
+    label "127"
     geocode_append "Alabama"
     Country "United States"
     Longitude -86.99109
@@ -1161,7 +1161,7 @@ graph [
   ]
   node [
     id 128
-    label "Troy"
+    label "128"
     geocode_append "Alabama"
     Country "United States"
     Longitude -85.96995
@@ -1170,7 +1170,7 @@ graph [
   ]
   node [
     id 129
-    label "Enteprise"
+    label "129"
     geocode_append "Alabama"
     Country "United States"
     Longitude -85.85522
@@ -1179,7 +1179,7 @@ graph [
   ]
   node [
     id 130
-    label "Clanton"
+    label "130"
     geocode_append "Alabama"
     Country "United States"
     Longitude -86.62943
@@ -1188,7 +1188,7 @@ graph [
   ]
   node [
     id 131
-    label "Montgomery"
+    label "131"
     geocode_append "Alabama"
     Country "United States"
     Longitude -86.29997
@@ -1197,7 +1197,7 @@ graph [
   ]
   node [
     id 132
-    label "Lebanon"
+    label "132"
     geocode_append "Pennsylvania"
     Country "United States"
     Longitude -76.41135
@@ -1206,7 +1206,7 @@ graph [
   ]
   node [
     id 133
-    label "Wilson"
+    label "133"
     geocode_append "North Carolina"
     Country "United States"
     Longitude -77.91554
@@ -1215,7 +1215,7 @@ graph [
   ]
   node [
     id 134
-    label "Wilmington"
+    label "134"
     Country "United States"
     Longitude -75.54659
     Internal 1
@@ -1223,7 +1223,7 @@ graph [
   ]
   node [
     id 135
-    label "Rocky Mt"
+    label "135"
     geocode_append "North Carolina"
     Country "United States"
     Longitude -77.79053
@@ -1232,7 +1232,7 @@ graph [
   ]
   node [
     id 136
-    label "Elktor"
+    label "136"
     Country "United States"
     Longitude -75.83327
     Internal 1
@@ -1240,13 +1240,13 @@ graph [
   ]
   node [
     id 137
-    label "None"
+    label "137"
     hyperedge 1
     Internal 1
   ]
   node [
     id 138
-    label "Line Lexington"
+    label "138"
     geocode_append "Pennsylvania"
     Country "United States"
     Longitude -75.26101
@@ -1255,7 +1255,7 @@ graph [
   ]
   node [
     id 139
-    label "Philadelphia"
+    label "139"
     geocode_append "Pennsylvania"
     Country "United States"
     Longitude -75.16379
@@ -1264,7 +1264,7 @@ graph [
   ]
   node [
     id 140
-    label "Beaumont"
+    label "140"
     geocode_append "Texas"
     Country "United States"
     Longitude -94.10185
@@ -1273,7 +1273,7 @@ graph [
   ]
   node [
     id 141
-    label "Pascagoula"
+    label "141"
     Country "United States"
     Longitude -88.55613
     Internal 1
@@ -1281,7 +1281,7 @@ graph [
   ]
   node [
     id 142
-    label "Biloxi"
+    label "142"
     Country "United States"
     Longitude -88.88531
     Internal 1
@@ -1289,7 +1289,7 @@ graph [
   ]
   node [
     id 143
-    label "Childersburg"
+    label "143"
     geocode_append "Alabama"
     Country "United States"
     Longitude -86.35498
@@ -1298,7 +1298,7 @@ graph [
   ]
   node [
     id 144
-    label "Gadsden"
+    label "144"
     geocode_append "Alabama"
     Country "United States"
     Longitude -86.00664
@@ -1307,7 +1307,7 @@ graph [
   ]
   node [
     id 145
-    label "Aurora"
+    label "145"
     geocode_append "Illinois"
     Country "United States"
     Longitude -88.32007
@@ -1316,7 +1316,7 @@ graph [
   ]
   node [
     id 146
-    label "Mt Carmel"
+    label "146"
     geocode_append "Illinois"
     Country "United States"
     Longitude -87.76142
@@ -1325,7 +1325,7 @@ graph [
   ]
   node [
     id 147
-    label "Belleville"
+    label "147"
     geocode_append "Illinois"
     Country "United States"
     Longitude -89.98399
@@ -1334,7 +1334,7 @@ graph [
   ]
   node [
     id 148
-    label "Monticello"
+    label "148"
     geocode_append "Arkansas"
     Country "United States"
     Longitude -91.79096
@@ -1343,7 +1343,7 @@ graph [
   ]
   node [
     id 149
-    label "Reedburg"
+    label "149"
     geocode_append "Wisconsin"
     Country "United States"
     Longitude -90.00263
@@ -1352,7 +1352,7 @@ graph [
   ]
   node [
     id 150
-    label "Red Wing"
+    label "150"
     geocode_append "Minnesota"
     Country "United States"
     Longitude -92.5338
@@ -1361,7 +1361,7 @@ graph [
   ]
   node [
     id 151
-    label "Wytheville"
+    label "151"
     geocode_append "Virginia"
     Country "United States"
     Longitude -81.08481
@@ -1370,7 +1370,7 @@ graph [
   ]
   node [
     id 152
-    label "Christiansburg"
+    label "152"
     geocode_append "Virginia"
     Country "United States"
     Longitude -80.40894
@@ -1379,7 +1379,7 @@ graph [
   ]
   node [
     id 153
-    label "Roanoke"
+    label "153"
     geocode_append "Virginia"
     Country "United States"
     Longitude -79.94143
@@ -1388,7 +1388,7 @@ graph [
   ]
   node [
     id 154
-    label "Glen Lyn"
+    label "154"
     Country "United States"
     Longitude -80.86425
     Internal 1
@@ -1396,7 +1396,7 @@ graph [
   ]
   node [
     id 155
-    label "Clarksville"
+    label "155"
     geocode_append "Virginia"
     Country "United States"
     Longitude -78.55694
@@ -1405,7 +1405,7 @@ graph [
   ]
   node [
     id 156
-    label "South Boston"
+    label "156"
     geocode_append "Virginia"
     Country "United States"
     Longitude -78.9014
@@ -1414,7 +1414,7 @@ graph [
   ]
   node [
     id 157
-    label "Danville"
+    label "157"
     geocode_append "Virginia"
     Country "United States"
     Longitude -79.39502
@@ -1423,7 +1423,7 @@ graph [
   ]
   node [
     id 158
-    label "Martinsville"
+    label "158"
     geocode_append "Virginia"
     Country "United States"
     Longitude -79.87254
@@ -1432,7 +1432,7 @@ graph [
   ]
   node [
     id 159
-    label "Farmville"
+    label "159"
     geocode_append "Virginia"
     Country "United States"
     Longitude -78.39194
@@ -1441,7 +1441,7 @@ graph [
   ]
   node [
     id 160
-    label "Keysville"
+    label "160"
     geocode_append "Virginia"
     Country "United States"
     Longitude -78.48333
@@ -1450,7 +1450,7 @@ graph [
   ]
   node [
     id 161
-    label "Owensburg"
+    label "161"
     geocode_append "Indiana"
     Country "United States"
     Longitude -86.72972
@@ -1459,7 +1459,7 @@ graph [
   ]
   node [
     id 162
-    label "Bloomington"
+    label "162"
     geocode_append "Indiana"
     Country "United States"
     Longitude -86.52639
@@ -1468,7 +1468,7 @@ graph [
   ]
   node [
     id 163
-    label "Norris City"
+    label "163"
     geocode_append "Illinois"
     Country "United States"
     Longitude -88.32921
@@ -1477,7 +1477,7 @@ graph [
   ]
   node [
     id 164
-    label "Princeton"
+    label "164"
     geocode_append "Indiana"
     Country "United States"
     Longitude -87.56752
@@ -1486,7 +1486,7 @@ graph [
   ]
   node [
     id 165
-    label "Oakland City"
+    label "165"
     geocode_append "Indiana"
     Country "United States"
     Longitude -87.34501
@@ -1495,7 +1495,7 @@ graph [
   ]
   node [
     id 166
-    label "Petersburg"
+    label "166"
     geocode_append "Indiana"
     Country "United States"
     Longitude -87.27862
@@ -1504,7 +1504,7 @@ graph [
   ]
   node [
     id 167
-    label "Washington"
+    label "167"
     geocode_append "Indiana"
     Country "United States"
     Longitude -87.17279
@@ -1513,7 +1513,7 @@ graph [
   ]
   node [
     id 168
-    label "Vincennes"
+    label "168"
     geocode_append "Indiana"
     Country "United States"
     Longitude -87.52863
@@ -1522,7 +1522,7 @@ graph [
   ]
   node [
     id 169
-    label "Lawrenceville"
+    label "169"
     geocode_append "Illinois"
     Country "United States"
     Longitude -87.68169
@@ -1531,7 +1531,7 @@ graph [
   ]
   node [
     id 170
-    label "Crane"
+    label "170"
     geocode_append "Indiana"
     Country "United States"
     Longitude -86.90389
@@ -1540,7 +1540,7 @@ graph [
   ]
   node [
     id 171
-    label "Bowling Green"
+    label "171"
     geocode_append "Ohio"
     Country "United States"
     Longitude -83.65132
@@ -1549,7 +1549,7 @@ graph [
   ]
   node [
     id 172
-    label "Fayette"
+    label "172"
     geocode_append "Ohio"
     Country "United States"
     Longitude -84.32689
@@ -1558,7 +1558,7 @@ graph [
   ]
   node [
     id 173
-    label "Lima"
+    label "173"
     geocode_append "Ohio"
     Country "United States"
     Longitude -84.10523
@@ -1567,7 +1567,7 @@ graph [
   ]
   node [
     id 174
-    label "Findlay"
+    label "174"
     geocode_append "Ohio"
     Country "United States"
     Longitude -83.64993
@@ -1576,7 +1576,7 @@ graph [
   ]
   node [
     id 175
-    label "Auburn"
+    label "175"
     geocode_append "Indiana"
     Country "United States"
     Longitude -85.05886
@@ -1585,7 +1585,7 @@ graph [
   ]
   node [
     id 176
-    label "Decatur"
+    label "176"
     geocode_append "Indiana"
     Country "United States"
     Longitude -84.92913
@@ -1594,7 +1594,7 @@ graph [
   ]
   node [
     id 177
-    label "Niles"
+    label "177"
     geocode_append "Michigan"
     Country "United States"
     Longitude -86.25418
@@ -1603,7 +1603,7 @@ graph [
   ]
   node [
     id 178
-    label "Benton Harbor"
+    label "178"
     geocode_append "Michigan"
     Country "United States"
     Longitude -86.45419
@@ -1612,7 +1612,7 @@ graph [
   ]
   node [
     id 179
-    label "Williamson"
+    label "179"
     Country "United States"
     Longitude -82.27736
     Internal 1
@@ -1620,7 +1620,7 @@ graph [
   ]
   node [
     id 180
-    label "Logan"
+    label "180"
     Country "United States"
     Longitude -81.99346
     Internal 1
@@ -1628,7 +1628,7 @@ graph [
   ]
   node [
     id 181
-    label "Madison"
+    label "181"
     Country "United States"
     Longitude -81.81929
     Internal 1
@@ -1636,7 +1636,7 @@ graph [
   ]
   node [
     id 182
-    label "Charleston"
+    label "182"
     Country "United States"
     Longitude -81.63262
     Internal 1
@@ -1644,7 +1644,7 @@ graph [
   ]
   node [
     id 183
-    label "Huntington"
+    label "183"
     Country "United States"
     Longitude -82.44515
     Internal 1
@@ -1652,7 +1652,7 @@ graph [
   ]
   node [
     id 184
-    label "Ashland"
+    label "184"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -82.63794
@@ -1661,7 +1661,7 @@ graph [
   ]
   node [
     id 185
-    label "Maysville"
+    label "185"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -83.74436
@@ -1670,7 +1670,7 @@ graph [
   ]
   node [
     id 186
-    label "Morehead"
+    label "186"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -83.43268
@@ -1679,7 +1679,7 @@ graph [
   ]
   node [
     id 187
-    label "Fond Du Lac"
+    label "187"
     geocode_append "Wisconsin"
     Country "United States"
     Longitude -88.43883
@@ -1688,7 +1688,7 @@ graph [
   ]
   node [
     id 188
-    label "Oshkosh"
+    label "188"
     geocode_append "Wisconsin"
     Country "United States"
     Longitude -88.54261
@@ -1697,7 +1697,7 @@ graph [
   ]
   node [
     id 189
-    label "Harrisburg"
+    label "189"
     geocode_append "Pennsylvania"
     Country "United States"
     Longitude -76.88442
@@ -1706,7 +1706,7 @@ graph [
   ]
   node [
     id 190
-    label "Newport"
+    label "190"
     geocode_append "Pennsylvania"
     Country "United States"
     Longitude -77.13054
@@ -1715,7 +1715,7 @@ graph [
   ]
   node [
     id 191
-    label "Lewistown"
+    label "191"
     geocode_append "Pennsylvania"
     Country "United States"
     Longitude -77.57138
@@ -1724,7 +1724,7 @@ graph [
   ]
   node [
     id 192
-    label "Mount Union"
+    label "192"
     geocode_append "Pennsylvania"
     Country "United States"
     Longitude -77.88222
@@ -1733,7 +1733,7 @@ graph [
   ]
   node [
     id 193
-    label "Neenah"
+    label "193"
     geocode_append "Wisconsin"
     Country "United States"
     Longitude -88.46261
@@ -1742,7 +1742,7 @@ graph [
   ]
   node [
     id 194
-    label "Clymer"
+    label "194"
     geocode_append "Pennsylvania"
     Country "United States"
     Longitude -79.0117
@@ -1751,7 +1751,7 @@ graph [
   ]
   node [
     id 195
-    label "South Bend"
+    label "195"
     geocode_append "Indiana"
     Country "United States"
     Longitude -86.25001
@@ -1760,7 +1760,7 @@ graph [
   ]
   node [
     id 196
-    label "Elkhart"
+    label "196"
     geocode_append "Indiana"
     Country "United States"
     Longitude -85.97667
@@ -1769,7 +1769,7 @@ graph [
   ]
   node [
     id 197
-    label "Pittsburgh"
+    label "197"
     geocode_append "Pennsylvania"
     Country "United States"
     Longitude -79.99589
@@ -1778,7 +1778,7 @@ graph [
   ]
   node [
     id 198
-    label "Mishiwaka"
+    label "198"
     geocode_append "Indiana"
     Country "United States"
     Longitude -86.15862
@@ -1787,13 +1787,13 @@ graph [
   ]
   node [
     id 199
-    label "None"
+    label "199"
     hyperedge 1
     Internal 1
   ]
   node [
     id 200
-    label "Martinsville"
+    label "200"
     geocode_append "Indiana"
     Country "United States"
     Longitude -86.42833
@@ -1802,7 +1802,7 @@ graph [
   ]
   node [
     id 201
-    label "Shelbyville"
+    label "201"
     geocode_append "Indiana"
     Country "United States"
     Longitude -85.77692
@@ -1811,7 +1811,7 @@ graph [
   ]
   node [
     id 202
-    label "Greenwood"
+    label "202"
     geocode_append "Indiana"
     Country "United States"
     Longitude -86.10665
@@ -1820,7 +1820,7 @@ graph [
   ]
   node [
     id 203
-    label "Franklin"
+    label "203"
     geocode_append "Indiana"
     Country "United States"
     Longitude -86.05499
@@ -1829,7 +1829,7 @@ graph [
   ]
   node [
     id 204
-    label "Anderson"
+    label "204"
     geocode_append "Indiana"
     Country "United States"
     Longitude -85.68025
@@ -1838,7 +1838,7 @@ graph [
   ]
   node [
     id 205
-    label "Muncie"
+    label "205"
     geocode_append "Indiana"
     Country "United States"
     Longitude -85.38636
@@ -1847,7 +1847,7 @@ graph [
   ]
   node [
     id 206
-    label "Rushville"
+    label "206"
     geocode_append "Indiana"
     Country "United States"
     Longitude -85.44636
@@ -1856,7 +1856,7 @@ graph [
   ]
   node [
     id 207
-    label "New Castle"
+    label "207"
     geocode_append "Indiana"
     Country "United States"
     Longitude -85.37025
@@ -1865,7 +1865,7 @@ graph [
   ]
   node [
     id 208
-    label "Connersville"
+    label "208"
     geocode_append "Indiana"
     Country "United States"
     Longitude -85.14107
@@ -1874,7 +1874,7 @@ graph [
   ]
   node [
     id 209
-    label "Richmond"
+    label "209"
     geocode_append "Indiana"
     Country "United States"
     Longitude -84.89024
@@ -1883,13 +1883,13 @@ graph [
   ]
   node [
     id 210
-    label "None"
+    label "210"
     hyperedge 1
     Internal 1
   ]
   node [
     id 211
-    label "Sterling"
+    label "211"
     geocode_append "Illinois"
     Country "United States"
     Longitude -89.69622
@@ -1898,7 +1898,7 @@ graph [
   ]
   node [
     id 212
-    label "Georgetown"
+    label "212"
     geocode_append "Texas"
     Country "United States"
     Longitude -97.67723
@@ -1907,7 +1907,7 @@ graph [
   ]
   node [
     id 213
-    label "Temple"
+    label "213"
     geocode_append "Texas"
     Country "United States"
     Longitude -97.34278
@@ -1916,7 +1916,7 @@ graph [
   ]
   node [
     id 214
-    label "Dubuque"
+    label "214"
     Country "United States"
     Longitude -90.66457
     Internal 1
@@ -1924,7 +1924,7 @@ graph [
   ]
   node [
     id 215
-    label "Mineola"
+    label "215"
     geocode_append "Texas"
     Country "United States"
     Longitude -95.48829
@@ -1933,7 +1933,7 @@ graph [
   ]
   node [
     id 216
-    label "Terrell"
+    label "216"
     geocode_append "Texas"
     Country "United States"
     Longitude -96.27526
@@ -1942,7 +1942,7 @@ graph [
   ]
   node [
     id 217
-    label "Texarkana"
+    label "217"
     geocode_append "Texas"
     Country "United States"
     Longitude -94.04769
@@ -1951,7 +1951,7 @@ graph [
   ]
   node [
     id 218
-    label "Atlanta"
+    label "218"
     geocode_append "Texas"
     Country "United States"
     Longitude -94.16435
@@ -1960,7 +1960,7 @@ graph [
   ]
   node [
     id 219
-    label "Fort Worth"
+    label "219"
     geocode_append "Texas"
     Country "United States"
     Longitude -97.32085
@@ -1969,7 +1969,7 @@ graph [
   ]
   node [
     id 220
-    label "Denton"
+    label "220"
     geocode_append "Texas"
     Country "United States"
     Longitude -97.13307
@@ -1978,7 +1978,7 @@ graph [
   ]
   node [
     id 221
-    label "Waco"
+    label "221"
     geocode_append "Texas"
     Country "United States"
     Longitude -97.14667
@@ -1987,7 +1987,7 @@ graph [
   ]
   node [
     id 222
-    label "Waxahachie"
+    label "222"
     geocode_append "Texas"
     Country "United States"
     Longitude -96.84833
@@ -1996,7 +1996,7 @@ graph [
   ]
   node [
     id 223
-    label "Paris"
+    label "223"
     geocode_append "Tennessee"
     Country "United States"
     Longitude -88.32671
@@ -2005,7 +2005,7 @@ graph [
   ]
   node [
     id 224
-    label "Murray"
+    label "224"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -88.31476
@@ -2014,7 +2014,7 @@ graph [
   ]
   node [
     id 225
-    label "Milan"
+    label "225"
     geocode_append "Tennessee"
     Country "United States"
     Longitude -88.75895
@@ -2023,7 +2023,7 @@ graph [
   ]
   node [
     id 226
-    label "Martin"
+    label "226"
     geocode_append "Tennessee"
     Country "United States"
     Longitude -88.85034
@@ -2032,7 +2032,7 @@ graph [
   ]
   node [
     id 227
-    label "Dyersburg"
+    label "227"
     geocode_append "Tennessee"
     Country "United States"
     Longitude -89.38563
@@ -2041,7 +2041,7 @@ graph [
   ]
   node [
     id 228
-    label "Jackson"
+    label "228"
     geocode_append "Tennessee"
     Country "United States"
     Longitude -88.81395
@@ -2050,7 +2050,7 @@ graph [
   ]
   node [
     id 229
-    label "Metropolis"
+    label "229"
     geocode_append "Illinois"
     Country "United States"
     Longitude -88.732
@@ -2059,7 +2059,7 @@ graph [
   ]
   node [
     id 230
-    label "Paducah"
+    label "230"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -88.60005
@@ -2068,7 +2068,7 @@ graph [
   ]
   node [
     id 231
-    label "Union City"
+    label "231"
     geocode_append "Tennessee"
     Country "United States"
     Longitude -89.05701
@@ -2077,7 +2077,7 @@ graph [
   ]
   node [
     id 232
-    label "Cairo"
+    label "232"
     geocode_append "Illinois"
     Country "United States"
     Longitude -89.17646
@@ -2086,7 +2086,7 @@ graph [
   ]
   node [
     id 233
-    label "Memphis"
+    label "233"
     geocode_append "Tennessee"
     Country "United States"
     Longitude -90.04898
@@ -2095,7 +2095,7 @@ graph [
   ]
   node [
     id 234
-    label "Covington"
+    label "234"
     geocode_append "Tennessee"
     Country "United States"
     Longitude -89.64647
@@ -2104,7 +2104,7 @@ graph [
   ]
   node [
     id 235
-    label "Kankakee"
+    label "235"
     geocode_append "Illinois"
     Country "United States"
     Longitude -87.86115
@@ -2113,7 +2113,7 @@ graph [
   ]
   node [
     id 236
-    label "La Salle"
+    label "236"
     geocode_append "Illinois"
     Country "United States"
     Longitude -89.09175
@@ -2122,7 +2122,7 @@ graph [
   ]
   node [
     id 237
-    label "Union"
+    label "237"
     geocode_append "Missouri"
     Country "United States"
     Longitude -91.00848
@@ -2131,7 +2131,7 @@ graph [
   ]
   node [
     id 238
-    label "St Louis"
+    label "238"
     geocode_append "Missouri"
     Country "United States"
     Longitude -90.19789
@@ -2140,7 +2140,7 @@ graph [
   ]
   node [
     id 239
-    label "Joliet"
+    label "239"
     geocode_append "Illinois"
     Country "United States"
     Longitude -88.08173
@@ -2149,7 +2149,7 @@ graph [
   ]
   node [
     id 240
-    label "Gary?"
+    label "240"
     geocode_append "Indiana"
     Country "United States"
     Longitude -87.34643
@@ -2158,7 +2158,7 @@ graph [
   ]
   node [
     id 241
-    label "De Kalb"
+    label "241"
     geocode_append "Illinois"
     Country "United States"
     Longitude -88.75036
@@ -2167,7 +2167,7 @@ graph [
   ]
   node [
     id 242
-    label "Oak Brook"
+    label "242"
     geocode_append "Illinois"
     Country "United States"
     Longitude -87.92895
@@ -2176,7 +2176,7 @@ graph [
   ]
   node [
     id 243
-    label "Gary?"
+    label "243"
     geocode_append "Indiana"
     Country "United States"
     Longitude -87.34643
@@ -2185,7 +2185,7 @@ graph [
   ]
   node [
     id 244
-    label "Valparaiso"
+    label "244"
     geocode_append "Indiana"
     Country "United States"
     Longitude -87.06114
@@ -2194,7 +2194,7 @@ graph [
   ]
   node [
     id 245
-    label "Joplin"
+    label "245"
     geocode_append "Missouri"
     Country "United States"
     Longitude -94.51328
@@ -2203,7 +2203,7 @@ graph [
   ]
   node [
     id 246
-    label "Michigan City"
+    label "246"
     geocode_append "Indiana"
     Country "United States"
     Longitude -86.89503
@@ -2212,7 +2212,7 @@ graph [
   ]
   node [
     id 247
-    label "Plainfield"
+    label "247"
     geocode_append "Indiana"
     Country "United States"
     Longitude -86.39944
@@ -2221,7 +2221,7 @@ graph [
   ]
   node [
     id 248
-    label "Canton"
+    label "248"
     geocode_append "Ohio"
     Country "United States"
     Longitude -81.37845
@@ -2230,7 +2230,7 @@ graph [
   ]
   node [
     id 249
-    label "Glasgow"
+    label "249"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -85.91192
@@ -2239,7 +2239,7 @@ graph [
   ]
   node [
     id 250
-    label "Bowling Green"
+    label "250"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -86.4436
@@ -2248,7 +2248,7 @@ graph [
   ]
   node [
     id 251
-    label "Harlan"
+    label "251"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -83.32185
@@ -2257,7 +2257,7 @@ graph [
   ]
   node [
     id 252
-    label "Pineville"
+    label "252"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -83.69492
@@ -2266,7 +2266,7 @@ graph [
   ]
   node [
     id 253
-    label "Franklin"
+    label "253"
     geocode_append "Kentucky"
     Country "United States"
     geocode_id "4292193"
@@ -2276,7 +2276,7 @@ graph [
   ]
   node [
     id 254
-    label "Middlesboro"
+    label "254"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -83.71658
@@ -2285,7 +2285,7 @@ graph [
   ]
   node [
     id 255
-    label "London"
+    label "255"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -84.08326
@@ -2294,7 +2294,7 @@ graph [
   ]
   node [
     id 256
-    label "Corbin"
+    label "256"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -84.09688
@@ -2303,7 +2303,7 @@ graph [
   ]
   node [
     id 257
-    label "Williamsburg"
+    label "257"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -84.15966
@@ -2312,7 +2312,7 @@ graph [
   ]
   node [
     id 258
-    label "Somerset"
+    label "258"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -84.60411
@@ -2321,7 +2321,7 @@ graph [
   ]
   node [
     id 259
-    label "Madison"
+    label "259"
     geocode_append "Indiana"
     Country "United States"
     Longitude -85.37996
@@ -2330,7 +2330,7 @@ graph [
   ]
   node [
     id 260
-    label "Baraboo"
+    label "260"
     geocode_append "Wisconsin"
     Country "United States"
     Longitude -89.74429
@@ -2339,7 +2339,7 @@ graph [
   ]
   node [
     id 261
-    label "Wisconsin Dells"
+    label "261"
     geocode_append "Wisconsin"
     Country "United States"
     Longitude -89.77096
@@ -2348,7 +2348,7 @@ graph [
   ]
   node [
     id 262
-    label "Bluefield"
+    label "262"
     Country "United States"
     Longitude -81.22232
     Internal 1
@@ -2356,7 +2356,7 @@ graph [
   ]
   node [
     id 263
-    label "Rich Square"
+    label "263"
     geocode_append "North Carolina"
     Country "United States"
     Longitude -77.28441
@@ -2365,7 +2365,7 @@ graph [
   ]
   node [
     id 264
-    label "Durham"
+    label "264"
     geocode_append "North Carolina"
     Country "United States"
     Longitude -78.89862
@@ -2374,7 +2374,7 @@ graph [
   ]
   node [
     id 265
-    label "Raleigh"
+    label "265"
     geocode_append "North Carolina"
     Country "United States"
     Longitude -78.63861
@@ -2383,7 +2383,7 @@ graph [
   ]
   node [
     id 266
-    label "Murfreesboro"
+    label "266"
     geocode_append "Tennessee"
     Country "United States"
     Longitude -86.39027
@@ -2392,7 +2392,7 @@ graph [
   ]
   node [
     id 267
-    label "Benton"
+    label "267"
     geocode_append "Illinois"
     Country "United States"
     Longitude -88.92007
@@ -2401,19 +2401,19 @@ graph [
   ]
   node [
     id 268
-    label "None"
+    label "268"
     hyperedge 1
     Internal 1
   ]
   node [
     id 269
-    label "None"
+    label "269"
     hyperedge 1
     Internal 1
   ]
   node [
     id 270
-    label "Greensboro"
+    label "270"
     geocode_append "North Carolina"
     Country "United States"
     Longitude -79.79198
@@ -2422,7 +2422,7 @@ graph [
   ]
   node [
     id 271
-    label "Burlington"
+    label "271"
     geocode_append "North Carolina"
     Country "United States"
     Longitude -79.4378
@@ -2431,7 +2431,7 @@ graph [
   ]
   node [
     id 272
-    label "Rhinelander"
+    label "272"
     geocode_append "Wisconsin"
     Country "United States"
     Longitude -89.41208
@@ -2440,7 +2440,7 @@ graph [
   ]
   node [
     id 273
-    label "Paris"
+    label "273"
     geocode_append "Illinois"
     Country "United States"
     Longitude -87.69614
@@ -2449,7 +2449,7 @@ graph [
   ]
   node [
     id 274
-    label "Florence"
+    label "274"
     geocode_append "Alabama"
     Country "United States"
     Longitude -87.67725
@@ -2458,7 +2458,7 @@ graph [
   ]
   node [
     id 275
-    label "Russellville"
+    label "275"
     geocode_append "Alabama"
     Country "United States"
     Longitude -87.72864
@@ -2467,7 +2467,7 @@ graph [
   ]
   node [
     id 276
-    label "Guntersville"
+    label "276"
     geocode_append "Alabama"
     Country "United States"
     Longitude -86.2947
@@ -2476,7 +2476,7 @@ graph [
   ]
   node [
     id 277
-    label "Albertville"
+    label "277"
     geocode_append "Alabama"
     Country "United States"
     Longitude -86.20887
@@ -2485,7 +2485,7 @@ graph [
   ]
   node [
     id 278
-    label "Cleveland"
+    label "278"
     geocode_append "Tennessee"
     Country "United States"
     Longitude -84.87661
@@ -2494,7 +2494,7 @@ graph [
   ]
   node [
     id 279
-    label "Athens"
+    label "279"
     geocode_append "Tennessee"
     Country "United States"
     Longitude -84.59299
@@ -2503,7 +2503,7 @@ graph [
   ]
   node [
     id 280
-    label "Rogersville"
+    label "280"
     geocode_append "Alabama"
     Country "United States"
     Longitude -87.29474
@@ -2512,7 +2512,7 @@ graph [
   ]
   node [
     id 281
-    label "Killen"
+    label "281"
     geocode_append "Alabama"
     Country "United States"
     Longitude -87.53753
@@ -2521,7 +2521,7 @@ graph [
   ]
   node [
     id 282
-    label "Huntsville"
+    label "282"
     geocode_append "Alabama"
     Country "United States"
     Longitude -86.5861
@@ -2530,7 +2530,7 @@ graph [
   ]
   node [
     id 283
-    label "Athens"
+    label "283"
     geocode_append "Alabama"
     Country "United States"
     Longitude -86.97167
@@ -2539,7 +2539,7 @@ graph [
   ]
   node [
     id 284
-    label "Burnsville"
+    label "284"
     geocode_append "Minnesota"
     Country "United States"
     Longitude -93.27772
@@ -2548,7 +2548,7 @@ graph [
   ]
   node [
     id 285
-    label "Buchanan"
+    label "285"
     geocode_append "Michigan"
     Country "United States"
     Longitude -86.36112
@@ -2557,7 +2557,7 @@ graph [
   ]
   node [
     id 286
-    label "Jackson"
+    label "286"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -83.38351
@@ -2566,7 +2566,7 @@ graph [
   ]
   node [
     id 287
-    label "Paintsville"
+    label "287"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -82.80711
@@ -2575,7 +2575,7 @@ graph [
   ]
   node [
     id 288
-    label "Berea"
+    label "288"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -84.29632
@@ -2584,7 +2584,7 @@ graph [
   ]
   node [
     id 289
-    label "Stanton"
+    label "289"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -83.85825
@@ -2593,7 +2593,7 @@ graph [
   ]
   node [
     id 290
-    label "Danville"
+    label "290"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -84.77217
@@ -2602,7 +2602,7 @@ graph [
   ]
   node [
     id 291
-    label "Salvisa"
+    label "291"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -84.85773
@@ -2611,7 +2611,7 @@ graph [
   ]
   node [
     id 292
-    label "Mt Sterling"
+    label "292"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -83.94326
@@ -2620,7 +2620,7 @@ graph [
   ]
   node [
     id 293
-    label "Richmond"
+    label "293"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -84.29465
@@ -2629,7 +2629,7 @@ graph [
   ]
   node [
     id 294
-    label "Prestonburg"
+    label "294"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -82.77155
@@ -2638,7 +2638,7 @@ graph [
   ]
   node [
     id 295
-    label "Louisa"
+    label "295"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -82.60321
@@ -2647,13 +2647,13 @@ graph [
   ]
   node [
     id 296
-    label "None"
+    label "296"
     hyperedge 1
     Internal 1
   ]
   node [
     id 297
-    label "Piggott"
+    label "297"
     geocode_append "Arkansas"
     Country "United States"
     Longitude -90.19065
@@ -2662,7 +2662,7 @@ graph [
   ]
   node [
     id 298
-    label "Paragould"
+    label "298"
     geocode_append "Arkansas"
     Country "United States"
     Longitude -90.49733
@@ -2671,7 +2671,7 @@ graph [
   ]
   node [
     id 299
-    label "Folkston"
+    label "299"
     geocode_append "Georgia"
     Country "United States"
     Longitude -82.00984
@@ -2680,7 +2680,7 @@ graph [
   ]
   node [
     id 300
-    label "Mount Pleasant"
+    label "300"
     geocode_append "Michigan"
     Country "United States"
     Longitude -84.76751
@@ -2689,7 +2689,7 @@ graph [
   ]
   node [
     id 301
-    label "Newaygo"
+    label "301"
     geocode_append "Michigan"
     Country "United States"
     Longitude -85.80005
@@ -2698,7 +2698,7 @@ graph [
   ]
   node [
     id 302
-    label "Jonesboro"
+    label "302"
     geocode_append "Arkansas"
     Country "United States"
     Longitude -90.70428
@@ -2707,7 +2707,7 @@ graph [
   ]
   node [
     id 303
-    label "Big Rapids"
+    label "303"
     geocode_append "Michigan"
     Country "United States"
     Longitude -85.48366
@@ -2716,7 +2716,7 @@ graph [
   ]
   node [
     id 304
-    label "Grayling"
+    label "304"
     geocode_append "Michigan"
     Country "United States"
     Longitude -84.71475
@@ -2725,7 +2725,7 @@ graph [
   ]
   node [
     id 305
-    label "Cadillac"
+    label "305"
     geocode_append "Michigan"
     Country "United States"
     Longitude -85.40116
@@ -2734,7 +2734,7 @@ graph [
   ]
   node [
     id 306
-    label "Ludington"
+    label "306"
     geocode_append "Michigan"
     Country "United States"
     Longitude -86.45258
@@ -2743,7 +2743,7 @@ graph [
   ]
   node [
     id 307
-    label "Manistee"
+    label "307"
     geocode_append "Michigan"
     Country "United States"
     Longitude -86.32425
@@ -2752,7 +2752,7 @@ graph [
   ]
   node [
     id 308
-    label "Sturtevant"
+    label "308"
     geocode_append "Wisconsin"
     Country "United States"
     Longitude -87.89452
@@ -2761,7 +2761,7 @@ graph [
   ]
   node [
     id 309
-    label "Beloit"
+    label "309"
     geocode_append "Wisconsin"
     Country "United States"
     Longitude -89.03178
@@ -2770,7 +2770,7 @@ graph [
   ]
   node [
     id 310
-    label "Stevens Point"
+    label "310"
     geocode_append "Wisconsin"
     Country "United States"
     Longitude -89.57456
@@ -2779,7 +2779,7 @@ graph [
   ]
   node [
     id 311
-    label "Wausau"
+    label "311"
     geocode_append "Wisconsin"
     Country "United States"
     Longitude -89.63012
@@ -2788,7 +2788,7 @@ graph [
   ]
   node [
     id 312
-    label "Sun Prarie"
+    label "312"
     geocode_append "Wisconsin"
     Country "United States"
     Longitude -89.21373
@@ -2797,7 +2797,7 @@ graph [
   ]
   node [
     id 313
-    label "Marshfield"
+    label "313"
     geocode_append "Wisconsin"
     Country "United States"
     Longitude -90.1718
@@ -2806,7 +2806,7 @@ graph [
   ]
   node [
     id 314
-    label "Afton"
+    label "314"
     geocode_append "Wisconsin"
     Country "United States"
     Longitude -89.07122
@@ -2815,7 +2815,7 @@ graph [
   ]
   node [
     id 315
-    label "Madison"
+    label "315"
     geocode_append "Wisconsin"
     Country "United States"
     Longitude -89.40123
@@ -2824,7 +2824,7 @@ graph [
   ]
   node [
     id 316
-    label "Janesville"
+    label "316"
     geocode_append "Wisconsin"
     Country "United States"
     Longitude -89.01872
@@ -2833,7 +2833,7 @@ graph [
   ]
   node [
     id 317
-    label "Jefferson"
+    label "317"
     geocode_append "Wisconsin"
     Country "United States"
     Longitude -88.80733
@@ -2842,7 +2842,7 @@ graph [
   ]
   node [
     id 318
-    label "Ravenswood"
+    label "318"
     Country "United States"
     Longitude -81.76096
     Internal 1
@@ -2850,7 +2850,7 @@ graph [
   ]
   node [
     id 319
-    label "Beckley"
+    label "319"
     Country "United States"
     Longitude -81.18816
     Internal 1
@@ -2858,7 +2858,7 @@ graph [
   ]
   node [
     id 320
-    label "Decatur"
+    label "320"
     geocode_append "Illinois"
     Country "United States"
     Longitude -88.9548
@@ -2867,7 +2867,7 @@ graph [
   ]
   node [
     id 321
-    label "Platteville"
+    label "321"
     geocode_append "Wisconsin"
     Country "United States"
     Longitude -90.47846
@@ -2876,7 +2876,7 @@ graph [
   ]
   node [
     id 322
-    label "Covington"
+    label "322"
     geocode_append "Louisiana"
     Country "United States"
     Longitude -90.10091
@@ -2885,7 +2885,7 @@ graph [
   ]
   node [
     id 323
-    label "Slidell"
+    label "323"
     geocode_append "Louisiana"
     Country "United States"
     Longitude -89.78117
@@ -2894,7 +2894,7 @@ graph [
   ]
   node [
     id 324
-    label "Lufkin"
+    label "324"
     geocode_append "Texas"
     Country "United States"
     Longitude -94.7291
@@ -2903,7 +2903,7 @@ graph [
   ]
   node [
     id 325
-    label "Nacagdoches"
+    label "325"
     geocode_append "Texas"
     Country "United States"
     Longitude -94.65549
@@ -2912,7 +2912,7 @@ graph [
   ]
   node [
     id 326
-    label "Jacksonville"
+    label "326"
     geocode_append "Texas"
     Country "United States"
     Longitude -95.2705
@@ -2921,7 +2921,7 @@ graph [
   ]
   node [
     id 327
-    label "Tyler"
+    label "327"
     geocode_append "Texas"
     Country "United States"
     Longitude -95.30106
@@ -2930,7 +2930,7 @@ graph [
   ]
   node [
     id 328
-    label "Longview"
+    label "328"
     geocode_append "Texas"
     Country "United States"
     Longitude -94.74049
@@ -2939,7 +2939,7 @@ graph [
   ]
   node [
     id 329
-    label "Marshall"
+    label "329"
     geocode_append "Texas"
     Country "United States"
     Longitude -94.36742
@@ -2948,7 +2948,7 @@ graph [
   ]
   node [
     id 330
-    label "Bay Minette"
+    label "330"
     geocode_append "Alabama"
     Country "United States"
     Longitude -87.77305
@@ -2957,7 +2957,7 @@ graph [
   ]
   node [
     id 331
-    label "Citronelle"
+    label "331"
     geocode_append "Alabama"
     Country "United States"
     Longitude -88.22806
@@ -2966,7 +2966,7 @@ graph [
   ]
   node [
     id 332
-    label "Crestview"
+    label "332"
     geocode_append "Florida"
     Country "United States"
     Longitude -86.57051
@@ -2975,7 +2975,7 @@ graph [
   ]
   node [
     id 333
-    label "Mobile"
+    label "333"
     geocode_append "Alabama"
     Country "United States"
     Longitude -88.04305
@@ -2984,7 +2984,7 @@ graph [
   ]
   node [
     id 334
-    label "Panama City"
+    label "334"
     geocode_append "Florida"
     Country "United States"
     Longitude -85.65983
@@ -2993,7 +2993,7 @@ graph [
   ]
   node [
     id 335
-    label "De Funiak Springs"
+    label "335"
     geocode_append "Florida"
     Country "United States"
     Longitude -86.11522
@@ -3002,7 +3002,7 @@ graph [
   ]
   node [
     id 336
-    label "Gulfport"
+    label "336"
     Country "United States"
     Longitude -89.09282
     Internal 1
@@ -3010,7 +3010,7 @@ graph [
   ]
   node [
     id 337
-    label "Marianna"
+    label "337"
     geocode_append "Florida"
     Country "United States"
     Longitude -85.22687
@@ -3019,19 +3019,19 @@ graph [
   ]
   node [
     id 338
-    label "None"
+    label "338"
     hyperedge 1
     Internal 1
   ]
   node [
     id 339
-    label "None"
+    label "339"
     hyperedge 1
     Internal 1
   ]
   node [
     id 340
-    label "Kilmarnock"
+    label "340"
     geocode_append "Virginia"
     Country "United States"
     Longitude -76.37967
@@ -3040,7 +3040,7 @@ graph [
   ]
   node [
     id 341
-    label "Hope"
+    label "341"
     geocode_append "Arkansas"
     Country "United States"
     Longitude -93.59157
@@ -3049,7 +3049,7 @@ graph [
   ]
   node [
     id 342
-    label "Portage"
+    label "342"
     geocode_append "Wisconsin"
     Country "United States"
     Longitude -89.57456
@@ -3058,13 +3058,13 @@ graph [
   ]
   node [
     id 343
-    label "None"
+    label "343"
     hyperedge 1
     Internal 1
   ]
   node [
     id 344
-    label "Beaver Dam"
+    label "344"
     geocode_append "Wisconsin"
     Country "United States"
     Longitude -88.83733
@@ -3073,13 +3073,13 @@ graph [
   ]
   node [
     id 345
-    label "None"
+    label "345"
     hyperedge 1
     Internal 1
   ]
   node [
     id 346
-    label "Altoona"
+    label "346"
     geocode_append "Pennsylvania"
     Country "United States"
     Longitude -78.39474
@@ -3088,13 +3088,13 @@ graph [
   ]
   node [
     id 347
-    label "None"
+    label "347"
     hyperedge 1
     Internal 1
   ]
   node [
     id 348
-    label "Appleton"
+    label "348"
     geocode_append "Wisconsin"
     Country "United States"
     Longitude -88.41538
@@ -3103,7 +3103,7 @@ graph [
   ]
   node [
     id 349
-    label "Philadelphia"
+    label "349"
     geocode_append "Mississippi"
     Country "United States"
     Longitude -89.11673
@@ -3112,7 +3112,7 @@ graph [
   ]
   node [
     id 350
-    label "Emporia"
+    label "350"
     geocode_append "Virginia"
     Country "United States"
     Longitude -77.54248
@@ -3121,7 +3121,7 @@ graph [
   ]
   node [
     id 351
-    label "Lebanon"
+    label "351"
     geocode_append "Virginia"
     Country "United States"
     Longitude -82.08013
@@ -3130,7 +3130,7 @@ graph [
   ]
   node [
     id 352
-    label "Richlands"
+    label "352"
     geocode_append "Virginia"
     Country "United States"
     Longitude -81.79373
@@ -3139,7 +3139,7 @@ graph [
   ]
   node [
     id 353
-    label "Morganton"
+    label "353"
     geocode_append "North Carolina"
     Country "United States"
     Longitude -81.68482
@@ -3148,7 +3148,7 @@ graph [
   ]
   node [
     id 354
-    label "Abingdon"
+    label "354"
     geocode_append "Virginia"
     Country "United States"
     Longitude -81.97735
@@ -3157,7 +3157,7 @@ graph [
   ]
   node [
     id 355
-    label "Boone"
+    label "355"
     geocode_append "North Carolina"
     Country "United States"
     Longitude -81.67455
@@ -3166,7 +3166,7 @@ graph [
   ]
   node [
     id 356
-    label "Lenoir"
+    label "356"
     geocode_append "North Carolina"
     Country "United States"
     Longitude -81.53898
@@ -3175,7 +3175,7 @@ graph [
   ]
   node [
     id 357
-    label "Kingsport"
+    label "357"
     geocode_append "Tennessee"
     Country "United States"
     Longitude -82.56182
@@ -3184,7 +3184,7 @@ graph [
   ]
   node [
     id 358
-    label "Bristol"
+    label "358"
     geocode_append "Tennessee"
     Country "United States"
     Longitude -82.18874
@@ -3193,7 +3193,7 @@ graph [
   ]
   node [
     id 359
-    label "Greenville"
+    label "359"
     geocode_append "Tennessee"
     Country "United States"
     Longitude -82.83099
@@ -3202,7 +3202,7 @@ graph [
   ]
   node [
     id 360
-    label "Johnson City"
+    label "360"
     geocode_append "Tennessee"
     Country "United States"
     Longitude -82.35347
@@ -3211,7 +3211,7 @@ graph [
   ]
   node [
     id 361
-    label "Eldorado"
+    label "361"
     geocode_append "Illinois"
     Country "United States"
     Longitude -88.4381
@@ -3220,7 +3220,7 @@ graph [
   ]
   node [
     id 362
-    label "Harrisburg"
+    label "362"
     geocode_append "Illinois"
     Country "United States"
     Longitude -88.54061
@@ -3229,7 +3229,7 @@ graph [
   ]
   node [
     id 363
-    label "Menomonee"
+    label "363"
     geocode_append "Wisconsin"
     Country "United States"
     Longitude -88.11731
@@ -3238,7 +3238,7 @@ graph [
   ]
   node [
     id 364
-    label "Chester"
+    label "364"
     geocode_append "Illinois"
     Country "United States"
     Longitude -89.82205
@@ -3247,7 +3247,7 @@ graph [
   ]
   node [
     id 365
-    label "Marissa"
+    label "365"
     geocode_append "Illinois"
     Country "United States"
     Longitude -89.7501
@@ -3256,7 +3256,7 @@ graph [
   ]
   node [
     id 366
-    label "Sparta"
+    label "366"
     geocode_append "Illinois"
     Country "United States"
     Longitude -89.70177
@@ -3265,7 +3265,7 @@ graph [
   ]
   node [
     id 367
-    label "Washington"
+    label "367"
     geocode_append "Pennsylvania"
     Country "United States"
     Longitude -80.24617
@@ -3274,7 +3274,7 @@ graph [
   ]
   node [
     id 368
-    label "West Frankfort"
+    label "368"
     geocode_append "Illinois"
     Country "United States"
     Longitude -88.93146
@@ -3283,7 +3283,7 @@ graph [
   ]
   node [
     id 369
-    label "Marion"
+    label "369"
     geocode_append "Illinois"
     Country "United States"
     Longitude -88.93313
@@ -3292,7 +3292,7 @@ graph [
   ]
   node [
     id 370
-    label "Carbondale"
+    label "370"
     geocode_append "Illinois"
     Country "United States"
     Longitude -89.21675
@@ -3301,7 +3301,7 @@ graph [
   ]
   node [
     id 371
-    label "Murphysboro"
+    label "371"
     geocode_append "Illinois"
     Country "United States"
     Longitude -89.33509
@@ -3310,13 +3310,13 @@ graph [
   ]
   node [
     id 372
-    label "None"
+    label "372"
     hyperedge 1
     Internal 1
   ]
   node [
     id 373
-    label "Port Clinton"
+    label "373"
     geocode_append "Ohio"
     Country "United States"
     Longitude -82.93769
@@ -3325,7 +3325,7 @@ graph [
   ]
   node [
     id 374
-    label "Fremont"
+    label "374"
     geocode_append "Ohio"
     Country "United States"
     Longitude -83.12186
@@ -3334,7 +3334,7 @@ graph [
   ]
   node [
     id 375
-    label "Norwalk"
+    label "375"
     geocode_append "Ohio"
     Country "United States"
     Longitude -82.61573
@@ -3343,7 +3343,7 @@ graph [
   ]
   node [
     id 376
-    label "Sandusky"
+    label "376"
     geocode_append "Ohio"
     Country "United States"
     Longitude -82.70796
@@ -3352,7 +3352,7 @@ graph [
   ]
   node [
     id 377
-    label "Berea"
+    label "377"
     geocode_append "Ohio"
     Country "United States"
     Longitude -81.8543
@@ -3361,7 +3361,7 @@ graph [
   ]
   node [
     id 378
-    label "Vermilion"
+    label "378"
     geocode_append "Ohio"
     Country "United States"
     Longitude -82.36461
@@ -3370,7 +3370,7 @@ graph [
   ]
   node [
     id 379
-    label "Crestline"
+    label "379"
     geocode_append "Ohio"
     Country "United States"
     Longitude -82.73657
@@ -3379,7 +3379,7 @@ graph [
   ]
   node [
     id 380
-    label "New London"
+    label "380"
     geocode_append "Ohio"
     Country "United States"
     Longitude -82.39989
@@ -3388,7 +3388,7 @@ graph [
   ]
   node [
     id 381
-    label "Wooster"
+    label "381"
     geocode_append "Ohio"
     Country "United States"
     Longitude -81.93514
@@ -3397,7 +3397,7 @@ graph [
   ]
   node [
     id 382
-    label "Mansfield"
+    label "382"
     geocode_append "Ohio"
     Country "United States"
     Longitude -82.51545
@@ -3406,7 +3406,7 @@ graph [
   ]
   node [
     id 383
-    label "LaGrange"
+    label "383"
     geocode_append "Indiana"
     Country "United States"
     Longitude -85.41665
@@ -3415,7 +3415,7 @@ graph [
   ]
   node [
     id 384
-    label "Goshen"
+    label "384"
     geocode_append "Indiana"
     Country "United States"
     Longitude -85.83444
@@ -3424,7 +3424,7 @@ graph [
   ]
   node [
     id 385
-    label "Baltimore"
+    label "385"
     geocode_append "Maryland"
     Country "United States"
     Longitude -76.61219
@@ -3433,7 +3433,7 @@ graph [
   ]
   node [
     id 386
-    label "Hagerstown"
+    label "386"
     geocode_append "Maryland"
     Country "United States"
     Longitude -77.71999
@@ -3442,7 +3442,7 @@ graph [
   ]
   node [
     id 387
-    label "Reading"
+    label "387"
     geocode_append "Pennsylvania"
     Country "United States"
     Longitude -75.92687
@@ -3451,7 +3451,7 @@ graph [
   ]
   node [
     id 388
-    label "Pottstown"
+    label "388"
     geocode_append "Pennsylvania"
     Country "United States"
     Longitude -75.64963
@@ -3460,7 +3460,7 @@ graph [
   ]
   node [
     id 389
-    label "Chambersburg"
+    label "389"
     geocode_append "Pennsylvania"
     Country "United States"
     Longitude -77.6611
@@ -3469,25 +3469,25 @@ graph [
   ]
   node [
     id 390
-    label "None"
+    label "390"
     hyperedge 1
     Internal 1
   ]
   node [
     id 391
-    label "None"
+    label "391"
     hyperedge 1
     Internal 1
   ]
   node [
     id 392
-    label "None"
+    label "392"
     hyperedge 1
     Internal 1
   ]
   node [
     id 393
-    label "Kendalville"
+    label "393"
     geocode_append "Indiana"
     Country "United States"
     Longitude -85.26498
@@ -3496,7 +3496,7 @@ graph [
   ]
   node [
     id 394
-    label "Angola"
+    label "394"
     geocode_append "Indiana"
     Country "United States"
     Longitude -84.99941
@@ -3505,7 +3505,7 @@ graph [
   ]
   node [
     id 395
-    label "Bainbride"
+    label "395"
     geocode_append "Georgia"
     Country "United States"
     Longitude -84.57547
@@ -3514,7 +3514,7 @@ graph [
   ]
   node [
     id 396
-    label "Tallahassee"
+    label "396"
     geocode_append "Florida"
     Country "United States"
     Longitude -84.28073
@@ -3523,7 +3523,7 @@ graph [
   ]
   node [
     id 397
-    label "Bastrop"
+    label "397"
     geocode_append "Louisiana"
     Country "United States"
     Longitude -91.87235
@@ -3532,7 +3532,7 @@ graph [
   ]
   node [
     id 398
-    label "Hamburg"
+    label "398"
     geocode_append "Arkansas"
     Country "United States"
     Longitude -91.79763
@@ -3541,7 +3541,7 @@ graph [
   ]
   node [
     id 399
-    label "Tallulah"
+    label "399"
     geocode_append "Louisiana"
     Country "United States"
     Longitude -91.18678
@@ -3550,7 +3550,7 @@ graph [
   ]
   node [
     id 400
-    label "Vicksburg"
+    label "400"
     geocode_append "Mississippi"
     Country "United States"
     Longitude -90.87788
@@ -3559,7 +3559,7 @@ graph [
   ]
   node [
     id 401
-    label "Russellville"
+    label "401"
     geocode_append "Arkansas"
     Country "United States"
     Longitude -93.13379
@@ -3568,7 +3568,7 @@ graph [
   ]
   node [
     id 402
-    label "Clarksville"
+    label "402"
     geocode_append "Arkansas"
     Country "United States"
     Longitude -93.46657
@@ -3577,7 +3577,7 @@ graph [
   ]
   node [
     id 403
-    label "Cleveland"
+    label "403"
     geocode_append "Ohio"
     Country "United States"
     Longitude -81.69541
@@ -3586,7 +3586,7 @@ graph [
   ]
   node [
     id 404
-    label "Eastlake"
+    label "404"
     geocode_append "Ohio"
     Country "United States"
     Longitude -81.45039
@@ -3595,7 +3595,7 @@ graph [
   ]
   node [
     id 405
-    label "Warren"
+    label "405"
     geocode_append "Ohio"
     Country "United States"
     Longitude -80.81842
@@ -3604,7 +3604,7 @@ graph [
   ]
   node [
     id 406
-    label "Youngstown"
+    label "406"
     geocode_append "Ohio"
     Country "United States"
     Longitude -80.64952
@@ -3613,7 +3613,7 @@ graph [
   ]
   node [
     id 407
-    label "Massilon"
+    label "407"
     geocode_append "Ohio"
     Country "United States"
     Longitude -81.52151
@@ -3622,7 +3622,7 @@ graph [
   ]
   node [
     id 408
-    label "Indianapolis"
+    label "408"
     geocode_append "Indiana"
     Country "United States"
     Longitude -86.15804
@@ -3631,7 +3631,7 @@ graph [
   ]
   node [
     id 409
-    label "Akron"
+    label "409"
     geocode_append "Ohio"
     Country "United States"
     Longitude -81.51901
@@ -3640,7 +3640,7 @@ graph [
   ]
   node [
     id 410
-    label "Savannah"
+    label "410"
     geocode_append "Georgia"
     Country "United States"
     Longitude -81.09983
@@ -3649,7 +3649,7 @@ graph [
   ]
   node [
     id 411
-    label "Frankfort"
+    label "411"
     geocode_append "Indiana"
     Country "United States"
     Longitude -86.51084
@@ -3658,7 +3658,7 @@ graph [
   ]
   node [
     id 412
-    label "Lebanon"
+    label "412"
     geocode_append "Indiana"
     Country "United States"
     Longitude -86.46917
@@ -3667,7 +3667,7 @@ graph [
   ]
   node [
     id 413
-    label "Nobleville?"
+    label "413"
     geocode_append "Indiana"
     Country "United States"
     Longitude -86.0086
@@ -3676,7 +3676,7 @@ graph [
   ]
   node [
     id 414
-    label "Decatur"
+    label "414"
     geocode_append "Alabama"
     Country "United States"
     Longitude -86.98334
@@ -3685,7 +3685,7 @@ graph [
   ]
   node [
     id 415
-    label "New Castle"
+    label "415"
     geocode_append "Pennsylvania"
     Country "United States"
     Longitude -80.34701
@@ -3694,7 +3694,7 @@ graph [
   ]
   node [
     id 416
-    label "Ashtabula"
+    label "416"
     geocode_append "Ohio"
     Country "United States"
     Longitude -80.78981
@@ -3703,7 +3703,7 @@ graph [
   ]
   node [
     id 417
-    label "Greencastle"
+    label "417"
     geocode_append "Indiana"
     Country "United States"
     Longitude -86.86473
@@ -3712,7 +3712,7 @@ graph [
   ]
   node [
     id 418
-    label "Brazil"
+    label "418"
     geocode_append "Indiana"
     Country "United States"
     Longitude -87.12502
@@ -3721,7 +3721,7 @@ graph [
   ]
   node [
     id 419
-    label "Spooner"
+    label "419"
     geocode_append "Wisconsin"
     Country "United States"
     Longitude -91.88934
@@ -3730,7 +3730,7 @@ graph [
   ]
   node [
     id 420
-    label "Rice Lake"
+    label "420"
     geocode_append "Wisconsin"
     Country "United States"
     Longitude -91.73823
@@ -3739,7 +3739,7 @@ graph [
   ]
   node [
     id 421
-    label "Superior"
+    label "421"
     geocode_append "Wisconsin"
     Country "United States"
     Longitude -92.10408
@@ -3748,7 +3748,7 @@ graph [
   ]
   node [
     id 422
-    label "Hayward"
+    label "422"
     geocode_append "Wisconsin"
     Country "United States"
     Longitude -91.48462
@@ -3757,7 +3757,7 @@ graph [
   ]
   node [
     id 423
-    label "Boyceville"
+    label "423"
     geocode_append "Wisconsin"
     Country "United States"
     Longitude -92.04101
@@ -3766,7 +3766,7 @@ graph [
   ]
   node [
     id 424
-    label "Hudson"
+    label "424"
     geocode_append "Wisconsin"
     Country "United States"
     Longitude -92.75687
@@ -3775,7 +3775,7 @@ graph [
   ]
   node [
     id 425
-    label "Chippenwa Falls"
+    label "425"
     geocode_append "Wisconsin"
     Country "United States"
     Longitude -91.39293
@@ -3784,7 +3784,7 @@ graph [
   ]
   node [
     id 426
-    label "Eau Claire"
+    label "426"
     geocode_append "Wisconsin"
     Country "United States"
     Longitude -91.49849
@@ -3793,7 +3793,7 @@ graph [
   ]
   node [
     id 427
-    label "St Paul"
+    label "427"
     geocode_append "Minnesota"
     Country "United States"
     Longitude -93.09327
@@ -3802,7 +3802,7 @@ graph [
   ]
   node [
     id 428
-    label "Minneapolis"
+    label "428"
     geocode_append "Minnesota"
     Country "United States"
     Longitude -93.26384
@@ -3811,7 +3811,7 @@ graph [
   ]
   node [
     id 429
-    label "Hammond"
+    label "429"
     geocode_append "Louisiana"
     Country "United States"
     Longitude -90.4612
@@ -3820,7 +3820,7 @@ graph [
   ]
   node [
     id 430
-    label "New Orleans"
+    label "430"
     geocode_append "Louisiana"
     Country "United States"
     Longitude -90.07507
@@ -3829,7 +3829,7 @@ graph [
   ]
   node [
     id 431
-    label "Kentwood"
+    label "431"
     geocode_append "Louisiana"
     Country "United States"
     Longitude -90.50898
@@ -3838,7 +3838,7 @@ graph [
   ]
   node [
     id 432
-    label "McComb"
+    label "432"
     geocode_append "Mississippi"
     Country "United States"
     Longitude -90.45315
@@ -3847,7 +3847,7 @@ graph [
   ]
   node [
     id 433
-    label "Brookhaven"
+    label "433"
     geocode_append "Mississippi"
     Country "United States"
     Longitude -90.44065
@@ -3856,7 +3856,7 @@ graph [
   ]
   node [
     id 434
-    label "Jackson"
+    label "434"
     geocode_append "Mississippi"
     Country "United States"
     Longitude -90.18481
@@ -3865,7 +3865,7 @@ graph [
   ]
   node [
     id 435
-    label "Crystal Springs"
+    label "435"
     geocode_append "Mississippi"
     Country "United States"
     Longitude -90.35704
@@ -3874,7 +3874,7 @@ graph [
   ]
   node [
     id 436
-    label "Laurel"
+    label "436"
     geocode_append "Mississippi"
     Country "United States"
     Longitude -89.13061
@@ -3883,7 +3883,7 @@ graph [
   ]
   node [
     id 437
-    label "Hattiesburg"
+    label "437"
     geocode_append "Mississippi"
     Country "United States"
     Longitude -89.29034
@@ -3892,7 +3892,7 @@ graph [
   ]
   node [
     id 438
-    label "Forest"
+    label "438"
     geocode_append "Mississippi"
     Country "United States"
     Longitude -89.47423
@@ -3901,7 +3901,7 @@ graph [
   ]
   node [
     id 439
-    label "River Falls"
+    label "439"
     geocode_append "Wisconsin"
     Country "United States"
     Longitude -92.62381
@@ -3910,7 +3910,7 @@ graph [
   ]
   node [
     id 440
-    label "Fort Smith"
+    label "440"
     geocode_append "Arkansas"
     Country "United States"
     Longitude -94.39855
@@ -3919,7 +3919,7 @@ graph [
   ]
   node [
     id 441
-    label "Springdale"
+    label "441"
     geocode_append "Arkansas"
     Country "United States"
     Longitude -94.12881
@@ -3928,7 +3928,7 @@ graph [
   ]
   node [
     id 442
-    label "Fayetteville"
+    label "442"
     geocode_append "Arkansas"
     Country "United States"
     Longitude -94.15743
@@ -3937,7 +3937,7 @@ graph [
   ]
   node [
     id 443
-    label "Muskogee"
+    label "443"
     geocode_append "Oklahoma"
     Country "United States"
     Longitude -95.36969
@@ -3946,7 +3946,7 @@ graph [
   ]
   node [
     id 444
-    label "Tulsa"
+    label "444"
     geocode_append "Oklahoma"
     Country "United States"
     Longitude -95.99278
@@ -3955,7 +3955,7 @@ graph [
   ]
   node [
     id 445
-    label "Chandler"
+    label "445"
     geocode_append "Oklahoma"
     Country "United States"
     Longitude -96.88086
@@ -3964,7 +3964,7 @@ graph [
   ]
   node [
     id 446
-    label "Oklahoma City"
+    label "446"
     geocode_append "Oklahoma"
     Country "United States"
     Longitude -97.51643
@@ -3973,7 +3973,7 @@ graph [
   ]
   node [
     id 447
-    label "Norman"
+    label "447"
     geocode_append "Oklahoma"
     Country "United States"
     Longitude -97.43948
@@ -3982,7 +3982,7 @@ graph [
   ]
   node [
     id 448
-    label "Chickasha"
+    label "448"
     geocode_append "Oklahoma"
     Country "United States"
     Longitude -97.93643
@@ -3991,7 +3991,7 @@ graph [
   ]
   node [
     id 449
-    label "Lawton"
+    label "449"
     geocode_append "Oklahoma"
     Country "United States"
     Longitude -98.39033
@@ -4000,7 +4000,7 @@ graph [
   ]
   node [
     id 450
-    label "Vonore"
+    label "450"
     geocode_append "Tennessee"
     Country "United States"
     Longitude -84.24186
@@ -4009,7 +4009,7 @@ graph [
   ]
   node [
     id 451
-    label "Oak Ridge"
+    label "451"
     geocode_append "Tennessee"
     Country "United States"
     Longitude -84.26964
@@ -4018,7 +4018,7 @@ graph [
   ]
   node [
     id 452
-    label "Maryville"
+    label "452"
     geocode_append "Tennessee"
     Country "United States"
     Longitude -83.97046
@@ -4027,7 +4027,7 @@ graph [
   ]
   node [
     id 453
-    label "Sweetwater"
+    label "453"
     geocode_append "Tennessee"
     Country "United States"
     Longitude -84.46104
@@ -4036,7 +4036,7 @@ graph [
   ]
   node [
     id 454
-    label "Jefferson City"
+    label "454"
     geocode_append "Tennessee"
     Country "United States"
     Longitude -83.4924
@@ -4045,7 +4045,7 @@ graph [
   ]
   node [
     id 455
-    label "Knoxville"
+    label "455"
     geocode_append "Tennessee"
     Country "United States"
     Longitude -83.92074
@@ -4054,7 +4054,7 @@ graph [
   ]
   node [
     id 456
-    label "Bremen"
+    label "456"
     geocode_append "Georgia"
     Country "United States"
     Longitude -85.1455
@@ -4063,7 +4063,7 @@ graph [
   ]
   node [
     id 457
-    label "Newport"
+    label "457"
     geocode_append "Tennessee"
     Country "United States"
     Longitude -83.18766
@@ -4072,7 +4072,7 @@ graph [
   ]
   node [
     id 458
-    label "La Crosee"
+    label "458"
     geocode_append "Wisconsin"
     Country "United States"
     Longitude -91.23958
@@ -4081,7 +4081,7 @@ graph [
   ]
   node [
     id 459
-    label "Morristown"
+    label "459"
     geocode_append "Tennessee"
     Country "United States"
     Longitude -83.29489
@@ -4090,7 +4090,7 @@ graph [
   ]
   node [
     id 460
-    label "Anniston"
+    label "460"
     geocode_append "Alabama"
     Country "United States"
     Longitude -85.83163
@@ -4099,7 +4099,7 @@ graph [
   ]
   node [
     id 461
-    label "Alexander City"
+    label "461"
     geocode_append "Alabama"
     Country "United States"
     Longitude -85.95385
@@ -4108,7 +4108,7 @@ graph [
   ]
   node [
     id 462
-    label "La Fayette"
+    label "462"
     geocode_append "Georgia"
     Country "United States"
     Longitude -85.2819
@@ -4117,7 +4117,7 @@ graph [
   ]
   node [
     id 463
-    label "Talledega"
+    label "463"
     geocode_append "Alabama"
     Country "United States"
     Longitude -86.1058
@@ -4126,7 +4126,7 @@ graph [
   ]
   node [
     id 464
-    label "Eufaula"
+    label "464"
     geocode_append "Alabama"
     Country "United States"
     Longitude -85.14549
@@ -4135,7 +4135,7 @@ graph [
   ]
   node [
     id 465
-    label "Fort Valley"
+    label "465"
     geocode_append "Georgia"
     Country "United States"
     Longitude -83.88741
@@ -4144,7 +4144,7 @@ graph [
   ]
   node [
     id 466
-    label "Tuskagee"
+    label "466"
     geocode_append "Alabama"
     Country "United States"
     Longitude -85.69162
@@ -4153,7 +4153,7 @@ graph [
   ]
   node [
     id 467
-    label "Auburn"
+    label "467"
     geocode_append "Alabama"
     Country "United States"
     Longitude -85.48078
@@ -4162,7 +4162,7 @@ graph [
   ]
   node [
     id 468
-    label "Johnston"
+    label "468"
     Country "United States"
     Longitude -81.80094
     Internal 1
@@ -4170,7 +4170,7 @@ graph [
   ]
   node [
     id 469
-    label "Augusta"
+    label "469"
     geocode_append "Georgia"
     Country "United States"
     Longitude -81.97484
@@ -4179,7 +4179,7 @@ graph [
   ]
   node [
     id 470
-    label "Winnsboro"
+    label "470"
     Country "United States"
     Longitude -81.08648
     Internal 1
@@ -4187,7 +4187,7 @@ graph [
   ]
   node [
     id 471
-    label "Columbia"
+    label "471"
     Country "United States"
     Longitude -81.03481
     Internal 1
@@ -4195,7 +4195,7 @@ graph [
   ]
   node [
     id 472
-    label "Chattanooga"
+    label "472"
     geocode_append "Tennessee"
     Country "United States"
     Longitude -85.30968
@@ -4204,7 +4204,7 @@ graph [
   ]
   node [
     id 473
-    label "Charlotte"
+    label "473"
     geocode_append "North Carolina"
     Country "United States"
     Longitude -80.84313
@@ -4213,7 +4213,7 @@ graph [
   ]
   node [
     id 474
-    label "Winston-Salem"
+    label "474"
     geocode_append "North Carolina"
     Country "United States"
     Longitude -80.24422
@@ -4222,7 +4222,7 @@ graph [
   ]
   node [
     id 475
-    label "Mooresville"
+    label "475"
     geocode_append "North Carolina"
     Country "United States"
     Longitude -80.81007
@@ -4231,7 +4231,7 @@ graph [
   ]
   node [
     id 476
-    label "Barnesville"
+    label "476"
     geocode_append "Georgia"
     Country "United States"
     Longitude -84.15575
@@ -4240,7 +4240,7 @@ graph [
   ]
   node [
     id 477
-    label "Thomaston"
+    label "477"
     geocode_append "Georgia"
     Country "United States"
     Longitude -84.32659
@@ -4249,7 +4249,7 @@ graph [
   ]
   node [
     id 478
-    label "Griffin"
+    label "478"
     geocode_append "Georgia"
     Country "United States"
     Longitude -84.26409
@@ -4258,7 +4258,7 @@ graph [
   ]
   node [
     id 479
-    label "Smyrna"
+    label "479"
     geocode_append "Georgia"
     Country "United States"
     Longitude -84.51438
@@ -4267,7 +4267,7 @@ graph [
   ]
   node [
     id 480
-    label "Arlington"
+    label "480"
     geocode_append "Georgia"
     Country "United States"
     Longitude -84.72492
@@ -4276,7 +4276,7 @@ graph [
   ]
   node [
     id 481
-    label "Albany"
+    label "481"
     geocode_append "Georgia"
     Country "United States"
     Longitude -84.15574
@@ -4285,7 +4285,7 @@ graph [
   ]
   node [
     id 482
-    label "Americus"
+    label "482"
     geocode_append "Georgia"
     Country "United States"
     Longitude -84.23269
@@ -4294,7 +4294,7 @@ graph [
   ]
   node [
     id 483
-    label "Macon"
+    label "483"
     geocode_append "Georgia"
     Country "United States"
     Longitude -83.6324
@@ -4303,7 +4303,7 @@ graph [
   ]
   node [
     id 484
-    label "Marietta"
+    label "484"
     geocode_append "Georgia"
     Country "United States"
     Longitude -84.54993
@@ -4312,7 +4312,7 @@ graph [
   ]
   node [
     id 485
-    label "Alpharette"
+    label "485"
     geocode_append "Georgia"
     Country "United States"
     Longitude -84.21242
@@ -4321,7 +4321,7 @@ graph [
   ]
   node [
     id 486
-    label "Manchester"
+    label "486"
     geocode_append "Georgia"
     Country "United States"
     Longitude -84.61993
@@ -4330,7 +4330,7 @@ graph [
   ]
   node [
     id 487
-    label "Louisville"
+    label "487"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -85.75941
@@ -4339,7 +4339,7 @@ graph [
   ]
   node [
     id 488
-    label "Woodville"
+    label "488"
     geocode_append "Texas"
     Country "United States"
     Longitude -94.41548
@@ -4348,7 +4348,7 @@ graph [
   ]
   node [
     id 489
-    label "Bardsdtown"
+    label "489"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -85.4669
@@ -4357,7 +4357,7 @@ graph [
   ]
   node [
     id 490
-    label "Fort Knox"
+    label "490"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -85.96363
@@ -4366,7 +4366,7 @@ graph [
   ]
   node [
     id 491
-    label "Frankfort"
+    label "491"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -84.87328
@@ -4375,7 +4375,7 @@ graph [
   ]
   node [
     id 492
-    label "Shelbyville"
+    label "492"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -85.22357
@@ -4384,7 +4384,7 @@ graph [
   ]
   node [
     id 493
-    label "Georgetown"
+    label "493"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -84.55883
@@ -4393,7 +4393,7 @@ graph [
   ]
   node [
     id 494
-    label "Lexington"
+    label "494"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -84.47772
@@ -4402,7 +4402,7 @@ graph [
   ]
   node [
     id 495
-    label "Winchester"
+    label "495"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -84.17965
@@ -4411,7 +4411,7 @@ graph [
   ]
   node [
     id 496
-    label "Paris"
+    label "496"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -84.25299
@@ -4420,7 +4420,7 @@ graph [
   ]
   node [
     id 497
-    label "Logansport"
+    label "497"
     geocode_append "Indiana"
     Country "United States"
     Longitude -86.35667
@@ -4429,7 +4429,7 @@ graph [
   ]
   node [
     id 498
-    label "Kokomo"
+    label "498"
     geocode_append "Indiana"
     Country "United States"
     Longitude -86.1336
@@ -4438,7 +4438,7 @@ graph [
   ]
   node [
     id 499
-    label "Bedford"
+    label "499"
     geocode_append "Indiana"
     Country "United States"
     Longitude -86.48721
@@ -4447,7 +4447,7 @@ graph [
   ]
   node [
     id 500
-    label "Mitchell"
+    label "500"
     geocode_append "Indiana"
     Country "United States"
     Longitude -86.4736
@@ -4456,7 +4456,7 @@ graph [
   ]
   node [
     id 501
-    label "Paoli"
+    label "501"
     geocode_append "Indiana"
     Country "United States"
     Longitude -86.46832
@@ -4465,7 +4465,7 @@ graph [
   ]
   node [
     id 502
-    label "French Lick"
+    label "502"
     geocode_append "Indiana"
     Country "United States"
     Longitude -86.61999
@@ -4474,7 +4474,7 @@ graph [
   ]
   node [
     id 503
-    label "Loogootee"
+    label "503"
     geocode_append "Indiana"
     Country "United States"
     Longitude -86.91417
@@ -4483,7 +4483,7 @@ graph [
   ]
   node [
     id 504
-    label "Jasper"
+    label "504"
     geocode_append "Indiana"
     Country "United States"
     Longitude -86.93111
@@ -4492,7 +4492,7 @@ graph [
   ]
   node [
     id 505
-    label "Remington"
+    label "505"
     geocode_append "Indiana"
     Country "United States"
     Longitude -87.15085
@@ -4501,7 +4501,7 @@ graph [
   ]
   node [
     id 506
-    label "Wolcott"
+    label "506"
     geocode_append "Indiana"
     Country "United States"
     Longitude -87.04168
@@ -4510,7 +4510,7 @@ graph [
   ]
   node [
     id 507
-    label "Naperville"
+    label "507"
     geocode_append "Illinois"
     Country "United States"
     Longitude -88.14729
@@ -4519,7 +4519,7 @@ graph [
   ]
   node [
     id 508
-    label "Elgin"
+    label "508"
     geocode_append "Illinois"
     Country "United States"
     Longitude -88.28119
@@ -4528,7 +4528,7 @@ graph [
   ]
   node [
     id 509
-    label "Schaumburg"
+    label "509"
     geocode_append "Illinois"
     Country "United States"
     Longitude -88.08341
@@ -4537,7 +4537,7 @@ graph [
   ]
   node [
     id 510
-    label "West Chicago"
+    label "510"
     geocode_append "Illinois"
     Country "United States"
     Longitude -88.20396
@@ -4546,7 +4546,7 @@ graph [
   ]
   node [
     id 511
-    label "Skokie"
+    label "511"
     geocode_append "Illinois"
     Country "United States"
     Longitude -87.73339
@@ -4555,7 +4555,7 @@ graph [
   ]
   node [
     id 512
-    label "Chicago"
+    label "512"
     geocode_append "Illinois"
     Country "United States"
     Longitude -87.65005
@@ -4564,7 +4564,7 @@ graph [
   ]
   node [
     id 513
-    label "Libertyville"
+    label "513"
     geocode_append "Illinois"
     Country "United States"
     Longitude -87.95313
@@ -4573,7 +4573,7 @@ graph [
   ]
   node [
     id 514
-    label "Northbrook"
+    label "514"
     geocode_append "Illinois"
     Country "United States"
     Longitude -87.82895
@@ -4582,7 +4582,7 @@ graph [
   ]
   node [
     id 515
-    label "Racine"
+    label "515"
     geocode_append "Wisconsin"
     Country "United States"
     Longitude -87.78285
@@ -4591,7 +4591,7 @@ graph [
   ]
   node [
     id 516
-    label "Kenosha"
+    label "516"
     geocode_append "Wisconsin"
     Country "United States"
     Longitude -87.82119
@@ -4600,7 +4600,7 @@ graph [
   ]
   node [
     id 517
-    label "Athens"
+    label "517"
     geocode_append "Texas"
     Country "United States"
     Longitude -95.85552
@@ -4609,7 +4609,7 @@ graph [
   ]
   node [
     id 518
-    label "Dallas"
+    label "518"
     geocode_append "Texas"
     Country "United States"
     Longitude -96.80667
@@ -4618,7 +4618,7 @@ graph [
   ]
   node [
     id 519
-    label "Jackson"
+    label "519"
     geocode_append "Michigan"
     Country "United States"
     Longitude -84.40135
@@ -4627,7 +4627,7 @@ graph [
   ]
   node [
     id 520
-    label "Minden"
+    label "520"
     geocode_append "Louisiana"
     Country "United States"
     Longitude -93.28684
@@ -4636,7 +4636,7 @@ graph [
   ]
   node [
     id 521
-    label "Canton"
+    label "521"
     geocode_append "Illinois"
     Country "United States"
     Longitude -90.03512
@@ -4645,7 +4645,7 @@ graph [
   ]
   node [
     id 522
-    label "Quincy"
+    label "522"
     geocode_append "Illinois"
     Country "United States"
     Longitude -91.40987
@@ -4654,7 +4654,7 @@ graph [
   ]
   node [
     id 523
-    label "Litchfield"
+    label "523"
     geocode_append "Illinois"
     Country "United States"
     Longitude -89.65426
@@ -4663,7 +4663,7 @@ graph [
   ]
   node [
     id 524
-    label "Lansing"
+    label "524"
     geocode_append "Michigan"
     Country "United States"
     Longitude -84.55553
@@ -4672,7 +4672,7 @@ graph [
   ]
   node [
     id 525
-    label "Lafayette"
+    label "525"
     geocode_append "Indiana"
     Country "United States"
     Longitude -86.87529
@@ -4681,7 +4681,7 @@ graph [
   ]
   node [
     id 526
-    label "Crawfordsville"
+    label "526"
     geocode_append "Indiana"
     Country "United States"
     Longitude -86.87445
@@ -4690,7 +4690,7 @@ graph [
   ]
   node [
     id 527
-    label "Jacksonville"
+    label "527"
     geocode_append "Illinois"
     Country "United States"
     Longitude -90.22901
@@ -4699,7 +4699,7 @@ graph [
   ]
   node [
     id 528
-    label "Macomb"
+    label "528"
     geocode_append "Illinois"
     Country "United States"
     Longitude -90.6718
@@ -4708,7 +4708,7 @@ graph [
   ]
   node [
     id 529
-    label "Mattoon"
+    label "529"
     geocode_append "Illinois"
     Country "United States"
     Longitude -88.37283
@@ -4717,7 +4717,7 @@ graph [
   ]
   node [
     id 530
-    label "Effingham"
+    label "530"
     geocode_append "Illinois"
     Country "United States"
     Longitude -88.54338
@@ -4726,7 +4726,7 @@ graph [
   ]
   node [
     id 531
-    label "Leesville"
+    label "531"
     geocode_append "Louisiana"
     Country "United States"
     Longitude -93.261
@@ -4735,7 +4735,7 @@ graph [
   ]
   node [
     id 532
-    label "Natchitoches"
+    label "532"
     geocode_append "Louisiana"
     Country "United States"
     Longitude -93.08627
@@ -4744,7 +4744,7 @@ graph [
   ]
   node [
     id 533
-    label "Shreveport"
+    label "533"
     geocode_append "Louisiana"
     Country "United States"
     Longitude -93.75018
@@ -4753,7 +4753,7 @@ graph [
   ]
   node [
     id 534
-    label "Merrill"
+    label "534"
     geocode_append "Wisconsin"
     Country "United States"
     Longitude -89.68346
@@ -4762,7 +4762,7 @@ graph [
   ]
   node [
     id 535
-    label "Baton Rouge"
+    label "535"
     geocode_append "Louisiana"
     Country "United States"
     Longitude -91.15455
@@ -4771,7 +4771,7 @@ graph [
   ]
   node [
     id 536
-    label "Lafayette"
+    label "536"
     geocode_append "Louisiana"
     Country "United States"
     Longitude -92.01984
@@ -4780,7 +4780,7 @@ graph [
   ]
   node [
     id 537
-    label "Opelousas"
+    label "537"
     geocode_append "Louisiana"
     Country "United States"
     Longitude -92.08151
@@ -4789,7 +4789,7 @@ graph [
   ]
   node [
     id 538
-    label "Alexandria"
+    label "538"
     geocode_append "Louisiana"
     Country "United States"
     Longitude -92.44514
@@ -4798,7 +4798,7 @@ graph [
   ]
   node [
     id 539
-    label "Rochester"
+    label "539"
     geocode_append "Minnesota"
     Country "United States"
     Longitude -92.4699
@@ -4807,7 +4807,7 @@ graph [
   ]
   node [
     id 540
-    label "Owatonna"
+    label "540"
     geocode_append "Minnesota"
     Country "United States"
     Longitude -93.22604
@@ -4816,7 +4816,7 @@ graph [
   ]
   node [
     id 541
-    label "Lake Charles"
+    label "541"
     geocode_append "Louisiana"
     Country "United States"
     Longitude -93.2044
@@ -4825,7 +4825,7 @@ graph [
   ]
   node [
     id 542
-    label "Jennings"
+    label "542"
     geocode_append "Louisiana"
     Country "United States"
     Longitude -92.65708
@@ -4834,7 +4834,7 @@ graph [
   ]
   node [
     id 543
-    label "Tomah"
+    label "543"
     geocode_append "Wisconsin"
     Country "United States"
     Longitude -90.50402
@@ -4843,7 +4843,7 @@ graph [
   ]
   node [
     id 544
-    label "Middletown"
+    label "544"
     geocode_append "Ohio"
     Country "United States"
     Longitude -84.39828
@@ -4852,7 +4852,7 @@ graph [
   ]
   node [
     id 545
-    label "Winona"
+    label "545"
     geocode_append "Minnesota"
     Country "United States"
     Longitude -91.63932
@@ -4861,7 +4861,7 @@ graph [
   ]
   node [
     id 546
-    label "Wabasha"
+    label "546"
     geocode_append "Minnesota"
     Country "United States"
     Longitude -92.03294
@@ -4870,7 +4870,7 @@ graph [
   ]
   node [
     id 547
-    label "Traverse City"
+    label "547"
     geocode_append "Michigan"
     Country "United States"
     Longitude -85.62063
@@ -4879,7 +4879,7 @@ graph [
   ]
   node [
     id 548
-    label "Repton"
+    label "548"
     geocode_append "Alabama"
     Country "United States"
     Longitude -87.23915
@@ -4888,7 +4888,7 @@ graph [
   ]
   node [
     id 549
-    label "Morrilton"
+    label "549"
     geocode_append "Arkansas"
     Country "United States"
     Longitude -92.74405
@@ -4897,7 +4897,7 @@ graph [
   ]
   node [
     id 550
-    label "Fontana Village"
+    label "550"
     geocode_append "North Carolina"
     Country "United States"
     Longitude -83.81906
@@ -4906,7 +4906,7 @@ graph [
   ]
   node [
     id 551
-    label "Sevierville"
+    label "551"
     geocode_append "Tennessee"
     Country "United States"
     Longitude -83.56184
@@ -4915,7 +4915,7 @@ graph [
   ]
   node [
     id 552
-    label "Alabaster"
+    label "552"
     geocode_append "Alabama"
     Country "United States"
     Longitude -86.81638
@@ -4924,7 +4924,7 @@ graph [
   ]
   node [
     id 553
-    label "Birmingham"
+    label "553"
     geocode_append "Alabama"
     Country "United States"
     Longitude -86.80249
@@ -4933,7 +4933,7 @@ graph [
   ]
   node [
     id 554
-    label "Tuscaloosa"
+    label "554"
     geocode_append "Alabama"
     Country "United States"
     Longitude -87.56917
@@ -4942,7 +4942,7 @@ graph [
   ]
   node [
     id 555
-    label "Jasper"
+    label "555"
     geocode_append "Alabama"
     Country "United States"
     Longitude -87.27751
@@ -4951,7 +4951,7 @@ graph [
   ]
   node [
     id 556
-    label "Pinson"
+    label "556"
     geocode_append "Alabama"
     Country "United States"
     Longitude -86.68332
@@ -4960,7 +4960,7 @@ graph [
   ]
   node [
     id 557
-    label "Selma"
+    label "557"
     geocode_append "Alabama"
     Country "United States"
     Longitude -87.0211
@@ -4969,7 +4969,7 @@ graph [
   ]
   node [
     id 558
-    label "Greensboro"
+    label "558"
     geocode_append "Alabama"
     Country "United States"
     Longitude -87.59584
@@ -4978,7 +4978,7 @@ graph [
   ]
   node [
     id 559
-    label "Linden"
+    label "559"
     geocode_append "Alabama"
     Country "United States"
     Longitude -87.79807
@@ -4987,7 +4987,7 @@ graph [
   ]
   node [
     id 560
-    label "Demopolis"
+    label "560"
     geocode_append "Alabama"
     Country "United States"
     Longitude -87.8364
@@ -4996,7 +4996,7 @@ graph [
   ]
   node [
     id 561
-    label "York"
+    label "561"
     geocode_append "Alabama"
     Country "United States"
     Longitude -88.29642
@@ -5005,7 +5005,7 @@ graph [
   ]
   node [
     id 562
-    label "Sealy"
+    label "562"
     geocode_append "Texas"
     Country "United States"
     Longitude -96.15718
@@ -5014,7 +5014,7 @@ graph [
   ]
   node [
     id 563
-    label "Plymouth"
+    label "563"
     geocode_append "Indiana"
     Country "United States"
     Longitude -86.30973
@@ -5023,13 +5023,13 @@ graph [
   ]
   node [
     id 564
-    label "None"
+    label "564"
     hyperedge 1
     Internal 1
   ]
   node [
     id 565
-    label "Mount Vernon"
+    label "565"
     geocode_append "Missouri"
     Country "United States"
     Longitude -93.81854
@@ -5038,7 +5038,7 @@ graph [
   ]
   node [
     id 566
-    label "San Antonio"
+    label "566"
     geocode_append "Texas"
     Country "United States"
     Longitude -98.49363
@@ -5047,7 +5047,7 @@ graph [
   ]
   node [
     id 567
-    label "Marietta"
+    label "567"
     geocode_append "Ohio"
     Country "United States"
     Longitude -81.45484
@@ -5056,7 +5056,7 @@ graph [
   ]
   node [
     id 568
-    label "Parkersburg"
+    label "568"
     Country "United States"
     Longitude -81.56151
     Internal 1
@@ -5064,7 +5064,7 @@ graph [
   ]
   node [
     id 569
-    label "Johnstown"
+    label "569"
     geocode_append "Pennsylvania"
     Country "United States"
     Longitude -78.92197
@@ -5073,7 +5073,7 @@ graph [
   ]
   node [
     id 570
-    label "Manassas"
+    label "570"
     geocode_append "Virginia"
     Country "United States"
     Longitude -77.47527
@@ -5082,7 +5082,7 @@ graph [
   ]
   node [
     id 571
-    label "Washington DC"
+    label "571"
     geocode_append "Maryland"
     Country "United States"
     Longitude -77.03637
@@ -5091,7 +5091,7 @@ graph [
   ]
   node [
     id 572
-    label "Winchester"
+    label "572"
     geocode_append "Virginia"
     Country "United States"
     Longitude -78.16333
@@ -5100,7 +5100,7 @@ graph [
   ]
   node [
     id 573
-    label "Front Royal"
+    label "573"
     geocode_append "Virginia"
     Country "United States"
     Longitude -78.19444
@@ -5109,7 +5109,7 @@ graph [
   ]
   node [
     id 574
-    label "Frederick"
+    label "574"
     geocode_append "Maryland"
     Country "United States"
     Longitude -77.41054
@@ -5118,7 +5118,7 @@ graph [
   ]
   node [
     id 575
-    label "Martinsburg"
+    label "575"
     Country "United States"
     Longitude -77.96389
     Internal 1
@@ -5126,7 +5126,7 @@ graph [
   ]
   node [
     id 576
-    label "Ashburn"
+    label "576"
     geocode_append "Virginia"
     Country "United States"
     Longitude -77.48749
@@ -5135,7 +5135,7 @@ graph [
   ]
   node [
     id 577
-    label "Leesburg"
+    label "577"
     geocode_append "Virginia"
     Country "United States"
     Longitude -77.5636
@@ -5144,7 +5144,7 @@ graph [
   ]
   node [
     id 578
-    label "Dayton"
+    label "578"
     geocode_append "Ohio"
     Country "United States"
     Longitude -84.19161
@@ -5153,7 +5153,7 @@ graph [
   ]
   node [
     id 579
-    label "Fredericksburg"
+    label "579"
     geocode_append "Virginia"
     Country "United States"
     Longitude -77.46054
@@ -5162,7 +5162,7 @@ graph [
   ]
   node [
     id 580
-    label "Culpeper"
+    label "580"
     geocode_append "Virginia"
     Country "United States"
     Longitude -77.99666
@@ -5171,7 +5171,7 @@ graph [
   ]
   node [
     id 581
-    label "Newark"
+    label "581"
     geocode_append "Ohio"
     Country "United States"
     Longitude -82.40126
@@ -5180,7 +5180,7 @@ graph [
   ]
   node [
     id 582
-    label "Conway"
+    label "582"
     geocode_append "Arkansas"
     Country "United States"
     Longitude -92.4421
@@ -5189,7 +5189,7 @@ graph [
   ]
   node [
     id 583
-    label "Searcy"
+    label "583"
     geocode_append "Arkansas"
     Country "United States"
     Longitude -91.73625
@@ -5198,7 +5198,7 @@ graph [
   ]
   node [
     id 584
-    label "Biscoe"
+    label "584"
     geocode_append "Arkansas"
     Country "United States"
     Longitude -91.4043
@@ -5207,7 +5207,7 @@ graph [
   ]
   node [
     id 585
-    label "Elaine"
+    label "585"
     geocode_append "Arkansas"
     Country "United States"
     Longitude -90.85205
@@ -5216,7 +5216,7 @@ graph [
   ]
   node [
     id 586
-    label "Cookeville"
+    label "586"
     geocode_append "Tennessee"
     Country "United States"
     Longitude -85.50164
@@ -5225,7 +5225,7 @@ graph [
   ]
   node [
     id 587
-    label "Hot Springs"
+    label "587"
     geocode_append "Arkansas"
     Country "United States"
     Longitude -93.05518
@@ -5234,7 +5234,7 @@ graph [
   ]
   node [
     id 588
-    label "Little Rock"
+    label "588"
     geocode_append "Arkansas"
     Country "United States"
     Longitude -92.28959
@@ -5243,7 +5243,7 @@ graph [
   ]
   node [
     id 589
-    label "Pine Bluff"
+    label "589"
     geocode_append "Arkansas"
     Country "United States"
     Longitude -92.0032
@@ -5252,7 +5252,7 @@ graph [
   ]
   node [
     id 590
-    label "Tullahoma"
+    label "590"
     geocode_append "Tennessee"
     Country "United States"
     Longitude -86.20943
@@ -5261,7 +5261,7 @@ graph [
   ]
   node [
     id 591
-    label "Manchester"
+    label "591"
     geocode_append "Tennessee"
     Country "United States"
     Longitude -86.0886
@@ -5270,7 +5270,7 @@ graph [
   ]
   node [
     id 592
-    label "McMinnville"
+    label "592"
     geocode_append "Tennessee"
     Country "United States"
     Longitude -85.76998
@@ -5279,7 +5279,7 @@ graph [
   ]
   node [
     id 593
-    label "Greensburg"
+    label "593"
     geocode_append "Pennsylvania"
     Country "United States"
     Longitude -79.53893
@@ -5288,7 +5288,7 @@ graph [
   ]
   node [
     id 594
-    label "Nashville"
+    label "594"
     geocode_append "Tennessee"
     Country "United States"
     Longitude -86.78444
@@ -5297,7 +5297,7 @@ graph [
   ]
   node [
     id 595
-    label "Lebanon"
+    label "595"
     geocode_append "Tennessee"
     Country "United States"
     Longitude -86.2911
@@ -5306,7 +5306,7 @@ graph [
   ]
   node [
     id 596
-    label "Shelbyville"
+    label "596"
     geocode_append "Tennessee"
     Country "United States"
     Longitude -86.46027
@@ -5315,7 +5315,7 @@ graph [
   ]
   node [
     id 597
-    label "Lynchburg"
+    label "597"
     geocode_append "Tennessee"
     Country "United States"
     Longitude -86.37416
@@ -5324,7 +5324,7 @@ graph [
   ]
   node [
     id 598
-    label "Austin"
+    label "598"
     geocode_append "Texas"
     Country "United States"
     Longitude -97.74306
@@ -5333,7 +5333,7 @@ graph [
   ]
   node [
     id 599
-    label "San Marcos"
+    label "599"
     geocode_append "Texas"
     Country "United States"
     Longitude -97.94139
@@ -5342,13 +5342,13 @@ graph [
   ]
   node [
     id 600
-    label "None"
+    label "600"
     hyperedge 1
     Internal 1
   ]
   node [
     id 601
-    label "Grand Haven"
+    label "601"
     geocode_append "Michigan"
     Country "United States"
     Longitude -86.22839
@@ -5357,7 +5357,7 @@ graph [
   ]
   node [
     id 602
-    label "Muskegon"
+    label "602"
     geocode_append "Michigan"
     Country "United States"
     Longitude -86.24839
@@ -5366,7 +5366,7 @@ graph [
   ]
   node [
     id 603
-    label "Grand Rapids"
+    label "603"
     geocode_append "Michigan"
     Country "United States"
     Longitude -85.66809
@@ -5375,13 +5375,13 @@ graph [
   ]
   node [
     id 604
-    label "None"
+    label "604"
     hyperedge 1
     Internal 1
   ]
   node [
     id 605
-    label "Shippenville"
+    label "605"
     geocode_append "Pennsylvania"
     Country "United States"
     Longitude -79.45949
@@ -5390,7 +5390,7 @@ graph [
   ]
   node [
     id 606
-    label "Franklin"
+    label "606"
     geocode_append "Pennsylvania"
     Country "United States"
     Longitude -79.83144
@@ -5399,7 +5399,7 @@ graph [
   ]
   node [
     id 607
-    label "Meadville"
+    label "607"
     geocode_append "Pennsylvania"
     Country "United States"
     Longitude -80.15145
@@ -5408,7 +5408,7 @@ graph [
   ]
   node [
     id 608
-    label "Erie"
+    label "608"
     geocode_append "Pennsylvania"
     Country "United States"
     Longitude -80.08506
@@ -5417,7 +5417,7 @@ graph [
   ]
   node [
     id 609
-    label "Carrollton"
+    label "609"
     geocode_append "Indiana"
     Country "United States"
     Longitude -85.82081
@@ -5426,7 +5426,7 @@ graph [
   ]
   node [
     id 610
-    label "Benton"
+    label "610"
     geocode_append "Arkansas"
     Country "United States"
     Longitude -92.58683
@@ -5435,7 +5435,7 @@ graph [
   ]
   node [
     id 611
-    label "North Vernon"
+    label "611"
     geocode_append "Indiana"
     Country "United States"
     Longitude -85.62358
@@ -5444,7 +5444,7 @@ graph [
   ]
   node [
     id 612
-    label "Seymour"
+    label "612"
     geocode_append "Indiana"
     Country "United States"
     Longitude -85.89025
@@ -5453,7 +5453,7 @@ graph [
   ]
   node [
     id 613
-    label "Franklin"
+    label "613"
     geocode_append "Indiana"
     Country "United States"
     Longitude -86.05499
@@ -5462,7 +5462,7 @@ graph [
   ]
   node [
     id 614
-    label "Scottsburg"
+    label "614"
     geocode_append "Indiana"
     Country "United States"
     Longitude -85.77025
@@ -5471,7 +5471,7 @@ graph [
   ]
   node [
     id 615
-    label "Battle Creek"
+    label "615"
     geocode_append "Michigan"
     Country "United States"
     Longitude -85.17971
@@ -5480,7 +5480,7 @@ graph [
   ]
   node [
     id 616
-    label "Holland"
+    label "616"
     geocode_append "Michigan"
     Country "United States"
     Longitude -86.10893
@@ -5489,7 +5489,7 @@ graph [
   ]
   node [
     id 617
-    label "Pipestone"
+    label "617"
     geocode_append "Minnesota"
     Country "United States"
     Longitude -96.31753
@@ -5498,7 +5498,7 @@ graph [
   ]
   node [
     id 618
-    label "Marshall"
+    label "618"
     geocode_append "Minnesota"
     Country "United States"
     Longitude -95.78835
@@ -5507,7 +5507,7 @@ graph [
   ]
   node [
     id 619
-    label "Granite Falls"
+    label "619"
     geocode_append "Minnesota"
     Country "United States"
     Longitude -95.54558
@@ -5516,7 +5516,7 @@ graph [
   ]
   node [
     id 620
-    label "Montevideo"
+    label "620"
     geocode_append "Minnesota"
     Country "United States"
     Longitude -95.72364
@@ -5525,7 +5525,7 @@ graph [
   ]
   node [
     id 621
-    label "Dodgeville"
+    label "621"
     geocode_append "Wisconsin"
     Country "United States"
     Longitude -90.13012
@@ -5534,7 +5534,7 @@ graph [
   ]
   node [
     id 622
-    label "Scales Mound"
+    label "622"
     geocode_append "Illinois"
     Country "United States"
     Longitude -90.2529
@@ -5543,7 +5543,7 @@ graph [
   ]
   node [
     id 623
-    label "Freeport"
+    label "623"
     geocode_append "Illinois"
     Country "United States"
     Longitude -89.62123
@@ -5552,7 +5552,7 @@ graph [
   ]
   node [
     id 624
-    label "Rockford"
+    label "624"
     geocode_append "Illinois"
     Country "United States"
     Longitude -89.094
@@ -5561,7 +5561,7 @@ graph [
   ]
   node [
     id 625
-    label "Luverne"
+    label "625"
     geocode_append "Minnesota"
     Country "United States"
     Longitude -96.21281
@@ -5570,7 +5570,7 @@ graph [
   ]
   node [
     id 626
-    label "Sioux Falls"
+    label "626"
     Country "United States"
     Longitude -96.70033
     Internal 1
@@ -5578,19 +5578,19 @@ graph [
   ]
   node [
     id 627
-    label "None"
+    label "627"
     hyperedge 1
     Internal 1
   ]
   node [
     id 628
-    label "None"
+    label "628"
     hyperedge 1
     Internal 1
   ]
   node [
     id 629
-    label "Malvern"
+    label "629"
     geocode_append "Arkansas"
     Country "United States"
     Longitude -92.81295
@@ -5599,7 +5599,7 @@ graph [
   ]
   node [
     id 630
-    label "Smithville"
+    label "630"
     geocode_append "Tennessee"
     Country "United States"
     Longitude -85.81415
@@ -5608,7 +5608,7 @@ graph [
   ]
   node [
     id 631
-    label "Allendale"
+    label "631"
     Country "United States"
     Longitude -81.30844
     Internal 1
@@ -5616,13 +5616,13 @@ graph [
   ]
   node [
     id 632
-    label "None"
+    label "632"
     hyperedge 1
     Internal 1
   ]
   node [
     id 633
-    label "Estill"
+    label "633"
     Country "United States"
     Longitude -81.24205
     Internal 1
@@ -5630,25 +5630,25 @@ graph [
   ]
   node [
     id 634
-    label "None"
+    label "634"
     hyperedge 1
     Internal 1
   ]
   node [
     id 635
-    label "None"
+    label "635"
     hyperedge 1
     Internal 1
   ]
   node [
     id 636
-    label "None"
+    label "636"
     hyperedge 1
     Internal 1
   ]
   node [
     id 637
-    label "Lincolton"
+    label "637"
     geocode_append "North Carolina"
     Country "United States"
     Longitude -81.25453
@@ -5657,7 +5657,7 @@ graph [
   ]
   node [
     id 638
-    label "Dalton"
+    label "638"
     geocode_append "Georgia"
     Country "United States"
     Longitude -84.97022
@@ -5666,7 +5666,7 @@ graph [
   ]
   node [
     id 639
-    label "West Memphis"
+    label "639"
     geocode_append "Arkansas"
     Country "United States"
     Longitude -90.18454
@@ -5675,7 +5675,7 @@ graph [
   ]
   node [
     id 640
-    label "Marks"
+    label "640"
     geocode_append "Mississippi"
     Country "United States"
     Longitude -90.27204
@@ -5684,7 +5684,7 @@ graph [
   ]
   node [
     id 641
-    label "Greenwood"
+    label "641"
     geocode_append "Mississippi"
     Country "United States"
     Longitude -90.17953
@@ -5693,7 +5693,7 @@ graph [
   ]
   node [
     id 642
-    label "Yazoo City"
+    label "642"
     geocode_append "Mississippi"
     Country "United States"
     Longitude -90.40565
@@ -5702,7 +5702,7 @@ graph [
   ]
   node [
     id 643
-    label "Helena"
+    label "643"
     geocode_append "Arkansas"
     Country "United States"
     Longitude -90.59177
@@ -5711,7 +5711,7 @@ graph [
   ]
   node [
     id 644
-    label "Marienna"
+    label "644"
     geocode_append "Arkansas"
     Country "United States"
     Longitude -90.75761
@@ -5720,7 +5720,7 @@ graph [
   ]
   node [
     id 645
-    label "Forrest City"
+    label "645"
     geocode_append "Arkansas"
     Country "United States"
     Longitude -90.78983
@@ -5729,7 +5729,7 @@ graph [
   ]
   node [
     id 646
-    label "Tunica"
+    label "646"
     geocode_append "Mississippi"
     Country "United States"
     Longitude -90.38288
@@ -5738,7 +5738,7 @@ graph [
   ]
   node [
     id 647
-    label "Clarendon"
+    label "647"
     geocode_append "Arkansas"
     Country "United States"
     Longitude -91.31374
@@ -5747,7 +5747,7 @@ graph [
   ]
   node [
     id 648
-    label "Marvell"
+    label "648"
     geocode_append "Arkansas"
     Country "United States"
     Longitude -90.91289
@@ -5756,7 +5756,7 @@ graph [
   ]
   node [
     id 649
-    label "Neosho"
+    label "649"
     geocode_append "Missouri"
     Country "United States"
     Longitude -94.368
@@ -5765,7 +5765,7 @@ graph [
   ]
   node [
     id 650
-    label "McLeansboro"
+    label "650"
     geocode_append "Illinois"
     Country "United States"
     Longitude -88.53561
@@ -5774,7 +5774,7 @@ graph [
   ]
   node [
     id 651
-    label "Mt Vernon"
+    label "651"
     geocode_append "Illinois"
     Country "United States"
     Longitude -88.90312
@@ -5783,7 +5783,7 @@ graph [
   ]
   node [
     id 652
-    label "Centralia"
+    label "652"
     geocode_append "Illinois"
     Country "United States"
     Longitude -89.1334
@@ -5792,7 +5792,7 @@ graph [
   ]
   node [
     id 653
-    label "Salem"
+    label "653"
     geocode_append "Illinois"
     Country "United States"
     Longitude -88.94562
@@ -5801,7 +5801,7 @@ graph [
   ]
   node [
     id 654
-    label "Edwardsville"
+    label "654"
     geocode_append "Illinois"
     Country "United States"
     Longitude -89.95316
@@ -5810,7 +5810,7 @@ graph [
   ]
   node [
     id 655
-    label "Collinsville"
+    label "655"
     geocode_append "Illinois"
     Country "United States"
     Longitude -89.98455
@@ -5819,7 +5819,7 @@ graph [
   ]
   node [
     id 656
-    label "Fairfield"
+    label "656"
     geocode_append "Illinois"
     Country "United States"
     Longitude -88.35977
@@ -5828,7 +5828,7 @@ graph [
   ]
   node [
     id 657
-    label "Carmi?"
+    label "657"
     geocode_append "Illinois"
     Country "United States"
     Longitude -88.15865
@@ -5837,7 +5837,7 @@ graph [
   ]
   node [
     id 658
-    label "Olney"
+    label "658"
     geocode_append "Illinois"
     Country "United States"
     Longitude -88.08532
@@ -5846,7 +5846,7 @@ graph [
   ]
   node [
     id 659
-    label "Flora"
+    label "659"
     geocode_append "Illinois"
     Country "United States"
     Longitude -88.4856
@@ -5855,7 +5855,7 @@ graph [
   ]
   node [
     id 660
-    label "Malden"
+    label "660"
     geocode_append "Missouri"
     Country "United States"
     Longitude -89.96648
@@ -5864,7 +5864,7 @@ graph [
   ]
   node [
     id 661
-    label "Dexter"
+    label "661"
     geocode_append "Missouri"
     Country "United States"
     Longitude -89.95787
@@ -5873,7 +5873,7 @@ graph [
   ]
   node [
     id 662
-    label "Sikeston"
+    label "662"
     geocode_append "Missouri"
     Country "United States"
     Longitude -89.58786
@@ -5882,7 +5882,7 @@ graph [
   ]
   node [
     id 663
-    label "Cape Girardeau"
+    label "663"
     geocode_append "Missouri"
     Country "United States"
     Longitude -89.51815
@@ -5891,7 +5891,7 @@ graph [
   ]
   node [
     id 664
-    label "Perry"
+    label "664"
     geocode_append "Illinois"
     Country "United States"
     Longitude -90.74541
@@ -5900,7 +5900,7 @@ graph [
   ]
   node [
     id 665
-    label "Ruston"
+    label "665"
     geocode_append "Louisiana"
     Country "United States"
     Longitude -92.63793
@@ -5909,7 +5909,7 @@ graph [
   ]
   node [
     id 666
-    label "Kalamazoo"
+    label "666"
     geocode_append "Michigan"
     Country "United States"
     Longitude -85.58723
@@ -5918,7 +5918,7 @@ graph [
   ]
   node [
     id 667
-    label "Rome"
+    label "667"
     geocode_append "Georgia"
     Country "United States"
     Longitude -85.16467
@@ -5927,7 +5927,7 @@ graph [
   ]
   node [
     id 668
-    label "Cottondale"
+    label "668"
     geocode_append "Florida"
     Country "United States"
     Longitude -85.3766
@@ -5936,7 +5936,7 @@ graph [
   ]
   node [
     id 669
-    label "Pensacola"
+    label "669"
     geocode_append "Florida"
     Country "United States"
     Longitude -87.21691
@@ -5945,7 +5945,7 @@ graph [
   ]
   node [
     id 670
-    label "Meridian"
+    label "670"
     geocode_append "Mississippi"
     Country "United States"
     Longitude -88.70366
@@ -5954,7 +5954,7 @@ graph [
   ]
   node [
     id 671
-    label "Lynchburg"
+    label "671"
     geocode_append "Virginia"
     Country "United States"
     Longitude -79.14225
@@ -5963,7 +5963,7 @@ graph [
   ]
   node [
     id 672
-    label "Charlottesville"
+    label "672"
     geocode_append "Virginia"
     Country "United States"
     Longitude -78.47668
@@ -5972,7 +5972,7 @@ graph [
   ]
   node [
     id 673
-    label "Whitesburg"
+    label "673"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -82.82683
@@ -5981,7 +5981,7 @@ graph [
   ]
   node [
     id 674
-    label "Pikeville"
+    label "674"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -82.51876
@@ -5990,7 +5990,7 @@ graph [
   ]
   node [
     id 675
-    label "Norton"
+    label "675"
     geocode_append "Virginia"
     Country "United States"
     Longitude -82.62905
@@ -5999,7 +5999,7 @@ graph [
   ]
   node [
     id 676
-    label "Pennington Gap"
+    label "676"
     geocode_append "Virginia"
     Country "United States"
     Longitude -83.02711
@@ -6008,7 +6008,7 @@ graph [
   ]
   node [
     id 677
-    label "Hazard"
+    label "677"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -83.19323
@@ -6017,7 +6017,7 @@ graph [
   ]
   node [
     id 678
-    label "Hyden"
+    label "678"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -83.37324
@@ -6026,7 +6026,7 @@ graph [
   ]
   node [
     id 679
-    label "Manchester"
+    label "679"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -83.76186
@@ -6035,7 +6035,7 @@ graph [
   ]
   node [
     id 680
-    label "Barbourville"
+    label "680"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -83.88881
@@ -6044,7 +6044,7 @@ graph [
   ]
   node [
     id 681
-    label "Baldwin"
+    label "681"
     geocode_append "Florida"
     Country "United States"
     Longitude -81.97539
@@ -6053,7 +6053,7 @@ graph [
   ]
   node [
     id 682
-    label "Jesup"
+    label "682"
     geocode_append "Georgia"
     Country "United States"
     Longitude -81.88539
@@ -6062,7 +6062,7 @@ graph [
   ]
   node [
     id 683
-    label "Lake City"
+    label "683"
     geocode_append "Florida"
     Country "United States"
     Longitude -82.63929
@@ -6071,7 +6071,7 @@ graph [
   ]
   node [
     id 684
-    label "Jacksonville"
+    label "684"
     geocode_append "Florida"
     Country "United States"
     Longitude -81.65565
@@ -6080,7 +6080,7 @@ graph [
   ]
   node [
     id 685
-    label "Greenville"
+    label "685"
     geocode_append "Florida"
     Country "United States"
     Longitude -83.63015
@@ -6089,7 +6089,7 @@ graph [
   ]
   node [
     id 686
-    label "Live Oak"
+    label "686"
     geocode_append "Florida"
     Country "United States"
     Longitude -82.98402
@@ -6098,7 +6098,7 @@ graph [
   ]
   node [
     id 687
-    label "Oxford"
+    label "687"
     geocode_append "Mississippi"
     Country "United States"
     Longitude -89.51925
@@ -6107,7 +6107,7 @@ graph [
   ]
   node [
     id 688
-    label "Columbus"
+    label "688"
     geocode_append "Mississippi"
     Country "United States"
     Longitude -88.42726
@@ -6116,7 +6116,7 @@ graph [
   ]
   node [
     id 689
-    label "Starkville"
+    label "689"
     geocode_append "Mississippi"
     Country "United States"
     Longitude -88.81839
@@ -6125,7 +6125,7 @@ graph [
   ]
   node [
     id 690
-    label "Springfield"
+    label "690"
     geocode_append "Illinois"
     Country "United States"
     Longitude -89.64371
@@ -6134,7 +6134,7 @@ graph [
   ]
   node [
     id 691
-    label "West Point"
+    label "691"
     geocode_append "Georgia"
     Country "United States"
     Longitude -85.18327
@@ -6143,7 +6143,7 @@ graph [
   ]
   node [
     id 692
-    label "La Grange"
+    label "692"
     geocode_append "Georgia"
     Country "United States"
     Longitude -85.03133
@@ -6152,7 +6152,7 @@ graph [
   ]
   node [
     id 693
-    label "Carrollton"
+    label "693"
     geocode_append "Georgia"
     Country "United States"
     Longitude -85.07661
@@ -6161,7 +6161,7 @@ graph [
   ]
   node [
     id 694
-    label "Louisville"
+    label "694"
     geocode_append "Mississippi"
     Country "United States"
     Longitude -89.05506
@@ -6170,7 +6170,7 @@ graph [
   ]
   node [
     id 695
-    label "Cartersville"
+    label "695"
     geocode_append "Georgia"
     Country "United States"
     Longitude -84.79994
@@ -6179,7 +6179,7 @@ graph [
   ]
   node [
     id 696
-    label "Dunwoody"
+    label "696"
     geocode_append "Georgia"
     Country "United States"
     Longitude -84.33465
@@ -6188,7 +6188,7 @@ graph [
   ]
   node [
     id 697
-    label "Atlanta"
+    label "697"
     geocode_append "Georgia"
     Country "United States"
     Longitude -84.38798
@@ -6197,7 +6197,7 @@ graph [
   ]
   node [
     id 698
-    label "Norcross"
+    label "698"
     geocode_append "Georgia"
     Country "United States"
     Longitude -84.21353
@@ -6206,7 +6206,7 @@ graph [
   ]
   node [
     id 699
-    label "Collierville"
+    label "699"
     geocode_append "Tennessee"
     Country "United States"
     Longitude -89.66453
@@ -6215,7 +6215,7 @@ graph [
   ]
   node [
     id 700
-    label "Columbus"
+    label "700"
     geocode_append "Georgia"
     Country "United States"
     Longitude -84.98771
@@ -6224,7 +6224,7 @@ graph [
   ]
   node [
     id 701
-    label "Holly Springs"
+    label "701"
     geocode_append "Mississippi"
     Country "United States"
     Longitude -89.44869
@@ -6233,7 +6233,7 @@ graph [
   ]
   node [
     id 702
-    label "Corinth"
+    label "702"
     geocode_append "Mississippi"
     Country "United States"
     Longitude -88.52227
@@ -6242,7 +6242,7 @@ graph [
   ]
   node [
     id 703
-    label "Tupolo"
+    label "703"
     geocode_append "Mississippi"
     Country "United States"
     Longitude -88.70339
@@ -6251,7 +6251,7 @@ graph [
   ]
   node [
     id 704
-    label "Champaign"
+    label "704"
     geocode_append "Illinois"
     Country "United States"
     Longitude -88.24338
@@ -6260,7 +6260,7 @@ graph [
   ]
   node [
     id 705
-    label "Wickliffe"
+    label "705"
     geocode_append "Kentucky"
     Country "United States"
     Longitude -89.08923
@@ -6269,7 +6269,7 @@ graph [
   ]
   node [
     id 706
-    label "Xenia"
+    label "706"
     geocode_append "Ohio"
     Country "United States"
     Longitude -83.92965
@@ -6278,7 +6278,7 @@ graph [
   ]
   node [
     id 707
-    label "Centerville"
+    label "707"
     geocode_append "Ohio"
     Country "United States"
     Longitude -84.15938
@@ -6287,7 +6287,7 @@ graph [
   ]
   node [
     id 708
-    label "Duluth"
+    label "708"
     geocode_append "Minnesota"
     Country "United States"
     Longitude -92.10658
@@ -6296,7 +6296,7 @@ graph [
   ]
   node [
     id 709
-    label "Delaware"
+    label "709"
     geocode_append "Ohio"
     Country "United States"
     Longitude -83.06796
@@ -6305,7 +6305,7 @@ graph [
   ]
   node [
     id 710
-    label "Marysville"
+    label "710"
     geocode_append "Ohio"
     Country "United States"
     Longitude -83.36714
@@ -6314,7 +6314,7 @@ graph [
   ]
   node [
     id 711
-    label "Bellefontaine"
+    label "711"
     geocode_append "Ohio"
     Country "United States"
     Longitude -83.75966
@@ -6323,7 +6323,7 @@ graph [
   ]
   node [
     id 712
-    label "Springfield"
+    label "712"
     geocode_append "Ohio"
     Country "United States"
     Longitude -83.80882
@@ -6332,7 +6332,7 @@ graph [
   ]
   node [
     id 713
-    label "Portsmouth"
+    label "713"
     geocode_append "Ohio"
     Country "United States"
     Longitude -82.99767
@@ -6341,7 +6341,7 @@ graph [
   ]
   node [
     id 714
-    label "Chillicothe"
+    label "714"
     geocode_append "Ohio"
     Country "United States"
     Longitude -82.9824
@@ -6350,7 +6350,7 @@ graph [
   ]
   node [
     id 715
-    label "Columbus"
+    label "715"
     geocode_append "Ohio"
     Country "United States"
     Longitude -82.99879
@@ -6359,7 +6359,7 @@ graph [
   ]
   node [
     id 716
-    label "Worthington"
+    label "716"
     geocode_append "Ohio"
     Country "United States"
     Longitude -83.01796
@@ -6368,7 +6368,7 @@ graph [
   ]
   node [
     id 717
-    label "Sheboygan"
+    label "717"
     geocode_append "Wisconsin"
     Country "United States"
     Longitude -87.71453
@@ -6377,7 +6377,7 @@ graph [
   ]
   node [
     id 718
-    label "Manitowoc"
+    label "718"
     geocode_append "Wisconsin"
     Country "United States"
     Longitude -87.65758
@@ -6386,7 +6386,7 @@ graph [
   ]
   node [
     id 719
-    label "Brookfield"
+    label "719"
     geocode_append "Wisconsin"
     Country "United States"
     Longitude -88.10648
@@ -6395,7 +6395,7 @@ graph [
   ]
   node [
     id 720
-    label "West Bend"
+    label "720"
     geocode_append "Wisconsin"
     Country "United States"
     Longitude -88.18343
@@ -6404,7 +6404,7 @@ graph [
   ]
   node [
     id 721
-    label "Lancaster"
+    label "721"
     geocode_append "Ohio"
     Country "United States"
     Longitude -82.59933
@@ -6413,7 +6413,7 @@ graph [
   ]
   node [
     id 722
-    label "Wheeling"
+    label "722"
     Country "United States"
     Longitude -80.72091
     Internal 1
@@ -6421,7 +6421,7 @@ graph [
   ]
   node [
     id 723
-    label "North Manchester"
+    label "723"
     geocode_append "Indiana"
     Country "United States"
     Longitude -85.7686
@@ -6430,7 +6430,7 @@ graph [
   ]
   node [
     id 724
-    label "Wabash"
+    label "724"
     geocode_append "Indiana"
     Country "United States"
     Longitude -85.82054
@@ -6439,7 +6439,7 @@ graph [
   ]
   node [
     id 725
-    label "Marion"
+    label "725"
     geocode_append "Indiana"
     Country "United States"
     geocode_id "4923210"
@@ -6449,7 +6449,7 @@ graph [
   ]
   node [
     id 726
-    label "Peru"
+    label "726"
     geocode_append "Indiana"
     Country "United States"
     Longitude -86.06888
@@ -6458,7 +6458,7 @@ graph [
   ]
   node [
     id 727
-    label "Warsaw"
+    label "727"
     geocode_append "Indiana"
     Country "United States"
     Longitude -85.85305
@@ -6467,7 +6467,7 @@ graph [
   ]
   node [
     id 728
-    label "Columbia City"
+    label "728"
     geocode_append "Indiana"
     Country "United States"
     Longitude -85.48831
@@ -6476,7 +6476,7 @@ graph [
   ]
   node [
     id 729
-    label "Fort Wayne"
+    label "729"
     geocode_append "Indiana"
     Country "United States"
     Longitude -85.12886
@@ -6485,7 +6485,7 @@ graph [
   ]
   node [
     id 730
-    label "Huntington"
+    label "730"
     geocode_append "Indiana"
     Country "United States"
     Longitude -85.49748
@@ -6494,7 +6494,7 @@ graph [
   ]
   node [
     id 731
-    label "Princeton"
+    label "731"
     geocode_append "Illinois"
     Country "United States"
     Longitude -89.46481
@@ -6503,7 +6503,7 @@ graph [
   ]
   node [
     id 732
-    label "Zanesville"
+    label "732"
     geocode_append "Ohio"
     Country "United States"
     Longitude -82.01319
@@ -6512,7 +6512,7 @@ graph [
   ]
   node [
     id 733
-    label "Westfield"
+    label "733"
     geocode_append "Indiana"
     Country "United States"
     Longitude -86.12749
@@ -6521,7 +6521,7 @@ graph [
   ]
   node [
     id 734
-    label "Danville"
+    label "734"
     geocode_append "Illinois"
     Country "United States"
     Longitude -87.63002
@@ -6530,7 +6530,7 @@ graph [
   ]
   node [
     id 735
-    label "Montrose"
+    label "735"
     geocode_append "Ohio"
     Country "United States"
     Longitude -81.64378
@@ -6539,7 +6539,7 @@ graph [
   ]
   node [
     id 736
-    label "Du Quoin"
+    label "736"
     geocode_append "Illinois"
     Country "United States"
     Longitude -89.23619
@@ -6548,7 +6548,7 @@ graph [
   ]
   node [
     id 737
-    label "St Cloud"
+    label "737"
     geocode_append "Minnesota"
     Country "United States"
     Longitude -94.16249
@@ -6557,7 +6557,7 @@ graph [
   ]
   node [
     id 738
-    label "McGregor"
+    label "738"
     geocode_append "Minnesota"
     Country "United States"
     Longitude -93.31384
@@ -6566,7 +6566,7 @@ graph [
   ]
   node [
     id 739
-    label "Terre Haute"
+    label "739"
     geocode_append "Indiana"
     Country "United States"
     Longitude -87.41391
@@ -6575,7 +6575,7 @@ graph [
   ]
   node [
     id 740
-    label "Bloomington"
+    label "740"
     geocode_append "Illinois"
     Country "United States"
     Longitude -88.99369
@@ -6584,7 +6584,7 @@ graph [
   ]
   node [
     id 741
-    label "Peoria"
+    label "741"
     geocode_append "Illinois"
     Country "United States"
     Longitude -89.58899
@@ -6593,7 +6593,7 @@ graph [
   ]
   node [
     id 742
-    label "Galesburg"
+    label "742"
     geocode_append "Illinois"
     Country "United States"
     Longitude -90.37124
@@ -6602,7 +6602,7 @@ graph [
   ]
   node [
     id 743
-    label "Moline"
+    label "743"
     Country "United States"
     Longitude -90.51513
     Internal 1
@@ -6610,7 +6610,7 @@ graph [
   ]
   node [
     id 744
-    label "Sheffield"
+    label "744"
     geocode_append "Illinois"
     Country "United States"
     Longitude -89.73732
@@ -6619,7 +6619,7 @@ graph [
   ]
   node [
     id 745
-    label "Springfield"
+    label "745"
     geocode_append "Missouri"
     Country "United States"
     Longitude -93.29824
@@ -6628,7 +6628,7 @@ graph [
   ]
   node [
     id 746
-    label "Fargo"
+    label "746"
     Country "United States"
     Longitude -96.7898
     Internal 1
@@ -6636,7 +6636,7 @@ graph [
   ]
   node [
     id 747
-    label "Moorhead"
+    label "747"
     geocode_append "Minnesota"
     Country "United States"
     Longitude -96.76758
@@ -6645,7 +6645,7 @@ graph [
   ]
   node [
     id 748
-    label "Fergus Falls"
+    label "748"
     geocode_append "Minnesota"
     Country "United States"
     Longitude -96.07756
@@ -6654,7 +6654,7 @@ graph [
   ]
   node [
     id 749
-    label "Alexandria"
+    label "749"
     geocode_append "Minnesota"
     Country "United States"
     Longitude -95.37754
@@ -6663,7 +6663,7 @@ graph [
   ]
   node [
     id 750
-    label "Freeport"
+    label "750"
     geocode_append "Minnesota"
     Country "United States"
     Longitude -94.69001
@@ -6672,7 +6672,7 @@ graph [
   ]
   node [
     id 751
-    label "Lebanon"
+    label "751"
     geocode_append "Missouri"
     Country "United States"
     Longitude -92.66379
@@ -6681,7 +6681,7 @@ graph [
   ]
   node [
     id 752
-    label "Little Falls"
+    label "752"
     geocode_append "Minnesota"
     Country "United States"
     Longitude -94.3625
@@ -6690,7 +6690,7 @@ graph [
   ]
   node [
     id 753
-    label "Brainerd"
+    label "753"
     geocode_append "Minnesota"
     Country "United States"
     Longitude -94.20083
@@ -6826,11 +6826,6 @@ graph [
     source 15
     target 16
     id "e46"
-  ]
-  edge [
-    source 15
-    target 16
-    id "e45"
   ]
   edge [
     source 16
@@ -7506,11 +7501,6 @@ graph [
     source 92
     target 343
     id "e191"
-  ]
-  edge [
-    source 92
-    target 343
-    id "e192"
   ]
   edge [
     source 93
@@ -8648,11 +8638,6 @@ graph [
     id "e717"
   ]
   edge [
-    source 237
-    target 238
-    id "e716"
-  ]
-  edge [
     source 238
     target 634
     id "e718"
@@ -9501,11 +9486,6 @@ graph [
     source 378
     target 403
     id "e816"
-  ]
-  edge [
-    source 378
-    target 403
-    id "e817"
   ]
   edge [
     source 379

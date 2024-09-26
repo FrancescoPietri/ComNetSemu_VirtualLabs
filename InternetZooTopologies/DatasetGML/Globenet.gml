@@ -29,7 +29,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Santa Elena"
+    label "0"
     Country "Venezuela"
     Longitude -61.13333
     Internal 1
@@ -38,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "Manaus"
+    label "1"
     Country "Brazil"
     Longitude -60.025
     Internal 1
@@ -47,7 +47,7 @@ graph [
   ]
   node [
     id 2
-    label "Bogota"
+    label "2"
     Country "Colombia"
     Longitude -74.08175
     Internal 1
@@ -56,7 +56,7 @@ graph [
   ]
   node [
     id 3
-    label "Boa Vista"
+    label "3"
     Country "Brazil"
     Longitude -60.67333
     Internal 1
@@ -65,13 +65,13 @@ graph [
   ]
   node [
     id 4
-    label "1"
+    label "4"
     Internal 1
     type "Oi Domestic Network PoP"
   ]
   node [
     id 5
-    label "Belem"
+    label "5"
     Country "Brazil"
     Longitude -48.50444
     Internal 1
@@ -80,7 +80,7 @@ graph [
   ]
   node [
     id 6
-    label "Sao Luis"
+    label "6"
     Country "Brazil"
     Longitude -44.30278
     Internal 1
@@ -89,7 +89,7 @@ graph [
   ]
   node [
     id 7
-    label "Teresina"
+    label "7"
     Country "Brazil"
     Longitude -42.80194
     Internal 1
@@ -98,7 +98,7 @@ graph [
   ]
   node [
     id 8
-    label "Florianopolois"
+    label "8"
     Country "Brazil"
     Longitude -48.54917
     Internal 1
@@ -107,13 +107,13 @@ graph [
   ]
   node [
     id 9
-    label "12"
+    label "9"
     Internal 1
     type "Oi Domestic Network PoP"
   ]
   node [
     id 10
-    label "Fortaleza"
+    label "10"
     Country "Brazil"
     Longitude -38.54306
     Internal 1
@@ -122,7 +122,7 @@ graph [
   ]
   node [
     id 11
-    label "Natal"
+    label "11"
     Country "Brazil"
     Longitude -35.20944
     Internal 1
@@ -131,19 +131,19 @@ graph [
   ]
   node [
     id 12
-    label "9"
+    label "12"
     Internal 1
     type "Oi Domestic Network PoP"
   ]
   node [
     id 13
-    label "14"
+    label "13"
     Internal 1
     type "Oi Domestic Network PoP"
   ]
   node [
     id 14
-    label "Campo Grande"
+    label "14"
     Country "Brazil"
     Longitude -54.64639
     Internal 1
@@ -158,7 +158,7 @@ graph [
   ]
   node [
     id 16
-    label "Rondonopolis"
+    label "16"
     Country "Brazil"
     Longitude -54.63556
     Internal 1
@@ -167,19 +167,19 @@ graph [
   ]
   node [
     id 17
-    label "19"
+    label "17"
     Internal 1
     type "Oi Domestic Network PoP"
   ]
   node [
     id 18
-    label "3"
+    label "18"
     Internal 1
     type "Oi Domestic Network PoP"
   ]
   node [
     id 19
-    label "Brasilia"
+    label "19"
     Country "Brazil"
     Longitude -47.92972
     Internal 1
@@ -188,13 +188,13 @@ graph [
   ]
   node [
     id 20
-    label "4"
+    label "20"
     Internal 1
     type "Oi Domestic Network PoP"
   ]
   node [
     id 21
-    label "Goiania"
+    label "21"
     Country "Brazil"
     Longitude -49.25389
     Internal 1
@@ -203,7 +203,7 @@ graph [
   ]
   node [
     id 22
-    label "Palmas"
+    label "22"
     Country "Brazil"
     Longitude -48.36028
     Internal 1
@@ -212,13 +212,13 @@ graph [
   ]
   node [
     id 23
-    label "21"
+    label "23"
     Internal 1
     type "Oi Domestic Network PoP"
   ]
   node [
     id 24
-    label "Cuiaba"
+    label "24"
     Country "Brazil"
     Longitude -56.09667
     Internal 1
@@ -227,13 +227,13 @@ graph [
   ]
   node [
     id 25
-    label "20"
+    label "25"
     Internal 1
     type "Oi Domestic Network PoP"
   ]
   node [
     id 26
-    label "Porto Alegre"
+    label "26"
     Country "Brazil"
     Longitude -51.23
     Internal 1
@@ -242,7 +242,7 @@ graph [
   ]
   node [
     id 27
-    label "Pelotas"
+    label "27"
     Country "Brazil"
     Longitude -52.3425
     Internal 1
@@ -251,49 +251,49 @@ graph [
   ]
   node [
     id 28
-    label "10"
+    label "28"
     Internal 1
     type "Oi Domestic Network PoP"
   ]
   node [
     id 29
-    label "16"
+    label "29"
     Internal 1
     type "Oi Domestic Network PoP"
   ]
   node [
     id 30
-    label "8"
+    label "30"
     Internal 1
     type "Oi Domestic Network PoP"
   ]
   node [
     id 31
-    label "None"
+    label "31"
     hyperedge 1
     Internal 1
   ]
   node [
     id 32
-    label "None"
+    label "32"
     hyperedge 1
     Internal 1
   ]
   node [
     id 33
-    label "None"
+    label "33"
     hyperedge 1
     Internal 1
   ]
   node [
     id 34
-    label "11"
+    label "34"
     Internal 1
     type "Oi Domestic Network PoP"
   ]
   node [
     id 35
-    label "Rio Branco"
+    label "35"
     Country "Brazil"
     Longitude -67.81
     Internal 1
@@ -302,7 +302,7 @@ graph [
   ]
   node [
     id 36
-    label "Porto Velho"
+    label "36"
     Country "Brazil"
     Longitude -63.90389
     Internal 1
@@ -311,19 +311,19 @@ graph [
   ]
   node [
     id 37
-    label "18"
+    label "37"
     Internal 1
     type "Oi Domestic Network PoP"
   ]
   node [
     id 38
-    label "6"
+    label "38"
     Internal 1
     type "Oi Domestic Network PoP"
   ]
   node [
     id 39
-    label "Rio de Janeiro"
+    label "39"
     Country "Brazil"
     Longitude -43.2075
     Internal 1
@@ -332,7 +332,7 @@ graph [
   ]
   node [
     id 40
-    label "Sao Paulo"
+    label "40"
     Country "Brazil"
     Longitude -46.63611
     Internal 1
@@ -341,19 +341,19 @@ graph [
   ]
   node [
     id 41
-    label "17"
+    label "41"
     Internal 1
     type "Oi Domestic Network PoP"
   ]
   node [
     id 42
-    label "6"
+    label "42"
     Internal 1
     type "International Network PoP"
   ]
   node [
     id 43
-    label "Curitiba"
+    label "43"
     Country "Brazil"
     Longitude -49.27306
     Internal 1
@@ -362,19 +362,19 @@ graph [
   ]
   node [
     id 44
-    label "7"
+    label "44"
     Internal 1
     type "Oi Domestic Network PoP"
   ]
   node [
     id 45
-    label "22"
+    label "45"
     Internal 1
     type "Oi Domestic Network PoP"
   ]
   node [
     id 46
-    label "Campinas"
+    label "46"
     Country "Brazil"
     Longitude -47.06083
     Internal 1
@@ -383,7 +383,7 @@ graph [
   ]
   node [
     id 47
-    label "Maceio"
+    label "47"
     Country "Brazil"
     Longitude -35.73528
     Internal 1
@@ -392,13 +392,13 @@ graph [
   ]
   node [
     id 48
-    label "2"
+    label "48"
     Internal 1
     type "Oi Domestic Network PoP"
   ]
   node [
     id 49
-    label "Recife"
+    label "49"
     Country "Brazil"
     Longitude -34.88111
     Internal 1
@@ -407,7 +407,7 @@ graph [
   ]
   node [
     id 50
-    label "Joao Pessoa"
+    label "50"
     Country "Brazil"
     Longitude -34.86306
     Internal 1
@@ -416,13 +416,13 @@ graph [
   ]
   node [
     id 51
-    label "23"
+    label "51"
     Internal 1
     type "Oi Domestic Network PoP"
   ]
   node [
     id 52
-    label "Vitoria"
+    label "52"
     Country "Brazil"
     Longitude -40.33778
     Internal 1
@@ -431,7 +431,7 @@ graph [
   ]
   node [
     id 53
-    label "Salvador"
+    label "53"
     Country "Brazil"
     Longitude -38.51083
     Internal 1
@@ -440,7 +440,7 @@ graph [
   ]
   node [
     id 54
-    label "Aracaju"
+    label "54"
     Country "Brazil"
     Longitude -37.07167
     Internal 1
@@ -449,7 +449,7 @@ graph [
   ]
   node [
     id 55
-    label "Miami"
+    label "55"
     Country "United States"
     Longitude -80.19366
     Internal 1
@@ -458,13 +458,13 @@ graph [
   ]
   node [
     id 56
-    label "None"
+    label "56"
     hyperedge 1
     Internal 1
   ]
   node [
     id 57
-    label "Medellin"
+    label "57"
     Country "Colombia"
     Longitude -75.53611
     Internal 1
@@ -473,7 +473,7 @@ graph [
   ]
   node [
     id 58
-    label "Cali"
+    label "58"
     Country "Colombia"
     Longitude -76.5225
     Internal 1
@@ -482,7 +482,7 @@ graph [
   ]
   node [
     id 59
-    label "St David's"
+    label "59"
     Country "Grenada"
     Longitude -61.66667
     Internal 1
@@ -491,7 +491,7 @@ graph [
   ]
   node [
     id 60
-    label "New York"
+    label "60"
     Country "United States"
     Longitude -74.00597
     Internal 1
@@ -500,7 +500,7 @@ graph [
   ]
   node [
     id 61
-    label "Tuckerton"
+    label "61"
     Country "United States"
     Longitude -74.34014
     Internal 1
@@ -509,7 +509,7 @@ graph [
   ]
   node [
     id 62
-    label "Boca Raton"
+    label "62"
     Country "United States"
     Longitude -80.0831
     Internal 1
@@ -518,13 +518,13 @@ graph [
   ]
   node [
     id 63
-    label "13"
+    label "63"
     Internal 1
     type "Oi Domestic Network PoP"
   ]
   node [
     id 64
-    label "Maiquetia"
+    label "64"
     Country "Venezuela"
     Longitude -66.95
     Internal 1
@@ -533,7 +533,7 @@ graph [
   ]
   node [
     id 65
-    label "Caracas"
+    label "65"
     Country "Venezuela"
     Longitude -66.91667
     Internal 1
@@ -542,7 +542,7 @@ graph [
   ]
   node [
     id 66
-    label "Cucuta"
+    label "66"
     Country "Colombia"
     Longitude -72.50528
     Internal 1
@@ -553,11 +553,6 @@ graph [
     source 0
     target 65
     id "e11"
-  ]
-  edge [
-    source 0
-    target 65
-    id "e12"
   ]
   edge [
     source 0
@@ -636,11 +631,6 @@ graph [
   ]
   edge [
     source 9
-    target 26
-    id "e110"
-  ]
-  edge [
-    source 9
     target 12
     id "e100"
   ]
@@ -663,11 +653,6 @@ graph [
     source 10
     target 39
     id "e27"
-  ]
-  edge [
-    source 10
-    target 39
-    id "e28"
   ]
   edge [
     source 10
@@ -740,11 +725,6 @@ graph [
     id "e68"
   ]
   edge [
-    source 16
-    target 23
-    id "e69"
-  ]
-  edge [
     source 17
     target 34
     id "e76"
@@ -753,11 +733,6 @@ graph [
     source 17
     target 38
     id "e75"
-  ]
-  edge [
-    source 17
-    target 38
-    id "e74"
   ]
   edge [
     source 18
@@ -805,11 +780,6 @@ graph [
     id "e66"
   ]
   edge [
-    source 23
-    target 24
-    id "e67"
-  ]
-  edge [
     source 24
     target 25
     id "e70"
@@ -850,11 +820,6 @@ graph [
     id "e95"
   ]
   edge [
-    source 29
-    target 30
-    id "e94"
-  ]
-  edge [
     source 30
     target 44
     id "e87"
@@ -883,11 +848,6 @@ graph [
     source 32
     target 53
     id "e40"
-  ]
-  edge [
-    source 32
-    target 53
-    id "e41"
   ]
   edge [
     source 34
@@ -936,18 +896,8 @@ graph [
   ]
   edge [
     source 39
-    target 42
-    id "e81"
-  ]
-  edge [
-    source 39
     target 46
     id "e53"
-  ]
-  edge [
-    source 39
-    target 46
-    id "e52"
   ]
   edge [
     source 40
@@ -966,18 +916,8 @@ graph [
   ]
   edge [
     source 42
-    target 43
-    id "e85"
-  ]
-  edge [
-    source 42
     target 46
     id "e55"
-  ]
-  edge [
-    source 42
-    target 46
-    id "e54"
   ]
   edge [
     source 43
@@ -988,11 +928,6 @@ graph [
     source 43
     target 63
     id "e91"
-  ]
-  edge [
-    source 43
-    target 63
-    id "e92"
   ]
   edge [
     source 45
@@ -1025,11 +960,6 @@ graph [
     id "e37"
   ]
   edge [
-    source 48
-    target 53
-    id "e36"
-  ]
-  edge [
     source 49
     target 50
     id "e33"
@@ -1055,11 +985,6 @@ graph [
     id "e5"
   ]
   edge [
-    source 55
-    target 62
-    id "e6"
-  ]
-  edge [
     source 57
     target 58
     id "e17"
@@ -1080,11 +1005,6 @@ graph [
     id "e3"
   ]
   edge [
-    source 60
-    target 61
-    id "e2"
-  ]
-  edge [
     source 61
     target 62
     id "e4"
@@ -1100,18 +1020,8 @@ graph [
     id "e10"
   ]
   edge [
-    source 64
-    target 65
-    id "e9"
-  ]
-  edge [
     source 65
     target 66
     id "e13"
-  ]
-  edge [
-    source 65
-    target 66
-    id "e14"
   ]
 ]

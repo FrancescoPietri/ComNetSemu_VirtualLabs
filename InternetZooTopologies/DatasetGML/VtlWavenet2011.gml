@@ -30,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Ependes"
+    label "0"
     Country "Switzerland"
     Longitude 7.14609
     Internal 1
@@ -39,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "Olten"
+    label "1"
     Country "Switzerland"
     Longitude 7.90329
     Internal 1
@@ -48,7 +48,7 @@ graph [
   ]
   node [
     id 2
-    label "Souppes"
+    label "2"
     Country "France"
     Longitude 2.73333
     Internal 1
@@ -57,7 +57,7 @@ graph [
   ]
   node [
     id 3
-    label "Briare"
+    label "3"
     Country "France"
     Longitude 2.7438
     Internal 1
@@ -66,7 +66,7 @@ graph [
   ]
   node [
     id 4
-    label "Nevers"
+    label "4"
     Country "France"
     Longitude 3.159
     Internal 1
@@ -75,7 +75,7 @@ graph [
   ]
   node [
     id 5
-    label "Bourbon"
+    label "5"
     Country "France"
     Longitude 3.76953
     Internal 1
@@ -84,7 +84,7 @@ graph [
   ]
   node [
     id 6
-    label "Charolles"
+    label "6"
     Country "France"
     Longitude 4.28333
     Internal 1
@@ -93,7 +93,7 @@ graph [
   ]
   node [
     id 7
-    label "Belleville"
+    label "7"
     Country "France"
     Longitude 4.75
     Internal 1
@@ -102,7 +102,7 @@ graph [
   ]
   node [
     id 8
-    label "Sault Brenaz"
+    label "8"
     Country "France"
     Longitude 5.41667
     Internal 1
@@ -111,7 +111,7 @@ graph [
   ]
   node [
     id 9
-    label "Lavours"
+    label "9"
     Country "France"
     Longitude 5.76667
     Internal 1
@@ -120,7 +120,7 @@ graph [
   ]
   node [
     id 10
-    label "Lyon"
+    label "10"
     Country "France"
     Longitude 4.85
     Internal 1
@@ -129,13 +129,13 @@ graph [
   ]
   node [
     id 11
-    label "None"
+    label "11"
     hyperedge 1
     Internal 1
   ]
   node [
     id 12
-    label "Montfaucon"
+    label "12"
     geocode_append "Arrondissement de Nimes"
     Country "France"
     Longitude 4.75
@@ -145,7 +145,7 @@ graph [
   ]
   node [
     id 13
-    label "Antwerp (NMBS)"
+    label "13"
     Country "Belgium"
     Longitude 4.41667
     Internal 1
@@ -154,7 +154,7 @@ graph [
   ]
   node [
     id 14
-    label "Toulouse"
+    label "14"
     Country "France"
     Longitude 1.44367
     Internal 1
@@ -163,7 +163,7 @@ graph [
   ]
   node [
     id 15
-    label "Brussels MIDI (NMBS)"
+    label "15"
     Country "Belgium"
     Longitude 4.34878
     Internal 1
@@ -172,7 +172,7 @@ graph [
   ]
   node [
     id 16
-    label "Marseille"
+    label "16"
     Country "France"
     Longitude 5.38107
     Internal 1
@@ -181,7 +181,7 @@ graph [
   ]
   node [
     id 17
-    label "Bordeaux"
+    label "17"
     Country "France"
     Longitude -0.56667
     Internal 1
@@ -190,7 +190,7 @@ graph [
   ]
   node [
     id 18
-    label "Luzern"
+    label "18"
     Country "Switzerland"
     Longitude 8.30635
     Internal 1
@@ -199,7 +199,7 @@ graph [
   ]
   node [
     id 19
-    label "Milan"
+    label "19"
     Country "Italy"
     Longitude 9.18951
     Internal 1
@@ -208,7 +208,7 @@ graph [
   ]
   node [
     id 20
-    label "Azy-sur-Marne"
+    label "20"
     Country "France"
     Longitude 3.36786
     Internal 1
@@ -217,7 +217,7 @@ graph [
   ]
   node [
     id 21
-    label "Meaux"
+    label "21"
     Country "France"
     Longitude 2.86667
     Internal 1
@@ -226,7 +226,7 @@ graph [
   ]
   node [
     id 22
-    label "Revigny"
+    label "22"
     Country "France"
     Longitude 4.98333
     Internal 1
@@ -235,7 +235,7 @@ graph [
   ]
   node [
     id 23
-    label "Conde-sur-Marne"
+    label "23"
     Country "France"
     Longitude 4.18333
     Internal 1
@@ -244,7 +244,7 @@ graph [
   ]
   node [
     id 24
-    label "Leers-Nord Estampuis"
+    label "24"
     Country "France"
     Longitude 3.25
     Internal 1
@@ -253,7 +253,7 @@ graph [
   ]
   node [
     id 25
-    label "Antoing (NMBS)"
+    label "25"
     Country "Belgium"
     Longitude 3.4492
     Internal 1
@@ -262,7 +262,7 @@ graph [
   ]
   node [
     id 26
-    label "Thourotte"
+    label "26"
     Country "France"
     Longitude 2.8821
     Internal 1
@@ -271,7 +271,7 @@ graph [
   ]
   node [
     id 27
-    label "Courrieres"
+    label "27"
     Country "France"
     Longitude 2.93333
     Internal 1
@@ -280,7 +280,7 @@ graph [
   ]
   node [
     id 28
-    label "Gent"
+    label "28"
     Country "Belgium"
     Longitude 3.71667
     Internal 1
@@ -289,7 +289,7 @@ graph [
   ]
   node [
     id 29
-    label "Antwerp"
+    label "29"
     Country "Belgium"
     Longitude 4.41667
     Internal 1
@@ -298,7 +298,7 @@ graph [
   ]
   node [
     id 30
-    label "Altdorf"
+    label "30"
     Country "Switzerland"
     Longitude 8.65
     Internal 1
@@ -307,7 +307,7 @@ graph [
   ]
   node [
     id 31
-    label "Monte Carasso"
+    label "31"
     Country "Switzerland"
     Longitude 8.99892
     Internal 1
@@ -316,7 +316,7 @@ graph [
   ]
   node [
     id 32
-    label "Bern"
+    label "32"
     Country "Switzerland"
     Longitude 7.44744
     Internal 1
@@ -325,7 +325,7 @@ graph [
   ]
   node [
     id 33
-    label "Zurich"
+    label "33"
     Country "Switzerland"
     Longitude 8.55
     Internal 1
@@ -334,7 +334,7 @@ graph [
   ]
   node [
     id 34
-    label "Basel"
+    label "34"
     Country "Switzerland"
     Longitude 7.6
     Internal 1
@@ -343,7 +343,7 @@ graph [
   ]
   node [
     id 35
-    label "Nancy"
+    label "35"
     Country "France"
     Longitude 6.2
     Internal 1
@@ -352,7 +352,7 @@ graph [
   ]
   node [
     id 36
-    label "Strasbourg"
+    label "36"
     Country "France"
     Longitude 7.75
     Internal 1
@@ -361,7 +361,7 @@ graph [
   ]
   node [
     id 37
-    label "Mannheim"
+    label "37"
     Country "Germany"
     Longitude 8.46472
     Internal 1
@@ -370,7 +370,7 @@ graph [
   ]
   node [
     id 38
-    label "Frankfurt"
+    label "38"
     Country "Germany"
     Longitude 8.68333
     Internal 1
@@ -379,7 +379,7 @@ graph [
   ]
   node [
     id 39
-    label "Internexion"
+    label "39"
     Country "Germany"
     Longitude 8.68333
     Internal 1
@@ -388,7 +388,7 @@ graph [
   ]
   node [
     id 40
-    label "Paris La Defense"
+    label "40"
     Country "France"
     Longitude 2.3488
     Internal 1
@@ -397,7 +397,7 @@ graph [
   ]
   node [
     id 41
-    label "Geneva"
+    label "41"
     Country "Switzerland"
     Longitude 6.14569
     Internal 1
@@ -406,7 +406,7 @@ graph [
   ]
   node [
     id 42
-    label "Egham"
+    label "42"
     Country "United Kingdom"
     Longitude -0.56667
     Internal 1
@@ -415,7 +415,7 @@ graph [
   ]
   node [
     id 43
-    label "London Telehouse North"
+    label "43"
     Country "United Kingdom"
     Longitude -0.12574
     Internal 1
@@ -424,7 +424,7 @@ graph [
   ]
   node [
     id 44
-    label "Lowestoft"
+    label "44"
     Country "United Kingdom"
     Longitude 1.75
     Internal 1
@@ -433,7 +433,7 @@ graph [
   ]
   node [
     id 45
-    label "Amsterdam (Schipluidlaan/Deflandlaan)"
+    label "45"
     Country "Netherlands"
     Longitude 4.88969
     Internal 1
@@ -442,7 +442,7 @@ graph [
   ]
   node [
     id 46
-    label "Paris (35Rdj)"
+    label "46"
     Country "France"
     Longitude 2.3488
     Internal 1
@@ -451,7 +451,7 @@ graph [
   ]
   node [
     id 47
-    label "Biaches"
+    label "47"
     Country "France"
     Longitude 2.91667
     Internal 1
@@ -460,7 +460,7 @@ graph [
   ]
   node [
     id 48
-    label "Amiens"
+    label "48"
     Country "France"
     Longitude 2.3
     Internal 1
@@ -469,7 +469,7 @@ graph [
   ]
   node [
     id 49
-    label "Crawley"
+    label "49"
     Country "United Kingdom"
     Longitude -0.18312
     Internal 1
@@ -478,7 +478,7 @@ graph [
   ]
   node [
     id 50
-    label "Rotterdam"
+    label "50"
     Country "Netherlands"
     Longitude 4.47917
     Internal 1
@@ -487,7 +487,7 @@ graph [
   ]
   node [
     id 51
-    label "Brussels Tollaan"
+    label "51"
     Country "Belgium"
     Longitude 4.34878
     Internal 1
@@ -496,7 +496,7 @@ graph [
   ]
   node [
     id 52
-    label "Grisolles"
+    label "52"
     Country "France"
     Longitude 1.29673
     Internal 1
@@ -505,7 +505,7 @@ graph [
   ]
   node [
     id 53
-    label "Bon-Encontre"
+    label "53"
     Country "France"
     Longitude 0.68333
     Internal 1
@@ -514,7 +514,7 @@ graph [
   ]
   node [
     id 54
-    label "Blois"
+    label "54"
     Country "France"
     Longitude 1.33333
     Internal 1
@@ -523,7 +523,7 @@ graph [
   ]
   node [
     id 55
-    label "Nambsheim"
+    label "55"
     Country "France"
     Longitude 7.55
     Internal 1
@@ -532,7 +532,7 @@ graph [
   ]
   node [
     id 56
-    label "Availles (Poiters)"
+    label "56"
     Country "France"
     Longitude 0.33333
     Internal 1
@@ -541,7 +541,7 @@ graph [
   ]
   node [
     id 57
-    label "Veretz (Tours)"
+    label "57"
     Country "France"
     Longitude 0.68333
     Internal 1
@@ -550,7 +550,7 @@ graph [
   ]
   node [
     id 58
-    label "Nersac"
+    label "58"
     Country "France"
     Longitude 0.05
     Internal 1
@@ -559,7 +559,7 @@ graph [
   ]
   node [
     id 59
-    label "Blanzay"
+    label "59"
     Country "France"
     Longitude -0.43333
     Internal 1
@@ -568,7 +568,7 @@ graph [
   ]
   node [
     id 60
-    label "Meilhan"
+    label "60"
     Country "France"
     Longitude 0.03333
     Internal 1
@@ -577,7 +577,7 @@ graph [
   ]
   node [
     id 61
-    label "St-Christophe"
+    label "61"
     Country "France"
     Longitude -0.1
     Internal 1
@@ -586,7 +586,7 @@ graph [
   ]
   node [
     id 62
-    label "Andancette"
+    label "62"
     Country "France"
     Longitude 4.8
     Internal 1
@@ -595,7 +595,7 @@ graph [
   ]
   node [
     id 63
-    label "Dusseldorf"
+    label "63"
     Country "Germany"
     Longitude 6.77616
     Internal 1
@@ -604,7 +604,7 @@ graph [
   ]
   node [
     id 64
-    label "Cazan"
+    label "64"
     Country "France"
     Longitude 5.20709
     Internal 1
@@ -613,7 +613,7 @@ graph [
   ]
   node [
     id 65
-    label "Montelimar"
+    label "65"
     Country "France"
     Longitude 4.75
     Internal 1
@@ -622,7 +622,7 @@ graph [
   ]
   node [
     id 66
-    label "Pichegu"
+    label "66"
     Country "France"
     Longitude 4.51667
     Internal 1
@@ -631,7 +631,7 @@ graph [
   ]
   node [
     id 67
-    label "Fos"
+    label "67"
     Country "France"
     Longitude 4.94457
     Internal 1
@@ -640,7 +640,7 @@ graph [
   ]
   node [
     id 68
-    label "Poilhes"
+    label "68"
     Country "France"
     Longitude 3.08333
     Internal 1
@@ -649,7 +649,7 @@ graph [
   ]
   node [
     id 69
-    label "Sete (Montpellier)"
+    label "69"
     Country "France"
     Longitude 3.88333
     Internal 1
@@ -658,7 +658,7 @@ graph [
   ]
   node [
     id 70
-    label "Avignonet"
+    label "70"
     Country "France"
     Longitude 1.8
     Internal 1
@@ -667,7 +667,7 @@ graph [
   ]
   node [
     id 71
-    label "Marseillette"
+    label "71"
     Country "France"
     Longitude 2.55
     Internal 1
@@ -676,7 +676,7 @@ graph [
   ]
   node [
     id 72
-    label "Artenay (Orleans)"
+    label "72"
     Country "France"
     Longitude 1.9
     Internal 1
@@ -685,7 +685,7 @@ graph [
   ]
   node [
     id 73
-    label "St-Martin"
+    label "73"
     geocode_append "Saint-Martin-en-Biere"
     Country "France"
     Longitude 2.56667
@@ -695,7 +695,7 @@ graph [
   ]
   node [
     id 74
-    label "Snow Hill"
+    label "74"
     Country "United Kingdom"
     Longitude 0.58167
     Internal 1
@@ -704,7 +704,7 @@ graph [
   ]
   node [
     id 75
-    label "Pakenham"
+    label "75"
     Country "United Kingdom"
     Longitude 0.82103
     Internal 1
@@ -713,7 +713,7 @@ graph [
   ]
   node [
     id 76
-    label "Zandvoort"
+    label "76"
     Country "Netherlands"
     Longitude 4.53409
     Internal 1
@@ -722,7 +722,7 @@ graph [
   ]
   node [
     id 77
-    label "Essen"
+    label "77"
     geocode_append "Belgium"
     Country "Belgium"
     Longitude 4.45393
@@ -732,7 +732,7 @@ graph [
   ]
   node [
     id 78
-    label "Corbeil"
+    label "78"
     Country "France"
     Longitude 2.48333
     Internal 1
@@ -741,7 +741,7 @@ graph [
   ]
   node [
     id 79
-    label "L'Isle Adam"
+    label "79"
     Country "France"
     Longitude 2.22818
     Internal 1
@@ -750,7 +750,7 @@ graph [
   ]
   node [
     id 80
-    label "Cayeux-sur-Mer"
+    label "80"
     Country "France"
     Longitude 1.494
     Internal 1
@@ -759,7 +759,7 @@ graph [
   ]
   node [
     id 81
-    label "Polegate"
+    label "81"
     Country "United Kingdom"
     Longitude 0.23333
     Internal 1
@@ -768,7 +768,7 @@ graph [
   ]
   node [
     id 82
-    label "Xouxange"
+    label "82"
     Country "France"
     Longitude 7.0
     Internal 1
@@ -777,7 +777,7 @@ graph [
   ]
   node [
     id 83
-    label "Troussey"
+    label "83"
     Country "France"
     Longitude 5.7
     Internal 1
@@ -786,7 +786,7 @@ graph [
   ]
   node [
     id 84
-    label "Elten"
+    label "84"
     Country "Germany"
     Longitude 6.15
     Internal 1
@@ -795,7 +795,7 @@ graph [
   ]
   node [
     id 85
-    label "Leersum/Doorn??"
+    label "85"
     Country "Netherlands"
     Longitude 5.42778
     Internal 1
@@ -804,7 +804,7 @@ graph [
   ]
   node [
     id 86
-    label "Kapella"
+    label "86"
     Country "Germany"
     Longitude 6.36667
     Internal 1
@@ -813,7 +813,7 @@ graph [
   ]
   node [
     id 87
-    label "Porz"
+    label "87"
     Country "Germany"
     Longitude 7.05
     Internal 1
@@ -822,7 +822,7 @@ graph [
   ]
   node [
     id 88
-    label "Linz"
+    label "88"
     Country "Germany"
     Longitude 7.28333
     Internal 1
@@ -831,7 +831,7 @@ graph [
   ]
   node [
     id 89
-    label "Dernbach"
+    label "89"
     Country "Germany"
     Longitude 7.6
     Internal 1
@@ -840,7 +840,7 @@ graph [
   ]
   node [
     id 90
-    label "Naurod"
+    label "90"
     Country "Germany"
     Longitude 8.3
     Internal 1
@@ -849,7 +849,7 @@ graph [
   ]
   node [
     id 91
-    label "Berg"
+    label "91"
     Country "France"
     Longitude 7.16667
     Internal 1

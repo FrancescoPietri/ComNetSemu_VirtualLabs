@@ -29,7 +29,7 @@ graph [
   Testbed 1
   node [
     id 0
-    label "KDDI Otemachi"
+    label "0"
     Country "Japan"
     Longitude 139.76667
     Internal 1
@@ -37,7 +37,7 @@ graph [
   ]
   node [
     id 1
-    label "Nezu"
+    label "1"
     Country "Japan"
     Longitude 139.76575
     Internal 1
@@ -45,7 +45,7 @@ graph [
   ]
   node [
     id 2
-    label "Yagami"
+    label "2"
     Country "Japan"
     Longitude 129.95
     Internal 1
@@ -53,7 +53,7 @@ graph [
   ]
   node [
     id 3
-    label "ShinKawasaki"
+    label "3"
     Country "Japan"
     Longitude 139.6716
     Internal 1
@@ -61,7 +61,7 @@ graph [
   ]
   node [
     id 4
-    label "Hachioji"
+    label "4"
     Country "Japan"
     Longitude 139.32389
     Internal 1
@@ -69,7 +69,7 @@ graph [
   ]
   node [
     id 5
-    label "Bangkok"
+    label "5"
     Country "Thailand"
     Longitude 100.51667
     Internal 1
@@ -77,7 +77,7 @@ graph [
   ]
   node [
     id 6
-    label "NTT Otemachi"
+    label "6"
     Country "Japan"
     Longitude 139.76667
     Internal 1
@@ -85,7 +85,7 @@ graph [
   ]
   node [
     id 7
-    label "Tsukuba"
+    label "7"
     Country "Japan"
     Longitude 140.1
     Internal 1
@@ -93,17 +93,17 @@ graph [
   ]
   node [
     id 8
-    label "NSPIXP-3"
+    label "8"
     Internal 0
   ]
   node [
     id 9
-    label "JGN2Plus"
+    label "9"
     Internal 0
   ]
   node [
     id 10
-    label "Dojima"
+    label "10"
     Country "Japan"
     Longitude 135.48333
     Internal 1
@@ -111,52 +111,52 @@ graph [
   ]
   node [
     id 11
-    label "PAIX"
+    label "11"
     Internal 0
   ]
   node [
     id 12
-    label "TITECH"
+    label "12"
     Internal 0
   ]
   node [
     id 13
-    label "T-Lex"
+    label "13"
     Internal 0
   ]
   node [
     id 14
-    label "JGN2Plus"
+    label "14"
     Internal 0
   ]
   node [
     id 15
-    label "AI3"
+    label "15"
     Internal 0
   ]
   node [
     id 16
-    label "LAIIX"
+    label "16"
     Internal 0
   ]
   node [
     id 17
-    label "DIX-IE"
+    label "17"
     Internal 0
   ]
   node [
     id 18
-    label "KDDI"
+    label "18"
     Internal 0
   ]
   node [
     id 19
-    label "APAN"
+    label "19"
     Internal 0
   ]
   node [
     id 20
-    label "Los Angeles"
+    label "20"
     Country "United States"
     Longitude -118.24368
     Internal 1
@@ -164,7 +164,7 @@ graph [
   ]
   node [
     id 21
-    label "Fujisawa"
+    label "21"
     Country "Japan"
     Longitude 139.47
     Internal 1
@@ -172,7 +172,7 @@ graph [
   ]
   node [
     id 22
-    label "Nara"
+    label "22"
     Country "Japan"
     Longitude 135.80485
     Internal 1
@@ -180,7 +180,7 @@ graph [
   ]
   node [
     id 23
-    label "Fukuoka"
+    label "23"
     Country "Japan"
     Longitude 130.41806
     Internal 1
@@ -188,7 +188,7 @@ graph [
   ]
   node [
     id 24
-    label "Hiroshima"
+    label "24"
     Country "Japan"
     Longitude 132.45937
     Internal 1
@@ -196,7 +196,7 @@ graph [
   ]
   node [
     id 25
-    label "Kurashiki"
+    label "25"
     Country "Japan"
     Longitude 133.76667
     Internal 1
@@ -204,7 +204,7 @@ graph [
   ]
   node [
     id 26
-    label "Sakyo"
+    label "26"
     Country "Japan"
     Longitude 129.8
     Internal 1
@@ -212,7 +212,7 @@ graph [
   ]
   node [
     id 27
-    label "Komatsu"
+    label "27"
     Country "Japan"
     Longitude 136.45088
     Internal 1
@@ -220,7 +220,7 @@ graph [
   ]
   node [
     id 28
-    label "Sendai"
+    label "28"
     Country "Japan"
     Longitude 140.87194
     Internal 1
@@ -228,7 +228,7 @@ graph [
   ]
   node [
     id 29
-    label "San Francisco"
+    label "29"
     Country "United States"
     Longitude -122.41942
     Internal 1

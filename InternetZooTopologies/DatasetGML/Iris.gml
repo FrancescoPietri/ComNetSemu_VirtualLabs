@@ -29,7 +29,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Gainesboro"
+    label "0"
     Country "United States"
     Longitude -85.65887
     Internal 1
@@ -38,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "Wartburg"
+    label "1"
     Country "United States"
     Longitude -84.59716
     Internal 1
@@ -47,7 +47,7 @@ graph [
   ]
   node [
     id 2
-    label "Scottsville"
+    label "2"
     Country "United States"
     Longitude -86.19054
     Internal 1
@@ -56,7 +56,7 @@ graph [
   ]
   node [
     id 3
-    label "Lafayette"
+    label "3"
     Country "United States"
     Longitude -86.02637
     Internal 1
@@ -65,7 +65,7 @@ graph [
   ]
   node [
     id 4
-    label "Greenville"
+    label "4"
     Country "United States"
     Longitude -82.83099
     Internal 1
@@ -74,7 +74,7 @@ graph [
   ]
   node [
     id 5
-    label "Johnson City"
+    label "5"
     Country "United States"
     Longitude -82.35347
     Internal 1
@@ -83,7 +83,7 @@ graph [
   ]
   node [
     id 6
-    label "Knoxville"
+    label "6"
     Country "United States"
     Longitude -83.92074
     Internal 1
@@ -92,7 +92,7 @@ graph [
   ]
   node [
     id 7
-    label "Morristown"
+    label "7"
     Country "United States"
     Longitude -83.29489
     Internal 1
@@ -101,7 +101,7 @@ graph [
   ]
   node [
     id 8
-    label "Scott County"
+    label "8"
     Country "United States"
     Longitude -82.58099
     Internal 1
@@ -110,7 +110,7 @@ graph [
   ]
   node [
     id 9
-    label "Crossville"
+    label "9"
     Country "United States"
     Longitude -85.0269
     Internal 1
@@ -119,7 +119,7 @@ graph [
   ]
   node [
     id 10
-    label "Memphis"
+    label "10"
     Country "United States"
     Longitude -90.04898
     Internal 1
@@ -128,7 +128,7 @@ graph [
   ]
   node [
     id 11
-    label "Rainsville"
+    label "11"
     Country "United States"
     Longitude -85.84775
     Internal 1
@@ -137,7 +137,7 @@ graph [
   ]
   node [
     id 12
-    label "Scottsboro"
+    label "12"
     Country "United States"
     Longitude -86.03415
     Internal 1
@@ -146,7 +146,7 @@ graph [
   ]
   node [
     id 13
-    label "Chapel Hill"
+    label "13"
     Country "United States"
     Longitude -86.69333
     Internal 1
@@ -155,7 +155,7 @@ graph [
   ]
   node [
     id 14
-    label "Chattanooga"
+    label "14"
     Country "United States"
     Longitude -85.30968
     Internal 1
@@ -164,7 +164,7 @@ graph [
   ]
   node [
     id 15
-    label "Dunlap"
+    label "15"
     Country "United States"
     Longitude -85.39052
     Internal 1
@@ -173,7 +173,7 @@ graph [
   ]
   node [
     id 16
-    label "Spencer"
+    label "16"
     Country "United States"
     Longitude -85.46664
     Internal 1
@@ -182,7 +182,7 @@ graph [
   ]
   node [
     id 17
-    label "McMinnville"
+    label "17"
     Country "United States"
     Longitude -85.76998
     Internal 1
@@ -191,7 +191,7 @@ graph [
   ]
   node [
     id 18
-    label "Ringgold"
+    label "18"
     Country "United States"
     Longitude -85.10912
     Internal 1
@@ -200,7 +200,7 @@ graph [
   ]
   node [
     id 19
-    label "Chickamauga"
+    label "19"
     Country "United States"
     Longitude -85.29079
     Internal 1
@@ -209,7 +209,7 @@ graph [
   ]
   node [
     id 20
-    label "Trenton"
+    label "20"
     Country "United States"
     Longitude -85.50913
     Internal 1
@@ -218,7 +218,7 @@ graph [
   ]
   node [
     id 21
-    label "Brownsville"
+    label "21"
     Country "United States"
     Longitude -89.26229
     Internal 1
@@ -227,7 +227,7 @@ graph [
   ]
   node [
     id 22
-    label "Millington"
+    label "22"
     Country "United States"
     Longitude -89.89731
     Internal 1
@@ -236,7 +236,7 @@ graph [
   ]
   node [
     id 23
-    label "Huntsville"
+    label "23"
     Country "United States"
     Longitude -86.5861
     Internal 1
@@ -245,7 +245,7 @@ graph [
   ]
   node [
     id 24
-    label "New Hope"
+    label "24"
     Country "United States"
     Longitude -86.39443
     Internal 1
@@ -254,7 +254,7 @@ graph [
   ]
   node [
     id 25
-    label "Pulaski"
+    label "25"
     Country "United States"
     Longitude -87.03084
     Internal 1
@@ -263,7 +263,7 @@ graph [
   ]
   node [
     id 26
-    label "Ardmore"
+    label "26"
     Country "United States"
     Longitude -86.84667
     Internal 1
@@ -272,7 +272,7 @@ graph [
   ]
   node [
     id 27
-    label "Waynesboro"
+    label "27"
     Country "United States"
     Longitude -87.76225
     Internal 1
@@ -281,7 +281,7 @@ graph [
   ]
   node [
     id 28
-    label "Loretto"
+    label "28"
     Country "United States"
     Longitude -87.43974
     Internal 1
@@ -290,7 +290,7 @@ graph [
   ]
   node [
     id 29
-    label "Jackson"
+    label "29"
     Country "United States"
     Longitude -88.81395
     Internal 1
@@ -299,7 +299,7 @@ graph [
   ]
   node [
     id 30
-    label "Henderson"
+    label "30"
     Country "United States"
     Longitude -88.64144
     Internal 1
@@ -308,7 +308,7 @@ graph [
   ]
   node [
     id 31
-    label "Columbia"
+    label "31"
     Country "United States"
     Longitude -87.03528
     Internal 1
@@ -317,7 +317,7 @@ graph [
   ]
   node [
     id 32
-    label "Yuma"
+    label "32"
     Country "United States"
     Longitude -88.33671
     Internal 1
@@ -326,7 +326,7 @@ graph [
   ]
   node [
     id 33
-    label "Nashville"
+    label "33"
     Country "United States"
     Longitude -86.78444
     Internal 1
@@ -335,7 +335,7 @@ graph [
   ]
   node [
     id 34
-    label "Smyrna"
+    label "34"
     Country "United States"
     Longitude -86.5186
     Internal 1
@@ -344,7 +344,7 @@ graph [
   ]
   node [
     id 35
-    label "Mt Juliet"
+    label "35"
     Country "United States"
     Longitude -86.51861
     Internal 1
@@ -353,7 +353,7 @@ graph [
   ]
   node [
     id 36
-    label "Smithville"
+    label "36"
     Country "United States"
     Longitude -85.81415
     Internal 1
@@ -362,7 +362,7 @@ graph [
   ]
   node [
     id 37
-    label "Trenton"
+    label "37"
     Country "United States"
     Longitude -88.94145
     Internal 1
@@ -371,7 +371,7 @@ graph [
   ]
   node [
     id 38
-    label "Bruceton"
+    label "38"
     Country "United States"
     Longitude -88.24449
     Internal 1
@@ -380,7 +380,7 @@ graph [
   ]
   node [
     id 39
-    label "Camden"
+    label "39"
     Country "United States"
     Longitude -88.09782
     Internal 1
@@ -389,7 +389,7 @@ graph [
   ]
   node [
     id 40
-    label "New Johnsonville"
+    label "40"
     Country "United States"
     Longitude -87.96698
     Internal 1
@@ -398,7 +398,7 @@ graph [
   ]
   node [
     id 41
-    label "Bowling Green"
+    label "41"
     Country "United States"
     Longitude -86.4436
     Internal 1
@@ -407,7 +407,7 @@ graph [
   ]
   node [
     id 42
-    label "Glasgow"
+    label "42"
     Country "United States"
     Longitude -85.91192
     Internal 1
@@ -416,7 +416,7 @@ graph [
   ]
   node [
     id 43
-    label "Paducah"
+    label "43"
     Country "United States"
     Longitude -88.60005
     Internal 1
@@ -425,7 +425,7 @@ graph [
   ]
   node [
     id 44
-    label "Mayfield"
+    label "44"
     Country "United States"
     Longitude -88.63672
     Internal 1
@@ -434,7 +434,7 @@ graph [
   ]
   node [
     id 45
-    label "Union City"
+    label "45"
     Country "United States"
     Longitude -89.05701
     Internal 1
@@ -443,7 +443,7 @@ graph [
   ]
   node [
     id 46
-    label "Martin"
+    label "46"
     Country "United States"
     Longitude -88.85034
     Internal 1
@@ -452,7 +452,7 @@ graph [
   ]
   node [
     id 47
-    label "McKenzie"
+    label "47"
     Country "United States"
     Longitude -88.51866
     Internal 1
@@ -461,7 +461,7 @@ graph [
   ]
   node [
     id 48
-    label "Paris"
+    label "48"
     Country "United States"
     Longitude -88.32671
     Internal 1
@@ -470,7 +470,7 @@ graph [
   ]
   node [
     id 49
-    label "Murray"
+    label "49"
     Country "United States"
     Longitude -88.31476
     Internal 1
@@ -479,7 +479,7 @@ graph [
   ]
   node [
     id 50
-    label "Franklin"
+    label "50"
     geocode_append " Simpson County KY"
     Country "United States"
     Longitude -86.57722

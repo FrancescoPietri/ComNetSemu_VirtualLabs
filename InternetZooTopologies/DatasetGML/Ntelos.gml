@@ -29,7 +29,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Charlottesville"
+    label "0"
     Country "United States"
     Longitude -78.49279
     Internal 1
@@ -38,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "Culpeper"
+    label "1"
     Country "United States"
     Longitude -78.02083
     Internal 1
@@ -47,7 +47,7 @@ graph [
   ]
   node [
     id 2
-    label "Waynesboro"
+    label "2"
     Country "United States"
     Longitude -78.88947
     Internal 1
@@ -56,7 +56,7 @@ graph [
   ]
   node [
     id 3
-    label "Madison"
+    label "3"
     Country "United States"
     Longitude -78.2575
     Internal 1
@@ -65,7 +65,7 @@ graph [
   ]
   node [
     id 4
-    label "Farmville"
+    label "4"
     Country "United States"
     Longitude -78.39194
     Internal 1
@@ -74,7 +74,7 @@ graph [
   ]
   node [
     id 5
-    label "Lynchburg"
+    label "5"
     Country "United States"
     Longitude -79.17808
     Internal 1
@@ -83,7 +83,7 @@ graph [
   ]
   node [
     id 6
-    label "Warrenton"
+    label "6"
     Country "United States"
     Longitude -77.79527
     Internal 1
@@ -92,7 +92,7 @@ graph [
   ]
   node [
     id 7
-    label "Richmond"
+    label "7"
     Country "United States"
     Longitude -77.46026
     Internal 1
@@ -101,7 +101,7 @@ graph [
   ]
   node [
     id 8
-    label "Troutville"
+    label "8"
     Country "United States"
     Longitude -79.87476
     Internal 1
@@ -110,7 +110,7 @@ graph [
   ]
   node [
     id 9
-    label "Clifton Forge"
+    label "9"
     Country "United States"
     Longitude -79.82449
     Internal 1
@@ -119,7 +119,7 @@ graph [
   ]
   node [
     id 10
-    label "Salem"
+    label "10"
     Country "United States"
     Longitude -80.05476
     Internal 1
@@ -128,7 +128,7 @@ graph [
   ]
   node [
     id 11
-    label "Roanoke"
+    label "11"
     Country "United States"
     Longitude -80.01559
     Internal 1
@@ -137,7 +137,7 @@ graph [
   ]
   node [
     id 12
-    label "Bristol"
+    label "12"
     Country "United States"
     Longitude -82.18874
     Internal 1
@@ -146,7 +146,7 @@ graph [
   ]
   node [
     id 13
-    label "Abingdon"
+    label "13"
     Country "United States"
     Longitude -81.97735
     Internal 1
@@ -155,7 +155,7 @@ graph [
   ]
   node [
     id 14
-    label "Tazewell"
+    label "14"
     Country "United States"
     Longitude -81.30343
     Internal 1
@@ -164,7 +164,7 @@ graph [
   ]
   node [
     id 15
-    label "Bluefield"
+    label "15"
     Country "United States"
     Longitude -81.22232
     Internal 1
@@ -173,7 +173,7 @@ graph [
   ]
   node [
     id 16
-    label "Wytheville"
+    label "16"
     Country "United States"
     Longitude -81.08481
     Internal 1
@@ -182,7 +182,7 @@ graph [
   ]
   node [
     id 17
-    label "Radford"
+    label "17"
     Country "United States"
     Longitude -80.57645
     Internal 1
@@ -191,7 +191,7 @@ graph [
   ]
   node [
     id 18
-    label "Blacksburg"
+    label "18"
     Country "United States"
     Longitude -80.41394
     Internal 1
@@ -200,7 +200,7 @@ graph [
   ]
   node [
     id 19
-    label "Christiansburg"
+    label "19"
     Country "United States"
     Longitude -80.40894
     Internal 1
@@ -209,7 +209,7 @@ graph [
   ]
   node [
     id 20
-    label "Martinsville"
+    label "20"
     Country "United States"
     Longitude -79.87254
     Internal 1
@@ -218,7 +218,7 @@ graph [
   ]
   node [
     id 21
-    label "Rocky Mount"
+    label "21"
     Country "United States"
     Longitude -79.89198
     Internal 1
@@ -227,7 +227,7 @@ graph [
   ]
   node [
     id 22
-    label "Danville"
+    label "22"
     Country "United States"
     Longitude -79.39502
     Internal 1
@@ -236,7 +236,7 @@ graph [
   ]
   node [
     id 23
-    label "Greensboro"
+    label "23"
     Country "United States"
     Longitude -79.79198
     Internal 1
@@ -245,7 +245,7 @@ graph [
   ]
   node [
     id 24
-    label "Lexington"
+    label "24"
     Country "United States"
     Longitude -79.45726
     Internal 1
@@ -254,7 +254,7 @@ graph [
   ]
   node [
     id 25
-    label "South Boston"
+    label "25"
     Country "United States"
     Longitude -78.9014
     Internal 1
@@ -263,7 +263,7 @@ graph [
   ]
   node [
     id 26
-    label "Washington DC"
+    label "26"
     Country "United States"
     Longitude -77.03637
     Internal 1
@@ -272,7 +272,7 @@ graph [
   ]
   node [
     id 27
-    label "Montgomery"
+    label "27"
     Country "United States"
     Longitude -81.32845
     Internal 1
@@ -281,7 +281,7 @@ graph [
   ]
   node [
     id 28
-    label "Kingsport"
+    label "28"
     Country "United States"
     Longitude -82.56182
     Internal 1
@@ -290,7 +290,7 @@ graph [
   ]
   node [
     id 29
-    label "Johnson City"
+    label "29"
     Country "United States"
     Longitude -82.35347
     Internal 1
@@ -299,7 +299,7 @@ graph [
   ]
   node [
     id 30
-    label "Summersville"
+    label "30"
     Country "United States"
     Longitude -80.8526
     Internal 1
@@ -308,7 +308,7 @@ graph [
   ]
   node [
     id 31
-    label "Lewisburg"
+    label "31"
     Country "United States"
     Longitude -80.44563
     Internal 1
@@ -317,7 +317,7 @@ graph [
   ]
   node [
     id 32
-    label "White Sulphur Springs"
+    label "32"
     Country "United States"
     Longitude -80.29757
     Internal 1
@@ -326,7 +326,7 @@ graph [
   ]
   node [
     id 33
-    label "Covington"
+    label "33"
     Country "United States"
     Longitude -79.99395
     Internal 1
@@ -335,7 +335,7 @@ graph [
   ]
   node [
     id 34
-    label "Beckley"
+    label "34"
     Country "United States"
     Longitude -81.18816
     Internal 1
@@ -344,7 +344,7 @@ graph [
   ]
   node [
     id 35
-    label "Ashland"
+    label "35"
     Country "United States"
     Longitude -82.63794
     Internal 1
@@ -353,7 +353,7 @@ graph [
   ]
   node [
     id 36
-    label "Huntington"
+    label "36"
     Country "United States"
     Longitude -82.44515
     Internal 1
@@ -362,7 +362,7 @@ graph [
   ]
   node [
     id 37
-    label "Charleston"
+    label "37"
     Country "United States"
     Longitude -81.63262
     Internal 1
@@ -371,7 +371,7 @@ graph [
   ]
   node [
     id 38
-    label "Harrisonburg"
+    label "38"
     Country "United States"
     Longitude -78.86892
     Internal 1
@@ -380,7 +380,7 @@ graph [
   ]
   node [
     id 39
-    label "Staunton"
+    label "39"
     Country "United States"
     Longitude -79.07725
     Internal 1
@@ -389,7 +389,7 @@ graph [
   ]
   node [
     id 40
-    label "Columbus"
+    label "40"
     Country "United States"
     Longitude -82.99879
     Internal 1
@@ -398,7 +398,7 @@ graph [
   ]
   node [
     id 41
-    label "Morgantown"
+    label "41"
     Country "United States"
     Longitude -79.9559
     Internal 1
@@ -407,7 +407,7 @@ graph [
   ]
   node [
     id 42
-    label "Clarksburg"
+    label "42"
     Country "United States"
     Longitude -80.34453
     Internal 1
@@ -416,7 +416,7 @@ graph [
   ]
   node [
     id 43
-    label "Sutton"
+    label "43"
     Country "United States"
     Longitude -80.70982
     Internal 1
@@ -425,7 +425,7 @@ graph [
   ]
   node [
     id 44
-    label "Ravenswood"
+    label "44"
     Country "United States"
     Longitude -81.76096
     Internal 1
@@ -434,7 +434,7 @@ graph [
   ]
   node [
     id 45
-    label "Pittsburgh"
+    label "45"
     Country "United States"
     Longitude -79.99589
     Internal 1
@@ -443,7 +443,7 @@ graph [
   ]
   node [
     id 46
-    label "Ashburn"
+    label "46"
     Country "United States"
     Longitude -77.48749
     Internal 1
@@ -452,7 +452,7 @@ graph [
   ]
   node [
     id 47
-    label "Winchester"
+    label "47"
     Country "United States"
     Longitude -78.16333
     Internal 1
@@ -575,13 +575,6 @@ graph [
   edge [
     source 8
     target 10
-    LinkType "Fiber"
-    LinkLabel "Existing nTelos Fiber Network"
-    LinkNote "Existing nTelos  Network"
-  ]
-  edge [
-    source 9
-    target 33
     LinkType "Fiber"
     LinkLabel "Existing nTelos Fiber Network"
     LinkNote "Existing nTelos  Network"
@@ -788,20 +781,6 @@ graph [
   edge [
     source 35
     target 36
-    LinkType "Fiber"
-    LinkLabel "Existing nTelos Fiber Network"
-    LinkNote "Existing nTelos  Network"
-  ]
-  edge [
-    source 35
-    target 36
-    LinkType "Fiber"
-    LinkLabel "Existing nTelos Fiber Network"
-    LinkNote "Existing nTelos  Network"
-  ]
-  edge [
-    source 36
-    target 37
     LinkType "Fiber"
     LinkLabel "Existing nTelos Fiber Network"
     LinkNote "Existing nTelos  Network"

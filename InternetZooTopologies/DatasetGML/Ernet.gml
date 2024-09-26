@@ -29,7 +29,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Pune"
+    label "0"
     Country "India"
     Longitude 73.85535
     Internal 1
@@ -37,7 +37,7 @@ graph [
   ]
   node [
     id 1
-    label "Indore"
+    label "1"
     Country "India"
     Longitude 75.8333
     Internal 1
@@ -45,7 +45,7 @@ graph [
   ]
   node [
     id 2
-    label "Trivandrum"
+    label "2"
     Country "India"
     Longitude 76.91667
     Internal 1
@@ -53,7 +53,7 @@ graph [
   ]
   node [
     id 3
-    label "Mumbai"
+    label "3"
     Country "India"
     Longitude 72.84794
     Internal 1
@@ -61,19 +61,19 @@ graph [
   ]
   node [
     id 4
-    label "None"
+    label "4"
     Internal 0
     type "4 Computers"
   ]
   node [
     id 5
-    label "None"
+    label "5"
     Internal 0
     type "4 Computers"
   ]
   node [
     id 6
-    label "Ahmedabad"
+    label "6"
     Country "India"
     Longitude 72.61667
     Internal 1
@@ -81,7 +81,7 @@ graph [
   ]
   node [
     id 7
-    label "Jaipur"
+    label "7"
     Country "India"
     Longitude 75.81667
     Internal 1
@@ -89,69 +89,69 @@ graph [
   ]
   node [
     id 8
-    label "None"
+    label "8"
     Internal 0
     type "4 Computers"
   ]
   node [
     id 9
-    label "None"
+    label "9"
     Internal 0
     type "4 Computers"
   ]
   node [
     id 10
-    label "None"
+    label "10"
     Internal 0
   ]
   node [
     id 11
-    label "None"
+    label "11"
     Internal 0
   ]
   node [
     id 12
-    label "None"
+    label "12"
     Internal 0
   ]
   node [
     id 13
-    label "None"
+    label "13"
     Internal 0
   ]
   node [
     id 14
-    label "None"
+    label "14"
     Internal 0
   ]
   node [
     id 15
-    label "None"
+    label "15"
     Internal 0
   ]
   node [
     id 16
-    label "None"
+    label "16"
     Internal 0
   ]
   node [
     id 17
-    label "None"
+    label "17"
     Internal 0
   ]
   node [
     id 18
-    label "None"
+    label "18"
     Internal 0
   ]
   node [
     id 19
-    label "None"
+    label "19"
     Internal 0
   ]
   node [
     id 20
-    label "Chennai"
+    label "20"
     Country "India"
     Longitude 80.27847
     Internal 1
@@ -159,7 +159,7 @@ graph [
   ]
   node [
     id 21
-    label "Bengaluru"
+    label "21"
     Country "India"
     Longitude 77.60329
     Internal 1
@@ -167,7 +167,7 @@ graph [
   ]
   node [
     id 22
-    label "Delhi"
+    label "22"
     Country "India"
     Longitude 77.22445
     Internal 1
@@ -175,7 +175,7 @@ graph [
   ]
   node [
     id 23
-    label "Guwahati"
+    label "23"
     Country "India"
     Longitude 91.75095
     Internal 1
@@ -183,7 +183,7 @@ graph [
   ]
   node [
     id 24
-    label "Gorakhpur"
+    label "24"
     Country "India"
     Longitude 75.68333
     Internal 1
@@ -191,7 +191,7 @@ graph [
   ]
   node [
     id 25
-    label "Kanpur"
+    label "25"
     Country "India"
     Longitude 80.35
     Internal 1
@@ -199,7 +199,7 @@ graph [
   ]
   node [
     id 26
-    label "Allahabad"
+    label "26"
     Country "India"
     Longitude 81.85
     Internal 1
@@ -207,7 +207,7 @@ graph [
   ]
   node [
     id 27
-    label "Kalkota"
+    label "27"
     Country "India"
     Longitude 88.36972
     Internal 1
@@ -215,7 +215,7 @@ graph [
   ]
   node [
     id 28
-    label "Bhubaneswar"
+    label "28"
     Country "India"
     Longitude 85.83333
     Internal 1
@@ -223,7 +223,7 @@ graph [
   ]
   node [
     id 29
-    label "Hyderabad"
+    label "29"
     Country "India"
     Longitude 78.47444
     Internal 1

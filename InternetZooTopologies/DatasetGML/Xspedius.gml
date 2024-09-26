@@ -29,7 +29,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Baltimore"
+    label "0"
     Country "United States"
     Longitude -76.61219
     Internal 1
@@ -38,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "Lexington"
+    label "1"
     Country "United States"
     Longitude -84.47772
     Internal 1
@@ -47,7 +47,7 @@ graph [
   ]
   node [
     id 2
-    label "Tulsa"
+    label "2"
     Country "United States"
     Longitude -95.99278
     Internal 1
@@ -56,7 +56,7 @@ graph [
   ]
   node [
     id 3
-    label "Kansas City"
+    label "3"
     Country "United States"
     Longitude -94.62746
     Internal 1
@@ -65,7 +65,7 @@ graph [
   ]
   node [
     id 4
-    label "Memphis"
+    label "4"
     Country "United States"
     Longitude -90.04898
     Internal 1
@@ -74,7 +74,7 @@ graph [
   ]
   node [
     id 5
-    label "Jackson"
+    label "5"
     Country "United States"
     Longitude -90.18481
     Internal 1
@@ -83,7 +83,7 @@ graph [
   ]
   node [
     id 6
-    label "Louisville"
+    label "6"
     Country "United States"
     Longitude -85.75941
     Internal 1
@@ -92,7 +92,7 @@ graph [
   ]
   node [
     id 7
-    label "Nashville"
+    label "7"
     Country "United States"
     Longitude -86.78444
     Internal 1
@@ -101,7 +101,7 @@ graph [
   ]
   node [
     id 8
-    label "Lake Charles"
+    label "8"
     Country "United States"
     Longitude -93.2044
     Internal 1
@@ -110,7 +110,7 @@ graph [
   ]
   node [
     id 9
-    label "Baton Rouge"
+    label "9"
     Country "United States"
     Longitude -91.15455
     Internal 1
@@ -119,7 +119,7 @@ graph [
   ]
   node [
     id 10
-    label "Jacksonville"
+    label "10"
     Country "United States"
     Longitude -81.65565
     Internal 1
@@ -128,7 +128,7 @@ graph [
   ]
   node [
     id 11
-    label "Fort Lauderdale"
+    label "11"
     Country "United States"
     Longitude -80.14338
     Internal 1
@@ -137,7 +137,7 @@ graph [
   ]
   node [
     id 12
-    label "Tampa"
+    label "12"
     Country "United States"
     Longitude -82.45843
     Internal 1
@@ -146,7 +146,7 @@ graph [
   ]
   node [
     id 13
-    label "Austin"
+    label "13"
     Country "United States"
     Longitude -97.74306
     Internal 1
@@ -155,7 +155,7 @@ graph [
   ]
   node [
     id 14
-    label "Columbus"
+    label "14"
     Country "United States"
     Longitude -82.99879
     Internal 1
@@ -164,7 +164,7 @@ graph [
   ]
   node [
     id 15
-    label "Greensboro"
+    label "15"
     Country "United States"
     Longitude -79.79198
     Internal 1
@@ -173,7 +173,7 @@ graph [
   ]
   node [
     id 16
-    label "Birmingham"
+    label "16"
     Country "United States"
     Longitude -86.80249
     Internal 1
@@ -182,7 +182,7 @@ graph [
   ]
   node [
     id 17
-    label "Montgomery"
+    label "17"
     Country "United States"
     Longitude -86.29997
     Internal 1
@@ -191,7 +191,7 @@ graph [
   ]
   node [
     id 18
-    label "New Orleans"
+    label "18"
     Country "United States"
     Longitude -90.07507
     Internal 1
@@ -200,7 +200,7 @@ graph [
   ]
   node [
     id 19
-    label "Mobile"
+    label "19"
     Country "United States"
     Longitude -88.04305
     Internal 1
@@ -209,7 +209,7 @@ graph [
   ]
   node [
     id 20
-    label "Charlotte"
+    label "20"
     Country "United States"
     Longitude -80.84313
     Internal 1
@@ -218,7 +218,7 @@ graph [
   ]
   node [
     id 21
-    label "Columbia"
+    label "21"
     Country "United States"
     Longitude -81.03481
     Internal 1
@@ -227,7 +227,7 @@ graph [
   ]
   node [
     id 22
-    label "Greenville"
+    label "22"
     Country "United States"
     Longitude -82.39401
     Internal 1
@@ -236,7 +236,7 @@ graph [
   ]
   node [
     id 23
-    label "Atlanta"
+    label "23"
     Country "United States"
     Longitude -84.38798
     Internal 1
@@ -245,7 +245,7 @@ graph [
   ]
   node [
     id 24
-    label "Dallas"
+    label "24"
     Country "United States"
     Longitude -96.80667
     Internal 1
@@ -254,7 +254,7 @@ graph [
   ]
   node [
     id 25
-    label "Little Rock"
+    label "25"
     Country "United States"
     Longitude -92.28959
     Internal 1
@@ -263,7 +263,7 @@ graph [
   ]
   node [
     id 26
-    label "Las Vegas"
+    label "26"
     Country "United States"
     Longitude -115.13722
     Internal 1
@@ -272,7 +272,7 @@ graph [
   ]
   node [
     id 27
-    label "Colorado Springs"
+    label "27"
     Country "United States"
     Longitude -104.82136
     Internal 1
@@ -281,7 +281,7 @@ graph [
   ]
   node [
     id 28
-    label "Albuquerque"
+    label "28"
     Country "United States"
     Longitude -106.65114
     Internal 1
@@ -290,7 +290,7 @@ graph [
   ]
   node [
     id 29
-    label "Tucson"
+    label "29"
     Country "United States"
     Longitude -110.92648
     Internal 1
@@ -299,7 +299,7 @@ graph [
   ]
   node [
     id 30
-    label "El Paso"
+    label "30"
     Country "United States"
     Longitude -106.48693
     Internal 1
@@ -308,7 +308,7 @@ graph [
   ]
   node [
     id 31
-    label "Fort Worth"
+    label "31"
     Country "United States"
     Longitude -97.32085
     Internal 1
@@ -317,7 +317,7 @@ graph [
   ]
   node [
     id 32
-    label "San Antonio"
+    label "32"
     Country "United States"
     Longitude -98.49363
     Internal 1
@@ -326,7 +326,7 @@ graph [
   ]
   node [
     id 33
-    label "Houston"
+    label "33"
     Country "United States"
     Longitude -95.36327
     Internal 1

@@ -29,7 +29,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Goteborg"
+    label "0"
     Country "Sweden"
     Longitude 11.96679
     Internal 1
@@ -37,7 +37,7 @@ graph [
   ]
   node [
     id 1
-    label "Skovde"
+    label "1"
     Country "Sweden"
     Longitude 13.84506
     Internal 1
@@ -45,7 +45,7 @@ graph [
   ]
   node [
     id 2
-    label "Orebro"
+    label "2"
     Country "Sweden"
     Longitude 15.2066
     Internal 1
@@ -53,7 +53,7 @@ graph [
   ]
   node [
     id 3
-    label "Karlstad"
+    label "3"
     Country "Sweden"
     Longitude 13.50357
     Internal 1
@@ -61,7 +61,7 @@ graph [
   ]
   node [
     id 4
-    label "Halmstad"
+    label "4"
     Country "Sweden"
     Longitude 12.85676
     Internal 1
@@ -69,7 +69,7 @@ graph [
   ]
   node [
     id 5
-    label "Linkoping"
+    label "5"
     Country "Sweden"
     Longitude 15.61667
     Internal 1
@@ -77,7 +77,7 @@ graph [
   ]
   node [
     id 6
-    label "Boras"
+    label "6"
     Country "Sweden"
     Longitude 12.9401
     Internal 1
@@ -85,7 +85,7 @@ graph [
   ]
   node [
     id 7
-    label "Trollhattan"
+    label "7"
     Country "Sweden"
     Longitude 12.28864
     Internal 1
@@ -93,7 +93,7 @@ graph [
   ]
   node [
     id 8
-    label "Jonkoping"
+    label "8"
     Country "Sweden"
     Longitude 14.15618
     Internal 1
@@ -101,7 +101,7 @@ graph [
   ]
   node [
     id 9
-    label "Vaxjo"
+    label "9"
     Country "Sweden"
     Longitude 14.81667
     Internal 1
@@ -109,7 +109,7 @@ graph [
   ]
   node [
     id 10
-    label "Lund"
+    label "10"
     Country "Sweden"
     Longitude 13.19321
     Internal 1
@@ -117,7 +117,7 @@ graph [
   ]
   node [
     id 11
-    label "Kristianstad"
+    label "11"
     Country "Sweden"
     Longitude 14.15242
     Internal 1
@@ -125,7 +125,7 @@ graph [
   ]
   node [
     id 12
-    label "Ronneby"
+    label "12"
     Country "Sweden"
     Longitude 15.27602
     Internal 1
@@ -133,7 +133,7 @@ graph [
   ]
   node [
     id 13
-    label "Kalmar"
+    label "13"
     Country "Sweden"
     Longitude 16.36163
     Internal 1
@@ -141,7 +141,7 @@ graph [
   ]
   node [
     id 14
-    label "Visby"
+    label "14"
     Country "Sweden"
     Longitude 18.29602
     Internal 1
@@ -149,7 +149,7 @@ graph [
   ]
   node [
     id 15
-    label "Malmo"
+    label "15"
     Country "Sweden"
     Longitude 13.00073
     Internal 1
@@ -157,7 +157,7 @@ graph [
   ]
   node [
     id 16
-    label "Stockholm"
+    label "16"
     Country "Sweden"
     Longitude 18.0649
     Internal 1
@@ -165,7 +165,7 @@ graph [
   ]
   node [
     id 17
-    label "Vasten"
+    label "17"
     Country "Sweden"
     Longitude 23.16667
     Internal 1
@@ -173,7 +173,7 @@ graph [
   ]
   node [
     id 18
-    label "Kiruna"
+    label "18"
     Country "Sweden"
     Longitude 20.22513
     Internal 1
@@ -181,7 +181,7 @@ graph [
   ]
   node [
     id 19
-    label "Lulea"
+    label "19"
     Country "Sweden"
     Longitude 22.15465
     Internal 1
@@ -189,13 +189,13 @@ graph [
   ]
   node [
     id 20
-    label "None"
+    label "20"
     hyperedge 1
     Internal 1
   ]
   node [
     id 21
-    label "Umea"
+    label "21"
     Country "Sweden"
     Longitude 20.25972
     Internal 1
@@ -203,7 +203,7 @@ graph [
   ]
   node [
     id 22
-    label "Sundsvall"
+    label "22"
     Country "Sweden"
     Longitude 17.3063
     Internal 1
@@ -211,7 +211,7 @@ graph [
   ]
   node [
     id 23
-    label "Gavle"
+    label "23"
     Country "Sweden"
     Longitude 17.14174
     Internal 1
@@ -219,7 +219,7 @@ graph [
   ]
   node [
     id 24
-    label "Borlange"
+    label "24"
     Country "Sweden"
     Longitude 15.43714
     Internal 1
@@ -227,7 +227,7 @@ graph [
   ]
   node [
     id 25
-    label "Uppsala"
+    label "25"
     Country "Sweden"
     Longitude 17.64543
     Internal 1
@@ -242,11 +242,6 @@ graph [
     source 0
     target 6
     LinkLabel "green"
-  ]
-  edge [
-    source 0
-    target 6
-    LinkLabel "red"
   ]
   edge [
     source 0
@@ -269,11 +264,6 @@ graph [
     LinkLabel "green"
   ]
   edge [
-    source 1
-    target 7
-    LinkLabel "red"
-  ]
-  edge [
     source 2
     target 24
     LinkLabel "green"
@@ -285,18 +275,8 @@ graph [
   ]
   edge [
     source 2
-    target 3
-    LinkLabel "red"
-  ]
-  edge [
-    source 2
     target 17
     LinkLabel "red"
-  ]
-  edge [
-    source 2
-    target 17
-    LinkLabel "green"
   ]
   edge [
     source 3
@@ -315,28 +295,13 @@ graph [
   ]
   edge [
     source 5
-    target 16
-    LinkLabel "red"
-  ]
-  edge [
-    source 5
     target 8
     LinkLabel "green"
-  ]
-  edge [
-    source 5
-    target 8
-    LinkLabel "red"
   ]
   edge [
     source 8
     target 9
     LinkLabel "red"
-  ]
-  edge [
-    source 8
-    target 9
-    LinkLabel "green"
   ]
   edge [
     source 9
@@ -354,29 +319,14 @@ graph [
     LinkLabel "green"
   ]
   edge [
-    source 10
-    target 15
-    LinkLabel "red"
-  ]
-  edge [
     source 11
     target 12
     LinkLabel "red"
   ]
   edge [
     source 11
-    target 12
-    LinkLabel "green"
-  ]
-  edge [
-    source 11
     target 15
     LinkLabel "green"
-  ]
-  edge [
-    source 11
-    target 15
-    LinkLabel "red"
   ]
   edge [
     source 12
@@ -384,19 +334,9 @@ graph [
     LinkLabel "red"
   ]
   edge [
-    source 12
-    target 13
-    LinkLabel "green"
-  ]
-  edge [
     source 14
     target 16
     LinkLabel "red"
-  ]
-  edge [
-    source 14
-    target 16
-    LinkLabel "green"
   ]
   edge [
     source 16
@@ -405,28 +345,13 @@ graph [
   ]
   edge [
     source 16
-    target 17
-    LinkLabel "green"
-  ]
-  edge [
-    source 16
     target 25
     LinkLabel "red"
-  ]
-  edge [
-    source 16
-    target 25
-    LinkLabel "green"
   ]
   edge [
     source 18
     target 19
     LinkLabel "green"
-  ]
-  edge [
-    source 18
-    target 19
-    LinkLabel "red"
   ]
   edge [
     source 19
@@ -459,11 +384,6 @@ graph [
     LinkLabel "red"
   ]
   edge [
-    source 22
-    target 23
-    LinkLabel "green"
-  ]
-  edge [
     source 23
     target 24
     LinkLabel "red"
@@ -472,10 +392,5 @@ graph [
     source 23
     target 25
     LinkLabel "red"
-  ]
-  edge [
-    source 23
-    target 25
-    LinkLabel "green"
   ]
 ]

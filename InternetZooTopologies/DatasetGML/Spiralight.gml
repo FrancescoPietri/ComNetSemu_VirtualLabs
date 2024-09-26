@@ -29,7 +29,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Milwaukee"
+    label "0"
     Country "United States"
     Longitude -87.90647
     Internal 1
@@ -37,7 +37,7 @@ graph [
   ]
   node [
     id 1
-    label "Rockford"
+    label "1"
     Country "United States"
     Longitude -89.094
     Internal 1
@@ -45,7 +45,7 @@ graph [
   ]
   node [
     id 2
-    label "Janesville"
+    label "2"
     Country "United States"
     Longitude -89.01872
     Internal 1
@@ -53,7 +53,7 @@ graph [
   ]
   node [
     id 3
-    label "Waukesha"
+    label "3"
     Country "United States"
     Longitude -88.23148
     Internal 1
@@ -61,7 +61,7 @@ graph [
   ]
   node [
     id 4
-    label "Chicago"
+    label "4"
     Country "United States"
     Longitude -87.8248
     Internal 1
@@ -69,7 +69,7 @@ graph [
   ]
   node [
     id 5
-    label "Madison"
+    label "5"
     Country "United States"
     Longitude -89.40123
     Internal 1
@@ -77,7 +77,7 @@ graph [
   ]
   node [
     id 6
-    label "Camp Douglas"
+    label "6"
     Country "United States"
     Longitude -90.27152
     Internal 1
@@ -85,7 +85,7 @@ graph [
   ]
   node [
     id 7
-    label "Minneaopolis"
+    label "7"
     Country "United States"
     Longitude -93.26384
     Internal 1
@@ -93,7 +93,7 @@ graph [
   ]
   node [
     id 8
-    label "Eau Claire"
+    label "8"
     Country "United States"
     Longitude -91.49849
     Internal 1
@@ -101,7 +101,7 @@ graph [
   ]
   node [
     id 9
-    label "Wausau"
+    label "9"
     Country "United States"
     Longitude -89.63012
     Internal 1
@@ -109,7 +109,7 @@ graph [
   ]
   node [
     id 10
-    label "Green Bay"
+    label "10"
     Country "United States"
     Longitude -88.01983
     Internal 1
@@ -117,7 +117,7 @@ graph [
   ]
   node [
     id 11
-    label "Appleton"
+    label "11"
     Country "United States"
     Longitude -88.41538
     Internal 1
@@ -125,7 +125,7 @@ graph [
   ]
   node [
     id 12
-    label "Oshkosh"
+    label "12"
     Country "United States"
     Longitude -88.54261
     Internal 1
@@ -133,7 +133,7 @@ graph [
   ]
   node [
     id 13
-    label "Fon Du Lac"
+    label "13"
     Country "United States"
     Longitude -88.43883
     Internal 1
@@ -141,7 +141,7 @@ graph [
   ]
   node [
     id 14
-    label "Beaver Dam"
+    label "14"
     Country "United States"
     Longitude -88.83733
     Internal 1

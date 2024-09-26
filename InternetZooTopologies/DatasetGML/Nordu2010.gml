@@ -30,57 +30,57 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Poznan"
+    label "0"
     Internal 0
   ]
   node [
     id 1
-    label "GEANT"
+    label "1"
     Internal 0
   ]
   node [
     id 2
-    label "London"
+    label "2"
     Internal 0
   ]
   node [
     id 3
-    label "Amsterdam GLORIAD"
+    label "3"
     Internal 0
   ]
   node [
     id 4
-    label "ICELINK: Greenland, Canada, USA"
+    label "4"
     Internal 0
   ]
   node [
     id 5
-    label "London"
+    label "5"
     Internal 0
   ]
   node [
     id 6
-    label "GLORIAD"
+    label "6"
     Internal 0
   ]
   node [
     id 7
-    label "INTERNET"
+    label "7"
     Internal 0
   ]
   node [
     id 8
-    label "INTERNET"
+    label "8"
     Internal 0
   ]
   node [
     id 9
-    label "New York"
+    label "9"
     Internal 0
   ]
   node [
     id 10
-    label "Reyjavik"
+    label "10"
     Country "Iceland"
     Longitude -21.89541
     Internal 1
@@ -88,7 +88,7 @@ graph [
   ]
   node [
     id 11
-    label "Oslo"
+    label "11"
     Country "Norway"
     Longitude 10.74609
     Internal 1
@@ -96,7 +96,7 @@ graph [
   ]
   node [
     id 12
-    label "Stockholm"
+    label "12"
     Country "Sweden"
     Longitude 18.0649
     Internal 1
@@ -104,7 +104,7 @@ graph [
   ]
   node [
     id 13
-    label "Espoo"
+    label "13"
     Country "Finland"
     Longitude 24.6522
     Internal 1
@@ -112,7 +112,7 @@ graph [
   ]
   node [
     id 14
-    label "Helsinki"
+    label "14"
     Country "Finland"
     Longitude 24.93545
     Internal 1
@@ -120,12 +120,12 @@ graph [
   ]
   node [
     id 15
-    label "St Petersburg"
+    label "15"
     Internal 0
   ]
   node [
     id 16
-    label "Copenhagen"
+    label "16"
     Country "Denmark"
     Longitude 12.56553
     Internal 1
@@ -133,7 +133,7 @@ graph [
   ]
   node [
     id 17
-    label "Hamburg"
+    label "17"
     Country "Germany"
     Longitude 10.0
     Internal 1

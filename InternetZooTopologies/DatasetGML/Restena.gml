@@ -29,7 +29,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Walferdange"
+    label "0"
     Country "Luxembourg"
     Longitude 6.13722
     Internal 1
@@ -37,7 +37,7 @@ graph [
   ]
   node [
     id 1
-    label "CCRN"
+    label "1"
     Country "Luxembourg"
     Longitude 6.13
     Internal 1
@@ -45,7 +45,7 @@ graph [
   ]
   node [
     id 2
-    label "Ettelbruck"
+    label "2"
     Country "Luxembourg"
     Longitude 6.10417
     Internal 1
@@ -53,7 +53,7 @@ graph [
   ]
   node [
     id 3
-    label "Diekirch"
+    label "3"
     Country "Luxembourg"
     Longitude 6.15583
     Internal 1
@@ -61,32 +61,32 @@ graph [
   ]
   node [
     id 4
-    label "GEANT Paris (FR)"
+    label "4"
     Internal 0
   ]
   node [
     id 5
-    label "Internet via Bruxelles (BE)"
+    label "5"
     Internal 0
   ]
   node [
     id 6
-    label "ADSL (via EPT)"
+    label "6"
     Internal 1
   ]
   node [
     id 7
-    label "France"
+    label "7"
     Internal 0
   ]
   node [
     id 8
-    label "GEANT Frankfurt (DE)"
+    label "8"
     Internal 0
   ]
   node [
     id 9
-    label "RESTENA"
+    label "9"
     Country "Luxembourg"
     Longitude 6.14944
     Internal 1
@@ -94,7 +94,7 @@ graph [
   ]
   node [
     id 10
-    label "BCE"
+    label "10"
     Country "Luxembourg"
     Longitude 6.14944
     Internal 1
@@ -102,12 +102,12 @@ graph [
   ]
   node [
     id 11
-    label "ADSL (via Tango)"
+    label "11"
     Internal 1
   ]
   node [
     id 12
-    label "UNI.iu"
+    label "12"
     Country "Luxembourg"
     Longitude 6.12167
     Internal 1
@@ -115,7 +115,7 @@ graph [
   ]
   node [
     id 13
-    label "Rollingergrund"
+    label "13"
     Country "Luxembourg"
     Longitude 6.10778
     Internal 1
@@ -123,7 +123,7 @@ graph [
   ]
   node [
     id 14
-    label "Campus Geesseknaeppchen"
+    label "14"
     Country "Luxembourg"
     Longitude 6.12417
     Internal 1
@@ -131,7 +131,7 @@ graph [
   ]
   node [
     id 15
-    label "Esch-sur-Alzette"
+    label "15"
     Country "Luxembourg"
     Longitude 5.98056
     Internal 1
@@ -139,7 +139,7 @@ graph [
   ]
   node [
     id 16
-    label "Bettembourg"
+    label "16"
     Country "Luxembourg"
     Longitude 6.10278
     Internal 1
@@ -147,7 +147,7 @@ graph [
   ]
   node [
     id 17
-    label "Luxembourg"
+    label "17"
     Country "Luxembourg"
     Longitude 6.13
     Internal 1
@@ -155,7 +155,7 @@ graph [
   ]
   node [
     id 18
-    label "Limpertsberg"
+    label "18"
     Country "Luxembourg"
     Longitude 6.12167
     Internal 1

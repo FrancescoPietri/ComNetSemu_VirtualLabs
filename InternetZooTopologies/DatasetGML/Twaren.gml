@@ -29,102 +29,102 @@ graph [
   Testbed 1
   node [
     id 0
-    label "CCU"
+    label "0"
     Internal 1
   ]
   node [
     id 1
-    label "NHLUE"
+    label "1"
     Internal 1
   ]
   node [
     id 2
-    label "TN"
+    label "2"
     Internal 1
   ]
   node [
     id 3
-    label "NCKU"
+    label "3"
     Internal 1
   ]
   node [
     id 4
-    label "TC"
+    label "4"
     Internal 1
   ]
   node [
     id 5
-    label "CHI"
+    label "5"
     Internal 1
   ]
   node [
     id 6
-    label "NDHU"
+    label "6"
     Internal 1
   ]
   node [
     id 7
-    label "NCNU"
+    label "7"
     Internal 1
   ]
   node [
     id 8
-    label "LA"
+    label "8"
     Internal 1
   ]
   node [
     id 9
-    label "NIU"
+    label "9"
     Internal 1
   ]
   node [
     id 10
-    label "NTTU"
+    label "10"
     Internal 1
   ]
   node [
     id 11
-    label "NSYSU"
+    label "11"
     Internal 1
   ]
   node [
     id 12
-    label "NCHU"
+    label "12"
     Internal 1
   ]
   node [
     id 13
-    label "HC"
+    label "13"
     Internal 1
   ]
   node [
     id 14
-    label "NCTU"
+    label "14"
     Internal 1
   ]
   node [
     id 15
-    label "NTHU"
+    label "15"
     Internal 1
   ]
   node [
     id 16
-    label "NCU"
+    label "16"
     Internal 1
   ]
   node [
     id 17
-    label "ASCC"
+    label "17"
     Internal 1
   ]
   node [
     id 18
-    label "NTU"
+    label "18"
     Internal 1
   ]
   node [
     id 19
-    label "TP"
+    label "19"
     Internal 1
   ]
   edge [

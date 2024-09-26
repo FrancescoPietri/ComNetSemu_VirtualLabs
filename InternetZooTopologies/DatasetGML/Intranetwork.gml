@@ -29,7 +29,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Martinsville"
+    label "0"
     geocode_append "VA"
     Country "United States"
     Longitude -79.87254
@@ -38,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "Danville"
+    label "1"
     geocode_append "VA"
     Country "United States"
     Longitude -79.39502
@@ -47,7 +47,7 @@ graph [
   ]
   node [
     id 2
-    label "Johnson City"
+    label "2"
     Country "United States"
     Longitude -82.35347
     Internal 1
@@ -55,7 +55,7 @@ graph [
   ]
   node [
     id 3
-    label "Greensboro"
+    label "3"
     Country "United States"
     Longitude -79.79198
     Internal 1
@@ -63,7 +63,7 @@ graph [
   ]
   node [
     id 4
-    label "Troutville"
+    label "4"
     geocode_append "VA"
     Country "United States"
     Longitude -79.87476
@@ -72,7 +72,7 @@ graph [
   ]
   node [
     id 5
-    label "Charlottesville"
+    label "5"
     geocode_append "VA"
     Country "United States"
     Longitude -78.47668
@@ -81,7 +81,7 @@ graph [
   ]
   node [
     id 6
-    label "Lynchburg"
+    label "6"
     geocode_append "VA"
     Country "United States"
     Longitude -79.14225
@@ -90,7 +90,7 @@ graph [
   ]
   node [
     id 7
-    label "Lexington"
+    label "7"
     geocode_append "VA"
     Country "United States"
     Longitude -79.44282
@@ -99,7 +99,7 @@ graph [
   ]
   node [
     id 8
-    label "Waynesboro"
+    label "8"
     geocode_append "VA"
     Country "United States"
     Longitude -78.88947
@@ -108,7 +108,7 @@ graph [
   ]
   node [
     id 9
-    label "Staunton"
+    label "9"
     geocode_append "VA"
     Country "United States"
     Longitude -79.0717
@@ -117,13 +117,13 @@ graph [
   ]
   node [
     id 10
-    label "None"
+    label "10"
     hyperedge 1
     Internal 1
   ]
   node [
     id 11
-    label "Herndon"
+    label "11"
     geocode_append "VA"
     Country "United States"
     Longitude -77.3861
@@ -132,7 +132,7 @@ graph [
   ]
   node [
     id 12
-    label "Warrenton"
+    label "12"
     geocode_append "VA"
     Country "United States"
     Longitude -77.79527
@@ -141,7 +141,7 @@ graph [
   ]
   node [
     id 13
-    label "Roanoke"
+    label "13"
     geocode_append "VA"
     Country "United States"
     Longitude -79.94143
@@ -150,37 +150,37 @@ graph [
   ]
   node [
     id 14
-    label "None"
+    label "14"
     hyperedge 1
     Internal 1
   ]
   node [
     id 15
-    label "None"
+    label "15"
     hyperedge 1
     Internal 1
   ]
   node [
     id 16
-    label "None"
+    label "16"
     hyperedge 1
     Internal 1
   ]
   node [
     id 17
-    label "None"
+    label "17"
     hyperedge 1
     Internal 1
   ]
   node [
     id 18
-    label "None"
+    label "18"
     hyperedge 1
     Internal 1
   ]
   node [
     id 19
-    label "Ashburn"
+    label "19"
     geocode_append "VA"
     Country "United States"
     Longitude -77.48749
@@ -189,7 +189,7 @@ graph [
   ]
   node [
     id 20
-    label "Leesburg"
+    label "20"
     geocode_append "VA"
     Country "United States"
     Longitude -77.5636
@@ -198,7 +198,7 @@ graph [
   ]
   node [
     id 21
-    label "Winchester"
+    label "21"
     geocode_append "VA"
     Country "United States"
     Longitude -78.16333
@@ -207,7 +207,7 @@ graph [
   ]
   node [
     id 22
-    label "Front Royal"
+    label "22"
     geocode_append "VA"
     Country "United States"
     Longitude -78.19444
@@ -216,7 +216,7 @@ graph [
   ]
   node [
     id 23
-    label "Edinburg"
+    label "23"
     geocode_append "VA"
     Country "United States"
     Longitude -78.56585
@@ -225,7 +225,7 @@ graph [
   ]
   node [
     id 24
-    label "Harrisonburg"
+    label "24"
     geocode_append "VA"
     Country "United States"
     Longitude -78.86892
@@ -234,7 +234,7 @@ graph [
   ]
   node [
     id 25
-    label "Carlisle"
+    label "25"
     Country "United States"
     Longitude -77.18887
     Internal 1
@@ -242,7 +242,7 @@ graph [
   ]
   node [
     id 26
-    label "Chambersburg"
+    label "26"
     Country "United States"
     Longitude -77.6611
     Internal 1
@@ -250,7 +250,7 @@ graph [
   ]
   node [
     id 27
-    label "Hagerstown"
+    label "27"
     Country "United States"
     Longitude -77.71999
     Internal 1
@@ -258,7 +258,7 @@ graph [
   ]
   node [
     id 28
-    label "Martinsburg"
+    label "28"
     Country "United States"
     Longitude -77.96389
     Internal 1
@@ -266,7 +266,7 @@ graph [
   ]
   node [
     id 29
-    label "Bristol"
+    label "29"
     geocode_append "VA"
     Country "United States"
     Longitude -82.18847
@@ -275,7 +275,7 @@ graph [
   ]
   node [
     id 30
-    label "Kingsport"
+    label "30"
     Country "United States"
     Longitude -82.56182
     Internal 1
@@ -283,7 +283,7 @@ graph [
   ]
   node [
     id 31
-    label "Huntington"
+    label "31"
     geocode_append "WV"
     Country "United States"
     Longitude -82.44515
@@ -292,7 +292,7 @@ graph [
   ]
   node [
     id 32
-    label "Charleston"
+    label "32"
     geocode_append "WV"
     Country "United States"
     Longitude -81.63262
@@ -301,7 +301,7 @@ graph [
   ]
   node [
     id 33
-    label "Bluefield"
+    label "33"
     Country "United States"
     Longitude -81.22232
     Internal 1
@@ -309,7 +309,7 @@ graph [
   ]
   node [
     id 34
-    label "Blacksburg"
+    label "34"
     geocode_append "VA"
     Country "United States"
     Longitude -80.41394
@@ -318,7 +318,7 @@ graph [
   ]
   node [
     id 35
-    label "Christiansburg"
+    label "35"
     geocode_append "VA"
     Country "United States"
     Longitude -80.40894
@@ -327,7 +327,7 @@ graph [
   ]
   node [
     id 36
-    label "Radford"
+    label "36"
     geocode_append "VA"
     Country "United States"
     Longitude -80.57645
@@ -336,7 +336,7 @@ graph [
   ]
   node [
     id 37
-    label "Wytheville"
+    label "37"
     geocode_append "VA"
     Country "United States"
     Longitude -81.08481
@@ -345,7 +345,7 @@ graph [
   ]
   node [
     id 38
-    label "Abingdon"
+    label "38"
     geocode_append "VA"
     Country "United States"
     Longitude -81.97735
@@ -411,11 +411,6 @@ graph [
     source 5
     target 8
     id "e28"
-  ]
-  edge [
-    source 5
-    target 8
-    id "e29"
   ]
   edge [
     source 5
@@ -526,11 +521,6 @@ graph [
     source 17
     target 24
     id "e35"
-  ]
-  edge [
-    source 17
-    target 24
-    id "e34"
   ]
   edge [
     source 17

@@ -51,6 +51,8 @@ from mininet.link import TCLink\n\n""")
 
         graph = nx.read_gml(op.join(datasetDirPath, name + '.gml'), "id")
 
+        #nx.write_gml(graph, op.join(datasetDirPath, name + '.gml'))
+
         self.init_topo(name, topologyDirPath)
 
         with open(op.join(topologyDirPath, name + ".py"), "a") as file_topo:

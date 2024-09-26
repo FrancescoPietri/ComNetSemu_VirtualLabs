@@ -29,7 +29,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Marrkech"
+    label "0"
     Country "Morocco"
     Longitude -8.00828
     Internal 1
@@ -37,7 +37,7 @@ graph [
   ]
   node [
     id 1
-    label "Fes"
+    label "1"
     Country "Morocco"
     Longitude -4.9998
     Internal 1
@@ -45,7 +45,7 @@ graph [
   ]
   node [
     id 2
-    label "Rabat"
+    label "2"
     Country "Morocco"
     Longitude -6.83255
     Internal 1
@@ -53,7 +53,7 @@ graph [
   ]
   node [
     id 3
-    label "Agadir"
+    label "3"
     Country "Morocco"
     Longitude -9.59815
     Internal 1
@@ -61,7 +61,7 @@ graph [
   ]
   node [
     id 4
-    label "Tanger"
+    label "4"
     Country "Morocco"
     Longitude -5.81365
     Internal 1
@@ -69,17 +69,17 @@ graph [
   ]
   node [
     id 5
-    label "University 2"
+    label "5"
     Internal 1
   ]
   node [
     id 6
-    label "None"
+    label "6"
     Internal 1
   ]
   node [
     id 7
-    label "Casa"
+    label "7"
     Country "Morocco"
     Longitude -7.61916
     Internal 1
@@ -87,42 +87,42 @@ graph [
   ]
   node [
     id 8
-    label "Institution 1"
+    label "8"
     Internal 1
   ]
   node [
     id 9
-    label "University 3"
+    label "9"
     Internal 1
   ]
   node [
     id 10
-    label "University 1"
+    label "10"
     Internal 1
   ]
   node [
     id 11
-    label "GEANT"
+    label "11"
     Internal 0
   ]
   node [
     id 12
-    label "Internet"
+    label "12"
     Internal 0
   ]
   node [
     id 13
-    label "None"
+    label "13"
     Internal 1
   ]
   node [
     id 14
-    label "University 4"
+    label "14"
     Internal 1
   ]
   node [
     id 15
-    label "None"
+    label "15"
     Internal 1
   ]
   edge [
@@ -200,12 +200,6 @@ graph [
     LinkLabel "2Mb/s"
     LinkSpeedUnits "M"
     LinkSpeedRaw 2000000.0
-  ]
-  edge [
-    source 6
-    target 15
-    LinkType "MPLS"
-    LinkLabel "MPLS"
   ]
   edge [
     source 6

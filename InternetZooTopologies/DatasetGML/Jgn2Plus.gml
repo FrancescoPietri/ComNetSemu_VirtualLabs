@@ -30,7 +30,7 @@ graph [
   Testbed 1
   node [
     id 0
-    label "Chugoku"
+    label "0"
     Country "Japan"
     Longitude 133.0
     Internal 1
@@ -38,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "Kinki"
+    label "1"
     Country "Japan"
     Longitude 135.5
     Internal 1
@@ -46,7 +46,7 @@ graph [
   ]
   node [
     id 2
-    label "Kyushu"
+    label "2"
     Country "Japan"
     Longitude 131.0
     Internal 1
@@ -54,7 +54,7 @@ graph [
   ]
   node [
     id 3
-    label "Shikoku"
+    label "3"
     Country "Japan"
     Longitude 133.5
     Internal 1
@@ -63,7 +63,7 @@ graph [
   ]
   node [
     id 4
-    label "Shinetsu"
+    label "4"
     Country "Japan"
     Longitude 145.13197
     Internal 1
@@ -71,12 +71,12 @@ graph [
   ]
   node [
     id 5
-    label "Busan"
+    label "5"
     Internal 0
   ]
   node [
     id 6
-    label "Tokai"
+    label "6"
     Country "Japan"
     Longitude 136.89846
     Internal 1
@@ -84,7 +84,7 @@ graph [
   ]
   node [
     id 7
-    label "Hokuriku"
+    label "7"
     Country "Japan"
     Longitude 137.5
     Internal 1
@@ -92,12 +92,12 @@ graph [
   ]
   node [
     id 8
-    label "Hongkong"
+    label "8"
     Internal 0
   ]
   node [
     id 9
-    label "Okinawa"
+    label "9"
     Country "Japan"
     Longitude 127.80139
     Internal 1
@@ -105,7 +105,7 @@ graph [
   ]
   node [
     id 10
-    label "Hokkaido"
+    label "10"
     Country "Japan"
     Longitude 141.34694
     Internal 1
@@ -113,7 +113,7 @@ graph [
   ]
   node [
     id 11
-    label "Tohoku"
+    label "11"
     Country "Japan"
     Longitude 140.87194
     Internal 1
@@ -121,7 +121,7 @@ graph [
   ]
   node [
     id 12
-    label "Tokyo"
+    label "12"
     Country "Japan"
     Longitude 139.5813
     Internal 1
@@ -129,28 +129,28 @@ graph [
   ]
   node [
     id 13
-    label "Chicago"
+    label "13"
     Internal 0
   ]
   node [
     id 14
-    label "Los Angeles"
+    label "14"
     Internal 0
   ]
   node [
     id 15
-    label "None"
+    label "15"
     hyperedge 1
     Internal 1
   ]
   node [
     id 16
-    label "Singapore"
+    label "16"
     Internal 0
   ]
   node [
     id 17
-    label "Bangkok"
+    label "17"
     Internal 0
   ]
   edge [

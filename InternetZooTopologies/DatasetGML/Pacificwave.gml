@@ -30,57 +30,57 @@ graph [
   Testbed 0
   node [
     id 0
-    label "KRLight"
+    label "0"
     Internal 0
   ]
   node [
     id 1
-    label "CANARIE"
+    label "1"
     Internal 0
   ]
   node [
     id 2
-    label "NLR FrameNet"
+    label "2"
     Internal 0
   ]
   node [
     id 3
-    label "CSTNet HKEOEP"
+    label "3"
     Internal 0
   ]
   node [
     id 4
-    label "StarLight"
+    label "4"
     Internal 0
   ]
   node [
     id 5
-    label "Pacific Northwest Gigapop"
+    label "5"
     Internal 0
   ]
   node [
     id 6
-    label "NLR FrameNet"
+    label "6"
     Internal 0
   ]
   node [
     id 7
-    label "Internet2 DCN"
+    label "7"
     Internal 0
   ]
   node [
     id 8
-    label "NLR FrameNet"
+    label "8"
     Internal 0
   ]
   node [
     id 9
-    label "CENIC"
+    label "9"
     Internal 0
   ]
   node [
     id 10
-    label "Pacific Wave Sunnyvale"
+    label "10"
     Country "United States"
     Longitude -122.03635
     Internal 1
@@ -88,7 +88,7 @@ graph [
   ]
   node [
     id 11
-    label "Pacific Wave Seattle"
+    label "11"
     Country "United States"
     Longitude -122.33207
     Internal 1
@@ -96,22 +96,22 @@ graph [
   ]
   node [
     id 12
-    label "Internet2 DCN"
+    label "12"
     Internal 0
   ]
   node [
     id 13
-    label "Pacific Wave Hawaii"
+    label "13"
     Internal 0
   ]
   node [
     id 14
-    label "AARNET Sydney"
+    label "14"
     Internal 0
   ]
   node [
     id 15
-    label "Pacific Wave Los Angeles"
+    label "15"
     Country "United States"
     Longitude -118.24368
     Internal 1
@@ -119,12 +119,12 @@ graph [
   ]
   node [
     id 16
-    label "JGN2 Plus Tokyo"
+    label "16"
     Internal 0
   ]
   node [
     id 17
-    label "CENIC"
+    label "17"
     Internal 0
   ]
   edge [
@@ -171,24 +171,6 @@ graph [
     LinkSpeed "10"
     LinkNote "Cavewave  it/s"
     LinkLabel "Cavewave  10Gbit/s"
-    LinkSpeedUnits "G"
-    LinkSpeedRaw 10000000000.0
-  ]
-  edge [
-    source 4
-    target 11
-    LinkSpeed "10"
-    LinkNote "CANARIE (Provided y NLR)  it/s"
-    LinkLabel "CANARIE (Provided by NLR)  10Gbit/s"
-    LinkSpeedUnits "G"
-    LinkSpeedRaw 10000000000.0
-  ]
-  edge [
-    source 4
-    target 11
-    LinkSpeed "10"
-    LinkNote "Translight  it/s"
-    LinkLabel "Translight  10Gbit/s"
     LinkSpeedUnits "G"
     LinkSpeedRaw 10000000000.0
   ]
@@ -271,24 +253,6 @@ graph [
   ]
   edge [
     source 10
-    target 11
-    LinkSpeed "10"
-    LinkNote "PWAVE  it/s"
-    LinkLabel "PWAVE  10Gbit/s"
-    LinkSpeedUnits "G"
-    LinkSpeedRaw 10000000000.0
-  ]
-  edge [
-    source 10
-    target 15
-    LinkSpeed "10"
-    LinkNote "PWAVE  it/s"
-    LinkLabel "PWAVE  10Gbit/s"
-    LinkSpeedUnits "G"
-    LinkSpeedRaw 10000000000.0
-  ]
-  edge [
-    source 10
     target 15
     LinkSpeed "10"
     LinkNote "PWAVE  it/s"
@@ -302,15 +266,6 @@ graph [
     LinkSpeed "10"
     LinkNote "PWAVE it/s"
     LinkLabel "PWAVE 10Gbit/s"
-    LinkSpeedUnits "G"
-    LinkSpeedRaw 10000000000.0
-  ]
-  edge [
-    source 11
-    target 15
-    LinkSpeed "10"
-    LinkNote "Pwave it/s"
-    LinkLabel "Pwave 10Gbit/s"
     LinkSpeedUnits "G"
     LinkSpeedRaw 10000000000.0
   ]

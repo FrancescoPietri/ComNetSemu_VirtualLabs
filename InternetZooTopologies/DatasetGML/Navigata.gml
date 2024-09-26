@@ -29,7 +29,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "New York"
+    label "0"
     Country "Canada"
     Longitude -79.06627
     Internal 1
@@ -37,7 +37,7 @@ graph [
   ]
   node [
     id 1
-    label "Montreal"
+    label "1"
     Country "Canada"
     Longitude -73.58781
     Internal 1
@@ -45,7 +45,7 @@ graph [
   ]
   node [
     id 2
-    label "Halifax"
+    label "2"
     Country "Canada"
     Longitude -63.57333
     Internal 1
@@ -53,7 +53,7 @@ graph [
   ]
   node [
     id 3
-    label "Los Angeles"
+    label "3"
     Country "Canada"
     Longitude -139.52642
     Internal 1
@@ -61,7 +61,7 @@ graph [
   ]
   node [
     id 4
-    label "Toronto"
+    label "4"
     Country "Canada"
     Longitude -79.4163
     Internal 1
@@ -69,7 +69,7 @@ graph [
   ]
   node [
     id 5
-    label "Vancouver"
+    label "5"
     Country "Canada"
     Longitude -123.11934
     Internal 1
@@ -77,7 +77,7 @@ graph [
   ]
   node [
     id 6
-    label "Victoria"
+    label "6"
     Country "Canada"
     Longitude -123.3693
     Internal 1
@@ -85,7 +85,7 @@ graph [
   ]
   node [
     id 7
-    label "Seattle"
+    label "7"
     Country "Canada"
     Longitude -139.20265
     Internal 1
@@ -93,7 +93,7 @@ graph [
   ]
   node [
     id 8
-    label "Calgary"
+    label "8"
     Country "Canada"
     Longitude -114.08529
     Internal 1
@@ -101,7 +101,7 @@ graph [
   ]
   node [
     id 9
-    label "Edmonton"
+    label "9"
     Country "Canada"
     Longitude -113.46871
     Internal 1
@@ -109,7 +109,7 @@ graph [
   ]
   node [
     id 10
-    label "Saskatoon"
+    label "10"
     Country "Canada"
     Longitude -106.63452
     Internal 1
@@ -117,7 +117,7 @@ graph [
   ]
   node [
     id 11
-    label "Regina"
+    label "11"
     Country "Canada"
     Longitude -104.6178
     Internal 1
@@ -125,7 +125,7 @@ graph [
   ]
   node [
     id 12
-    label "Winnipeg"
+    label "12"
     Country "Canada"
     Longitude -97.14704
     Internal 1

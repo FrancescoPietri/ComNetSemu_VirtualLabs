@@ -30,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Glasgow"
+    label "0"
     Country "United States"
     Longitude -106.63671
     Internal 1
@@ -38,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "Bainville"
+    label "1"
     Country "United States"
     Longitude -104.22272
     Internal 1
@@ -46,7 +46,7 @@ graph [
   ]
   node [
     id 2
-    label "Glendive"
+    label "2"
     Country "United States"
     Longitude -104.71246
     Internal 1
@@ -54,7 +54,7 @@ graph [
   ]
   node [
     id 3
-    label "Culbertson"
+    label "3"
     Country "United States"
     Longitude -104.5169
     Internal 1
@@ -62,7 +62,7 @@ graph [
   ]
   node [
     id 4
-    label "Lincoln"
+    label "4"
     Country "United States"
     Longitude -112.68171
     Internal 1
@@ -70,7 +70,7 @@ graph [
   ]
   node [
     id 5
-    label "Helena"
+    label "5"
     Country "United States"
     Longitude -112.03611
     Internal 1
@@ -78,7 +78,7 @@ graph [
   ]
   node [
     id 6
-    label "Dillion"
+    label "6"
     Country "United States"
     Longitude -112.63752
     Internal 1
@@ -86,7 +86,7 @@ graph [
   ]
   node [
     id 7
-    label "Missoula"
+    label "7"
     Country "United States"
     Longitude -113.994
     Internal 1
@@ -94,7 +94,7 @@ graph [
   ]
   node [
     id 8
-    label "Bozeman"
+    label "8"
     Country "United States"
     Longitude -111.03856
     Internal 1
@@ -102,7 +102,7 @@ graph [
   ]
   node [
     id 9
-    label "Sheridan"
+    label "9"
     Country "United States"
     Longitude -104.56246
     Internal 1
@@ -110,12 +110,12 @@ graph [
   ]
   node [
     id 10
-    label "DCN Network"
+    label "10"
     Internal 0
   ]
   node [
     id 11
-    label "Fort Benton"
+    label "11"
     Country "United States"
     Longitude -110.66744
     Internal 1
@@ -123,12 +123,12 @@ graph [
   ]
   node [
     id 12
-    label "Seattle"
+    label "12"
     Internal 0
   ]
   node [
     id 13
-    label "Havre"
+    label "13"
     Country "United States"
     Longitude -109.68409
     Internal 1
@@ -136,7 +136,7 @@ graph [
   ]
   node [
     id 14
-    label "Forsyth"
+    label "14"
     Country "United States"
     Longitude -106.67781
     Internal 1
@@ -144,7 +144,7 @@ graph [
   ]
   node [
     id 15
-    label "Miles City"
+    label "15"
     Country "United States"
     Longitude -105.84056
     Internal 1
@@ -152,7 +152,7 @@ graph [
   ]
   node [
     id 16
-    label "Noxon"
+    label "16"
     Country "United States"
     Longitude -115.78156
     Internal 1
@@ -160,7 +160,7 @@ graph [
   ]
   node [
     id 17
-    label "Kalispell"
+    label "17"
     Country "United States"
     Longitude -114.31291
     Internal 1
@@ -168,7 +168,7 @@ graph [
   ]
   node [
     id 18
-    label "N Cutbank"
+    label "18"
     Country "United States"
     Longitude -112.32616
     Internal 1
@@ -176,7 +176,7 @@ graph [
   ]
   node [
     id 19
-    label "Fairfield"
+    label "19"
     Country "United States"
     Longitude -111.98028
     Internal 1
@@ -184,7 +184,7 @@ graph [
   ]
   node [
     id 20
-    label "Great Falls"
+    label "20"
     Country "United States"
     Longitude -111.30081
     Internal 1
@@ -192,7 +192,7 @@ graph [
   ]
   node [
     id 21
-    label "Moore"
+    label "21"
     Country "United States"
     Longitude -109.69685
     Internal 1
@@ -200,7 +200,7 @@ graph [
   ]
   node [
     id 22
-    label "Big Timber"
+    label "22"
     Country "United States"
     Longitude -109.95546
     Internal 1
@@ -208,7 +208,7 @@ graph [
   ]
   node [
     id 23
-    label "Billings"
+    label "23"
     Country "United States"
     Longitude -108.50069
     Internal 1

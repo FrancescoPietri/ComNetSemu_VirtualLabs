@@ -30,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Galway"
+    label "0"
     Country "Ireland"
     Longitude -9.04889
     y "104.0"
@@ -40,7 +40,7 @@ graph [
   ]
   node [
     id 1
-    label "Limerick"
+    label "1"
     Country "Ireland"
     Longitude -8.62306
     y "149.0"
@@ -50,7 +50,7 @@ graph [
   ]
   node [
     id 2
-    label "Cork"
+    label "2"
     Country "Ireland"
     Longitude -8.49583
     y "273.0"
@@ -60,7 +60,7 @@ graph [
   ]
   node [
     id 3
-    label "CityWest"
+    label "3"
     Country "Ireland"
     Longitude -6.26719
     y "85.0"
@@ -70,7 +70,7 @@ graph [
   ]
   node [
     id 4
-    label "DCU (Dublin City University"
+    label "4"
     Country "Ireland"
     Longitude -6.26719
     y "114.0"
@@ -80,7 +80,7 @@ graph [
   ]
   node [
     id 5
-    label "TDC (Trinity College Dublin)"
+    label "5"
     Country "Ireland"
     Longitude -6.26719
     y "270.0"
@@ -90,7 +90,7 @@ graph [
   ]
   node [
     id 6
-    label "Kilcarbery"
+    label "6"
     Country "Ireland"
     Longitude -6.26719
     y "269.0"
@@ -140,18 +140,8 @@ graph [
   ]
   edge [
     source 3
-    target 5
-    id "e8"
-  ]
-  edge [
-    source 3
     target 6
     id "e10"
-  ]
-  edge [
-    source 3
-    target 6
-    id "e9"
   ]
   edge [
     source 4

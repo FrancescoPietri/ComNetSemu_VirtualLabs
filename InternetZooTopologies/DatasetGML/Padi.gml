@@ -30,72 +30,72 @@ graph [
   Testbed 0
   node [
     id 0
-    label "AQSA"
+    label "0"
     Internal 1
     type "University"
   ]
   node [
     id 1
-    label "IUG"
+    label "1"
     Internal 1
     type "University"
   ]
   node [
     id 2
-    label "HU"
+    label "2"
     Internal 1
     type "University"
   ]
   node [
     id 3
-    label "PPU"
+    label "3"
     Internal 1
     type "University"
   ]
   node [
     id 4
-    label "AZHR"
+    label "4"
     Internal 1
     type "University"
   ]
   node [
     id 5
-    label "ARIJ"
+    label "5"
     Internal 1
     type "Research Center"
   ]
   node [
     id 6
-    label "ICB"
+    label "6"
     Internal 1
     type "Research Center"
   ]
   node [
     id 7
-    label "GEANT"
+    label "7"
     Internal 0
   ]
   node [
     id 8
-    label "Annajah National Univeristy"
+    label "8"
     Internal 1
     type "University"
   ]
   node [
     id 9
-    label "AAUJ"
+    label "9"
     Internal 1
     type "University"
   ]
   node [
     id 10
-    label "BZU"
+    label "10"
     Internal 1
     type "University"
   ]
   node [
     id 11
-    label "PADI2"
+    label "11"
     Country "Malaysia"
     Longitude 100.9299
     Internal 1
@@ -104,19 +104,19 @@ graph [
   ]
   node [
     id 12
-    label "QOU"
+    label "12"
     Internal 1
     type "University"
   ]
   node [
     id 13
-    label "AQU"
+    label "13"
     Internal 1
     type "University"
   ]
   node [
     id 14
-    label "BU"
+    label "14"
     Internal 1
     type "University"
   ]

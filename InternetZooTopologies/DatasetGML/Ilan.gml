@@ -29,7 +29,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Tel Aviv GigaPoP"
+    label "0"
     Country "Israel"
     Longitude 34.76667
     Internal 1
@@ -38,17 +38,17 @@ graph [
   ]
   node [
     id 1
-    label "Int'l backup "
+    label "1"
     Internal 0
   ]
   node [
     id 2
-    label "IIX"
+    label "2"
     Internal 0
   ]
   node [
     id 3
-    label "Petach Tikva GigaPoP"
+    label "3"
     Country "Israel"
     Longitude 34.88503
     Internal 1
@@ -57,17 +57,17 @@ graph [
   ]
   node [
     id 4
-    label "External Users"
+    label "4"
     Internal 0
   ]
   node [
     id 5
-    label "GEANT 2 Germany"
+    label "5"
     Internal 0
   ]
   node [
     id 6
-    label "Open University"
+    label "6"
     Country "Israel"
     Longitude 34.86667
     Internal 1
@@ -76,7 +76,7 @@ graph [
   ]
   node [
     id 7
-    label "Haifa University"
+    label "7"
     Country "Israel"
     Longitude 34.98917
     Internal 1
@@ -85,7 +85,7 @@ graph [
   ]
   node [
     id 8
-    label "Technion"
+    label "8"
     Country "Israel"
     Longitude 34.98917
     Internal 1
@@ -94,7 +94,7 @@ graph [
   ]
   node [
     id 9
-    label "Bar Ilan University"
+    label "9"
     Country "Israel"
     Longitude 34.81417
     Internal 1
@@ -103,7 +103,7 @@ graph [
   ]
   node [
     id 10
-    label "Hebrew University"
+    label "10"
     Country "Israel"
     Longitude 35.2253
     Internal 1
@@ -112,7 +112,7 @@ graph [
   ]
   node [
     id 11
-    label "Ben Gurion University"
+    label "11"
     Country "Israel"
     Longitude 34.95167
     Internal 1
@@ -121,7 +121,7 @@ graph [
   ]
   node [
     id 12
-    label "Weizmann Institute"
+    label "12"
     Country "Israel"
     Longitude 34.81861
     Internal 1
@@ -130,7 +130,7 @@ graph [
   ]
   node [
     id 13
-    label "Tel Aviv University"
+    label "13"
     Country "Israel"
     Longitude 34.76667
     Internal 1

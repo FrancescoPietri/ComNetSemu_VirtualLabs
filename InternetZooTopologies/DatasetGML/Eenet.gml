@@ -29,7 +29,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Parnu"
+    label "0"
     Country "Estonia"
     Longitude 24.49711
     Internal 1
@@ -38,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "Haapsald"
+    label "1"
     Country "Estonia"
     Longitude 23.54139
     Internal 1
@@ -47,7 +47,7 @@ graph [
   ]
   node [
     id 2
-    label "Kuressaare"
+    label "2"
     Country "Estonia"
     Longitude 22.50389
     Internal 1
@@ -56,7 +56,7 @@ graph [
   ]
   node [
     id 3
-    label "Rakvere"
+    label "3"
     Country "Estonia"
     Longitude 26.35583
     Internal 1
@@ -65,7 +65,7 @@ graph [
   ]
   node [
     id 4
-    label "Narva"
+    label "4"
     Country "Estonia"
     Longitude 28.19028
     Internal 1
@@ -74,7 +74,7 @@ graph [
   ]
   node [
     id 5
-    label "Tallinn"
+    label "5"
     Country "Estonia"
     Longitude 24.75353
     Internal 1
@@ -83,12 +83,12 @@ graph [
   ]
   node [
     id 6
-    label "GEANT2"
+    label "6"
     Internal 0
   ]
   node [
     id 7
-    label "Paide"
+    label "7"
     Country "Estonia"
     Longitude 25.55722
     Internal 1
@@ -97,7 +97,7 @@ graph [
   ]
   node [
     id 8
-    label "Turi"
+    label "8"
     Country "Estonia"
     Longitude 25.4325
     Internal 1
@@ -106,7 +106,7 @@ graph [
   ]
   node [
     id 9
-    label "Viljandi"
+    label "9"
     Country "Estonia"
     Longitude 25.59
     Internal 1
@@ -115,7 +115,7 @@ graph [
   ]
   node [
     id 10
-    label "Jogeva"
+    label "10"
     Country "Estonia"
     Longitude 26.39389
     Internal 1
@@ -124,7 +124,7 @@ graph [
   ]
   node [
     id 11
-    label "Tartu"
+    label "11"
     Country "Estonia"
     Longitude 26.72509
     Internal 1
@@ -133,7 +133,7 @@ graph [
   ]
   node [
     id 12
-    label "Voru"
+    label "12"
     Country "Estonia"
     Longitude 27.01944
     Internal 1
@@ -223,22 +223,6 @@ graph [
   edge [
     source 7
     target 10
-    LinkSpeed "1"
-    LinkLabel "1Gb/s"
-    LinkSpeedUnits "G"
-    LinkSpeedRaw 1000000000.0
-  ]
-  edge [
-    source 7
-    target 10
-    LinkSpeed "1"
-    LinkLabel "1Gb/s"
-    LinkSpeedUnits "G"
-    LinkSpeedRaw 1000000000.0
-  ]
-  edge [
-    source 10
-    target 11
     LinkSpeed "1"
     LinkLabel "1Gb/s"
     LinkSpeedUnits "G"

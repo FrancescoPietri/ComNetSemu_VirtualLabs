@@ -29,7 +29,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Bijelo Polje"
+    label "0"
     Country "Montenegro"
     Longitude 19.74758
     Internal 1
@@ -37,7 +37,7 @@ graph [
   ]
   node [
     id 1
-    label "Niksic"
+    label "1"
     Country "Montenegro"
     Longitude 18.94446
     Internal 1
@@ -45,7 +45,7 @@ graph [
   ]
   node [
     id 2
-    label "Podgorica"
+    label "2"
     Country "Montenegro"
     Longitude 19.26361
     Internal 1
@@ -53,7 +53,7 @@ graph [
   ]
   node [
     id 3
-    label "Njegusi"
+    label "3"
     Country "Montenegro"
     Longitude 18.82833
     Internal 1
@@ -61,7 +61,7 @@ graph [
   ]
   node [
     id 4
-    label "Kotor"
+    label "4"
     Country "Montenegro"
     Longitude 18.76825
     Internal 1
@@ -69,7 +69,7 @@ graph [
   ]
   node [
     id 5
-    label "Herceg Novi"
+    label "5"
     Country "Montenegro"
     Longitude 18.5375
     Internal 1

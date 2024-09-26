@@ -29,7 +29,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Trbovlje"
+    label "0"
     Country "Slovenia"
     Longitude 15.05333
     Internal 1
@@ -38,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "Krsko"
+    label "1"
     Country "Slovenia"
     Longitude 15.49167
     Internal 1
@@ -47,7 +47,7 @@ graph [
   ]
   node [
     id 2
-    label "Celje"
+    label "2"
     Country "Slovenia"
     Longitude 15.26044
     Internal 1
@@ -56,7 +56,7 @@ graph [
   ]
   node [
     id 3
-    label "Lasko"
+    label "3"
     Country "Slovenia"
     Longitude 15.23555
     Internal 1
@@ -65,7 +65,7 @@ graph [
   ]
   node [
     id 4
-    label "Kranj"
+    label "4"
     Country "Slovenia"
     Longitude 14.35561
     Internal 1
@@ -74,7 +74,7 @@ graph [
   ]
   node [
     id 5
-    label "Bled"
+    label "5"
     Country "Slovenia"
     Longitude 14.11361
     Internal 1
@@ -83,7 +83,7 @@ graph [
   ]
   node [
     id 6
-    label "Novo Mesto"
+    label "6"
     Country "Slovenia"
     Longitude 15.16886
     Internal 1
@@ -92,7 +92,7 @@ graph [
   ]
   node [
     id 7
-    label "Ljubljana"
+    label "7"
     Country "Slovenia"
     Longitude 14.50513
     Internal 1
@@ -101,7 +101,7 @@ graph [
   ]
   node [
     id 8
-    label "Tolmin"
+    label "8"
     Country "Slovenia"
     Longitude 13.73321
     Internal 1
@@ -110,7 +110,7 @@ graph [
   ]
   node [
     id 9
-    label "Nova Gorica"
+    label "9"
     Country "Slovenia"
     Longitude 13.64837
     Internal 1
@@ -119,7 +119,7 @@ graph [
   ]
   node [
     id 10
-    label "Portoroz"
+    label "10"
     Country "Slovenia"
     Longitude 13.59206
     Internal 1
@@ -128,7 +128,7 @@ graph [
   ]
   node [
     id 11
-    label "Gornja Radgona"
+    label "11"
     Country "Slovenia"
     Longitude 15.99222
     Internal 1
@@ -137,7 +137,7 @@ graph [
   ]
   node [
     id 12
-    label "Radenci"
+    label "12"
     Country "Slovenia"
     Longitude 16.03781
     Internal 1
@@ -146,7 +146,7 @@ graph [
   ]
   node [
     id 13
-    label "Rogasja Slatina"
+    label "13"
     Country "Slovenia"
     Longitude 15.63972
     Internal 1
@@ -155,7 +155,7 @@ graph [
   ]
   node [
     id 14
-    label "Senozece"
+    label "14"
     Country "Slovenia"
     Longitude 14.04111
     Internal 1
@@ -164,7 +164,7 @@ graph [
   ]
   node [
     id 15
-    label "Jesenice"
+    label "15"
     Country "Slovenia"
     Longitude 14.06694
     Internal 1
@@ -173,7 +173,7 @@ graph [
   ]
   node [
     id 16
-    label "Sezana"
+    label "16"
     Country "Slovenia"
     Longitude 13.87333
     Internal 1
@@ -182,7 +182,7 @@ graph [
   ]
   node [
     id 17
-    label "Divaca"
+    label "17"
     Country "Slovenia"
     Longitude 13.97028
     Internal 1
@@ -191,7 +191,7 @@ graph [
   ]
   node [
     id 18
-    label "Postojna"
+    label "18"
     Country "Slovenia"
     Longitude 14.21667
     Internal 1
@@ -200,7 +200,7 @@ graph [
   ]
   node [
     id 19
-    label "Ajdovscina"
+    label "19"
     Country "Slovenia"
     Longitude 13.90946
     Internal 1
@@ -209,7 +209,7 @@ graph [
   ]
   node [
     id 20
-    label "Kovevje"
+    label "20"
     Country "Slovenia"
     Longitude 14.86333
     Internal 1
@@ -218,7 +218,7 @@ graph [
   ]
   node [
     id 21
-    label "Kamnik"
+    label "21"
     Country "Slovenia"
     Longitude 14.61207
     Internal 1
@@ -227,7 +227,7 @@ graph [
   ]
   node [
     id 22
-    label "Izola"
+    label "22"
     Country "Slovenia"
     Longitude 13.66194
     Internal 1
@@ -236,7 +236,7 @@ graph [
   ]
   node [
     id 23
-    label "Koper"
+    label "23"
     Country "Slovenia"
     Longitude 13.72944
     Internal 1
@@ -245,7 +245,7 @@ graph [
   ]
   node [
     id 24
-    label "Slovenj Gradec"
+    label "24"
     Country "Slovenia"
     Longitude 15.08056
     Internal 1
@@ -254,7 +254,7 @@ graph [
   ]
   node [
     id 25
-    label "Velenje"
+    label "25"
     Country "Slovenia"
     Longitude 15.11028
     Internal 1
@@ -263,7 +263,7 @@ graph [
   ]
   node [
     id 26
-    label "Murska Sobota"
+    label "26"
     Country "Slovenia"
     Longitude 16.16639
     Internal 1
@@ -272,7 +272,7 @@ graph [
   ]
   node [
     id 27
-    label "Ljutomer"
+    label "27"
     Country "Slovenia"
     Longitude 16.1975
     Internal 1
@@ -281,7 +281,7 @@ graph [
   ]
   node [
     id 28
-    label "Ormoz"
+    label "28"
     Country "Slovenia"
     Longitude 16.15444
     Internal 1
@@ -290,7 +290,7 @@ graph [
   ]
   node [
     id 29
-    label "Ptuj"
+    label "29"
     Country "Slovenia"
     Longitude 15.87018
     Internal 1
@@ -299,7 +299,7 @@ graph [
   ]
   node [
     id 30
-    label "Maribor"
+    label "30"
     Country "Slovenia"
     Longitude 15.64667
     Internal 1
@@ -308,7 +308,7 @@ graph [
   ]
   node [
     id 31
-    label "Slovenska Bistrica"
+    label "31"
     Country "Slovenia"
     Longitude 15.57444
     Internal 1
@@ -317,7 +317,7 @@ graph [
   ]
   node [
     id 32
-    label "Dravograd"
+    label "32"
     Country "Slovenia"
     Longitude 15.01917
     Internal 1
@@ -326,7 +326,7 @@ graph [
   ]
   node [
     id 33
-    label "Ravne na Koroskem"
+    label "33"
     Country "Slovenia"
     Longitude 14.96917
     Internal 1
@@ -420,14 +420,6 @@ graph [
     LinkLabel "1 GB/s"
     LinkSpeedUnits "G"
     LinkSpeedRaw 1000000000.0
-  ]
-  edge [
-    source 4
-    target 7
-    LinkSpeed "10"
-    LinkLabel "10 GB/s"
-    LinkSpeedUnits "G"
-    LinkSpeedRaw 10000000000.0
   ]
   edge [
     source 4

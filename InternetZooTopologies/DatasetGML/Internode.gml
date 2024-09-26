@@ -30,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "mel4"
+    label "0"
     Country "Australia"
     Longitude 144.96332
     Internal 1
@@ -39,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "syd6"
+    label "1"
     Country "Australia"
     Longitude 151.20732
     Internal 1
@@ -48,13 +48,13 @@ graph [
   ]
   node [
     id 2
-    label "University of Adelaide"
+    label "2"
     Internal 0
     type "Peer"
   ]
   node [
     id 3
-    label "mel6"
+    label "3"
     Country "Australia"
     Longitude 144.96332
     Internal 1
@@ -63,7 +63,7 @@ graph [
   ]
   node [
     id 4
-    label "bne1"
+    label "4"
     Country "Australia"
     Longitude 153.02809
     Internal 1
@@ -72,7 +72,7 @@ graph [
   ]
   node [
     id 5
-    label "hba1"
+    label "5"
     Country "Australia"
     Longitude 147.32941
     Internal 1
@@ -81,7 +81,7 @@ graph [
   ]
   node [
     id 6
-    label "syd7"
+    label "6"
     Country "Australia"
     Longitude 151.20732
     Internal 1
@@ -90,7 +90,7 @@ graph [
   ]
   node [
     id 7
-    label "bne4"
+    label "7"
     Country "Australia"
     Longitude 153.02809
     Internal 1
@@ -99,19 +99,19 @@ graph [
   ]
   node [
     id 8
-    label "Sprint"
+    label "8"
     Internal 0
     type "Peer"
   ]
   node [
     id 9
-    label "Equinix"
+    label "9"
     Internal 0
     type "Peer"
   ]
   node [
     id 10
-    label "cbr1"
+    label "10"
     Country "Australia"
     Longitude 149.12807
     Internal 1
@@ -120,37 +120,37 @@ graph [
   ]
   node [
     id 11
-    label "Optus"
+    label "11"
     Internal 0
     type "Transit"
   ]
   node [
     id 12
-    label "Astraweb"
+    label "12"
     Internal 0
     type "Peer"
   ]
   node [
     id 13
-    label "Google"
+    label "13"
     Internal 0
     type "Peer"
   ]
   node [
     id 14
-    label "Sprint"
+    label "14"
     Internal 0
     type "Peer"
   ]
   node [
     id 15
-    label "Equinix"
+    label "15"
     Internal 0
     type "Peer"
   ]
   node [
     id 16
-    label "sin1"
+    label "16"
     Country "Singapore"
     Longitude 103.85007
     Internal 1
@@ -159,13 +159,13 @@ graph [
   ]
   node [
     id 17
-    label "Starhub"
+    label "17"
     Internal 0
     type "Peer"
   ]
   node [
     id 18
-    label "hkg1"
+    label "18"
     Country "Hong Kong"
     Longitude 114.15769
     Internal 1
@@ -174,7 +174,7 @@ graph [
   ]
   node [
     id 19
-    label "sjc2"
+    label "19"
     Country "United States"
     Longitude -121.89496
     Internal 1
@@ -183,7 +183,7 @@ graph [
   ]
   node [
     id 20
-    label "nrt1"
+    label "20"
     Country "Japan"
     Longitude 139.5813
     Internal 1
@@ -192,7 +192,7 @@ graph [
   ]
   node [
     id 21
-    label "akl1"
+    label "21"
     Country "New Zealand"
     Longitude 174.76667
     Internal 1
@@ -201,19 +201,19 @@ graph [
   ]
   node [
     id 22
-    label "Optus"
+    label "22"
     Internal 0
     type "Transit"
   ]
   node [
     id 23
-    label "PIPE Networks"
+    label "23"
     Internal 0
     type "Peer"
   ]
   node [
     id 24
-    label "iad1"
+    label "24"
     Country "United States"
     Longitude -77.48749
     Internal 1
@@ -222,7 +222,7 @@ graph [
   ]
   node [
     id 25
-    label "lon1"
+    label "25"
     Country "United Kingdom"
     Longitude -0.12574
     Internal 1
@@ -231,121 +231,121 @@ graph [
   ]
   node [
     id 26
-    label "NTT"
+    label "26"
     Internal 0
     type "Transit"
   ]
   node [
     id 27
-    label "Level 3"
+    label "27"
     Internal 0
     type "Transit"
   ]
   node [
     id 28
-    label "PAIX"
+    label "28"
     Internal 0
     type "Peer"
   ]
   node [
     id 29
-    label "Global Crossing"
+    label "29"
     Internal 0
     type "Transit"
   ]
   node [
     id 30
-    label "Level 3"
+    label "30"
     Internal 0
     type "Transit"
   ]
   node [
     id 31
-    label "LINX 2"
+    label "31"
     Internal 0
     type "Peer"
   ]
   node [
     id 32
-    label "LINX 1"
+    label "32"
     Internal 0
     type "Peer"
   ]
   node [
     id 33
-    label "AMS IX"
+    label "33"
     Internal 0
     type "Peer"
   ]
   node [
     id 34
-    label "Equinix"
+    label "34"
     Internal 0
     type "Peer"
   ]
   node [
     id 35
-    label "Any2"
+    label "35"
     Internal 0
     type "Peer"
   ]
   node [
     id 36
-    label "Google"
+    label "36"
     Internal 0
     type "Peer"
   ]
   node [
     id 37
-    label "NTT"
+    label "37"
     Internal 0
     type "Transit"
   ]
   node [
     id 38
-    label "Equinix"
+    label "38"
     Internal 0
     type "Peer"
   ]
   node [
     id 39
-    label "Equinix"
+    label "39"
     Internal 0
     type "Peer"
   ]
   node [
     id 40
-    label "HKIX"
+    label "40"
     Internal 0
     type "Peer"
   ]
   node [
     id 41
-    label "Equinix"
+    label "41"
     Internal 0
     type "Peer"
   ]
   node [
     id 42
-    label "NTT"
+    label "42"
     Internal 0
     type "Transit"
   ]
   node [
     id 43
-    label "NTT"
+    label "43"
     Internal 0
     type "Transit"
   ]
   node [
     id 44
-    label "JPIX"
+    label "44"
     Internal 0
     type "Peer"
   ]
   node [
     id 45
-    label "lax1"
+    label "45"
     Country "United States"
     Longitude -118.24368
     Internal 1
@@ -354,79 +354,79 @@ graph [
   ]
   node [
     id 46
-    label "Google"
+    label "46"
     Internal 0
     type "Peer"
   ]
   node [
     id 47
-    label "TransIX"
+    label "47"
     Internal 0
     type "Peer"
   ]
   node [
     id 48
-    label "PIPE Networks"
+    label "48"
     Internal 0
     type "Peer"
   ]
   node [
     id 49
-    label "PIPE Networks"
+    label "49"
     Internal 0
     type "Peer"
   ]
   node [
     id 50
-    label "AARNet"
+    label "50"
     Internal 0
     type "Peer"
   ]
   node [
     id 51
-    label "PIPE Networks"
+    label "51"
     Internal 0
     type "Peer"
   ]
   node [
     id 52
-    label "PacNet"
+    label "52"
     Internal 0
     type "Peer"
   ]
   node [
     id 53
-    label "AARNet"
+    label "53"
     Internal 0
     type "Peer"
   ]
   node [
     id 54
-    label "PIPE Networks"
+    label "54"
     Internal 0
     type "Peer"
   ]
   node [
     id 55
-    label "AARNet"
+    label "55"
     Internal 0
     type "Peer"
   ]
   node [
     id 56
-    label "AARNet"
+    label "56"
     Internal 0
     type "Peer"
   ]
   node [
     id 57
-    label "Optus"
+    label "57"
     Internal 0
     type "Transit"
   ]
   node [
     id 58
-    label "per2"
+    label "58"
     Country "Australia"
     Longitude 115.83333
     Internal 1
@@ -435,7 +435,7 @@ graph [
   ]
   node [
     id 59
-    label "per1"
+    label "59"
     Country "Australia"
     Longitude 115.83333
     Internal 1
@@ -444,7 +444,7 @@ graph [
   ]
   node [
     id 60
-    label "adl6"
+    label "60"
     Country "Australia"
     Longitude 138.6
     Internal 1
@@ -453,7 +453,7 @@ graph [
   ]
   node [
     id 61
-    label "adl2"
+    label "61"
     Country "Australia"
     Longitude 138.6
     Internal 1
@@ -462,25 +462,25 @@ graph [
   ]
   node [
     id 62
-    label "Global Crossing"
+    label "62"
     Internal 0
     type "Transit"
   ]
   node [
     id 63
-    label "PIPE Networks"
+    label "63"
     Internal 0
     type "Peer"
   ]
   node [
     id 64
-    label "Optus"
+    label "64"
     Internal 0
     type "Transit"
   ]
   node [
     id 65
-    label "WAIX"
+    label "65"
     Internal 0
     type "Peer"
   ]
@@ -591,14 +591,6 @@ graph [
     LinkLabel "622Mbps"
     LinkSpeedUnits "M"
     LinkSpeedRaw 622000000.0
-  ]
-  edge [
-    source 3
-    target 5
-    LinkSpeed "250"
-    LinkLabel "250Mbps"
-    LinkSpeedUnits "M"
-    LinkSpeedRaw 250000000.0
   ]
   edge [
     source 3

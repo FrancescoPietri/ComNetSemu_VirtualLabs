@@ -30,7 +30,7 @@ graph [
   Testbed 1
   node [
     id 0
-    label "Portalegre"
+    label "0"
     Country "Portugal"
     Longitude -7.43122
     Internal 1
@@ -39,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "Evora"
+    label "1"
     Country "Portugal"
     Longitude -7.9
     Internal 1
@@ -48,7 +48,7 @@ graph [
   ]
   node [
     id 2
-    label "Guarda"
+    label "2"
     Country "Portugal"
     Longitude -7.26667
     Internal 1
@@ -57,7 +57,7 @@ graph [
   ]
   node [
     id 3
-    label "Castelo Branco"
+    label "3"
     Country "Portugal"
     Longitude -7.5
     Internal 1
@@ -66,7 +66,7 @@ graph [
   ]
   node [
     id 4
-    label "Tomar"
+    label "4"
     Country "Portugal"
     Longitude -8.41667
     Internal 1
@@ -75,7 +75,7 @@ graph [
   ]
   node [
     id 5
-    label "Leiria"
+    label "5"
     Country "Portugal"
     Longitude -8.80705
     Internal 1
@@ -84,7 +84,7 @@ graph [
   ]
   node [
     id 6
-    label "Lisboa"
+    label "6"
     Country "Portugal"
     Longitude -9.13333
     Internal 1
@@ -93,7 +93,7 @@ graph [
   ]
   node [
     id 7
-    label "Samtarem"
+    label "7"
     Country "Portugal"
     Longitude -8.68333
     Internal 1
@@ -102,7 +102,7 @@ graph [
   ]
   node [
     id 8
-    label "Setubal"
+    label "8"
     Country "Portugal"
     Longitude -8.8882
     Internal 1
@@ -111,7 +111,7 @@ graph [
   ]
   node [
     id 9
-    label "Ponta Delgada"
+    label "9"
     Country "Portugal"
     Longitude -25.66667
     Internal 1
@@ -120,7 +120,7 @@ graph [
   ]
   node [
     id 10
-    label "Beja"
+    label "10"
     Country "Portugal"
     Longitude -7.86667
     Internal 1
@@ -129,7 +129,7 @@ graph [
   ]
   node [
     id 11
-    label "Faro"
+    label "11"
     Country "Portugal"
     Longitude -7.93333
     Internal 1
@@ -138,7 +138,7 @@ graph [
   ]
   node [
     id 12
-    label "Funchal"
+    label "12"
     Country "Portugal"
     Longitude -16.9
     Internal 1
@@ -147,7 +147,7 @@ graph [
   ]
   node [
     id 13
-    label "Viseu"
+    label "13"
     Country "Portugal"
     Longitude -7.91667
     Internal 1
@@ -156,7 +156,7 @@ graph [
   ]
   node [
     id 14
-    label "Covilha"
+    label "14"
     Country "Portugal"
     Longitude -7.5
     Internal 1
@@ -165,7 +165,7 @@ graph [
   ]
   node [
     id 15
-    label "Viana de Castelo"
+    label "15"
     Country "Portugal"
     Longitude -8.41905
     Internal 1
@@ -174,7 +174,7 @@ graph [
   ]
   node [
     id 16
-    label "Barcelos"
+    label "16"
     Country "Portugal"
     Longitude -8.61667
     Internal 1
@@ -183,7 +183,7 @@ graph [
   ]
   node [
     id 17
-    label "Braga"
+    label "17"
     Country "Portugal"
     Longitude -8.43333
     Internal 1
@@ -192,7 +192,7 @@ graph [
   ]
   node [
     id 18
-    label "Villa Real"
+    label "18"
     Country "Portugal"
     Longitude -7.75
     Internal 1
@@ -201,7 +201,7 @@ graph [
   ]
   node [
     id 19
-    label "Bragancia"
+    label "19"
     Country "Portugal"
     Longitude -6.75
     Internal 1
@@ -210,7 +210,7 @@ graph [
   ]
   node [
     id 20
-    label "Porto"
+    label "20"
     Country "Portugal"
     Longitude -8.61667
     Internal 1
@@ -219,7 +219,7 @@ graph [
   ]
   node [
     id 21
-    label "Aveiro"
+    label "21"
     Country "Portugal"
     Longitude -8.65
     Internal 1
@@ -228,7 +228,7 @@ graph [
   ]
   node [
     id 22
-    label "Coimbra"
+    label "22"
     Country "Portugal"
     Longitude -8.41667
     Internal 1
@@ -239,11 +239,6 @@ graph [
     source 0
     target 6
     LinkLabel "Lambda (dashed)"
-  ]
-  edge [
-    source 0
-    target 6
-    LinkLabel "Lambda"
   ]
   edge [
     source 1
@@ -311,11 +306,6 @@ graph [
     LinkType "Ethernet"
     LinkLabel "Circuito Ethernet"
     LinkNote "Circuito "
-  ]
-  edge [
-    source 6
-    target 22
-    LinkLabel "Lambda"
   ]
   edge [
     source 6

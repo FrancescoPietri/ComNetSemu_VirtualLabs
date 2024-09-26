@@ -30,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Dolj"
+    label "0"
     Country "Romania"
     Longitude 23.8
     Internal 1
@@ -39,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "Olt"
+    label "1"
     Country "Romania"
     Longitude 24.36667
     Internal 1
@@ -48,7 +48,7 @@ graph [
   ]
   node [
     id 2
-    label "Gorj"
+    label "2"
     Country "Romania"
     Longitude 23.28333
     Internal 1
@@ -57,7 +57,7 @@ graph [
   ]
   node [
     id 3
-    label "Valcea"
+    label "3"
     Country "Romania"
     Longitude 24.36667
     Internal 1
@@ -66,7 +66,7 @@ graph [
   ]
   node [
     id 4
-    label "Bucaresti"
+    label "4"
     Country "Romania"
     Longitude 26.10626
     Internal 1
@@ -75,7 +75,7 @@ graph [
   ]
   node [
     id 5
-    label "Ialomita"
+    label "5"
     Country "Romania"
     Longitude 26.63333
     Internal 1
@@ -84,7 +84,7 @@ graph [
   ]
   node [
     id 6
-    label "Teleorman"
+    label "6"
     Country "Romania"
     Longitude 25.33333
     Internal 1
@@ -93,7 +93,7 @@ graph [
   ]
   node [
     id 7
-    label "Giurgiu"
+    label "7"
     Country "Romania"
     Longitude 25.96667
     Internal 1
@@ -102,7 +102,7 @@ graph [
   ]
   node [
     id 8
-    label "Calarasi"
+    label "8"
     Country "Romania"
     Longitude 27.33333
     Internal 1
@@ -112,7 +112,7 @@ graph [
   ]
   node [
     id 9
-    label "Constanta"
+    label "9"
     Country "Romania"
     Longitude 28.65
     Internal 1
@@ -121,7 +121,7 @@ graph [
   ]
   node [
     id 10
-    label "Harghita"
+    label "10"
     Country "Romania"
     Longitude 25.3
     Internal 1
@@ -130,7 +130,7 @@ graph [
   ]
   node [
     id 11
-    label "Covasna"
+    label "11"
     Country "Romania"
     Longitude 26.18333
     Internal 1
@@ -139,7 +139,7 @@ graph [
   ]
   node [
     id 12
-    label "Alba"
+    label "12"
     Country "Romania"
     Longitude 23.58333
     Internal 1
@@ -148,7 +148,7 @@ graph [
   ]
   node [
     id 13
-    label "Brasov"
+    label "13"
     Country "Romania"
     Longitude 25.60613
     Internal 1
@@ -157,7 +157,7 @@ graph [
   ]
   node [
     id 14
-    label "Arges"
+    label "14"
     Country "Romania"
     Longitude 24.86667
     Internal 1
@@ -166,7 +166,7 @@ graph [
   ]
   node [
     id 15
-    label "Dambovita"
+    label "15"
     Country "Romania"
     Longitude 25.45
     Internal 1
@@ -175,7 +175,7 @@ graph [
   ]
   node [
     id 16
-    label "Prahova"
+    label "16"
     Country "Romania"
     Longitude 26.01667
     Internal 1
@@ -184,7 +184,7 @@ graph [
   ]
   node [
     id 17
-    label "Buzau"
+    label "17"
     Country "Romania"
     Longitude 26.83333
     Internal 1
@@ -193,7 +193,7 @@ graph [
   ]
   node [
     id 18
-    label "Vrancea"
+    label "18"
     Country "Romania"
     Longitude 27.18333
     Internal 1
@@ -202,7 +202,7 @@ graph [
   ]
   node [
     id 19
-    label "Bacau"
+    label "19"
     Country "Romania"
     Longitude 26.9
     Internal 1
@@ -211,12 +211,12 @@ graph [
   ]
   node [
     id 20
-    label "Chisinau RENAM"
+    label "20"
     Internal 0
   ]
   node [
     id 21
-    label "Sibiu"
+    label "21"
     Country "Romania"
     Longitude 24.15
     Internal 1
@@ -225,42 +225,42 @@ graph [
   ]
   node [
     id 22
-    label "None"
+    label "22"
     hyperedge 1
     Internal 1
   ]
   node [
     id 23
-    label "None"
+    label "23"
     hyperedge 1
     Internal 1
   ]
   node [
     id 24
-    label "None"
+    label "24"
     hyperedge 1
     Internal 1
   ]
   node [
     id 25
-    label "None"
+    label "25"
     hyperedge 1
     Internal 1
   ]
   node [
     id 26
-    label "GEANT"
+    label "26"
     Internal 0
   ]
   node [
     id 27
-    label "None"
+    label "27"
     hyperedge 1
     Internal 1
   ]
   node [
     id 28
-    label "Mures"
+    label "28"
     Country "Romania"
     Longitude 24.55747
     Internal 1
@@ -269,7 +269,7 @@ graph [
   ]
   node [
     id 29
-    label "Bistrita-Nasaud"
+    label "29"
     Country "Romania"
     Longitude 24.50011
     Internal 1
@@ -278,7 +278,7 @@ graph [
   ]
   node [
     id 30
-    label "Vaslui"
+    label "30"
     Country "Romania"
     Longitude 27.73333
     Internal 1
@@ -287,7 +287,7 @@ graph [
   ]
   node [
     id 31
-    label "Galati"
+    label "31"
     Country "Romania"
     Longitude 28.05
     Internal 1
@@ -296,7 +296,7 @@ graph [
   ]
   node [
     id 32
-    label "Tulcea"
+    label "32"
     Country "Romania"
     Longitude 28.8
     Internal 1
@@ -305,7 +305,7 @@ graph [
   ]
   node [
     id 33
-    label "Braila"
+    label "33"
     Country "Romania"
     Longitude 27.98333
     Internal 1
@@ -314,7 +314,7 @@ graph [
   ]
   node [
     id 34
-    label "Neamt"
+    label "34"
     Country "Romania"
     Longitude 26.33333
     Internal 1
@@ -323,7 +323,7 @@ graph [
   ]
   node [
     id 35
-    label "Suceava"
+    label "35"
     Country "Romania"
     Longitude 26.25
     Internal 1
@@ -332,7 +332,7 @@ graph [
   ]
   node [
     id 36
-    label "Botosani"
+    label "36"
     Country "Romania"
     Longitude 26.66667
     Internal 1
@@ -341,7 +341,7 @@ graph [
   ]
   node [
     id 37
-    label "Iasi"
+    label "37"
     Country "Romania"
     Longitude 27.6
     Internal 1
@@ -350,7 +350,7 @@ graph [
   ]
   node [
     id 38
-    label "Caras-Severin"
+    label "38"
     Country "Romania"
     Longitude 21.88917
     Internal 1
@@ -359,7 +359,7 @@ graph [
   ]
   node [
     id 39
-    label "Mehedinti"
+    label "39"
     Country "Romania"
     Longitude 22.65611
     Internal 1
@@ -368,7 +368,7 @@ graph [
   ]
   node [
     id 40
-    label "Satu Mare"
+    label "40"
     Country "Romania"
     Longitude 22.88333
     Internal 1
@@ -377,7 +377,7 @@ graph [
   ]
   node [
     id 41
-    label "Maramures"
+    label "41"
     Country "Romania"
     Longitude 23.56808
     Internal 1
@@ -386,7 +386,7 @@ graph [
   ]
   node [
     id 42
-    label "Cluj"
+    label "42"
     Country "Romania"
     Longitude 23.6
     Internal 1
@@ -395,7 +395,7 @@ graph [
   ]
   node [
     id 43
-    label "Salaj"
+    label "43"
     Country "Romania"
     Longitude 23.05
     Internal 1
@@ -404,7 +404,7 @@ graph [
   ]
   node [
     id 44
-    label "Bihor"
+    label "44"
     Country "Romania"
     Longitude 21.93333
     Internal 1
@@ -413,7 +413,7 @@ graph [
   ]
   node [
     id 45
-    label "Arad"
+    label "45"
     Country "Romania"
     Longitude 21.31667
     Internal 1
@@ -422,7 +422,7 @@ graph [
   ]
   node [
     id 46
-    label "Timis"
+    label "46"
     Country "Romania"
     Longitude 21.22722
     Internal 1
@@ -431,7 +431,7 @@ graph [
   ]
   node [
     id 47
-    label "Hunedora"
+    label "47"
     Country "Romania"
     Longitude 22.9
     Internal 1

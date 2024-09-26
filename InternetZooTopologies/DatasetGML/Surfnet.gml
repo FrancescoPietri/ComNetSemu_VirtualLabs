@@ -29,7 +29,7 @@ graph [
   Testbed 1
   node [
     id 0
-    label "Westerbork"
+    label "0"
     Country "Netherlands"
     Longitude 6.60833
     Internal 1
@@ -38,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "Dwingeloo"
+    label "1"
     Country "Netherlands"
     Longitude 6.36944
     Internal 1
@@ -47,7 +47,7 @@ graph [
   ]
   node [
     id 2
-    label "Groningen"
+    label "2"
     Country "Netherlands"
     Longitude 6.56667
     Internal 1
@@ -56,7 +56,7 @@ graph [
   ]
   node [
     id 3
-    label "Assen"
+    label "3"
     Country "Netherlands"
     Longitude 6.5625
     Internal 1
@@ -65,7 +65,7 @@ graph [
   ]
   node [
     id 4
-    label "Alkmaar"
+    label "4"
     Country "Netherlands"
     Longitude 4.74861
     Internal 1
@@ -74,7 +74,7 @@ graph [
   ]
   node [
     id 5
-    label "Lelystad"
+    label "5"
     Country "Netherlands"
     Longitude 5.475
     Internal 1
@@ -83,7 +83,7 @@ graph [
   ]
   node [
     id 6
-    label "Leeuwarden"
+    label "6"
     Country "Netherlands"
     Longitude 5.80859
     Internal 1
@@ -92,7 +92,7 @@ graph [
   ]
   node [
     id 7
-    label "Den Helder"
+    label "7"
     Country "Netherlands"
     Longitude 4.75933
     Internal 1
@@ -101,7 +101,7 @@ graph [
   ]
   node [
     id 8
-    label "Amsterdam"
+    label "8"
     Country "Netherlands"
     Longitude 4.88969
     Internal 1
@@ -110,7 +110,7 @@ graph [
   ]
   node [
     id 9
-    label "Haarlem"
+    label "9"
     Country "Netherlands"
     Longitude 4.63683
     Internal 1
@@ -119,7 +119,7 @@ graph [
   ]
   node [
     id 10
-    label "Oss"
+    label "10"
     Country "Netherlands"
     Longitude 5.51806
     Internal 1
@@ -128,7 +128,7 @@ graph [
   ]
   node [
     id 11
-    label "Den Bosch"
+    label "11"
     Country "Netherlands"
     Longitude 5.30417
     Internal 1
@@ -137,7 +137,7 @@ graph [
   ]
   node [
     id 12
-    label "Houten"
+    label "12"
     Country "Netherlands"
     Longitude 5.16806
     Internal 1
@@ -146,7 +146,7 @@ graph [
   ]
   node [
     id 13
-    label "Wageningen"
+    label "13"
     Country "Netherlands"
     Longitude 5.66667
     Internal 1
@@ -155,7 +155,7 @@ graph [
   ]
   node [
     id 14
-    label "Nijmegen"
+    label "14"
     Country "Netherlands"
     Longitude 5.85278
     Internal 1
@@ -164,7 +164,7 @@ graph [
   ]
   node [
     id 15
-    label "Venlo"
+    label "15"
     Country "Netherlands"
     Longitude 6.16806
     Internal 1
@@ -173,7 +173,7 @@ graph [
   ]
   node [
     id 16
-    label "Heerlen"
+    label "16"
     Country "Netherlands"
     Longitude 5.98154
     Internal 1
@@ -182,7 +182,7 @@ graph [
   ]
   node [
     id 17
-    label "Maastricht"
+    label "17"
     Country "Netherlands"
     Longitude 5.68889
     Internal 1
@@ -191,7 +191,7 @@ graph [
   ]
   node [
     id 18
-    label "Maasbracht"
+    label "18"
     Country "Netherlands"
     Longitude 5.88627
     Internal 1
@@ -200,7 +200,7 @@ graph [
   ]
   node [
     id 19
-    label "Eindhoven"
+    label "19"
     Country "Netherlands"
     Longitude 5.47778
     Internal 1
@@ -209,7 +209,7 @@ graph [
   ]
   node [
     id 20
-    label "Yerseke"
+    label "20"
     Country "Netherlands"
     Longitude 4.05
     Internal 1
@@ -218,7 +218,7 @@ graph [
   ]
   node [
     id 21
-    label "Vlissingen"
+    label "21"
     Country "Netherlands"
     Longitude 3.57361
     Internal 1
@@ -227,7 +227,7 @@ graph [
   ]
   node [
     id 22
-    label "Gouda"
+    label "22"
     Country "Netherlands"
     Longitude 4.70833
     Internal 1
@@ -236,7 +236,7 @@ graph [
   ]
   node [
     id 23
-    label "Nieuwegen"
+    label "23"
     Country "Netherlands"
     Longitude 5.08056
     Internal 1
@@ -245,7 +245,7 @@ graph [
   ]
   node [
     id 24
-    label "Tilburg"
+    label "24"
     Country "Netherlands"
     Longitude 5.0913
     Internal 1
@@ -254,7 +254,7 @@ graph [
   ]
   node [
     id 25
-    label "Dordrecht"
+    label "25"
     Country "Netherlands"
     Longitude 4.67361
     Internal 1
@@ -263,7 +263,7 @@ graph [
   ]
   node [
     id 26
-    label "Bergen op Zoom"
+    label "26"
     Country "Netherlands"
     Longitude 4.29167
     Internal 1
@@ -272,7 +272,7 @@ graph [
   ]
   node [
     id 27
-    label "Breda"
+    label "27"
     Country "Netherlands"
     Longitude 4.77596
     Internal 1
@@ -281,7 +281,7 @@ graph [
   ]
   node [
     id 28
-    label "Middelburg"
+    label "28"
     Country "Netherlands"
     Longitude 3.61389
     Internal 1
@@ -290,7 +290,7 @@ graph [
   ]
   node [
     id 29
-    label "Zierikzee"
+    label "29"
     Country "Netherlands"
     Longitude 3.91944
     Internal 1
@@ -299,7 +299,7 @@ graph [
   ]
   node [
     id 30
-    label "Utrecht"
+    label "30"
     Country "Netherlands"
     Longitude 5.12222
     Internal 1
@@ -308,7 +308,7 @@ graph [
   ]
   node [
     id 31
-    label "Breukelen"
+    label "31"
     Country "Netherlands"
     Longitude 5.00139
     Internal 1
@@ -317,7 +317,7 @@ graph [
   ]
   node [
     id 32
-    label "Leiden"
+    label "32"
     Country "Netherlands"
     Longitude 4.49306
     Internal 1
@@ -326,7 +326,7 @@ graph [
   ]
   node [
     id 33
-    label "Oegstgeest"
+    label "33"
     Country "Netherlands"
     Longitude 4.46944
     Internal 1
@@ -335,7 +335,7 @@ graph [
   ]
   node [
     id 34
-    label "Lisse"
+    label "34"
     Country "Netherlands"
     Longitude 4.55694
     Internal 1
@@ -344,7 +344,7 @@ graph [
   ]
   node [
     id 35
-    label "Schiphol-Rijk"
+    label "35"
     Country "Netherlands"
     Longitude 4.75
     Internal 1
@@ -353,7 +353,7 @@ graph [
   ]
   node [
     id 36
-    label "Hilversum"
+    label "36"
     Country "Netherlands"
     Longitude 5.17639
     Internal 1
@@ -362,7 +362,7 @@ graph [
   ]
   node [
     id 37
-    label "Rotterdam"
+    label "37"
     Country "Netherlands"
     Longitude 4.47917
     Internal 1
@@ -371,7 +371,7 @@ graph [
   ]
   node [
     id 38
-    label "Delft"
+    label "38"
     Country "Netherlands"
     Longitude 4.35556
     Internal 1
@@ -380,7 +380,7 @@ graph [
   ]
   node [
     id 39
-    label "Den Haag"
+    label "39"
     Country "Netherlands"
     Longitude 4.29861
     Internal 1
@@ -389,7 +389,7 @@ graph [
   ]
   node [
     id 40
-    label "Emmen"
+    label "40"
     Country "Netherlands"
     Longitude 6.90694
     Internal 1
@@ -398,7 +398,7 @@ graph [
   ]
   node [
     id 41
-    label "Winschoten"
+    label "41"
     Country "Netherlands"
     Longitude 7.03472
     Internal 1
@@ -407,7 +407,7 @@ graph [
   ]
   node [
     id 42
-    label "Arnhem"
+    label "42"
     Country "Netherlands"
     Longitude 5.91111
     Internal 1
@@ -416,7 +416,7 @@ graph [
   ]
   node [
     id 43
-    label "Apeldoorn"
+    label "43"
     Country "Netherlands"
     Longitude 5.96944
     Internal 1
@@ -425,7 +425,7 @@ graph [
   ]
   node [
     id 44
-    label "Zutphen"
+    label "44"
     Country "Netherlands"
     Longitude 6.20139
     Internal 1
@@ -434,7 +434,7 @@ graph [
   ]
   node [
     id 45
-    label "Enschede"
+    label "45"
     Country "Netherlands"
     Longitude 6.89583
     Internal 1
@@ -443,7 +443,7 @@ graph [
   ]
   node [
     id 46
-    label "Deventer"
+    label "46"
     Country "Netherlands"
     Longitude 6.16389
     Internal 1
@@ -452,7 +452,7 @@ graph [
   ]
   node [
     id 47
-    label "Zwolle"
+    label "47"
     Country "Netherlands"
     Longitude 6.09444
     Internal 1
@@ -461,7 +461,7 @@ graph [
   ]
   node [
     id 48
-    label "Meppel"
+    label "48"
     Country "Netherlands"
     Longitude 6.19444
     Internal 1
@@ -470,7 +470,7 @@ graph [
   ]
   node [
     id 49
-    label "Hoogeveen"
+    label "49"
     Country "Netherlands"
     Longitude 6.47639
     Internal 1
@@ -501,11 +501,6 @@ graph [
     source 2
     target 3
     id "e17"
-  ]
-  edge [
-    source 2
-    target 3
-    id "e16"
   ]
   edge [
     source 2
@@ -608,11 +603,6 @@ graph [
     id "e51"
   ]
   edge [
-    source 12
-    target 30
-    id "e50"
-  ]
-  edge [
     source 13
     target 30
     id "e52"
@@ -646,11 +636,6 @@ graph [
     source 16
     target 17
     id "e57"
-  ]
-  edge [
-    source 16
-    target 17
-    id "e56"
   ]
   edge [
     source 17
@@ -724,11 +709,6 @@ graph [
   ]
   edge [
     source 26
-    target 27
-    id "e67"
-  ]
-  edge [
-    source 26
     target 29
     id "e69"
   ]
@@ -781,11 +761,6 @@ graph [
     source 37
     target 38
     id "e42"
-  ]
-  edge [
-    source 37
-    target 38
-    id "e41"
   ]
   edge [
     source 38

@@ -29,7 +29,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "London"
+    label "0"
     Country "United Kingdom"
     Longitude -0.12574
     Internal 1
@@ -38,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "Southport"
+    label "1"
     Country "United Kingdom"
     Longitude -3.00648
     Internal 1
@@ -47,17 +47,17 @@ graph [
   ]
   node [
     id 2
-    label "None"
+    label "2"
     Internal 0
   ]
   node [
     id 3
-    label "None"
+    label "3"
     Internal 0
   ]
   node [
     id 4
-    label "Manchester"
+    label "4"
     Country "United Kingdom"
     Longitude -2.23743
     Internal 1
@@ -66,7 +66,7 @@ graph [
   ]
   node [
     id 5
-    label "Peterborough"
+    label "5"
     Country "United Kingdom"
     Longitude -0.24777
     Internal 1
@@ -75,7 +75,7 @@ graph [
   ]
   node [
     id 6
-    label "Cambridge"
+    label "6"
     Country "United Kingdom"
     Longitude 0.11667
     Internal 1
@@ -84,7 +84,7 @@ graph [
   ]
   node [
     id 7
-    label "Sheffield"
+    label "7"
     Country "United Kingdom"
     Longitude -1.4659
     Internal 1
@@ -93,7 +93,7 @@ graph [
   ]
   node [
     id 8
-    label "Leicester"
+    label "8"
     Country "United Kingdom"
     Longitude -1.13333
     Internal 1
@@ -102,7 +102,7 @@ graph [
   ]
   node [
     id 9
-    label "Bracewell"
+    label "9"
     Country "United Kingdom"
     Longitude -2.20958
     Internal 1
@@ -111,7 +111,7 @@ graph [
   ]
   node [
     id 10
-    label "Leeds"
+    label "10"
     Country "United Kingdom"
     Longitude -1.54785
     Internal 1
@@ -120,7 +120,7 @@ graph [
   ]
   node [
     id 11
-    label "Birmingham"
+    label "11"
     Country "United Kingdom"
     Longitude -1.91667
     Internal 1
@@ -129,7 +129,7 @@ graph [
   ]
   node [
     id 12
-    label "Liverpool"
+    label "12"
     Country "United Kingdom"
     Longitude -2.97794
     Internal 1
@@ -138,7 +138,7 @@ graph [
   ]
   node [
     id 13
-    label "Reading"
+    label "13"
     Country "United Kingdom"
     Longitude -0.97113
     Internal 1
@@ -147,7 +147,7 @@ graph [
   ]
   node [
     id 14
-    label "Bristol"
+    label "14"
     Country "United Kingdom"
     Longitude -2.58333
     Internal 1

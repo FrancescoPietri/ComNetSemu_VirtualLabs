@@ -30,19 +30,19 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Gamnet"
+    label "0"
     Internal 1
     type "Commercial ISP"
   ]
   node [
     id 1
-    label "Qnet AS"
+    label "1"
     Internal 1
     type "Commercial ISP"
   ]
   node [
     id 2
-    label "Kerewan"
+    label "2"
     Country "Gambia"
     Longitude -16.09111
     Internal 1
@@ -51,7 +51,7 @@ graph [
   ]
   node [
     id 3
-    label "Banjul"
+    label "3"
     Country "Gambia"
     Longitude -16.57803
     Internal 1
@@ -60,88 +60,88 @@ graph [
   ]
   node [
     id 4
-    label "MDI"
+    label "4"
     Internal 1
     type "Education/Research"
   ]
   node [
     id 5
-    label "GTMI"
+    label "5"
     Internal 1
     type "Education/Research"
   ]
   node [
     id 6
-    label "Quantum Net"
+    label "6"
     Internal 1
     type "Commercial ISP"
   ]
   node [
     id 7
-    label "MRC"
+    label "7"
     Internal 1
     type "Education/Research"
   ]
   node [
     id 8
-    label "Univ Gambia"
+    label "8"
     Internal 1
     type "Education/Research"
   ]
   node [
     id 9
-    label "GTMI"
+    label "9"
     Internal 1
     type "Education/Research"
   ]
   node [
     id 10
-    label "Mansk Gambia"
+    label "10"
     Internal 1
     type "Other"
   ]
   node [
     id 11
-    label "Gamtel House"
+    label "11"
     Internal 1
     type "Other"
   ]
   node [
     id 12
-    label "Action Ltd"
+    label "12"
     Internal 1
     type "NGO/International Organisations"
   ]
   node [
     id 13
-    label "UNDP"
+    label "13"
     Internal 1
     type "NGO/International Organisations"
   ]
   node [
     id 14
-    label "Teleglobe Canada"
+    label "14"
     Internal 0
   ]
   node [
     id 15
-    label "Intelsat"
+    label "15"
     Internal 0
   ]
   node [
     id 16
-    label "Earth Station"
+    label "16"
     Internal 0
   ]
   node [
     id 17
-    label "Gantd Center"
+    label "17"
     Internal 1
     type "Other"
   ]
   node [
     id 18
-    label "Basse"
+    label "18"
     Country "Gambia"
     Longitude -14.21667
     Internal 1
@@ -150,7 +150,7 @@ graph [
   ]
   node [
     id 19
-    label "Bansang"
+    label "19"
     Country "Gambia"
     Longitude -14.65
     Internal 1
@@ -159,7 +159,7 @@ graph [
   ]
   node [
     id 20
-    label "Abuko"
+    label "20"
     Country "Gambia"
     Longitude -16.65583
     Internal 1
@@ -168,7 +168,7 @@ graph [
   ]
   node [
     id 21
-    label "Serekunda"
+    label "21"
     Country "Gambia"
     Longitude -16.67806
     Internal 1
@@ -177,7 +177,7 @@ graph [
   ]
   node [
     id 22
-    label "Kotu"
+    label "22"
     Country "Gambia"
     Longitude -16.70528
     Internal 1
@@ -186,7 +186,7 @@ graph [
   ]
   node [
     id 23
-    label "Bakau"
+    label "23"
     Country "Gambia"
     Longitude -16.68194
     Internal 1
@@ -195,7 +195,7 @@ graph [
   ]
   node [
     id 24
-    label "Brikama"
+    label "24"
     Country "Gambia"
     Longitude -16.64611
     Internal 1
@@ -204,7 +204,7 @@ graph [
   ]
   node [
     id 25
-    label "Yundum"
+    label "25"
     Country "Gambia"
     Longitude -16.68611
     Internal 1
@@ -213,7 +213,7 @@ graph [
   ]
   node [
     id 26
-    label "Soma"
+    label "26"
     Country "Gambia"
     Longitude -15.53333
     Internal 1
@@ -222,7 +222,7 @@ graph [
   ]
   node [
     id 27
-    label "Farafenni"
+    label "27"
     Country "Gambia"
     Longitude -15.6
     Internal 1

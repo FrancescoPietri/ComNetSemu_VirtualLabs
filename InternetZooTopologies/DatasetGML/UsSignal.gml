@@ -30,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Indianapolis "
+    label "0"
     Country "United States"
     Longitude -86.15804
     Internal 1
@@ -38,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "Bloomington"
+    label "1"
     Country "United States"
     Longitude -86.52639
     Internal 1
@@ -46,7 +46,7 @@ graph [
   ]
   node [
     id 2
-    label "Shelbyville"
+    label "2"
     Country "United States"
     Longitude -85.77692
     Internal 1
@@ -54,7 +54,7 @@ graph [
   ]
   node [
     id 3
-    label "Greenwood"
+    label "3"
     Country "United States"
     Longitude -86.10665
     Internal 1
@@ -62,7 +62,7 @@ graph [
   ]
   node [
     id 4
-    label "Evansville"
+    label "4"
     Country "United States"
     Longitude -87.55585
     Internal 1
@@ -70,7 +70,7 @@ graph [
   ]
   node [
     id 5
-    label "Centralia "
+    label "5"
     Country "United States"
     Longitude -89.1334
     Internal 1
@@ -78,7 +78,7 @@ graph [
   ]
   node [
     id 6
-    label "Columbus"
+    label "6"
     Country "United States"
     Longitude -85.92138
     Internal 1
@@ -86,7 +86,7 @@ graph [
   ]
   node [
     id 7
-    label "Louisville"
+    label "7"
     Country "United States"
     Longitude -85.75941
     Internal 1
@@ -94,7 +94,7 @@ graph [
   ]
   node [
     id 8
-    label "Lansing"
+    label "8"
     Country "United States"
     Longitude -84.55553
     Internal 1
@@ -102,7 +102,7 @@ graph [
   ]
   node [
     id 9
-    label "Jackson"
+    label "9"
     Country "United States"
     Longitude -84.40135
     Internal 1
@@ -110,7 +110,7 @@ graph [
   ]
   node [
     id 10
-    label "St Loius"
+    label "10"
     Country "United States"
     Longitude -90.19789
     Internal 1
@@ -118,7 +118,7 @@ graph [
   ]
   node [
     id 11
-    label "Lafayette"
+    label "11"
     Country "United States"
     Longitude -86.87529
     Internal 1
@@ -126,7 +126,7 @@ graph [
   ]
   node [
     id 12
-    label "Grand Rapids"
+    label "12"
     Country "United States"
     Longitude -85.66809
     Internal 1
@@ -134,7 +134,7 @@ graph [
   ]
   node [
     id 13
-    label "Muskegon"
+    label "13"
     Country "United States"
     Longitude -86.24839
     Internal 1
@@ -142,7 +142,7 @@ graph [
   ]
   node [
     id 14
-    label "Gary"
+    label "14"
     Country "United States"
     Longitude -87.34643
     Internal 1
@@ -150,7 +150,7 @@ graph [
   ]
   node [
     id 15
-    label "Battle Creek"
+    label "15"
     Country "United States"
     Longitude -85.17971
     Internal 1
@@ -158,7 +158,7 @@ graph [
   ]
   node [
     id 16
-    label "Rockford "
+    label "16"
     Country "United States"
     Longitude -89.094
     Internal 1
@@ -166,7 +166,7 @@ graph [
   ]
   node [
     id 17
-    label "Madison "
+    label "17"
     Country "United States"
     Longitude -89.40123
     Internal 1
@@ -174,7 +174,7 @@ graph [
   ]
   node [
     id 18
-    label "Muncie"
+    label "18"
     Country "United States"
     Longitude -85.38636
     Internal 1
@@ -182,7 +182,7 @@ graph [
   ]
   node [
     id 19
-    label "Anderson"
+    label "19"
     Country "United States"
     Longitude -85.68025
     Internal 1
@@ -190,7 +190,7 @@ graph [
   ]
   node [
     id 20
-    label "Mattoon "
+    label "20"
     Country "United States"
     Longitude -88.37283
     Internal 1
@@ -198,7 +198,7 @@ graph [
   ]
   node [
     id 21
-    label "Terre Haute "
+    label "21"
     Country "United States"
     Longitude -87.41391
     Internal 1
@@ -206,7 +206,7 @@ graph [
   ]
   node [
     id 22
-    label "Champaign "
+    label "22"
     Country "United States"
     Longitude -88.24338
     Internal 1
@@ -214,7 +214,7 @@ graph [
   ]
   node [
     id 23
-    label "Bloomington"
+    label "23"
     Country "United States"
     Longitude -88.99369
     Internal 1
@@ -222,7 +222,7 @@ graph [
   ]
   node [
     id 24
-    label "Peoria "
+    label "24"
     Country "United States"
     Longitude -89.58899
     Internal 1
@@ -230,7 +230,7 @@ graph [
   ]
   node [
     id 25
-    label "Springfield "
+    label "25"
     Country "United States"
     Longitude -89.64371
     Internal 1
@@ -238,7 +238,7 @@ graph [
   ]
   node [
     id 26
-    label "Ann Arbor"
+    label "26"
     Country "United States"
     Longitude -83.74088
     Internal 1
@@ -246,7 +246,7 @@ graph [
   ]
   node [
     id 27
-    label "Traverse City"
+    label "27"
     Country "United States"
     Longitude -85.62063
     Internal 1
@@ -254,7 +254,7 @@ graph [
   ]
   node [
     id 28
-    label "Mt Pleasant"
+    label "28"
     Country "United States"
     Longitude -84.76751
     Internal 1
@@ -262,7 +262,7 @@ graph [
   ]
   node [
     id 29
-    label "Portage"
+    label "29"
     Country "United States"
     Longitude -87.17615
     Internal 1
@@ -270,7 +270,7 @@ graph [
   ]
   node [
     id 30
-    label "Chicago "
+    label "30"
     Country "United States"
     Longitude -87.65005
     Internal 1
@@ -278,7 +278,7 @@ graph [
   ]
   node [
     id 31
-    label "Midland"
+    label "31"
     Country "United States"
     Longitude -84.24721
     Internal 1
@@ -286,13 +286,13 @@ graph [
   ]
   node [
     id 32
-    label "None"
+    label "32"
     hyperedge 1
     Internal 1
   ]
   node [
     id 33
-    label "Saginaw"
+    label "33"
     Country "United States"
     Longitude -83.95081
     Internal 1
@@ -300,13 +300,13 @@ graph [
   ]
   node [
     id 34
-    label "None"
+    label "34"
     hyperedge 1
     Internal 1
   ]
   node [
     id 35
-    label "Appleton "
+    label "35"
     Country "United States"
     Longitude -88.41538
     Internal 1
@@ -314,7 +314,7 @@ graph [
   ]
   node [
     id 36
-    label "Oshkosh "
+    label "36"
     Country "United States"
     Longitude -88.54261
     Internal 1
@@ -322,7 +322,7 @@ graph [
   ]
   node [
     id 37
-    label "Milwaukee "
+    label "37"
     Country "United States"
     Longitude -87.90647
     Internal 1
@@ -330,7 +330,7 @@ graph [
   ]
   node [
     id 38
-    label "Green Bay "
+    label "38"
     Country "United States"
     Longitude -88.01983
     Internal 1
@@ -338,7 +338,7 @@ graph [
   ]
   node [
     id 39
-    label "Des Plaines "
+    label "39"
     Country "United States"
     Longitude -87.8834
     Internal 1
@@ -346,7 +346,7 @@ graph [
   ]
   node [
     id 40
-    label "Northbrook "
+    label "40"
     Country "United States"
     Longitude -87.82895
     Internal 1
@@ -354,7 +354,7 @@ graph [
   ]
   node [
     id 41
-    label "La Grange"
+    label "41"
     Country "United States"
     Longitude -87.86923
     Internal 1
@@ -362,7 +362,7 @@ graph [
   ]
   node [
     id 42
-    label "Oak Brook "
+    label "42"
     Country "United States"
     Longitude -87.92895
     Internal 1
@@ -370,7 +370,7 @@ graph [
   ]
   node [
     id 43
-    label "Lima"
+    label "43"
     Country "United States"
     Longitude -84.10523
     Internal 1
@@ -378,7 +378,7 @@ graph [
   ]
   node [
     id 44
-    label "Fort Wayne"
+    label "44"
     Country "United States"
     Longitude -85.12886
     Internal 1
@@ -386,7 +386,7 @@ graph [
   ]
   node [
     id 45
-    label "South Bend"
+    label "45"
     Country "United States"
     Longitude -86.25001
     Internal 1
@@ -394,7 +394,7 @@ graph [
   ]
   node [
     id 46
-    label "Warsaw"
+    label "46"
     Country "United States"
     Longitude -85.85305
     Internal 1
@@ -402,7 +402,7 @@ graph [
   ]
   node [
     id 47
-    label "Marion"
+    label "47"
     Country "United States"
     geocode_id "7317018"
     Internal 1
@@ -411,7 +411,7 @@ graph [
   ]
   node [
     id 48
-    label "Kokomo"
+    label "48"
     Country "United States"
     Longitude -86.1336
     Internal 1
@@ -419,7 +419,7 @@ graph [
   ]
   node [
     id 49
-    label "Elkhart"
+    label "49"
     Country "United States"
     Longitude -85.97667
     Internal 1
@@ -427,7 +427,7 @@ graph [
   ]
   node [
     id 50
-    label "Three Rivers"
+    label "50"
     Country "United States"
     Longitude -85.63249
     Internal 1
@@ -435,7 +435,7 @@ graph [
   ]
   node [
     id 51
-    label "Kalamazoo"
+    label "51"
     Country "United States"
     Longitude -85.58723
     Internal 1
@@ -443,7 +443,7 @@ graph [
   ]
   node [
     id 52
-    label "Niles"
+    label "52"
     Country "United States"
     Longitude -86.25418
     Internal 1
@@ -451,7 +451,7 @@ graph [
   ]
   node [
     id 53
-    label "Dayton "
+    label "53"
     Country "United States"
     Longitude -84.19161
     Internal 1
@@ -459,7 +459,7 @@ graph [
   ]
   node [
     id 54
-    label "Cincinnati "
+    label "54"
     Country "United States"
     Longitude -84.45689
     Internal 1
@@ -467,7 +467,7 @@ graph [
   ]
   node [
     id 55
-    label "Saginaw"
+    label "55"
     Country "United States"
     Longitude -83.95081
     Internal 1
@@ -475,7 +475,7 @@ graph [
   ]
   node [
     id 56
-    label "Flint"
+    label "56"
     Country "United States"
     Longitude -83.68746
     Internal 1
@@ -483,7 +483,7 @@ graph [
   ]
   node [
     id 57
-    label "Pontiac"
+    label "57"
     Country "United States"
     Longitude -83.29105
     Internal 1
@@ -491,7 +491,7 @@ graph [
   ]
   node [
     id 58
-    label "Southfield/Detroit"
+    label "58"
     Country "United States"
     Longitude -83.2428
     Internal 1
@@ -499,7 +499,7 @@ graph [
   ]
   node [
     id 59
-    label "Toledo"
+    label "59"
     Country "United States"
     Longitude -83.55521
     Internal 1
@@ -507,7 +507,7 @@ graph [
   ]
   node [
     id 60
-    label "Cleveland"
+    label "60"
     Country "United States"
     Longitude -81.69541
     Internal 1
@@ -515,7 +515,7 @@ graph [
   ]
   node [
     id 61
-    label "Akron"
+    label "61"
     Country "United States"
     Longitude -81.51901
     Internal 1
@@ -523,7 +523,7 @@ graph [
   ]
   node [
     id 62
-    label "Columbus "
+    label "62"
     Country "United States"
     Longitude -82.99879
     Internal 1
@@ -823,11 +823,6 @@ graph [
     source 41
     target 42
     id "e63"
-  ]
-  edge [
-    source 41
-    target 42
-    id "e64"
   ]
   edge [
     source 43

@@ -4,7 +4,7 @@ graph [
   GeoExtent "Country"
   Network "GridNet"
   Provenance "Secondary"
-  Note "Owned by WorldCom - public data net. http://books.google.com.au/books?id=pw4EAAAAMBAJ&pg=PA24&lpg=PA24&dq=GridNet+Network&source=bl&ots=QrtyD7bAeG&sig=46WUmRkmTyaiQFcJ2IBv3KclZa8&hl=en&ei=SQTaTa2JCo7WtQOzoKWODA&sa=X&oi=book_result&ct=result&resnum=9&ved=0CFIQ6AEwCA#v=onepage&q=GridNet%20Network&f=false"
+  Note "Owned by WorldCom - public data net. http://books.google.com.au/books?id=pw4EAAAAMBAJ&#38;pg=PA24&#38;lpg=PA24&#38;dq=GridNet+Network&#38;source=bl&#38;ots=QrtyD7bAeG&#38;sig=46WUmRkmTyaiQFcJ2IBv3KclZa8&#38;hl=en&#38;ei=SQTaTa2JCo7WtQOzoKWODA&#38;sa=X&#38;oi=book_result&#38;ct=result&#38;resnum=9&#38;ved=0CFIQ6AEwCA#v=onepage&#38;q=GridNet%20Network&#38;f=false"
   Source "http://www.nthelp.com/images/gridnet.jpg"
   Version "1.0"
   Type "COM"
@@ -30,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Houston"
+    label "0"
     Country "United States"
     Longitude -95.36327
     Internal 1
@@ -38,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "San Francisco"
+    label "1"
     Country "United States"
     Longitude -122.41942
     Internal 1
@@ -46,7 +46,7 @@ graph [
   ]
   node [
     id 2
-    label "Los Angeles"
+    label "2"
     Country "United States"
     Longitude -118.24368
     Internal 1
@@ -54,7 +54,7 @@ graph [
   ]
   node [
     id 3
-    label "New York"
+    label "3"
     Country "United States"
     Longitude -74.00597
     Internal 1
@@ -62,7 +62,7 @@ graph [
   ]
   node [
     id 4
-    label "Newark"
+    label "4"
     Country "United States"
     Longitude -74.17237
     Internal 1
@@ -70,7 +70,7 @@ graph [
   ]
   node [
     id 5
-    label "Washington, DC"
+    label "5"
     Country "United States"
     Longitude -77.03637
     Internal 1
@@ -78,7 +78,7 @@ graph [
   ]
   node [
     id 6
-    label "Atlanta"
+    label "6"
     Country "United States"
     Longitude -84.38798
     Internal 1
@@ -86,7 +86,7 @@ graph [
   ]
   node [
     id 7
-    label "Dallas"
+    label "7"
     Country "United States"
     Longitude -96.80667
     Internal 1
@@ -94,7 +94,7 @@ graph [
   ]
   node [
     id 8
-    label "Miami"
+    label "8"
     Country "United States"
     Longitude -80.19366
     Internal 1

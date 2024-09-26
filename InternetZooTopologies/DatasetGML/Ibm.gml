@@ -30,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Montreal"
+    label "0"
     Country "United States"
     Longitude -90.24601
     Internal 1
@@ -38,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "White Plains"
+    label "1"
     Country "United States"
     Longitude -73.76291
     Internal 1
@@ -46,7 +46,7 @@ graph [
   ]
   node [
     id 2
-    label "Detroit"
+    label "2"
     Country "United States"
     Longitude -83.04575
     Internal 1
@@ -54,7 +54,7 @@ graph [
   ]
   node [
     id 3
-    label "Toronto"
+    label "3"
     Country "United States"
     Longitude -80.60091
     Internal 1
@@ -62,7 +62,7 @@ graph [
   ]
   node [
     id 4
-    label "Columbus"
+    label "4"
     Country "United States"
     Longitude -82.99879
     Internal 1
@@ -70,7 +70,7 @@ graph [
   ]
   node [
     id 5
-    label "Bethesda"
+    label "5"
     Country "United States"
     Longitude -77.10026
     Internal 1
@@ -78,7 +78,7 @@ graph [
   ]
   node [
     id 6
-    label "New York"
+    label "6"
     Country "United States"
     Longitude -74.00597
     Internal 1
@@ -86,7 +86,7 @@ graph [
   ]
   node [
     id 7
-    label "Philadelphia"
+    label "7"
     Country "United States"
     Longitude -75.16379
     Internal 1
@@ -94,7 +94,7 @@ graph [
   ]
   node [
     id 8
-    label "Schaumburg"
+    label "8"
     Country "United States"
     Longitude -88.08341
     Internal 1
@@ -102,7 +102,7 @@ graph [
   ]
   node [
     id 9
-    label "St Louis"
+    label "9"
     Country "United States"
     Longitude -90.19789
     Internal 1
@@ -110,7 +110,7 @@ graph [
   ]
   node [
     id 10
-    label "Vancouver"
+    label "10"
     Country "United States"
     Longitude -122.66149
     Internal 1
@@ -118,7 +118,7 @@ graph [
   ]
   node [
     id 11
-    label "San Francisco"
+    label "11"
     Country "United States"
     Longitude -122.41942
     Internal 1
@@ -126,7 +126,7 @@ graph [
   ]
   node [
     id 12
-    label "Los Angeles"
+    label "12"
     Country "United States"
     Longitude -118.24368
     Internal 1
@@ -134,7 +134,7 @@ graph [
   ]
   node [
     id 13
-    label "Phoenix"
+    label "13"
     Country "United States"
     Longitude -112.07404
     Internal 1
@@ -142,7 +142,7 @@ graph [
   ]
   node [
     id 14
-    label "Dallas"
+    label "14"
     Country "United States"
     Longitude -96.80667
     Internal 1
@@ -150,7 +150,7 @@ graph [
   ]
   node [
     id 15
-    label "Atlanta"
+    label "15"
     Country "United States"
     Longitude -84.38798
     Internal 1
@@ -158,7 +158,7 @@ graph [
   ]
   node [
     id 16
-    label "Tampa"
+    label "16"
     Country "United States"
     Longitude -82.45843
     Internal 1
@@ -166,7 +166,7 @@ graph [
   ]
   node [
     id 17
-    label "Chicago"
+    label "17"
     Country "United States"
     Longitude -87.65005
     Internal 1

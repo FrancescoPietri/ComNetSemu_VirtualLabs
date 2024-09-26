@@ -29,7 +29,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "New York"
+    label "0"
     Country "United States"
     Longitude -74.00597
     Internal 1
@@ -37,12 +37,12 @@ graph [
   ]
   node [
     id 1
-    label "?"
+    label "1"
     Internal 1
   ]
   node [
     id 2
-    label "Montreal"
+    label "2"
     Country "Canada"
     Longitude -73.58781
     Internal 1
@@ -50,7 +50,7 @@ graph [
   ]
   node [
     id 3
-    label "Boston"
+    label "3"
     Country "United States"
     Longitude -71.05977
     Internal 1
@@ -58,7 +58,7 @@ graph [
   ]
   node [
     id 4
-    label "London"
+    label "4"
     Country "United Kingdom"
     Longitude -0.12574
     Internal 1
@@ -66,7 +66,7 @@ graph [
   ]
   node [
     id 5
-    label "Amsterdam"
+    label "5"
     Country "Netherlands"
     Longitude 4.88969
     Internal 1
@@ -74,7 +74,7 @@ graph [
   ]
   node [
     id 6
-    label "Dublin"
+    label "6"
     Country "Ireland"
     Longitude -6.26719
     Internal 1
@@ -82,7 +82,7 @@ graph [
   ]
   node [
     id 7
-    label "Manchester"
+    label "7"
     Country "United Kingdom"
     Longitude -2.23743
     Internal 1
@@ -90,7 +90,7 @@ graph [
   ]
   node [
     id 8
-    label "Dusseldorf"
+    label "8"
     Country "Germany"
     Longitude 6.77616
     Internal 1
@@ -98,7 +98,7 @@ graph [
   ]
   node [
     id 9
-    label "Antwerp"
+    label "9"
     Country "Belgium"
     Longitude 4.41667
     Internal 1
@@ -106,25 +106,25 @@ graph [
   ]
   node [
     id 10
-    label "None"
+    label "10"
     hyperedge 1
     Internal 1
   ]
   node [
     id 11
-    label "None"
+    label "11"
     hyperedge 1
     Internal 1
   ]
   node [
     id 12
-    label "None"
+    label "12"
     hyperedge 1
     Internal 1
   ]
   node [
     id 13
-    label "Athens"
+    label "13"
     Country "Greece"
     Longitude 23.71622
     Internal 1
@@ -132,7 +132,7 @@ graph [
   ]
   node [
     id 14
-    label "Bucharest"
+    label "14"
     Country "Romania"
     Longitude 26.10626
     Internal 1
@@ -140,7 +140,7 @@ graph [
   ]
   node [
     id 15
-    label "Vienna"
+    label "15"
     Country "Austria"
     Longitude 16.37208
     Internal 1
@@ -148,7 +148,7 @@ graph [
   ]
   node [
     id 16
-    label "Bratislava"
+    label "16"
     Country "Slovakia"
     Longitude 17.10674
     Internal 1
@@ -156,7 +156,7 @@ graph [
   ]
   node [
     id 17
-    label "Prague"
+    label "17"
     Country "Czech Republic"
     Longitude 14.42076
     Internal 1
@@ -164,7 +164,7 @@ graph [
   ]
   node [
     id 18
-    label "Warsaw"
+    label "18"
     Country "Poland"
     Longitude 21.01178
     Internal 1
@@ -172,7 +172,7 @@ graph [
   ]
   node [
     id 19
-    label "Cagliari"
+    label "19"
     Country "Italy"
     Longitude 9.13462
     Internal 1
@@ -180,7 +180,7 @@ graph [
   ]
   node [
     id 20
-    label "Rome"
+    label "20"
     Country "Italy"
     Longitude 12.4839
     Internal 1
@@ -188,7 +188,7 @@ graph [
   ]
   node [
     id 21
-    label "???"
+    label "21"
     Country "Germany"
     Longitude 13.41053
     Internal 1
@@ -196,7 +196,7 @@ graph [
   ]
   node [
     id 22
-    label "Catania"
+    label "22"
     Country "Italy"
     Longitude 15.08719
     Internal 1
@@ -204,7 +204,7 @@ graph [
   ]
   node [
     id 23
-    label "Madrid"
+    label "23"
     Country "Spain"
     Longitude -3.70256
     Internal 1
@@ -212,7 +212,7 @@ graph [
   ]
   node [
     id 24
-    label "Singapore"
+    label "24"
     Country "Singapore"
     Longitude 103.85007
     Internal 1
@@ -220,7 +220,7 @@ graph [
   ]
   node [
     id 25
-    label "Hamburg"
+    label "25"
     Country "Germany"
     Longitude 10.0
     Internal 1
@@ -228,7 +228,7 @@ graph [
   ]
   node [
     id 26
-    label "Sofia"
+    label "26"
     Country "Bulgaria"
     Longitude 23.32415
     Internal 1
@@ -236,7 +236,7 @@ graph [
   ]
   node [
     id 27
-    label "Oslo"
+    label "27"
     Country "Norway"
     Longitude 10.74609
     Internal 1
@@ -244,7 +244,7 @@ graph [
   ]
   node [
     id 28
-    label "Copenhagen"
+    label "28"
     Country "Denmark"
     Longitude 12.56553
     Internal 1
@@ -252,7 +252,7 @@ graph [
   ]
   node [
     id 29
-    label "Palo Alto"
+    label "29"
     Country "United States"
     Longitude -122.14302
     Internal 1
@@ -260,7 +260,7 @@ graph [
   ]
   node [
     id 30
-    label "Stockholm"
+    label "30"
     Country "Sweden"
     Longitude 18.0649
     Internal 1
@@ -268,7 +268,7 @@ graph [
   ]
   node [
     id 31
-    label "Hong Kong"
+    label "31"
     Country "Hong Kong"
     Longitude 114.15769
     Internal 1
@@ -276,13 +276,13 @@ graph [
   ]
   node [
     id 32
-    label "None"
+    label "32"
     hyperedge 1
     Internal 1
   ]
   node [
     id 33
-    label "Munich"
+    label "33"
     Country "Germany"
     Longitude 11.57549
     Internal 1
@@ -290,7 +290,7 @@ graph [
   ]
   node [
     id 34
-    label "Frankfurt"
+    label "34"
     Country "Germany"
     Longitude 8.68333
     Internal 1
@@ -298,7 +298,7 @@ graph [
   ]
   node [
     id 35
-    label "Marseille"
+    label "35"
     Country "France"
     Longitude 5.4
     Internal 1
@@ -306,7 +306,7 @@ graph [
   ]
   node [
     id 36
-    label "Barcelona"
+    label "36"
     Country "Spain"
     Longitude 2.15899
     Internal 1
@@ -314,7 +314,7 @@ graph [
   ]
   node [
     id 37
-    label "Paris"
+    label "37"
     Country "France"
     Longitude 2.3488
     Internal 1
@@ -322,7 +322,7 @@ graph [
   ]
   node [
     id 38
-    label "Brussels"
+    label "38"
     Country "Belgium"
     Longitude 4.34878
     Internal 1
@@ -330,7 +330,7 @@ graph [
   ]
   node [
     id 39
-    label "Basel"
+    label "39"
     Country "Switzerland"
     Longitude 7.6
     Internal 1
@@ -338,7 +338,7 @@ graph [
   ]
   node [
     id 40
-    label "Zurich"
+    label "40"
     Country "Switzerland"
     Longitude 8.55
     Internal 1
@@ -346,7 +346,7 @@ graph [
   ]
   node [
     id 41
-    label "Milan"
+    label "41"
     Country "Italy"
     Longitude 9.18951
     Internal 1
@@ -354,7 +354,7 @@ graph [
   ]
   node [
     id 42
-    label "Turin"
+    label "42"
     Country "Italy"
     Longitude 7.68682
     Internal 1
@@ -362,7 +362,7 @@ graph [
   ]
   node [
     id 43
-    label "Miami"
+    label "43"
     Country "United States"
     Longitude -80.19366
     Internal 1
@@ -370,7 +370,7 @@ graph [
   ]
   node [
     id 44
-    label "Toronto"
+    label "44"
     Country "Canada"
     Longitude -79.4163
     Internal 1
@@ -378,7 +378,7 @@ graph [
   ]
   node [
     id 45
-    label "Seattle"
+    label "45"
     Country "United States"
     Longitude -122.33207
     Internal 1
@@ -386,7 +386,7 @@ graph [
   ]
   node [
     id 46
-    label "San Jose"
+    label "46"
     Country "United States"
     Longitude -121.89496
     Internal 1
@@ -394,7 +394,7 @@ graph [
   ]
   node [
     id 47
-    label "Los Angeles"
+    label "47"
     Country "United States"
     Longitude -118.24368
     Internal 1
@@ -402,7 +402,7 @@ graph [
   ]
   node [
     id 48
-    label "Denver"
+    label "48"
     Country "United States"
     Longitude -104.9847
     Internal 1
@@ -410,7 +410,7 @@ graph [
   ]
   node [
     id 49
-    label "Chicago"
+    label "49"
     Country "United States"
     Longitude -87.65005
     Internal 1
@@ -418,7 +418,7 @@ graph [
   ]
   node [
     id 50
-    label "Dallas"
+    label "50"
     Country "United States"
     Longitude -96.80667
     Internal 1
@@ -426,7 +426,7 @@ graph [
   ]
   node [
     id 51
-    label "Atlanta"
+    label "51"
     Country "United States"
     Longitude -84.38798
     Internal 1
@@ -434,7 +434,7 @@ graph [
   ]
   node [
     id 52
-    label "Washington DC"
+    label "52"
     Country "United States"
     Longitude -77.03637
     Internal 1

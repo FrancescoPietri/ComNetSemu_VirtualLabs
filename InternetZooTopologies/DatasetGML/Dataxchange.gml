@@ -30,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "San Francisco"
+    label "0"
     Country "United States"
     Longitude -122.41942
     Internal 1
@@ -38,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "Los Angeles"
+    label "1"
     Country "United States"
     Longitude -118.24368
     Internal 1
@@ -46,7 +46,7 @@ graph [
   ]
   node [
     id 2
-    label "Chicago"
+    label "2"
     Country "United States"
     Longitude -87.65005
     Internal 1
@@ -54,7 +54,7 @@ graph [
   ]
   node [
     id 3
-    label "McLean"
+    label "3"
     Country "United States"
     Longitude -77.17748
     Internal 1
@@ -62,7 +62,7 @@ graph [
   ]
   node [
     id 4
-    label "Washington, DC"
+    label "4"
     Country "United States"
     Longitude -77.03637
     Internal 1
@@ -70,7 +70,7 @@ graph [
   ]
   node [
     id 5
-    label "Atlanta"
+    label "5"
     Country "United States"
     Longitude -84.38798
     Internal 1

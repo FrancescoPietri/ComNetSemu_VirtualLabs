@@ -29,7 +29,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Novi Sad"
+    label "0"
     Country "Serbia"
     Longitude 19.83694
     Internal 1
@@ -38,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "Belgrade"
+    label "1"
     Country "Serbia"
     Longitude 20.46513
     Internal 1
@@ -47,7 +47,7 @@ graph [
   ]
   node [
     id 2
-    label "Kragujevac"
+    label "2"
     Country "Serbia"
     Longitude 20.91667
     Internal 1
@@ -56,7 +56,7 @@ graph [
   ]
   node [
     id 3
-    label "Nis"
+    label "3"
     Country "Serbia"
     Longitude 21.90333
     Internal 1
@@ -65,7 +65,7 @@ graph [
   ]
   node [
     id 4
-    label "Krusevac"
+    label "4"
     Country "Serbia"
     Longitude 21.33389
     Internal 1
@@ -74,7 +74,7 @@ graph [
   ]
   node [
     id 5
-    label "Podgorica"
+    label "5"
     Country "Montenegro"
     Longitude 19.26361
     Internal 1

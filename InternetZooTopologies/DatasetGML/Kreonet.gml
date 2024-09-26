@@ -30,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Jeonju"
+    label "0"
     Country "South Korea"
     Longitude 127.14889
     Internal 1
@@ -38,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "Jeju"
+    label "1"
     Country "South Korea"
     Longitude 126.52194
     Internal 1
@@ -46,7 +46,7 @@ graph [
   ]
   node [
     id 2
-    label "Kwangju"
+    label "2"
     Country "South Korea"
     Longitude 126.91556
     Internal 1
@@ -54,7 +54,7 @@ graph [
   ]
   node [
     id 3
-    label "Busan"
+    label "3"
     Country "South Korea"
     Longitude 129.04028
     Internal 1
@@ -62,7 +62,7 @@ graph [
   ]
   node [
     id 4
-    label "Changwon"
+    label "4"
     Country "South Korea"
     Longitude 128.68111
     Internal 1
@@ -70,7 +70,7 @@ graph [
   ]
   node [
     id 5
-    label "Seoul"
+    label "5"
     Country "South Korea"
     Longitude 126.97783
     Internal 1
@@ -78,7 +78,7 @@ graph [
   ]
   node [
     id 6
-    label "Incheon"
+    label "6"
     Country "South Korea"
     Longitude 126.73167
     Internal 1
@@ -86,7 +86,7 @@ graph [
   ]
   node [
     id 7
-    label "Suwon"
+    label "7"
     Country "South Korea"
     Longitude 127.00889
     Internal 1
@@ -94,7 +94,7 @@ graph [
   ]
   node [
     id 8
-    label "Cheonan"
+    label "8"
     Country "South Korea"
     Longitude 127.1522
     Internal 1
@@ -102,7 +102,7 @@ graph [
   ]
   node [
     id 9
-    label "Ochang"
+    label "9"
     Country "South Korea"
     Longitude 127.49042
     Internal 1
@@ -110,7 +110,7 @@ graph [
   ]
   node [
     id 10
-    label "Daejeon"
+    label "10"
     Country "South Korea"
     Longitude 127.41972
     Internal 1
@@ -118,7 +118,7 @@ graph [
   ]
   node [
     id 11
-    label "Pohang"
+    label "11"
     Country "South Korea"
     Longitude 129.365
     Internal 1
@@ -126,7 +126,7 @@ graph [
   ]
   node [
     id 12
-    label "Daegu"
+    label "12"
     Country "South Korea"
     Longitude 128.59111
     Internal 1

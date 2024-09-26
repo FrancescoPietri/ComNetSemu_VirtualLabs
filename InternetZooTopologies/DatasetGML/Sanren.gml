@@ -30,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Johannesburg"
+    label "0"
     Country "South Africa"
     Longitude 28.04363
     Internal 1
@@ -38,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "Pretoria"
+    label "1"
     Country "South Africa"
     Longitude 28.18783
     Internal 1
@@ -46,7 +46,7 @@ graph [
   ]
   node [
     id 2
-    label "Durban"
+    label "2"
     Country "South Africa"
     Longitude 31.01667
     Internal 1
@@ -54,7 +54,7 @@ graph [
   ]
   node [
     id 3
-    label "Bloemfontein"
+    label "3"
     Country "South Africa"
     Longitude 26.2
     Internal 1
@@ -62,7 +62,7 @@ graph [
   ]
   node [
     id 4
-    label "East London"
+    label "4"
     Country "South Africa"
     Longitude 27.91162
     Internal 1
@@ -70,7 +70,7 @@ graph [
   ]
   node [
     id 5
-    label "Port Elizabeth"
+    label "5"
     Country "South Africa"
     Longitude 25.58333
     Internal 1
@@ -78,7 +78,7 @@ graph [
   ]
   node [
     id 6
-    label "Cape Town"
+    label "6"
     Country "South Africa"
     Longitude 18.41667
     Internal 1

@@ -29,7 +29,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Leicester"
+    label "0"
     Country "United Kingdom"
     Longitude -1.13333
     Internal 1
@@ -37,7 +37,7 @@ graph [
   ]
   node [
     id 1
-    label "Northampton"
+    label "1"
     Country "United Kingdom"
     Longitude -0.88333
     Internal 1
@@ -45,7 +45,7 @@ graph [
   ]
   node [
     id 2
-    label "Sheffield"
+    label "2"
     Country "United Kingdom"
     Longitude -1.4659
     Internal 1
@@ -53,7 +53,7 @@ graph [
   ]
   node [
     id 3
-    label "Nottingham"
+    label "3"
     Country "United Kingdom"
     Longitude -1.15047
     Internal 1
@@ -61,7 +61,7 @@ graph [
   ]
   node [
     id 4
-    label "Croydon"
+    label "4"
     Country "United Kingdom"
     Longitude -0.1
     Internal 1
@@ -69,7 +69,7 @@ graph [
   ]
   node [
     id 5
-    label "Slough"
+    label "5"
     Country "United Kingdom"
     Longitude -0.58333
     Internal 1
@@ -77,7 +77,7 @@ graph [
   ]
   node [
     id 6
-    label "Milton Keynes"
+    label "6"
     Country "United Kingdom"
     Longitude -0.75583
     Internal 1
@@ -85,7 +85,7 @@ graph [
   ]
   node [
     id 7
-    label "London"
+    label "7"
     Country "United Kingdom"
     Longitude -0.12574
     Internal 1
@@ -93,7 +93,7 @@ graph [
   ]
   node [
     id 8
-    label "Reading"
+    label "8"
     Country "United Kingdom"
     Longitude -0.97113
     Internal 1
@@ -101,7 +101,7 @@ graph [
   ]
   node [
     id 9
-    label "Banbury"
+    label "9"
     Country "United Kingdom"
     Longitude -1.34029
     Internal 1
@@ -109,7 +109,7 @@ graph [
   ]
   node [
     id 10
-    label "Brighton"
+    label "10"
     Country "United Kingdom"
     Longitude -0.13947
     Internal 1
@@ -117,7 +117,7 @@ graph [
   ]
   node [
     id 11
-    label "Bristol"
+    label "11"
     Country "United Kingdom"
     Longitude -2.58333
     Internal 1
@@ -125,7 +125,7 @@ graph [
   ]
   node [
     id 12
-    label "Birmingham"
+    label "12"
     Country "United Kingdom"
     Longitude -1.91667
     Internal 1
@@ -133,7 +133,7 @@ graph [
   ]
   node [
     id 13
-    label "Preston"
+    label "13"
     Country "United Kingdom"
     Longitude -2.71667
     Internal 1
@@ -141,7 +141,7 @@ graph [
   ]
   node [
     id 14
-    label "Manchester"
+    label "14"
     Country "United Kingdom"
     Longitude -2.23743
     Internal 1
@@ -149,7 +149,7 @@ graph [
   ]
   node [
     id 15
-    label "Glasgow"
+    label "15"
     Country "United Kingdom"
     Longitude -4.25763
     Internal 1
@@ -157,7 +157,7 @@ graph [
   ]
   node [
     id 16
-    label "Edinburgh"
+    label "16"
     Country "United Kingdom"
     Longitude -3.2
     Internal 1
@@ -165,7 +165,7 @@ graph [
   ]
   node [
     id 17
-    label "Newcastle"
+    label "17"
     Country "United Kingdom"
     Longitude -1.61396
     Internal 1
@@ -173,7 +173,7 @@ graph [
   ]
   node [
     id 18
-    label "Middlesborough"
+    label "18"
     Country "United Kingdom"
     Longitude -1.16278
     Internal 1
@@ -181,7 +181,7 @@ graph [
   ]
   node [
     id 19
-    label "Harrogate"
+    label "19"
     Country "United Kingdom"
     Longitude -1.53333
     Internal 1
@@ -189,7 +189,7 @@ graph [
   ]
   node [
     id 20
-    label "York"
+    label "20"
     Country "United Kingdom"
     Longitude -1.08333
     Internal 1
@@ -197,7 +197,7 @@ graph [
   ]
   node [
     id 21
-    label "Leeds"
+    label "21"
     Country "United Kingdom"
     Longitude -1.54785
     Internal 1
@@ -205,7 +205,7 @@ graph [
   ]
   node [
     id 22
-    label "Carlisle"
+    label "22"
     Country "United Kingdom"
     Longitude -2.9382
     Internal 1

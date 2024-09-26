@@ -5,7 +5,7 @@ graph [
   Network "Renam"
   Provenance "Primary"
   Note "Information unclear, only links between main towns recorded."
-  Source "http://www.renam.md/index.php?option=com_content&task=view&id=10&Itemid=16"
+  Source "http://www.renam.md/index.php?option=com_content&#38;task=view&#38;id=10&#38;Itemid=16"
   Version "1.0"
   Type "REN"
   DateType "Historic"
@@ -30,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Chisinau"
+    label "0"
     Country "Moldova"
     Longitude 28.8575
     Internal 1
@@ -38,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "Balti"
+    label "1"
     Country "Moldova"
     Longitude 27.92889
     Internal 1
@@ -46,7 +46,7 @@ graph [
   ]
   node [
     id 2
-    label "       Cahul"
+    label "2"
     Country "Moldova"
     Longitude 28.19444
     Internal 1
@@ -54,12 +54,12 @@ graph [
   ]
   node [
     id 3
-    label "StarNet ISP"
+    label "3"
     Internal 0
   ]
   node [
     id 4
-    label "RoEduNet"
+    label "4"
     Internal 0
   ]
   edge [

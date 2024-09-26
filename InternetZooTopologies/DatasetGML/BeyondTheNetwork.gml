@@ -30,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Boston"
+    label "0"
     Country "United States"
     Longitude -71.05977
     Internal 1
@@ -38,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "Detroit"
+    label "1"
     Country "United States"
     Longitude -83.04575
     Internal 1
@@ -46,7 +46,7 @@ graph [
   ]
   node [
     id 2
-    label "Philadelphia"
+    label "2"
     Country "United States"
     Longitude -75.16379
     Internal 1
@@ -54,7 +54,7 @@ graph [
   ]
   node [
     id 3
-    label "New York"
+    label "3"
     Country "United States"
     Longitude -74.00597
     Internal 1
@@ -62,7 +62,7 @@ graph [
   ]
   node [
     id 4
-    label "Sacramento"
+    label "4"
     Country "United States"
     Longitude -121.4944
     Internal 1
@@ -70,7 +70,7 @@ graph [
   ]
   node [
     id 5
-    label "San Jose"
+    label "5"
     Country "United States"
     Longitude -121.89496
     Internal 1
@@ -78,7 +78,7 @@ graph [
   ]
   node [
     id 6
-    label "Seattle"
+    label "6"
     Country "United States"
     Longitude -122.33207
     Internal 1
@@ -86,7 +86,7 @@ graph [
   ]
   node [
     id 7
-    label "Portland"
+    label "7"
     Country "United States"
     Longitude -122.67621
     Internal 1
@@ -94,7 +94,7 @@ graph [
   ]
   node [
     id 8
-    label "Sunnyvale"
+    label "8"
     Country "United States"
     Longitude -122.03635
     Internal 1
@@ -102,7 +102,7 @@ graph [
   ]
   node [
     id 9
-    label "Los Angeles"
+    label "9"
     Country "United States"
     Longitude -118.24368
     Internal 1
@@ -110,94 +110,94 @@ graph [
   ]
   node [
     id 10
-    label "Seattle"
+    label "10"
     Internal 0
     type "Private Peering Point"
   ]
   node [
     id 11
-    label "Los Angeles"
+    label "11"
     Internal 0
     type "Private Peering Point"
   ]
   node [
     id 12
-    label "San Jose"
+    label "12"
     Internal 0
     type "Private Peering Point"
   ]
   node [
     id 13
-    label "BtN London POP"
+    label "13"
     Internal 0
   ]
   node [
     id 14
-    label "SIX"
+    label "14"
     Internal 0
     type "NAP Connection"
   ]
   node [
     id 15
-    label "MAE East"
+    label "15"
     Internal 0
     type "NAP Connection"
   ]
   node [
     id 16
-    label "MAE Central"
+    label "16"
     Internal 0
     type "NAP Connection"
   ]
   node [
     id 17
-    label "PAIX"
+    label "17"
     Internal 0
     type "NAP Connection"
   ]
   node [
     id 18
-    label "PAIX"
+    label "18"
     Internal 0
     type "NAP Connection"
   ]
   node [
     id 19
-    label "PAIX"
+    label "19"
     Internal 0
     type "NAP Connection"
   ]
   node [
     id 20
-    label "MAE West"
+    label "20"
     Internal 0
     type "NAP Connection"
   ]
   node [
     id 21
-    label "BtN Frankfurt POP"
+    label "21"
     Internal 0
   ]
   node [
     id 22
-    label "BtN London POP"
+    label "22"
     Internal 0
   ]
   node [
     id 23
-    label "AShburn"
+    label "23"
     Internal 0
     type "Private Peering Point"
   ]
   node [
     id 24
-    label "Miami"
+    label "24"
     Internal 0
     type "Private Peering Point"
   ]
   node [
     id 25
-    label "Pittsburgh"
+    label "25"
     Country "United States"
     Longitude -79.99589
     Internal 1
@@ -205,59 +205,59 @@ graph [
   ]
   node [
     id 26
-    label "PAIX"
+    label "26"
     Internal 0
     type "NAP Connection"
   ]
   node [
     id 27
-    label "BtN Hong Kong POP"
+    label "27"
     Internal 0
   ]
   node [
     id 28
-    label "BtN Hong Kong POP"
+    label "28"
     Internal 0
   ]
   node [
     id 29
-    label "Atlanta"
+    label "29"
     Internal 0
     type "Private Peering Point"
   ]
   node [
     id 30
-    label "Chicago"
+    label "30"
     Internal 0
     type "Private Peering Point"
   ]
   node [
     id 31
-    label "New York"
+    label "31"
     Internal 0
     type "Private Peering Point"
   ]
   node [
     id 32
-    label "Dallas"
+    label "32"
     Internal 0
     type "Private Peering Point"
   ]
   node [
     id 33
-    label "NY-IIX"
+    label "33"
     Internal 0
     type "NAP Connection"
   ]
   node [
     id 34
-    label "Ameritech AADS"
+    label "34"
     Internal 0
     type "NAP Connection"
   ]
   node [
     id 35
-    label "Dallas"
+    label "35"
     Country "United States"
     Longitude -96.80667
     Internal 1
@@ -265,7 +265,7 @@ graph [
   ]
   node [
     id 36
-    label "San Antonio"
+    label "36"
     Country "United States"
     Longitude -98.49363
     Internal 1
@@ -273,7 +273,7 @@ graph [
   ]
   node [
     id 37
-    label "Phoenix"
+    label "37"
     Country "United States"
     Longitude -112.07404
     Internal 1
@@ -281,7 +281,7 @@ graph [
   ]
   node [
     id 38
-    label "San Diego"
+    label "38"
     Country "United States"
     Longitude -117.15726
     Internal 1
@@ -289,7 +289,7 @@ graph [
   ]
   node [
     id 39
-    label "Tampa"
+    label "39"
     Country "United States"
     Longitude -82.45843
     Internal 1
@@ -297,7 +297,7 @@ graph [
   ]
   node [
     id 40
-    label "Miami"
+    label "40"
     Country "United States"
     Longitude -80.19366
     Internal 1
@@ -305,7 +305,7 @@ graph [
   ]
   node [
     id 41
-    label "New Orleans"
+    label "41"
     Country "United States"
     Longitude -90.07507
     Internal 1
@@ -313,7 +313,7 @@ graph [
   ]
   node [
     id 42
-    label "Houston"
+    label "42"
     Country "United States"
     Longitude -95.36327
     Internal 1
@@ -321,7 +321,7 @@ graph [
   ]
   node [
     id 43
-    label "Washington"
+    label "43"
     Country "United States"
     Longitude -77.03637
     Internal 1
@@ -329,7 +329,7 @@ graph [
   ]
   node [
     id 44
-    label "Baltimore"
+    label "44"
     Country "United States"
     Longitude -76.61219
     Internal 1
@@ -337,7 +337,7 @@ graph [
   ]
   node [
     id 45
-    label "Denver"
+    label "45"
     Country "United States"
     Longitude -104.9847
     Internal 1
@@ -345,7 +345,7 @@ graph [
   ]
   node [
     id 46
-    label "Minneapolis"
+    label "46"
     Country "United States"
     Longitude -93.26384
     Internal 1
@@ -353,7 +353,7 @@ graph [
   ]
   node [
     id 47
-    label "Chicago"
+    label "47"
     Country "United States"
     Longitude -87.65005
     Internal 1
@@ -361,7 +361,7 @@ graph [
   ]
   node [
     id 48
-    label "Kansas City"
+    label "48"
     Country "United States"
     Longitude -94.62746
     Internal 1
@@ -369,7 +369,7 @@ graph [
   ]
   node [
     id 49
-    label "Atlanta"
+    label "49"
     Country "United States"
     Longitude -84.38798
     Internal 1
@@ -377,7 +377,7 @@ graph [
   ]
   node [
     id 50
-    label "Raleigh"
+    label "50"
     Country "United States"
     Longitude -78.63861
     Internal 1
@@ -385,7 +385,7 @@ graph [
   ]
   node [
     id 51
-    label "Ashburn"
+    label "51"
     Country "United States"
     Longitude -77.48749
     Internal 1
@@ -393,7 +393,7 @@ graph [
   ]
   node [
     id 52
-    label "Vienna"
+    label "52"
     Country "United States"
     Longitude -77.26526
     Internal 1

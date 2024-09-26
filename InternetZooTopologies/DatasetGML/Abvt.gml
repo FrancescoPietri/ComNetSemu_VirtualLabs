@@ -29,7 +29,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Washington CDC"
+    label "0"
     Country "United States"
     Longitude -77.03637
     Internal 1
@@ -37,7 +37,7 @@ graph [
   ]
   node [
     id 1
-    label "New York"
+    label "1"
     Country "United States"
     Longitude -74.00597
     Internal 1
@@ -45,7 +45,7 @@ graph [
   ]
   node [
     id 2
-    label "Atlanta"
+    label "2"
     Country "United States"
     Longitude -84.38798
     Internal 1
@@ -53,7 +53,7 @@ graph [
   ]
   node [
     id 3
-    label "Miami"
+    label "3"
     Country "United States"
     Longitude -80.19366
     Internal 1
@@ -61,7 +61,7 @@ graph [
   ]
   node [
     id 4
-    label "Boston"
+    label "4"
     Country "United States"
     Longitude -71.05977
     Internal 1
@@ -69,7 +69,7 @@ graph [
   ]
   node [
     id 5
-    label "London"
+    label "5"
     Country "United Kingdom"
     Longitude -0.12574
     Internal 1
@@ -77,7 +77,7 @@ graph [
   ]
   node [
     id 6
-    label "Philadelphia"
+    label "6"
     Country "United States"
     Longitude -75.16379
     Internal 1
@@ -85,7 +85,7 @@ graph [
   ]
   node [
     id 7
-    label "Baltimore"
+    label "7"
     Country "United States"
     Longitude -76.61219
     Internal 1
@@ -93,7 +93,7 @@ graph [
   ]
   node [
     id 8
-    label "Amsterdam"
+    label "8"
     Country "Netherlands"
     Longitude 4.88969
     Internal 1
@@ -101,7 +101,7 @@ graph [
   ]
   node [
     id 9
-    label "Frankfurt"
+    label "9"
     Country "Germany"
     Longitude 8.68333
     Internal 1
@@ -109,7 +109,7 @@ graph [
   ]
   node [
     id 10
-    label "Houston"
+    label "10"
     Country "United States"
     Longitude -95.36327
     Internal 1
@@ -117,13 +117,13 @@ graph [
   ]
   node [
     id 11
-    label "None"
+    label "11"
     hyperedge 1
     Internal 1
   ]
   node [
     id 12
-    label "Paris"
+    label "12"
     Country "France"
     Longitude 2.3488
     Internal 1
@@ -131,7 +131,7 @@ graph [
   ]
   node [
     id 13
-    label "Dallas"
+    label "13"
     Country "United States"
     Longitude -96.80667
     Internal 1
@@ -139,7 +139,7 @@ graph [
   ]
   node [
     id 14
-    label "Austin"
+    label "14"
     Country "United States"
     Longitude -97.74306
     Internal 1
@@ -147,7 +147,7 @@ graph [
   ]
   node [
     id 15
-    label "Seattle"
+    label "15"
     Country "United States"
     Longitude -122.33207
     Internal 1
@@ -155,7 +155,7 @@ graph [
   ]
   node [
     id 16
-    label "Portland"
+    label "16"
     Country "United States"
     Longitude -122.67621
     Internal 1
@@ -163,7 +163,7 @@ graph [
   ]
   node [
     id 17
-    label "Tokyo"
+    label "17"
     Country "Japan"
     Longitude 139.5813
     Internal 1
@@ -171,7 +171,7 @@ graph [
   ]
   node [
     id 18
-    label "San Francisco"
+    label "18"
     Country "United States"
     Longitude -122.41942
     Internal 1
@@ -179,7 +179,7 @@ graph [
   ]
   node [
     id 19
-    label "Los Angeles"
+    label "19"
     Country "United States"
     Longitude -118.24368
     Internal 1
@@ -187,7 +187,7 @@ graph [
   ]
   node [
     id 20
-    label "Phoenix"
+    label "20"
     Country "United States"
     Longitude -112.07404
     Internal 1
@@ -195,7 +195,7 @@ graph [
   ]
   node [
     id 21
-    label "Denver"
+    label "21"
     Country "United States"
     Longitude -104.9847
     Internal 1
@@ -203,7 +203,7 @@ graph [
   ]
   node [
     id 22
-    label "Chicago"
+    label "22"
     Country "United States"
     Longitude -87.65005
     Internal 1

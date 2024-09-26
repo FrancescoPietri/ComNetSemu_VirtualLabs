@@ -30,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Bremen"
+    label "0"
     Country "Germany"
     Longitude 8.80777
     Internal 1
@@ -39,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "Poznan"
+    label "1"
     Country "Poland"
     Longitude 16.96667
     Internal 1
@@ -48,7 +48,7 @@ graph [
   ]
   node [
     id 2
-    label "Pisa"
+    label "2"
     Country "Italy"
     Longitude 10.39659
     Internal 1
@@ -57,7 +57,7 @@ graph [
   ]
   node [
     id 3
-    label "Florence"
+    label "3"
     Country "Italy"
     Longitude 11.25
     Internal 1
@@ -66,7 +66,7 @@ graph [
   ]
   node [
     id 4
-    label "Udine"
+    label "4"
     Country "Italy"
     Longitude 13.24222
     Internal 1
@@ -75,7 +75,7 @@ graph [
   ]
   node [
     id 5
-    label "Graz"
+    label "5"
     Country "Austria"
     Longitude 15.45
     Internal 1
@@ -84,7 +84,7 @@ graph [
   ]
   node [
     id 6
-    label "Salzburg"
+    label "6"
     Country "Austria"
     Longitude 13.04399
     Internal 1
@@ -93,7 +93,7 @@ graph [
   ]
   node [
     id 7
-    label "Nuremberg"
+    label "7"
     Country "Germany"
     Longitude 11.06833
     Internal 1
@@ -102,7 +102,7 @@ graph [
   ]
   node [
     id 8
-    label "Leipzig"
+    label "8"
     Country "Germany"
     Longitude 12.37129
     Internal 1
@@ -111,7 +111,7 @@ graph [
   ]
   node [
     id 9
-    label "Dresden"
+    label "9"
     Country "Germany"
     Longitude 13.73832
     Internal 1
@@ -120,7 +120,7 @@ graph [
   ]
   node [
     id 10
-    label "London"
+    label "10"
     Country "United Kingdom"
     Longitude -0.12574
     Internal 1
@@ -129,7 +129,7 @@ graph [
   ]
   node [
     id 11
-    label "Brussels"
+    label "11"
     Country "Belgium"
     Longitude 4.34878
     Internal 1
@@ -138,7 +138,7 @@ graph [
   ]
   node [
     id 12
-    label "Stuttgart"
+    label "12"
     Country "Germany"
     Longitude 9.17702
     Internal 1
@@ -147,7 +147,7 @@ graph [
   ]
   node [
     id 13
-    label "Amsterdam"
+    label "13"
     Country "Netherlands"
     Longitude 4.88969
     Internal 1
@@ -156,7 +156,7 @@ graph [
   ]
   node [
     id 14
-    label "Moscow"
+    label "14"
     Country "Russia"
     Longitude 37.61556
     Internal 1
@@ -165,7 +165,7 @@ graph [
   ]
   node [
     id 15
-    label "Helsinki"
+    label "15"
     Country "Finland"
     Longitude 24.93545
     Internal 1
@@ -174,7 +174,7 @@ graph [
   ]
   node [
     id 16
-    label "Paris"
+    label "16"
     Country "France"
     Longitude 2.3488
     Internal 1
@@ -183,13 +183,13 @@ graph [
   ]
   node [
     id 17
-    label "Dubai"
+    label "17"
     Internal 1
     type "Ring Interconnector and MAN"
   ]
   node [
     id 18
-    label "Frankfurt"
+    label "18"
     Country "Germany"
     Longitude 8.68333
     Internal 1
@@ -198,7 +198,7 @@ graph [
   ]
   node [
     id 19
-    label "Munich"
+    label "19"
     Country "Germany"
     Longitude 11.57549
     Internal 1
@@ -207,7 +207,7 @@ graph [
   ]
   node [
     id 20
-    label "Calais"
+    label "20"
     Country "France"
     Longitude 1.85205
     Internal 1
@@ -216,7 +216,7 @@ graph [
   ]
   node [
     id 21
-    label "Liege"
+    label "21"
     Country "Belgium"
     Longitude 5.57178
     Internal 1
@@ -225,7 +225,7 @@ graph [
   ]
   node [
     id 22
-    label "Dublin"
+    label "22"
     Country "Ireland"
     Longitude -6.26719
     Internal 1
@@ -234,7 +234,7 @@ graph [
   ]
   node [
     id 23
-    label "Slough"
+    label "23"
     Country "United Kingdom"
     Longitude -0.58333
     Internal 1
@@ -243,7 +243,7 @@ graph [
   ]
   node [
     id 24
-    label "Nancy"
+    label "24"
     Country "France"
     Longitude 6.2
     Internal 1
@@ -252,7 +252,7 @@ graph [
   ]
   node [
     id 25
-    label "Basle"
+    label "25"
     Country "Switzerland"
     Longitude 7.6
     Internal 1
@@ -261,7 +261,7 @@ graph [
   ]
   node [
     id 26
-    label "Karlsruhe"
+    label "26"
     Country "Germany"
     Longitude 8.38583
     Internal 1
@@ -270,7 +270,7 @@ graph [
   ]
   node [
     id 27
-    label "Strasbourg"
+    label "27"
     Country "France"
     Longitude 7.75
     Internal 1
@@ -279,7 +279,7 @@ graph [
   ]
   node [
     id 28
-    label "Berne"
+    label "28"
     Country "Switzerland"
     Longitude 7.44744
     Internal 1
@@ -288,7 +288,7 @@ graph [
   ]
   node [
     id 29
-    label "Lausanne"
+    label "29"
     Country "Switzerland"
     Longitude 6.63282
     Internal 1
@@ -297,19 +297,19 @@ graph [
   ]
   node [
     id 30
-    label "None"
+    label "30"
     hyperedge 1
     Internal 1
   ]
   node [
     id 31
-    label "None"
+    label "31"
     hyperedge 1
     Internal 1
   ]
   node [
     id 32
-    label "Budapest"
+    label "32"
     Country "Hungary"
     Longitude 19.03991
     Internal 1
@@ -318,7 +318,7 @@ graph [
   ]
   node [
     id 33
-    label "Vienna"
+    label "33"
     Country "Austria"
     Longitude 16.37208
     Internal 1
@@ -327,7 +327,7 @@ graph [
   ]
   node [
     id 34
-    label "Dusseldorf"
+    label "34"
     Country "Germany"
     Longitude 6.77616
     Internal 1
@@ -336,7 +336,7 @@ graph [
   ]
   node [
     id 35
-    label "Hamburg"
+    label "35"
     Country "Germany"
     Longitude 10.0
     Internal 1
@@ -345,19 +345,19 @@ graph [
   ]
   node [
     id 36
-    label "None"
+    label "36"
     hyperedge 1
     Internal 1
   ]
   node [
     id 37
-    label "None"
+    label "37"
     hyperedge 1
     Internal 1
   ]
   node [
     id 38
-    label "Milan"
+    label "38"
     Country "Italy"
     Longitude 9.18951
     Internal 1
@@ -366,7 +366,7 @@ graph [
   ]
   node [
     id 39
-    label "Berlin"
+    label "39"
     Country "Germany"
     Longitude 13.41053
     Internal 1
@@ -375,7 +375,7 @@ graph [
   ]
   node [
     id 40
-    label "Sofia"
+    label "40"
     Country "Bulgaria"
     Longitude 23.32415
     Internal 1
@@ -384,13 +384,13 @@ graph [
   ]
   node [
     id 41
-    label "Edirne"
+    label "41"
     Internal 1
     type "Ring Interconnector"
   ]
   node [
     id 42
-    label "Bucharest"
+    label "42"
     Country "Romania"
     Longitude 26.10626
     Internal 1
@@ -399,7 +399,7 @@ graph [
   ]
   node [
     id 43
-    label "Timisoara"
+    label "43"
     Country "Romania"
     Longitude 21.22722
     Internal 1
@@ -408,7 +408,7 @@ graph [
   ]
   node [
     id 44
-    label "Stockholm"
+    label "44"
     Country "Sweden"
     Longitude 18.0649
     Internal 1
@@ -417,7 +417,7 @@ graph [
   ]
   node [
     id 45
-    label "Brno"
+    label "45"
     Country "Czech Republic"
     Longitude 16.60796
     Internal 1
@@ -426,7 +426,7 @@ graph [
   ]
   node [
     id 46
-    label "Cologne"
+    label "46"
     Country "Germany"
     Longitude 6.95
     Internal 1
@@ -435,7 +435,7 @@ graph [
   ]
   node [
     id 47
-    label "Bonn"
+    label "47"
     Country "Germany"
     Longitude 7.1
     Internal 1
@@ -444,7 +444,7 @@ graph [
   ]
   node [
     id 48
-    label "Venice"
+    label "48"
     Country "Italy"
     Longitude 12.32667
     Internal 1
@@ -453,7 +453,7 @@ graph [
   ]
   node [
     id 49
-    label "Bologna"
+    label "49"
     Country "Italy"
     Longitude 11.33875
     Internal 1
@@ -462,7 +462,7 @@ graph [
   ]
   node [
     id 50
-    label "Narborne"
+    label "50"
     Country "France"
     Longitude 3.0
     Internal 1
@@ -471,7 +471,7 @@ graph [
   ]
   node [
     id 51
-    label "Bordeaux"
+    label "51"
     Country "France"
     Longitude -0.56667
     Internal 1
@@ -480,7 +480,7 @@ graph [
   ]
   node [
     id 52
-    label "Zurich"
+    label "52"
     Country "Switzerland"
     Longitude 8.55
     Internal 1
@@ -489,7 +489,7 @@ graph [
   ]
   node [
     id 53
-    label "Copenhagen"
+    label "53"
     Country "Denmark"
     Longitude 12.56553
     Internal 1
@@ -498,7 +498,7 @@ graph [
   ]
   node [
     id 54
-    label "Turin"
+    label "54"
     Country "Italy"
     Longitude 7.68682
     Internal 1
@@ -507,7 +507,7 @@ graph [
   ]
   node [
     id 55
-    label "Genoa"
+    label "55"
     Country "Italy"
     Longitude 8.93386
     Internal 1
@@ -516,7 +516,7 @@ graph [
   ]
   node [
     id 56
-    label "Lyon"
+    label "56"
     Country "France"
     Longitude 4.85
     Internal 1
@@ -525,7 +525,7 @@ graph [
   ]
   node [
     id 57
-    label "Marseille"
+    label "57"
     Country "France"
     Longitude 5.38107
     Internal 1
@@ -534,7 +534,7 @@ graph [
   ]
   node [
     id 58
-    label "Bruges"
+    label "58"
     Country "Belgium"
     Longitude 3.22424
     Internal 1
@@ -543,7 +543,7 @@ graph [
   ]
   node [
     id 59
-    label "Gotenburg"
+    label "59"
     Country "Sweden"
     Longitude 11.96679
     Internal 1
@@ -552,7 +552,7 @@ graph [
   ]
   node [
     id 60
-    label "Oslo"
+    label "60"
     Country "Norway"
     Longitude 10.74609
     Internal 1
@@ -561,7 +561,7 @@ graph [
   ]
   node [
     id 61
-    label "Zandvort"
+    label "61"
     Country "Netherlands"
     Longitude 4.53409
     Internal 1
@@ -570,7 +570,7 @@ graph [
   ]
   node [
     id 62
-    label "Istanbul"
+    label "62"
     Country "Russia"
     Longitude 44.8332
     Internal 1
@@ -579,7 +579,7 @@ graph [
   ]
   node [
     id 63
-    label "Bari"
+    label "63"
     Country "Italy"
     Longitude 16.85118
     Internal 1
@@ -588,7 +588,7 @@ graph [
   ]
   node [
     id 64
-    label "Prague"
+    label "64"
     Country "Czech Republic"
     Longitude 14.42076
     Internal 1
@@ -597,7 +597,7 @@ graph [
   ]
   node [
     id 65
-    label "Warsaw"
+    label "65"
     Country "Poland"
     Longitude 21.01178
     Internal 1
@@ -606,7 +606,7 @@ graph [
   ]
   node [
     id 66
-    label "Szolnok"
+    label "66"
     Country "Hungary"
     Longitude 20.2
     Internal 1
@@ -615,7 +615,7 @@ graph [
   ]
   node [
     id 67
-    label "Krakow"
+    label "67"
     Country "Poland"
     Longitude 19.91667
     Internal 1
@@ -624,7 +624,7 @@ graph [
   ]
   node [
     id 68
-    label "Ruse"
+    label "68"
     Country "Bulgaria"
     Longitude 25.97083
     Internal 1
@@ -633,7 +633,7 @@ graph [
   ]
   node [
     id 69
-    label "Szeged"
+    label "69"
     Country "Hungary"
     Longitude 20.14824
     Internal 1
@@ -642,7 +642,7 @@ graph [
   ]
   node [
     id 70
-    label "Pescara"
+    label "70"
     Country "Italy"
     Longitude 14.21021
     Internal 1
@@ -651,7 +651,7 @@ graph [
   ]
   node [
     id 71
-    label "Thessalonika"
+    label "71"
     Country "Greece"
     Longitude 22.94389
     Internal 1
@@ -660,7 +660,7 @@ graph [
   ]
   node [
     id 72
-    label "Lille"
+    label "72"
     Country "France"
     Longitude 3.06667
     Internal 1
@@ -669,7 +669,7 @@ graph [
   ]
   node [
     id 73
-    label "Luxembourg"
+    label "73"
     Country "Luxembourg"
     Longitude 6.13
     Internal 1
@@ -678,7 +678,7 @@ graph [
   ]
   node [
     id 74
-    label "Bratislava"
+    label "74"
     Country "Slovakia"
     Longitude 17.10674
     Internal 1
@@ -687,7 +687,7 @@ graph [
   ]
   node [
     id 75
-    label "Hannover"
+    label "75"
     Country "Germany"
     Longitude 9.73322
     Internal 1
@@ -696,7 +696,7 @@ graph [
   ]
   node [
     id 76
-    label "Madrid"
+    label "76"
     Country "Spain"
     Longitude -3.70256
     Internal 1
@@ -705,7 +705,7 @@ graph [
   ]
   node [
     id 77
-    label "Geneva"
+    label "77"
     Country "Switzerland"
     Longitude 6.14569
     Internal 1
@@ -714,7 +714,7 @@ graph [
   ]
   node [
     id 78
-    label "Varna"
+    label "78"
     Country "Bulgaria"
     Longitude 27.91667
     Internal 1
@@ -723,7 +723,7 @@ graph [
   ]
   node [
     id 79
-    label "Haskovo"
+    label "79"
     Country "Bulgaria"
     Longitude 25.56944
     Internal 1
@@ -732,7 +732,7 @@ graph [
   ]
   node [
     id 80
-    label "Veliko Turnovo"
+    label "80"
     Country "Bulgaria"
     Longitude 25.62904
     Internal 1
@@ -741,7 +741,7 @@ graph [
   ]
   node [
     id 81
-    label "Plovdiv"
+    label "81"
     Country "Bulgaria"
     Longitude 24.75
     Internal 1
@@ -750,13 +750,13 @@ graph [
   ]
   node [
     id 82
-    label "Washington DC"
+    label "82"
     Internal 1
     type "Pop"
   ]
   node [
     id 83
-    label "New York"
+    label "83"
     Country "United Kingdom"
     Longitude -0.14008
     Internal 1
@@ -765,7 +765,7 @@ graph [
   ]
   node [
     id 84
-    label "Naples"
+    label "84"
     Country "Italy"
     Longitude 14.25
     Internal 1
@@ -774,7 +774,7 @@ graph [
   ]
   node [
     id 85
-    label "Mazara del Vallo"
+    label "85"
     Country "Italy"
     Longitude 12.58804
     Internal 1
@@ -783,7 +783,7 @@ graph [
   ]
   node [
     id 86
-    label "Valencia"
+    label "86"
     Country "Spain"
     Longitude -0.37739
     Internal 1
@@ -792,7 +792,7 @@ graph [
   ]
   node [
     id 87
-    label "Seville"
+    label "87"
     Country "Spain"
     Longitude -5.98694
     Internal 1
@@ -801,7 +801,7 @@ graph [
   ]
   node [
     id 88
-    label "Bilbao"
+    label "88"
     Country "Spain"
     Longitude -2.92528
     Internal 1
@@ -810,7 +810,7 @@ graph [
   ]
   node [
     id 89
-    label "Poltiers"
+    label "89"
     Country "France"
     Longitude 0.33333
     Internal 1
@@ -819,7 +819,7 @@ graph [
   ]
   node [
     id 90
-    label "Cagliari"
+    label "90"
     Country "Italy"
     Longitude 9.13462
     Internal 1
@@ -828,7 +828,7 @@ graph [
   ]
   node [
     id 91
-    label "Olbia"
+    label "91"
     Country "Italy"
     Longitude 9.48563
     Internal 1
@@ -837,7 +837,7 @@ graph [
   ]
   node [
     id 92
-    label "Nice"
+    label "92"
     Country "France"
     Longitude 7.26608
     Internal 1
@@ -846,7 +846,7 @@ graph [
   ]
   node [
     id 93
-    label "Toulouse"
+    label "93"
     Country "France"
     Longitude 1.44367
     Internal 1
@@ -855,13 +855,13 @@ graph [
   ]
   node [
     id 94
-    label "None"
+    label "94"
     hyperedge 1
     Internal 1
   ]
   node [
     id 95
-    label "Barcelona"
+    label "95"
     Country "Spain"
     Longitude 2.15899
     Internal 1
@@ -870,32 +870,32 @@ graph [
   ]
   node [
     id 96
-    label "East Africa"
+    label "96"
     Internal 0
   ]
   node [
     id 97
-    label "South Africa"
+    label "97"
     Internal 0
   ]
   node [
     id 98
-    label "Athens"
+    label "98"
     Internal 0
   ]
   node [
     id 99
-    label "Tunis"
+    label "99"
     Internal 0
   ]
   node [
     id 100
-    label "Malta"
+    label "100"
     Internal 0
   ]
   node [
     id 101
-    label "Rome"
+    label "101"
     Country "Italy"
     Longitude 12.4839
     Internal 1
@@ -904,7 +904,7 @@ graph [
   ]
   node [
     id 102
-    label "Essen"
+    label "102"
     Country "Germany"
     Longitude 7.01667
     Internal 1
@@ -913,7 +913,7 @@ graph [
   ]
   node [
     id 103
-    label "Dortmund"
+    label "103"
     Country "Germany"
     Longitude 7.45
     Internal 1
@@ -922,7 +922,7 @@ graph [
   ]
   node [
     id 104
-    label "Utrecht"
+    label "104"
     Country "Netherlands"
     Longitude 5.12222
     Internal 1
@@ -931,7 +931,7 @@ graph [
   ]
   node [
     id 105
-    label "Rotterdam"
+    label "105"
     Country "Netherlands"
     Longitude 4.47917
     Internal 1
@@ -940,7 +940,7 @@ graph [
   ]
   node [
     id 106
-    label "Antwerp"
+    label "106"
     Country "Belgium"
     Longitude 4.41667
     Internal 1
@@ -949,7 +949,7 @@ graph [
   ]
   node [
     id 107
-    label "Ghent"
+    label "107"
     Country "Belgium"
     Longitude 3.71667
     Internal 1
@@ -958,7 +958,7 @@ graph [
   ]
   node [
     id 108
-    label "Gibraltar"
+    label "108"
     Country "Gibraltar"
     Longitude -5.35257
     Internal 1
@@ -967,7 +967,7 @@ graph [
   ]
   node [
     id 109
-    label "None"
+    label "109"
     hyperedge 1
     Internal 1
   ]
@@ -1103,11 +1103,6 @@ graph [
   ]
   edge [
     source 10
-    target 22
-    LinkLabel "Dark Blue"
-  ]
-  edge [
-    source 10
     target 31
     LinkLabel "Red"
   ]
@@ -1115,11 +1110,6 @@ graph [
     source 11
     target 72
     LinkLabel "Light Blue"
-  ]
-  edge [
-    source 11
-    target 72
-    LinkLabel "Red"
   ]
   edge [
     source 11
@@ -1150,11 +1140,6 @@ graph [
     source 12
     target 19
     LinkLabel "Dark Blue"
-  ]
-  edge [
-    source 12
-    target 19
-    LinkLabel "Dark Green"
   ]
   edge [
     source 12
@@ -1240,11 +1225,6 @@ graph [
     source 18
     target 47
     LinkLabel "Dark Green"
-  ]
-  edge [
-    source 18
-    target 47
-    LinkLabel "Light Blue"
   ]
   edge [
     source 20
@@ -1348,11 +1328,6 @@ graph [
   ]
   edge [
     source 34
-    target 46
-    LinkLabel "Red"
-  ]
-  edge [
-    source 34
     target 102
     LinkLabel "Dark Green"
   ]
@@ -1398,11 +1373,6 @@ graph [
   ]
   edge [
     source 38
-    target 48
-    LinkLabel "Orange"
-  ]
-  edge [
-    source 38
     target 49
     LinkLabel "Orange"
   ]
@@ -1415,11 +1385,6 @@ graph [
     source 38
     target 54
     LinkLabel "Dark Blue"
-  ]
-  edge [
-    source 38
-    target 54
-    LinkLabel "Orange"
   ]
   edge [
     source 40
@@ -1450,11 +1415,6 @@ graph [
     source 41
     target 68
     LinkLabel "Pink"
-  ]
-  edge [
-    source 41
-    target 62
-    LinkLabel "Dark Green"
   ]
   edge [
     source 41
@@ -1597,11 +1557,6 @@ graph [
     LinkLabel "Orange"
   ]
   edge [
-    source 54
-    target 55
-    LinkLabel "Dark Blue"
-  ]
-  edge [
     source 55
     target 92
     LinkLabel "Dark Blue"
@@ -1610,11 +1565,6 @@ graph [
     source 56
     target 57
     LinkLabel "Pink"
-  ]
-  edge [
-    source 56
-    target 57
-    LinkLabel "Dark Blue"
   ]
   edge [
     source 56

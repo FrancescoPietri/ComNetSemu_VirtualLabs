@@ -30,58 +30,58 @@ graph [
   Testbed 1
   node [
     id 0
-    label "Peking University"
+    label "0"
     Internal 1
     type "Router"
   ]
   node [
     id 1
-    label "CERNET"
+    label "1"
     Internal 0
   ]
   node [
     id 2
-    label "APAN/STAR"
+    label "2"
     Internal 0
   ]
   node [
     id 3
-    label "CERNET"
+    label "3"
     Internal 0
   ]
   node [
     id 4
-    label "Tsinghua Unviersity"
+    label "4"
     Internal 1
     type "Router"
   ]
   node [
     id 5
-    label "Natural Science Foundation of China"
+    label "5"
     Internal 1
     type "Router"
   ]
   node [
     id 6
-    label "Beijing University of Posts and Telecommunications"
+    label "6"
     Internal 1
     type "Router"
   ]
   node [
     id 7
-    label "Beijing University of Aeronautics and Astronautics"
+    label "7"
     Internal 1
     type "Router"
   ]
   node [
     id 8
-    label "China Academy of Sciences"
+    label "8"
     Internal 1
     type "Router"
   ]
   node [
     id 9
-    label "CSTNET"
+    label "9"
     Internal 0
   ]
   edge [

@@ -30,13 +30,13 @@ graph [
   Testbed 0
   node [
     id 0
-    label "N/Western Province"
+    label "0"
     Internal 1
     type "Router"
   ]
   node [
     id 1
-    label "Northern Province"
+    label "1"
     Country "Zambia"
     Longitude 31.0
     Internal 1
@@ -45,7 +45,7 @@ graph [
   ]
   node [
     id 2
-    label "Eastern Province"
+    label "2"
     Country "Zambia"
     Longitude 32.25
     Internal 1
@@ -54,7 +54,7 @@ graph [
   ]
   node [
     id 3
-    label "Luapula Province"
+    label "3"
     Country "Zambia"
     Longitude 28.89431
     Internal 1
@@ -63,19 +63,19 @@ graph [
   ]
   node [
     id 4
-    label "NRDC"
+    label "4"
     Internal 1
     type "Router"
   ]
   node [
     id 5
-    label "UNZA Research"
+    label "5"
     Internal 1
     type "Router"
   ]
   node [
     id 6
-    label "Solwezi"
+    label "6"
     Country "Zambia"
     Longitude 26.38938
     Internal 1
@@ -84,7 +84,7 @@ graph [
   ]
   node [
     id 7
-    label "Livingstone"
+    label "7"
     Country "Zambia"
     Longitude 25.85425
     Internal 1
@@ -93,67 +93,67 @@ graph [
   ]
   node [
     id 8
-    label "NIPA"
+    label "8"
     Internal 1
     type "Router"
   ]
   node [
     id 9
-    label "ZICAS"
+    label "9"
     Internal 1
     type "Router"
   ]
   node [
     id 10
-    label "Gateway Router"
+    label "10"
     Internal 1
     type "Router"
   ]
   node [
     id 11
-    label "Gateway Router"
+    label "11"
     Internal 1
     type "Router"
   ]
   node [
     id 12
-    label "Gateway Router"
+    label "12"
     Internal 1
     type "Router"
   ]
   node [
     id 13
-    label "None"
+    label "13"
     hyperedge 1
     Internal 1
   ]
   node [
     id 14
-    label "None"
+    label "14"
     hyperedge 1
     Internal 1
   ]
   node [
     id 15
-    label "None"
+    label "15"
     hyperedge 1
     Internal 1
   ]
   node [
     id 16
-    label "ZESCO TS"
+    label "16"
     Internal 1
     type "Router"
   ]
   node [
     id 17
-    label "ZAMTEL TS"
+    label "17"
     Internal 1
     type "Router"
   ]
   node [
     id 18
-    label "Chainama"
+    label "18"
     Country "Zambia"
     Longitude 33.28333
     Internal 1
@@ -162,19 +162,19 @@ graph [
   ]
   node [
     id 19
-    label "NISR"
+    label "19"
     Internal 1
     type "Router"
   ]
   node [
     id 20
-    label "Mt Makulu"
+    label "20"
     Internal 1
     type "Router"
   ]
   node [
     id 21
-    label "Evelyn Hone College"
+    label "21"
     Country "Zambia"
     Longitude 28.28333
     Internal 1
@@ -183,37 +183,37 @@ graph [
   ]
   node [
     id 22
-    label "KTC"
+    label "22"
     Internal 1
     type "Router"
   ]
   node [
     id 23
-    label "COSETCO"
+    label "23"
     Internal 1
     type "Router"
   ]
   node [
     id 24
-    label "KABWE TRADES"
+    label "24"
     Internal 1
     type "Router"
   ]
   node [
     id 25
-    label "NKRUMAH"
+    label "25"
     Internal 1
     type "Router"
   ]
   node [
     id 26
-    label "Gateway Router"
+    label "26"
     Internal 1
     type "Router"
   ]
   node [
     id 27
-    label "Southern Province"
+    label "27"
     Country "Zambia"
     Longitude 27.0
     Internal 1
@@ -222,7 +222,7 @@ graph [
   ]
   node [
     id 28
-    label "University of Zambia"
+    label "28"
     Country "Zambia"
     Longitude 28.28636
     Internal 1
@@ -231,7 +231,7 @@ graph [
   ]
   node [
     id 29
-    label "Mulungushi University"
+    label "29"
     Country "Zambia"
     Longitude 28.45174
     Internal 1
@@ -240,7 +240,7 @@ graph [
   ]
   node [
     id 30
-    label "Copperbelt University"
+    label "30"
     Country "Zambia"
     Longitude 28.24767
     Internal 1
@@ -249,7 +249,7 @@ graph [
   ]
   node [
     id 31
-    label "Kitwe"
+    label "31"
     Country "Zambia"
     Longitude 28.24767
     Internal 1
@@ -258,7 +258,7 @@ graph [
   ]
   node [
     id 32
-    label "Kabwe"
+    label "32"
     Country "Zambia"
     Longitude 28.45174
     Internal 1
@@ -267,7 +267,7 @@ graph [
   ]
   node [
     id 33
-    label "Lusaka"
+    label "33"
     Country "Zambia"
     Longitude 28.28636
     Internal 1
@@ -276,13 +276,13 @@ graph [
   ]
   node [
     id 34
-    label "Gateway Router"
+    label "34"
     Internal 1
     type "Router"
   ]
   node [
     id 35
-    label "Gateway Router"
+    label "35"
     Internal 1
     type "Gateway Router"
   ]

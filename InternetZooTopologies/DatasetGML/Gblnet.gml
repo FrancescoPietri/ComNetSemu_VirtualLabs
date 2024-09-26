@@ -29,7 +29,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "New York"
+    label "0"
     Country "United Kingdom"
     Longitude -0.14008
     Internal 1
@@ -37,7 +37,7 @@ graph [
   ]
   node [
     id 1
-    label "London"
+    label "1"
     Country "United Kingdom"
     Longitude -0.12574
     Internal 1
@@ -45,7 +45,7 @@ graph [
   ]
   node [
     id 2
-    label "Stockholm"
+    label "2"
     Country "Sweden"
     Longitude 18.0649
     Internal 1
@@ -53,7 +53,7 @@ graph [
   ]
   node [
     id 3
-    label "St Petersburg"
+    label "3"
     Country "Russia"
     Longitude 30.26417
     Internal 1
@@ -61,7 +61,7 @@ graph [
   ]
   node [
     id 4
-    label "Moscow"
+    label "4"
     Country "Russia"
     Longitude 37.61556
     Internal 1
@@ -69,7 +69,7 @@ graph [
   ]
   node [
     id 5
-    label "Amsterdam"
+    label "5"
     Country "Netherlands"
     Longitude 4.88969
     Internal 1
@@ -77,7 +77,7 @@ graph [
   ]
   node [
     id 6
-    label "Frankfurt"
+    label "6"
     Country "Germany"
     Longitude 8.68333
     Internal 1
@@ -85,7 +85,7 @@ graph [
   ]
   node [
     id 7
-    label "Paris"
+    label "7"
     Country "France"
     Longitude 2.3488
     Internal 1

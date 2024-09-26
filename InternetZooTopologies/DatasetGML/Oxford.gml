@@ -29,7 +29,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Portsmouth"
+    label "0"
     Country "United States"
     Longitude -70.76255
     Internal 1
@@ -37,7 +37,7 @@ graph [
   ]
   node [
     id 1
-    label "Dover"
+    label "1"
     Country "United States"
     Longitude -70.87367
     Internal 1
@@ -45,7 +45,7 @@ graph [
   ]
   node [
     id 2
-    label "Biddeford"
+    label "2"
     Country "United States"
     Longitude -70.45338
     Internal 1
@@ -53,7 +53,7 @@ graph [
   ]
   node [
     id 3
-    label "Sanford"
+    label "3"
     Country "United States"
     Longitude -70.77422
     Internal 1
@@ -61,7 +61,7 @@ graph [
   ]
   node [
     id 4
-    label "Boston"
+    label "4"
     Country "United States"
     Longitude -71.05977
     Internal 1
@@ -69,7 +69,7 @@ graph [
   ]
   node [
     id 5
-    label "Framingham"
+    label "5"
     Country "United States"
     Longitude -71.41617
     Internal 1
@@ -77,7 +77,7 @@ graph [
   ]
   node [
     id 6
-    label "Manchester"
+    label "6"
     Country "United States"
     Longitude -71.45479
     Internal 1
@@ -85,7 +85,7 @@ graph [
   ]
   node [
     id 7
-    label "Keene"
+    label "7"
     Country "United States"
     Longitude -72.27814
     Internal 1
@@ -93,7 +93,7 @@ graph [
   ]
   node [
     id 8
-    label "Worcester"
+    label "8"
     Country "United States"
     Longitude -71.80229
     Internal 1
@@ -101,7 +101,7 @@ graph [
   ]
   node [
     id 9
-    label "Springfield"
+    label "9"
     Country "United States"
     Longitude -72.58981
     Internal 1
@@ -109,7 +109,7 @@ graph [
   ]
   node [
     id 10
-    label "Bangor"
+    label "10"
     Country "United States"
     Longitude -68.77781
     Internal 1
@@ -117,7 +117,7 @@ graph [
   ]
   node [
     id 11
-    label "Portland"
+    label "11"
     Country "United States"
     Longitude -70.25533
     Internal 1
@@ -125,7 +125,7 @@ graph [
   ]
   node [
     id 12
-    label "Turner"
+    label "12"
     Country "United States"
     Longitude -70.25617
     Internal 1
@@ -133,7 +133,7 @@ graph [
   ]
   node [
     id 13
-    label "Bethel"
+    label "13"
     Country "United States"
     Longitude -70.79062
     Internal 1
@@ -141,7 +141,7 @@ graph [
   ]
   node [
     id 14
-    label "Norway"
+    label "14"
     Country "United States"
     Longitude -70.54478
     Internal 1
@@ -149,7 +149,7 @@ graph [
   ]
   node [
     id 15
-    label "Standish"
+    label "15"
     Country "United States"
     Longitude -70.552
     Internal 1
@@ -157,7 +157,7 @@ graph [
   ]
   node [
     id 16
-    label "Buckfield"
+    label "16"
     Country "United States"
     Longitude -70.36534
     Internal 1
@@ -165,7 +165,7 @@ graph [
   ]
   node [
     id 17
-    label "Augusta"
+    label "17"
     Country "United States"
     Longitude -69.77949
     Internal 1
@@ -173,7 +173,7 @@ graph [
   ]
   node [
     id 18
-    label "Lewiston"
+    label "18"
     Country "United States"
     Longitude -70.21478
     Internal 1
@@ -181,7 +181,7 @@ graph [
   ]
   node [
     id 19
-    label "Augusta"
+    label "19"
     Country "United States"
     Longitude -69.77949
     Internal 1

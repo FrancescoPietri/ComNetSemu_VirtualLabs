@@ -29,12 +29,12 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Svizzera"
+    label "0"
     Internal 0
   ]
   node [
     id 1
-    label "CA"
+    label "1"
     Country "Italy"
     Longitude 9.13462
     Internal 1
@@ -42,17 +42,17 @@ graph [
   ]
   node [
     id 2
-    label "Global Crossing"
+    label "2"
     Internal 0
   ]
   node [
     id 3
-    label "GEANT"
+    label "3"
     Internal 0
   ]
   node [
     id 4
-    label "CA-1"
+    label "4"
     Country "Italy"
     Longitude 9.13462
     Internal 1
@@ -60,12 +60,12 @@ graph [
   ]
   node [
     id 5
-    label "NAMEX"
+    label "5"
     Internal 0
   ]
   node [
     id 6
-    label "AQ-1"
+    label "6"
     Country "Italy"
     Longitude 13.39954
     Internal 1
@@ -73,7 +73,7 @@ graph [
   ]
   node [
     id 7
-    label "SS"
+    label "7"
     Country "Italy"
     Longitude 8.56028
     Internal 1
@@ -81,7 +81,7 @@ graph [
   ]
   node [
     id 8
-    label "PA-2"
+    label "8"
     Country "Italy"
     Longitude 13.35976
     Internal 1
@@ -89,7 +89,7 @@ graph [
   ]
   node [
     id 9
-    label "Pv-1"
+    label "9"
     Country "Italy"
     Longitude 9.16145
     Internal 1
@@ -97,7 +97,7 @@ graph [
   ]
   node [
     id 10
-    label "RM-1"
+    label "10"
     Country "Italy"
     Longitude 12.4839
     Internal 1
@@ -105,7 +105,7 @@ graph [
   ]
   node [
     id 11
-    label "PG"
+    label "11"
     Country "Italy"
     Longitude 12.38286
     Internal 1
@@ -113,7 +113,7 @@ graph [
   ]
   node [
     id 12
-    label "CZ"
+    label "12"
     Country "Italy"
     Longitude 16.5987
     Internal 1
@@ -121,12 +121,12 @@ graph [
   ]
   node [
     id 13
-    label "TIX"
+    label "13"
     Internal 0
   ]
   node [
     id 14
-    label "BO"
+    label "14"
     Country "Italy"
     Longitude 11.33875
     Internal 1
@@ -134,7 +134,7 @@ graph [
   ]
   node [
     id 15
-    label "MI-3"
+    label "15"
     Country "Italy"
     Longitude 9.18951
     Internal 1
@@ -142,12 +142,12 @@ graph [
   ]
   node [
     id 16
-    label "VSIX"
+    label "16"
     Internal 0
   ]
   node [
     id 17
-    label "TS-1"
+    label "17"
     Country "Italy"
     Longitude 13.78
     Internal 1
@@ -155,7 +155,7 @@ graph [
   ]
   node [
     id 18
-    label "NA"
+    label "18"
     Country "Italy"
     Longitude 14.25
     Internal 1
@@ -163,7 +163,7 @@ graph [
   ]
   node [
     id 19
-    label "ME"
+    label "19"
     Country "Italy"
     Longitude 15.54969
     Internal 1
@@ -171,7 +171,7 @@ graph [
   ]
   node [
     id 20
-    label "CS"
+    label "20"
     Country "Italy"
     Longitude 16.25019
     Internal 1
@@ -179,7 +179,7 @@ graph [
   ]
   node [
     id 21
-    label "CT"
+    label "21"
     Country "Italy"
     Longitude 15.08719
     Internal 1
@@ -187,7 +187,7 @@ graph [
   ]
   node [
     id 22
-    label "PA"
+    label "22"
     Country "Italy"
     Longitude 13.35976
     Internal 1
@@ -195,22 +195,22 @@ graph [
   ]
   node [
     id 23
-    label "EUMED CONNECT"
+    label "23"
     Internal 0
   ]
   node [
     id 24
-    label "MIX"
+    label "24"
     Internal 0
   ]
   node [
     id 25
-    label "Level 3"
+    label "25"
     Internal 0
   ]
   node [
     id 26
-    label "BO-3"
+    label "26"
     Country "Italy"
     Longitude 11.33875
     Internal 1
@@ -218,12 +218,12 @@ graph [
   ]
   node [
     id 27
-    label "Cogent"
+    label "27"
     Internal 0
   ]
   node [
     id 28
-    label "FUC"
+    label "28"
     Country "Italy"
     Longitude 13.4388
     Internal 1
@@ -231,7 +231,7 @@ graph [
   ]
   node [
     id 29
-    label "FI"
+    label "29"
     Country "Italy"
     Longitude 11.25
     Internal 1
@@ -239,7 +239,7 @@ graph [
   ]
   node [
     id 30
-    label "Fi"
+    label "30"
     Country "Italy"
     Longitude 11.25
     Internal 1
@@ -247,7 +247,7 @@ graph [
   ]
   node [
     id 31
-    label "PD-2"
+    label "31"
     Country "Italy"
     Longitude 11.88181
     Internal 1
@@ -255,7 +255,7 @@ graph [
   ]
   node [
     id 32
-    label "BR"
+    label "32"
     Country "Italy"
     Longitude 17.93682
     Internal 1
@@ -263,7 +263,7 @@ graph [
   ]
   node [
     id 33
-    label "VE"
+    label "33"
     Country "Italy"
     Longitude 12.32667
     Internal 1
@@ -271,7 +271,7 @@ graph [
   ]
   node [
     id 34
-    label "PD"
+    label "34"
     Country "Italy"
     Longitude 11.88181
     Internal 1
@@ -279,7 +279,7 @@ graph [
   ]
   node [
     id 35
-    label "MI-1"
+    label "35"
     Country "Italy"
     Longitude 9.18951
     Internal 1
@@ -287,7 +287,7 @@ graph [
   ]
   node [
     id 36
-    label "TN"
+    label "36"
     Country "Italy"
     Longitude 11.12108
     Internal 1
@@ -295,7 +295,7 @@ graph [
   ]
   node [
     id 37
-    label "MI-2"
+    label "37"
     Country "Italy"
     Longitude 9.18951
     Internal 1
@@ -303,7 +303,7 @@ graph [
   ]
   node [
     id 38
-    label "MI-4"
+    label "38"
     Country "Italy"
     Longitude 9.18951
     Internal 1
@@ -311,7 +311,7 @@ graph [
   ]
   node [
     id 39
-    label "GE"
+    label "39"
     Country "Italy"
     Longitude 8.93386
     Internal 1
@@ -319,7 +319,7 @@ graph [
   ]
   node [
     id 40
-    label "TO"
+    label "40"
     Country "Italy"
     Longitude 7.68682
     Internal 1
@@ -327,7 +327,7 @@ graph [
   ]
   node [
     id 41
-    label "SA"
+    label "41"
     Country "Italy"
     Longitude 14.76599
     Internal 1
@@ -335,7 +335,7 @@ graph [
   ]
   node [
     id 42
-    label "PZ"
+    label "42"
     Country "Italy"
     Longitude 15.80857
     Internal 1
@@ -343,7 +343,7 @@ graph [
   ]
   node [
     id 43
-    label "CB"
+    label "43"
     Country "Italy"
     Longitude 14.66753
     Internal 1
@@ -351,7 +351,7 @@ graph [
   ]
   node [
     id 44
-    label "FRA"
+    label "44"
     Country "Italy"
     Longitude 12.66868
     Internal 1
@@ -359,7 +359,7 @@ graph [
   ]
   node [
     id 45
-    label "AQ"
+    label "45"
     Country "Italy"
     Longitude 13.39954
     Internal 1
@@ -367,7 +367,7 @@ graph [
   ]
   node [
     id 46
-    label "AN"
+    label "46"
     Country "Italy"
     Longitude 13.51008
     Internal 1
@@ -375,7 +375,7 @@ graph [
   ]
   node [
     id 47
-    label "MT"
+    label "47"
     Country "Italy"
     Longitude 16.60158
     Internal 1
@@ -383,7 +383,7 @@ graph [
   ]
   node [
     id 48
-    label "LE"
+    label "48"
     Country "Italy"
     Longitude 18.17202
     Internal 1
@@ -391,7 +391,7 @@ graph [
   ]
   node [
     id 49
-    label "BA"
+    label "49"
     Country "Italy"
     Longitude 16.85118
     Internal 1
@@ -399,7 +399,7 @@ graph [
   ]
   node [
     id 50
-    label "FG"
+    label "50"
     Country "Italy"
     Longitude 15.54925
     Internal 1
@@ -407,17 +407,17 @@ graph [
   ]
   node [
     id 51
-    label "Google"
+    label "51"
     Internal 0
   ]
   node [
     id 52
-    label "GEANT"
+    label "52"
     Internal 0
   ]
   node [
     id 53
-    label "BS"
+    label "53"
     Country "Italy"
     Longitude 10.22727
     Internal 1
@@ -425,12 +425,12 @@ graph [
   ]
   node [
     id 54
-    label "TO-PIX"
+    label "54"
     Internal 0
   ]
   node [
     id 55
-    label "RM-2"
+    label "55"
     Country "Italy"
     Longitude 12.4839
     Internal 1
@@ -438,7 +438,7 @@ graph [
   ]
   node [
     id 56
-    label "CO"
+    label "56"
     Country "Italy"
     Longitude 9.18951
     Internal 1
@@ -446,7 +446,7 @@ graph [
   ]
   node [
     id 57
-    label "Fe"
+    label "57"
     Country "Italy"
     Longitude 11.62071
     Internal 1
@@ -454,7 +454,7 @@ graph [
   ]
   node [
     id 58
-    label "Pv"
+    label "58"
     Country "Italy"
     Longitude 9.16145
     Internal 1
@@ -462,7 +462,7 @@ graph [
   ]
   node [
     id 59
-    label "PI"
+    label "59"
     Country "Italy"
     Longitude 10.39659
     Internal 1
@@ -470,7 +470,7 @@ graph [
   ]
   node [
     id 60
-    label "Ur"
+    label "60"
     Country "Italy"
     Longitude 12.63633
     Internal 1
@@ -523,14 +523,6 @@ graph [
   ]
   edge [
     source 4
-    target 7
-    LinkSpeed "1"
-    LinkLabel "1 Gbps"
-    LinkSpeedUnits "G"
-    LinkSpeedRaw 1000000000.0
-  ]
-  edge [
-    source 4
     target 55
     LinkSpeed "2.5"
     LinkLabel "2.5 Gbps"
@@ -563,14 +555,6 @@ graph [
     LinkSpeedRaw 1000000000.0
   ]
   edge [
-    source 6
-    target 55
-    LinkSpeed "1"
-    LinkLabel "1 Gbps"
-    LinkSpeedUnits "G"
-    LinkSpeedRaw 1000000000.0
-  ]
-  edge [
     source 8
     target 22
     id "e61"
@@ -585,23 +569,10 @@ graph [
     LinkSpeedRaw 1000000000.0
   ]
   edge [
-    source 9
-    target 58
-    LinkSpeed "1"
-    LinkLabel "1 Gbps"
-    LinkSpeedUnits "G"
-    LinkSpeedRaw 1000000000.0
-  ]
-  edge [
     source 10
     target 55
     id "e9"
     label "None"
-  ]
-  edge [
-    source 10
-    target 55
-    LinkLabel "Fibre ottica spenta (Dark Fibre)"
   ]
   edge [
     source 10
@@ -667,22 +638,6 @@ graph [
   ]
   edge [
     source 14
-    target 35
-    LinkSpeed "10"
-    LinkLabel "10 Gbps"
-    LinkSpeedUnits "G"
-    LinkSpeedRaw 10000000000.0
-  ]
-  edge [
-    source 14
-    target 35
-    LinkSpeed "10"
-    LinkLabel "10 Gbps"
-    LinkSpeedUnits "G"
-    LinkSpeedRaw 10000000000.0
-  ]
-  edge [
-    source 14
     target 46
     LinkSpeed "1"
     LinkLabel "1 Gbps"
@@ -704,14 +659,6 @@ graph [
     LinkLabel "10 Gbps"
     LinkSpeedUnits "G"
     LinkSpeedRaw 10000000000.0
-  ]
-  edge [
-    source 14
-    target 57
-    LinkSpeed "1"
-    LinkLabel "1 Gbps"
-    LinkSpeedUnits "G"
-    LinkSpeedRaw 1000000000.0
   ]
   edge [
     source 14
@@ -787,23 +734,7 @@ graph [
   ]
   edge [
     source 18
-    target 41
-    LinkSpeed "1"
-    LinkLabel "1 Gbps"
-    LinkSpeedUnits "G"
-    LinkSpeedRaw 1000000000.0
-  ]
-  edge [
-    source 18
     target 49
-    LinkSpeed "2.5"
-    LinkLabel "2.5 Gbps"
-    LinkSpeedUnits "G"
-    LinkSpeedRaw 2500000000.0
-  ]
-  edge [
-    source 18
-    target 43
     LinkSpeed "2.5"
     LinkLabel "2.5 Gbps"
     LinkSpeedUnits "G"
@@ -926,39 +857,7 @@ graph [
   ]
   edge [
     source 31
-    target 33
-    LinkSpeed "1"
-    LinkLabel "1 Gbps"
-    LinkSpeedUnits "G"
-    LinkSpeedRaw 1000000000.0
-  ]
-  edge [
-    source 31
     target 34
-    LinkSpeed "1"
-    LinkLabel "1 Gbps"
-    LinkSpeedUnits "G"
-    LinkSpeedRaw 1000000000.0
-  ]
-  edge [
-    source 31
-    target 34
-    LinkSpeed "1"
-    LinkLabel "1 Gbps"
-    LinkSpeedUnits "G"
-    LinkSpeedRaw 1000000000.0
-  ]
-  edge [
-    source 31
-    target 34
-    LinkSpeed "1"
-    LinkLabel "1 Gbps"
-    LinkSpeedUnits "G"
-    LinkSpeedRaw 1000000000.0
-  ]
-  edge [
-    source 32
-    target 49
     LinkSpeed "1"
     LinkLabel "1 Gbps"
     LinkSpeedUnits "G"
@@ -1063,14 +962,6 @@ graph [
     LinkLabel "2.5 Gbps"
     LinkSpeedUnits "G"
     LinkSpeedRaw 2500000000.0
-  ]
-  edge [
-    source 37
-    target 58
-    LinkSpeed "1"
-    LinkLabel "1 Gbps"
-    LinkSpeedUnits "G"
-    LinkSpeedRaw 1000000000.0
   ]
   edge [
     source 37

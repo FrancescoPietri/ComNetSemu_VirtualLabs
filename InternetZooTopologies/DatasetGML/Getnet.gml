@@ -30,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Seattle"
+    label "0"
     Country "United States"
     Longitude -122.33207
     Internal 1
@@ -38,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "Santa Clara"
+    label "1"
     Country "United States"
     Longitude -121.95524
     Internal 1
@@ -46,7 +46,7 @@ graph [
   ]
   node [
     id 2
-    label "Phoenix"
+    label "2"
     Country "United States"
     Longitude -112.07404
     Internal 1
@@ -54,7 +54,7 @@ graph [
   ]
   node [
     id 3
-    label "Tucson"
+    label "3"
     Country "United States"
     Longitude -110.92648
     Internal 1
@@ -62,7 +62,7 @@ graph [
   ]
   node [
     id 4
-    label "Washington, DC"
+    label "4"
     Country "United States"
     Longitude -77.03637
     Internal 1
@@ -70,7 +70,7 @@ graph [
   ]
   node [
     id 5
-    label "Baltimore"
+    label "5"
     Country "United States"
     Longitude -76.61219
     Internal 1
@@ -78,7 +78,7 @@ graph [
   ]
   node [
     id 6
-    label "Pittsburgh"
+    label "6"
     Country "United States"
     Longitude -79.99589
     Internal 1

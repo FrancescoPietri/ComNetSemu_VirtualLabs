@@ -30,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Hagerstown"
+    label "0"
     Country "United States"
     Longitude -77.71999
     Internal 1
@@ -38,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "Shepherdstown"
+    label "1"
     Country "United States"
     Longitude -77.80416
     Internal 1
@@ -46,7 +46,7 @@ graph [
   ]
   node [
     id 2
-    label "Winchester"
+    label "2"
     Country "United States"
     Longitude -78.16333
     Internal 1
@@ -54,7 +54,7 @@ graph [
   ]
   node [
     id 3
-    label "Berryville"
+    label "3"
     Country "United States"
     Longitude -77.98222
     Internal 1
@@ -62,7 +62,7 @@ graph [
   ]
   node [
     id 4
-    label "Petersburg"
+    label "4"
     Country "United States"
     Longitude -79.12392
     Internal 1
@@ -70,7 +70,7 @@ graph [
   ]
   node [
     id 5
-    label "Franklin"
+    label "5"
     Country "United States"
     Longitude -79.33115
     Internal 1
@@ -78,7 +78,7 @@ graph [
   ]
   node [
     id 6
-    label "Martinsburg"
+    label "6"
     Country "United States"
     Longitude -77.96389
     Internal 1
@@ -86,7 +86,7 @@ graph [
   ]
   node [
     id 7
-    label "Edinburg"
+    label "7"
     Country "United States"
     Longitude -78.56585
     Internal 1
@@ -94,7 +94,7 @@ graph [
   ]
   node [
     id 8
-    label "Harrisonburg"
+    label "8"
     Country "United States"
     Longitude -78.86892
     Internal 1
@@ -102,7 +102,7 @@ graph [
   ]
   node [
     id 9
-    label "Covington (Planned)"
+    label "9"
     Country "United States"
     Longitude -79.99395
     Internal 1
@@ -110,7 +110,7 @@ graph [
   ]
   node [
     id 10
-    label "Glenville"
+    label "10"
     Country "United States"
     Longitude -80.8376
     Internal 1
@@ -118,7 +118,7 @@ graph [
   ]
   node [
     id 11
-    label "Sutton"
+    label "11"
     Country "United States"
     Longitude -80.70982
     Internal 1
@@ -126,7 +126,7 @@ graph [
   ]
   node [
     id 12
-    label "Summersville"
+    label "12"
     Country "United States"
     Longitude -80.8526
     Internal 1
@@ -134,7 +134,7 @@ graph [
   ]
   node [
     id 13
-    label "Charleston (Planned)"
+    label "13"
     Country "United States"
     Longitude -81.63262
     Internal 1
@@ -142,25 +142,25 @@ graph [
   ]
   node [
     id 14
-    label "None"
+    label "14"
     hyperedge 1
     Internal 1
   ]
   node [
     id 15
-    label "None"
+    label "15"
     hyperedge 1
     Internal 1
   ]
   node [
     id 16
-    label "None"
+    label "16"
     hyperedge 1
     Internal 1
   ]
   node [
     id 17
-    label "Weston"
+    label "17"
     Country "United States"
     Longitude -80.46731
     Internal 1
@@ -168,7 +168,7 @@ graph [
   ]
   node [
     id 18
-    label "Warrenton"
+    label "18"
     Country "United States"
     Longitude -77.79527
     Internal 1
@@ -176,7 +176,7 @@ graph [
   ]
   node [
     id 19
-    label "Front Royal"
+    label "19"
     Country "United States"
     Longitude -78.19444
     Internal 1
@@ -184,37 +184,37 @@ graph [
   ]
   node [
     id 20
-    label "None"
+    label "20"
     hyperedge 1
     Internal 1
   ]
   node [
     id 21
-    label "None"
+    label "21"
     hyperedge 1
     Internal 1
   ]
   node [
     id 22
-    label "None"
+    label "22"
     hyperedge 1
     Internal 1
   ]
   node [
     id 23
-    label "None"
+    label "23"
     hyperedge 1
     Internal 1
   ]
   node [
     id 24
-    label "None"
+    label "24"
     hyperedge 1
     Internal 1
   ]
   node [
     id 25
-    label "Leesburg"
+    label "25"
     Country "United States"
     Longitude -77.5636
     Internal 1
@@ -222,7 +222,7 @@ graph [
   ]
   node [
     id 26
-    label "Ashburn"
+    label "26"
     Country "United States"
     Longitude -77.48749
     Internal 1
@@ -230,7 +230,7 @@ graph [
   ]
   node [
     id 27
-    label "Herndon"
+    label "27"
     Country "United States"
     Longitude -77.3861
     Internal 1

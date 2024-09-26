@@ -30,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Culiacan"
+    label "0"
     Country "Mexico"
     Longitude -107.38972
     Internal 1
@@ -38,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "Mazatlan"
+    label "1"
     Country "Mexico"
     Longitude -106.41667
     Internal 1
@@ -46,7 +46,7 @@ graph [
   ]
   node [
     id 2
-    label "Hermosillo"
+    label "2"
     Country "Mexico"
     Longitude -110.96667
     Internal 1
@@ -54,7 +54,7 @@ graph [
   ]
   node [
     id 3
-    label "Guaymas"
+    label "3"
     Country "Mexico"
     Longitude -110.9
     Internal 1
@@ -62,7 +62,7 @@ graph [
   ]
   node [
     id 4
-    label "Aguascalientes"
+    label "4"
     Country "Mexico"
     Longitude -102.3
     Internal 1
@@ -70,7 +70,7 @@ graph [
   ]
   node [
     id 5
-    label "San Luis Potosi"
+    label "5"
     Country "Mexico"
     Longitude -100.98333
     Internal 1
@@ -78,7 +78,7 @@ graph [
   ]
   node [
     id 6
-    label "Durango"
+    label "6"
     Country "Mexico"
     Longitude -104.66667
     Internal 1
@@ -86,7 +86,7 @@ graph [
   ]
   node [
     id 7
-    label "Tepic"
+    label "7"
     Country "Mexico"
     Longitude -104.9
     Internal 1
@@ -94,7 +94,7 @@ graph [
   ]
   node [
     id 8
-    label "Tepatitlan"
+    label "8"
     Country "Mexico"
     Longitude -102.73333
     Internal 1
@@ -102,7 +102,7 @@ graph [
   ]
   node [
     id 9
-    label "San Miguel El Alto"
+    label "9"
     Country "Mexico"
     Longitude -102.35
     Internal 1
@@ -110,7 +110,7 @@ graph [
   ]
   node [
     id 10
-    label "Leon"
+    label "10"
     Country "Mexico"
     Longitude -101.66667
     Internal 1
@@ -118,7 +118,7 @@ graph [
   ]
   node [
     id 11
-    label "Celaya"
+    label "11"
     Country "Mexico"
     Longitude -100.81667
     Internal 1
@@ -126,7 +126,7 @@ graph [
   ]
   node [
     id 12
-    label "Jilotepec"
+    label "12"
     Country "Mexico"
     Longitude -99.53472
     Internal 1
@@ -134,7 +134,7 @@ graph [
   ]
   node [
     id 13
-    label "Yurecuaro"
+    label "13"
     Country "Mexico"
     Longitude -102.3
     Internal 1
@@ -142,7 +142,7 @@ graph [
   ]
   node [
     id 14
-    label "Irolo"
+    label "14"
     Country "Mexico"
     Longitude -98.59028
     Internal 1
@@ -150,7 +150,7 @@ graph [
   ]
   node [
     id 15
-    label "Rio Fro"
+    label "15"
     Country "Mexico"
     Longitude -98.66667
     Internal 1
@@ -158,7 +158,7 @@ graph [
   ]
   node [
     id 16
-    label "Gral Bravo"
+    label "16"
     Country "Mexico"
     Longitude -99.16667
     Internal 1
@@ -166,12 +166,12 @@ graph [
   ]
   node [
     id 17
-    label "San Miguel"
+    label "17"
     Internal 1
   ]
   node [
     id 18
-    label "Monterrey"
+    label "18"
     Country "Mexico"
     Longitude -100.31667
     Internal 1
@@ -179,7 +179,7 @@ graph [
   ]
   node [
     id 19
-    label "Mexico"
+    label "19"
     Country "Mexico"
     Longitude -99.12766
     Internal 1
@@ -187,7 +187,7 @@ graph [
   ]
   node [
     id 20
-    label "Talia"
+    label "20"
     Country "Mexico"
     Longitude -102.4
     Internal 1
@@ -195,7 +195,7 @@ graph [
   ]
   node [
     id 21
-    label "Candela"
+    label "21"
     Country "Mexico"
     Longitude -100.66667
     Internal 1
@@ -203,7 +203,7 @@ graph [
   ]
   node [
     id 22
-    label "La Sauceda"
+    label "22"
     Country "Mexico"
     geocode_id "3983363"
     Internal 1
@@ -212,7 +212,7 @@ graph [
   ]
   node [
     id 23
-    label "El Salado"
+    label "23"
     Country "Mexico"
     Longitude -100.86667
     Internal 1
@@ -220,7 +220,7 @@ graph [
   ]
   node [
     id 24
-    label "San Rafael"
+    label "24"
     Country "Mexico"
     Longitude -99.71667
     Internal 1
@@ -228,7 +228,7 @@ graph [
   ]
   node [
     id 25
-    label "Laguna Seca"
+    label "25"
     Country "Mexico"
     geocode_id "4002098"
     Internal 1
@@ -237,7 +237,7 @@ graph [
   ]
   node [
     id 26
-    label "Matehlala"
+    label "26"
     Country "Mexico"
     Longitude -100.65
     Internal 1
@@ -245,7 +245,7 @@ graph [
   ]
   node [
     id 27
-    label "El Huizache"
+    label "27"
     Country "Mexico"
     Longitude -100.46667
     Internal 1
@@ -253,7 +253,7 @@ graph [
   ]
   node [
     id 28
-    label "Jesus M Aguirre"
+    label "28"
     Country "Mexico"
     Longitude -100.36667
     Internal 1
@@ -261,7 +261,7 @@ graph [
   ]
   node [
     id 29
-    label "SN Jose De Gracia"
+    label "29"
     Country "Mexico"
     geocode_id "3986227"
     Internal 1
@@ -270,7 +270,7 @@ graph [
   ]
   node [
     id 30
-    label "Ruiz"
+    label "30"
     geocode_append "Nayarit"
     Country "Mexico"
     Longitude -105.15
@@ -279,7 +279,7 @@ graph [
   ]
   node [
     id 31
-    label "Saltillo"
+    label "31"
     Country "Mexico"
     Longitude -101.0
     Internal 1
@@ -287,7 +287,7 @@ graph [
   ]
   node [
     id 32
-    label "Cuernavaca"
+    label "32"
     Country "Mexico"
     Longitude -99.25
     Internal 1
@@ -295,7 +295,7 @@ graph [
   ]
   node [
     id 33
-    label "Nopala"
+    label "33"
     geocode_append "Hidalgo"
     Country "Mexico"
     Longitude -99.65
@@ -304,7 +304,7 @@ graph [
   ]
   node [
     id 34
-    label "Tijuana"
+    label "34"
     Country "Mexico"
     Longitude -117.01667
     Internal 1
@@ -312,7 +312,7 @@ graph [
   ]
   node [
     id 35
-    label "Navojoa"
+    label "35"
     Country "Mexico"
     Longitude -109.43333
     Internal 1
@@ -320,7 +320,7 @@ graph [
   ]
   node [
     id 36
-    label "Ixtlan"
+    label "36"
     Country "Mexico"
     Longitude -102.4
     Internal 1
@@ -328,7 +328,7 @@ graph [
   ]
   node [
     id 37
-    label "S Juan Del Rio"
+    label "37"
     Country "Mexico"
     Longitude -100.0
     Internal 1
@@ -336,7 +336,7 @@ graph [
   ]
   node [
     id 38
-    label "Jilotepec"
+    label "38"
     Country "Mexico"
     Longitude -99.53472
     Internal 1
@@ -344,7 +344,7 @@ graph [
   ]
   node [
     id 39
-    label "Los Mochis"
+    label "39"
     Country "Mexico"
     Longitude -108.96667
     Internal 1
@@ -352,7 +352,7 @@ graph [
   ]
   node [
     id 40
-    label "San Blas"
+    label "40"
     geocode_append "Sinaloa"
     Country "Mexico"
     Longitude -108.76667
@@ -361,7 +361,7 @@ graph [
   ]
   node [
     id 41
-    label "Leon Fonseca"
+    label "41"
     Country "Mexico"
     Longitude -108.35
     Internal 1
@@ -369,7 +369,7 @@ graph [
   ]
   node [
     id 42
-    label "Guasave"
+    label "42"
     Country "Mexico"
     Longitude -108.45
     Internal 1
@@ -377,7 +377,7 @@ graph [
   ]
   node [
     id 43
-    label "Guamuchil"
+    label "43"
     Country "Mexico"
     Longitude -108.1
     Internal 1
@@ -385,7 +385,7 @@ graph [
   ]
   node [
     id 44
-    label "La Cruz De Elota"
+    label "44"
     Country "Mexico"
     Longitude -106.9
     Internal 1
@@ -393,7 +393,7 @@ graph [
   ]
   node [
     id 45
-    label "Escuinapa"
+    label "45"
     Country "Mexico"
     Longitude -105.8
     Internal 1
@@ -401,7 +401,7 @@ graph [
   ]
   node [
     id 46
-    label "Artesia Wells"
+    label "46"
     Country "United States"
     Longitude -99.28448
     Internal 1
@@ -409,7 +409,7 @@ graph [
   ]
   node [
     id 47
-    label "Moore"
+    label "47"
     Country "United States"
     Longitude -99.01031
     Internal 1
@@ -417,7 +417,7 @@ graph [
   ]
   node [
     id 48
-    label "Torreon"
+    label "48"
     Country "Mexico"
     Longitude -103.43333
     Internal 1
@@ -425,7 +425,7 @@ graph [
   ]
   node [
     id 49
-    label "Tilden"
+    label "49"
     Country "United States"
     Longitude -98.54918
     Internal 1
@@ -433,7 +433,7 @@ graph [
   ]
   node [
     id 50
-    label "San Isidro"
+    label "50"
     Country "United States"
     Longitude -98.4539
     Internal 1
@@ -441,7 +441,7 @@ graph [
   ]
   node [
     id 51
-    label "Hebbronville"
+    label "51"
     Country "United States"
     Longitude -98.67835
     Internal 1
@@ -449,7 +449,7 @@ graph [
   ]
   node [
     id 52
-    label "San Diego Del Union"
+    label "52"
     Country "Mexico"
     Longitude -100.86667
     Internal 1
@@ -457,7 +457,7 @@ graph [
   ]
   node [
     id 53
-    label "CD Obregon"
+    label "53"
     Country "Mexico"
     Longitude -109.93333
     Internal 1
@@ -465,7 +465,7 @@ graph [
   ]
   node [
     id 54
-    label "Yerbanis"
+    label "54"
     Country "Mexico"
     Longitude -103.84306
     Internal 1
@@ -473,7 +473,7 @@ graph [
   ]
   node [
     id 55
-    label "Irapuato"
+    label "55"
     Country "Mexico"
     Longitude -101.35
     Internal 1
@@ -481,7 +481,7 @@ graph [
   ]
   node [
     id 56
-    label "Benjamin Hill"
+    label "56"
     Country "Mexico"
     Longitude -111.1
     Internal 1
@@ -489,7 +489,7 @@ graph [
   ]
   node [
     id 57
-    label "Jalapa"
+    label "57"
     Country "Mexico"
     Longitude -96.91667
     Internal 1
@@ -497,7 +497,7 @@ graph [
   ]
   node [
     id 58
-    label "Puebla"
+    label "58"
     Country "Mexico"
     Longitude -98.2
     Internal 1
@@ -505,7 +505,7 @@ graph [
   ]
   node [
     id 59
-    label "Toluca"
+    label "59"
     Country "Mexico"
     Longitude -99.66722
     Internal 1
@@ -513,7 +513,7 @@ graph [
   ]
   node [
     id 60
-    label "Queretaro"
+    label "60"
     Country "Mexico"
     Longitude -100.38333
     Internal 1
@@ -521,7 +521,7 @@ graph [
   ]
   node [
     id 61
-    label "Nuevo Laredo"
+    label "61"
     Country "Mexico"
     Longitude -99.51667
     Internal 1
@@ -529,7 +529,7 @@ graph [
   ]
   node [
     id 62
-    label "Hidalgo"
+    label "62"
     Country "United States"
     Longitude -98.23001
     Internal 1
@@ -537,7 +537,7 @@ graph [
   ]
   node [
     id 63
-    label "Reynosa"
+    label "63"
     Country "Mexico"
     Longitude -98.28333
     Internal 1
@@ -545,7 +545,7 @@ graph [
   ]
   node [
     id 64
-    label "Veracruz"
+    label "64"
     Country "Mexico"
     Longitude -96.13333
     Internal 1
@@ -553,7 +553,7 @@ graph [
   ]
   node [
     id 65
-    label "Saljnas"
+    label "65"
     Country "Mexico"
     Longitude -101.71667
     Internal 1
@@ -561,7 +561,7 @@ graph [
   ]
   node [
     id 66
-    label "Salvatierra"
+    label "66"
     Country "Mexico"
     Longitude -100.88333
     Internal 1
@@ -569,7 +569,7 @@ graph [
   ]
   node [
     id 67
-    label "MA"
+    label "67"
     Country "United States"
     Longitude -99.00114
     Internal 1
@@ -577,13 +577,13 @@ graph [
   ]
   node [
     id 68
-    label "None"
+    label "68"
     hyperedge 1
     Internal 1
   ]
   node [
     id 69
-    label "Laredo"
+    label "69"
     Country "Mexico"
     Longitude -99.51667
     Internal 1
@@ -591,7 +591,7 @@ graph [
   ]
   node [
     id 70
-    label "Mirando City"
+    label "70"
     Country "United States"
     Longitude -99.00114
     Internal 1
@@ -599,7 +599,7 @@ graph [
   ]
   node [
     id 71
-    label "Las Adjuntas"
+    label "71"
     Country "Mexico"
     geocode_id "4000373"
     Internal 1
@@ -608,7 +608,7 @@ graph [
   ]
   node [
     id 72
-    label "Alice"
+    label "72"
     Country "United States"
     Longitude -98.06972
     Internal 1
@@ -616,7 +616,7 @@ graph [
   ]
   node [
     id 73
-    label "CD Juarez"
+    label "73"
     Country "Mexico"
     Longitude -106.48333
     Internal 1
@@ -624,7 +624,7 @@ graph [
   ]
   node [
     id 74
-    label "El Paso"
+    label "74"
     Country "Mexico"
     Longitude -106.48333
     Internal 1
@@ -632,7 +632,7 @@ graph [
   ]
   node [
     id 75
-    label "Guadalajara"
+    label "75"
     Country "Mexico"
     Longitude -103.33333
     Internal 1
@@ -640,7 +640,7 @@ graph [
   ]
   node [
     id 76
-    label "Dallas"
+    label "76"
     Country "United States"
     Longitude -96.80667
     Internal 1
@@ -648,7 +648,7 @@ graph [
   ]
   node [
     id 77
-    label "San Antonio Taylor"
+    label "77"
     Country "United States"
     Longitude -98.49363
     Internal 1
@@ -656,7 +656,7 @@ graph [
   ]
   node [
     id 78
-    label "San Antonio Rotary"
+    label "78"
     Country "United States"
     Longitude -98.49363
     Internal 1
@@ -664,7 +664,7 @@ graph [
   ]
   node [
     id 79
-    label "San Diego"
+    label "79"
     Country "United States"
     Longitude -117.15726
     Internal 1
@@ -672,7 +672,7 @@ graph [
   ]
   node [
     id 80
-    label "Zamora"
+    label "80"
     Country "Mexico"
     Longitude -102.26667
     Internal 1
@@ -680,7 +680,7 @@ graph [
   ]
   node [
     id 81
-    label "Ensenada"
+    label "81"
     Country "Mexico"
     Longitude -116.61667
     Internal 1
@@ -688,7 +688,7 @@ graph [
   ]
   node [
     id 82
-    label "Mexicali"
+    label "82"
     Country "Mexico"
     Longitude -115.46833
     Internal 1
@@ -696,7 +696,7 @@ graph [
   ]
   node [
     id 83
-    label "Nogales"
+    label "83"
     Country "Mexico"
     Longitude -110.93333
     Internal 1
@@ -813,29 +813,14 @@ graph [
     id "e31"
   ]
   edge [
-    source 10
-    target 55
-    id "e30"
-  ]
-  edge [
     source 11
     target 60
     id "e33"
   ]
   edge [
     source 11
-    target 60
-    id "e32"
-  ]
-  edge [
-    source 11
     target 55
     id "e35"
-  ]
-  edge [
-    source 11
-    target 55
-    id "e34"
   ]
   edge [
     source 12
@@ -880,18 +865,8 @@ graph [
   ]
   edge [
     source 15
-    target 58
-    LinkLabel "Via TeleReunion"
-  ]
-  edge [
-    source 15
     target 19
     LinkLabel "Via TeleReunion"
-  ]
-  edge [
-    source 15
-    target 19
-    id "e78"
   ]
   edge [
     source 16
@@ -929,19 +904,9 @@ graph [
     id "e97"
   ]
   edge [
-    source 18
-    target 31
-    id "e96"
-  ]
-  edge [
     source 19
     target 32
     id "e95"
-  ]
-  edge [
-    source 19
-    target 32
-    id "e94"
   ]
   edge [
     source 19
@@ -957,11 +922,6 @@ graph [
     source 19
     target 59
     id "e42"
-  ]
-  edge [
-    source 19
-    target 59
-    id "e41"
   ]
   edge [
     source 20

@@ -29,7 +29,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Dublin"
+    label "0"
     Country "Ireland"
     Longitude -6.26719
     Internal 1
@@ -38,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "Galway"
+    label "1"
     Country "Ireland"
     Longitude -9.04889
     Internal 1
@@ -47,7 +47,7 @@ graph [
   ]
   node [
     id 2
-    label "Limerick"
+    label "2"
     Country "Ireland"
     Longitude -8.62306
     Internal 1
@@ -56,7 +56,7 @@ graph [
   ]
   node [
     id 3
-    label "Cork"
+    label "3"
     Country "Ireland"
     Longitude -8.49583
     Internal 1
@@ -65,7 +65,7 @@ graph [
   ]
   node [
     id 4
-    label "Waterford"
+    label "4"
     Country "Ireland"
     Longitude -7.11194
     Internal 1
@@ -74,7 +74,7 @@ graph [
   ]
   node [
     id 5
-    label "Portlaioise"
+    label "5"
     Country "Ireland"
     Longitude -7.29979
     Internal 1
@@ -83,12 +83,12 @@ graph [
   ]
   node [
     id 6
-    label "None"
+    label "6"
     Internal 0
   ]
   node [
     id 7
-    label "None"
+    label "7"
     Internal 0
   ]
   edge [

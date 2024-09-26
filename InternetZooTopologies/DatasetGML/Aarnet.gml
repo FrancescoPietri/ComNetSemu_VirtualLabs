@@ -29,7 +29,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Sydney1"
+    label "0"
     Country "Australia"
     Longitude 151.20732
     Internal 1
@@ -37,7 +37,7 @@ graph [
   ]
   node [
     id 1
-    label "Brisbane2"
+    label "1"
     Country "Australia"
     Longitude 153.02809
     Internal 1
@@ -45,7 +45,7 @@ graph [
   ]
   node [
     id 2
-    label "Canberra1"
+    label "2"
     Country "Australia"
     Longitude 149.12807
     Internal 1
@@ -53,7 +53,7 @@ graph [
   ]
   node [
     id 3
-    label "Sydney2"
+    label "3"
     Country "Australia"
     Longitude 151.20732
     Internal 1
@@ -61,7 +61,7 @@ graph [
   ]
   node [
     id 4
-    label "Townsville"
+    label "4"
     Country "Australia"
     Longitude 146.8
     Internal 1
@@ -69,7 +69,7 @@ graph [
   ]
   node [
     id 5
-    label "Cairns"
+    label "5"
     Country "Australia"
     Longitude 145.76667
     Internal 1
@@ -77,7 +77,7 @@ graph [
   ]
   node [
     id 6
-    label "Brisbane1"
+    label "6"
     Country "Australia"
     Longitude 153.02809
     Internal 1
@@ -85,7 +85,7 @@ graph [
   ]
   node [
     id 7
-    label "Rockhampton"
+    label "7"
     Country "Australia"
     Longitude 150.5
     Internal 1
@@ -93,7 +93,7 @@ graph [
   ]
   node [
     id 8
-    label "Armidale"
+    label "8"
     Country "Australia"
     Longitude 151.65
     Internal 1
@@ -101,7 +101,7 @@ graph [
   ]
   node [
     id 9
-    label "Hobart"
+    label "9"
     Country "Australia"
     Longitude 147.32941
     Internal 1
@@ -109,7 +109,7 @@ graph [
   ]
   node [
     id 10
-    label "Canberra2"
+    label "10"
     Country "Australia"
     Longitude 149.12807
     Internal 1
@@ -117,7 +117,7 @@ graph [
   ]
   node [
     id 11
-    label "Perth1"
+    label "11"
     Country "Australia"
     Longitude 115.83333
     Internal 1
@@ -125,7 +125,7 @@ graph [
   ]
   node [
     id 12
-    label "Perth2"
+    label "12"
     Country "Australia"
     Longitude 115.83333
     Internal 1
@@ -133,7 +133,7 @@ graph [
   ]
   node [
     id 13
-    label "Adelaide1"
+    label "13"
     Country "Australia"
     Longitude 138.6
     Internal 1
@@ -141,7 +141,7 @@ graph [
   ]
   node [
     id 14
-    label "Adelaide2"
+    label "14"
     Country "Australia"
     Longitude 138.6
     Internal 1
@@ -149,7 +149,7 @@ graph [
   ]
   node [
     id 15
-    label "Melbourne1"
+    label "15"
     Country "Australia"
     Longitude 144.96332
     Internal 1
@@ -157,7 +157,7 @@ graph [
   ]
   node [
     id 16
-    label "Melbourne2"
+    label "16"
     Country "Australia"
     Longitude 144.96332
     Internal 1
@@ -165,7 +165,7 @@ graph [
   ]
   node [
     id 17
-    label "Alice Springs"
+    label "17"
     Country "Australia"
     Longitude 133.88333
     Internal 1
@@ -173,7 +173,7 @@ graph [
   ]
   node [
     id 18
-    label "Darwin"
+    label "18"
     Country "Australia"
     Longitude 130.84185
     Internal 1

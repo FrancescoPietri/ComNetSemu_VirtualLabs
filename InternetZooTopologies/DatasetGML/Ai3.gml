@@ -29,52 +29,52 @@ graph [
   Testbed 1
   node [
     id 0
-    label "UNIBRAW"
+    label "0"
     Internal 1
   ]
   node [
     id 1
-    label "NAIST"
+    label "1"
     Internal 1
   ]
   node [
     id 2
-    label "KEIO"
+    label "2"
     Internal 1
   ]
   node [
     id 3
-    label "IOIT"
+    label "3"
     Internal 1
   ]
   node [
     id 4
-    label "ASTI"
+    label "4"
     Internal 1
   ]
   node [
     id 5
-    label "TU"
+    label "5"
     Internal 1
   ]
   node [
     id 6
-    label "AIT"
+    label "6"
     Internal 1
   ]
   node [
     id 7
-    label "ITB"
+    label "7"
     Internal 1
   ]
   node [
     id 8
-    label "TP"
+    label "8"
     Internal 1
   ]
   node [
     id 9
-    label "USM"
+    label "9"
     Internal 1
   ]
   edge [

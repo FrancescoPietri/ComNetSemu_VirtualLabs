@@ -30,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Komotini"
+    label "0"
     Country "Greece"
     Longitude 25.39639
     Internal 1
@@ -39,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "Alexandroypoli"
+    label "1"
     Country "Greece"
     Longitude 25.87444
     Internal 1
@@ -48,7 +48,7 @@ graph [
   ]
   node [
     id 2
-    label "Xanthi"
+    label "2"
     Country "Greece"
     Longitude 24.88361
     Internal 1
@@ -57,7 +57,7 @@ graph [
   ]
   node [
     id 3
-    label "Kavala"
+    label "3"
     Country "Greece"
     Longitude 24.40194
     Internal 1
@@ -66,12 +66,12 @@ graph [
   ]
   node [
     id 4
-    label "Interconnection Greece"
+    label "4"
     Internal 0
   ]
   node [
     id 5
-    label "Chios"
+    label "5"
     Country "Greece"
     Longitude 26.13583
     Internal 1
@@ -80,7 +80,7 @@ graph [
   ]
   node [
     id 6
-    label "Lesbos"
+    label "6"
     Country "Greece"
     Longitude 26.22025
     Internal 1
@@ -89,7 +89,7 @@ graph [
   ]
   node [
     id 7
-    label "Athens"
+    label "7"
     Country "Greece"
     Longitude 23.71622
     Internal 1
@@ -98,7 +98,7 @@ graph [
   ]
   node [
     id 8
-    label "Zakynthos"
+    label "8"
     Country "Greece"
     Longitude 20.89528
     Internal 1
@@ -107,7 +107,7 @@ graph [
   ]
   node [
     id 9
-    label "Pyrgos"
+    label "9"
     Country "Greece"
     Longitude 20.78472
     Internal 1
@@ -116,7 +116,7 @@ graph [
   ]
   node [
     id 10
-    label "Samos"
+    label "10"
     Country "Greece"
     Longitude 26.97694
     Internal 1
@@ -125,7 +125,7 @@ graph [
   ]
   node [
     id 11
-    label "Rhodes"
+    label "11"
     Country "Greece"
     Longitude 28.2225
     Internal 1
@@ -134,7 +134,7 @@ graph [
   ]
   node [
     id 12
-    label "Agrinio"
+    label "12"
     Country "Greece"
     Longitude 21.40778
     Internal 1
@@ -143,7 +143,7 @@ graph [
   ]
   node [
     id 13
-    label "Mesologgi"
+    label "13"
     Country "Greece"
     Longitude 21.42952
     Internal 1
@@ -152,7 +152,7 @@ graph [
   ]
   node [
     id 14
-    label "Prevezza"
+    label "14"
     Country "Greece"
     Longitude 20.75
     Internal 1
@@ -161,7 +161,7 @@ graph [
   ]
   node [
     id 15
-    label "Arta"
+    label "15"
     Country "Greece"
     Longitude 20.98528
     Internal 1
@@ -170,7 +170,7 @@ graph [
   ]
   node [
     id 16
-    label "Lamia"
+    label "16"
     Country "Greece"
     Longitude 22.43333
     Internal 1
@@ -179,7 +179,7 @@ graph [
   ]
   node [
     id 17
-    label "Inofita"
+    label "17"
     Country "Greece"
     Longitude 23.63333
     Internal 1
@@ -188,7 +188,7 @@ graph [
   ]
   node [
     id 18
-    label "Rethymnon"
+    label "18"
     Country "Greece"
     Longitude 24.47139
     Internal 1
@@ -197,7 +197,7 @@ graph [
   ]
   node [
     id 19
-    label "Moires"
+    label "19"
     Country "Greece"
     Longitude 24.86667
     Internal 1
@@ -206,7 +206,7 @@ graph [
   ]
   node [
     id 20
-    label "Ag. Nikolaos"
+    label "20"
     Country "Greece"
     Longitude 25.71333
     Internal 1
@@ -215,7 +215,7 @@ graph [
   ]
   node [
     id 21
-    label "Ierapetra"
+    label "21"
     Country "Greece"
     Longitude 25.73528
     Internal 1
@@ -224,7 +224,7 @@ graph [
   ]
   node [
     id 22
-    label "Siteia"
+    label "22"
     Country "Greece"
     Longitude 26.09861
     Internal 1
@@ -233,7 +233,7 @@ graph [
   ]
   node [
     id 23
-    label "Corinth"
+    label "23"
     Country "Greece"
     Longitude 22.95734
     Internal 1
@@ -242,7 +242,7 @@ graph [
   ]
   node [
     id 24
-    label "Itea"
+    label "24"
     Country "Greece"
     Longitude 22.16667
     Internal 1
@@ -251,7 +251,7 @@ graph [
   ]
   node [
     id 25
-    label "Livadia"
+    label "25"
     Country "Greece"
     Longitude 22.28611
     Internal 1
@@ -260,7 +260,7 @@ graph [
   ]
   node [
     id 26
-    label "Kastoria"
+    label "26"
     Country "Greece"
     Longitude 21.26667
     Internal 1
@@ -269,7 +269,7 @@ graph [
   ]
   node [
     id 27
-    label "Larissa"
+    label "27"
     Country "Greece"
     Longitude 22.42028
     Internal 1
@@ -278,7 +278,7 @@ graph [
   ]
   node [
     id 28
-    label "Lefkada"
+    label "28"
     Country "Greece"
     Longitude 20.70194
     Internal 1
@@ -287,7 +287,7 @@ graph [
   ]
   node [
     id 29
-    label "Grevena"
+    label "29"
     Country "Greece"
     Longitude 21.80278
     Internal 1
@@ -296,7 +296,7 @@ graph [
   ]
   node [
     id 30
-    label "Igoumenitsa"
+    label "30"
     Country "Greece"
     Longitude 20.26556
     Internal 1
@@ -305,7 +305,7 @@ graph [
   ]
   node [
     id 31
-    label "Argostoli"
+    label "31"
     Country "Greece"
     Longitude 20.48903
     Internal 1
@@ -314,12 +314,12 @@ graph [
   ]
   node [
     id 32
-    label "Internet"
+    label "32"
     Internal 0
   ]
   node [
     id 33
-    label "Patra"
+    label "33"
     Country "Greece"
     Longitude 21.73444
     Internal 1
@@ -328,7 +328,7 @@ graph [
   ]
   node [
     id 34
-    label "Sklathos"
+    label "34"
     Country "Greece"
     Longitude 23.49089
     Internal 1
@@ -337,7 +337,7 @@ graph [
   ]
   node [
     id 35
-    label "Chalkida"
+    label "35"
     Country "Greece"
     Longitude 23.59944
     Internal 1
@@ -346,7 +346,7 @@ graph [
   ]
   node [
     id 36
-    label "Karditsa"
+    label "36"
     Country "Greece"
     Longitude 21.92167
     Internal 1
@@ -355,7 +355,7 @@ graph [
   ]
   node [
     id 37
-    label "Volos"
+    label "37"
     Country "Greece"
     Longitude 22.94583
     Internal 1
@@ -364,7 +364,7 @@ graph [
   ]
   node [
     id 38
-    label "Karpenisi"
+    label "38"
     Country "Greece"
     Longitude 21.78333
     Internal 1
@@ -373,7 +373,7 @@ graph [
   ]
   node [
     id 39
-    label "Trikana"
+    label "39"
     Country "Greece"
     Longitude 21.7675
     Internal 1
@@ -382,7 +382,7 @@ graph [
   ]
   node [
     id 40
-    label "Corfu"
+    label "40"
     Country "Greece"
     Longitude 19.91972
     Internal 1
@@ -391,7 +391,7 @@ graph [
   ]
   node [
     id 41
-    label "Ioaninna"
+    label "41"
     Country "Greece"
     Longitude 20.85083
     Internal 1
@@ -400,7 +400,7 @@ graph [
   ]
   node [
     id 42
-    label "Hersonlssos"
+    label "42"
     Country "Greece"
     Longitude 25.37112
     Internal 1
@@ -409,7 +409,7 @@ graph [
   ]
   node [
     id 43
-    label "Heraklion"
+    label "43"
     Country "Greece"
     Longitude 25.14341
     Internal 1
@@ -418,7 +418,7 @@ graph [
   ]
   node [
     id 44
-    label "Argos"
+    label "44"
     Country "Greece"
     Longitude 22.73333
     Internal 1
@@ -427,7 +427,7 @@ graph [
   ]
   node [
     id 45
-    label "Syros"
+    label "45"
     Country "Greece"
     Longitude 24.93333
     Internal 1
@@ -436,7 +436,7 @@ graph [
   ]
   node [
     id 46
-    label "Mykonos"
+    label "46"
     Country "Greece"
     Longitude 25.32872
     Internal 1
@@ -445,7 +445,7 @@ graph [
   ]
   node [
     id 47
-    label "Santorini"
+    label "47"
     Country "Greece"
     Longitude 25.42959
     Internal 1
@@ -454,7 +454,7 @@ graph [
   ]
   node [
     id 48
-    label "Chania"
+    label "48"
     Country "Greece"
     Longitude 24.01556
     Internal 1
@@ -463,7 +463,7 @@ graph [
   ]
   node [
     id 49
-    label "Sparta"
+    label "49"
     Country "Greece"
     Longitude 22.42972
     Internal 1
@@ -472,7 +472,7 @@ graph [
   ]
   node [
     id 50
-    label "Kalamata"
+    label "50"
     Country "Greece"
     Longitude 22.11417
     Internal 1
@@ -481,7 +481,7 @@ graph [
   ]
   node [
     id 51
-    label "Tripoli"
+    label "51"
     Country "Greece"
     Longitude 22.37944
     Internal 1
@@ -490,7 +490,7 @@ graph [
   ]
   node [
     id 52
-    label "Polygyros"
+    label "52"
     Country "Greece"
     Longitude 23.43833
     Internal 1
@@ -499,7 +499,7 @@ graph [
   ]
   node [
     id 53
-    label "Drama"
+    label "53"
     Country "Greece"
     Longitude 24.13944
     Internal 1
@@ -508,7 +508,7 @@ graph [
   ]
   node [
     id 54
-    label "Serres"
+    label "54"
     Country "Greece"
     Longitude 23.54972
     Internal 1
@@ -517,7 +517,7 @@ graph [
   ]
   node [
     id 55
-    label "Thessaloniki"
+    label "55"
     Country "Greece"
     Longitude 22.94389
     Internal 1
@@ -526,7 +526,7 @@ graph [
   ]
   node [
     id 56
-    label "Kilkis"
+    label "56"
     Country "Greece"
     Longitude 22.87083
     Internal 1
@@ -535,7 +535,7 @@ graph [
   ]
   node [
     id 57
-    label "Edessa"
+    label "57"
     Country "Greece"
     Longitude 22.04722
     Internal 1
@@ -544,7 +544,7 @@ graph [
   ]
   node [
     id 58
-    label "Florina"
+    label "58"
     Country "Greece"
     Longitude 21.40981
     Internal 1
@@ -553,7 +553,7 @@ graph [
   ]
   node [
     id 59
-    label "Verola"
+    label "59"
     Country "Greece"
     Longitude 22.20361
     Internal 1
@@ -562,7 +562,7 @@ graph [
   ]
   node [
     id 60
-    label "Kozani"
+    label "60"
     Country "Greece"
     Longitude 21.78639
     Internal 1
@@ -571,7 +571,7 @@ graph [
   ]
   node [
     id 61
-    label "Katerina"
+    label "61"
     Country "Greece"
     Longitude 22.5025
     Internal 1

@@ -4,8 +4,8 @@ graph [
   GeoExtent "Country"
   Network "AMRES"
   Provenance "Primary"
-  Note "External node names from http://netiis.rcub.bg.ac.rs/netiis/NetIIS?service=main&ID=group.21361"
-  Source "http://www.amres.ac.rs/index.php?option=com_content&task=view&id=25&Itemid=56&lang=ser"
+  Note "External node names from http://netiis.rcub.bg.ac.rs/netiis/NetIIS?service=main&#38;ID=group.21361"
+  Source "http://www.amres.ac.rs/index.php?option=com_content&#38;task=view&#38;id=25&#38;Itemid=56&#38;lang=ser"
   Version "1.0"
   Type "REN"
   DateType "Current"
@@ -30,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Bor"
+    label "0"
     Country "Serbia"
     Longitude 22.09528
     Internal 1
@@ -39,13 +39,13 @@ graph [
   ]
   node [
     id 1
-    label "Kosovska Mitrovica"
+    label "1"
     Internal 1
     type "Small Node"
   ]
   node [
     id 2
-    label "Novi Pazar"
+    label "2"
     Country "Serbia"
     Longitude 20.51222
     Internal 1
@@ -54,7 +54,7 @@ graph [
   ]
   node [
     id 3
-    label "Krustevac"
+    label "3"
     Country "Serbia"
     Longitude 21.33389
     Internal 1
@@ -63,7 +63,7 @@ graph [
   ]
   node [
     id 4
-    label "Vranje"
+    label "4"
     Country "Serbia"
     Longitude 21.90028
     Internal 1
@@ -72,7 +72,7 @@ graph [
   ]
   node [
     id 5
-    label "Nis"
+    label "5"
     Country "Serbia"
     Longitude 21.90333
     Internal 1
@@ -81,7 +81,7 @@ graph [
   ]
   node [
     id 6
-    label "Pirot"
+    label "6"
     Country "Serbia"
     Longitude 22.58611
     Internal 1
@@ -90,7 +90,7 @@ graph [
   ]
   node [
     id 7
-    label "Leskovac"
+    label "7"
     Country "Serbia"
     Longitude 21.94611
     Internal 1
@@ -99,7 +99,7 @@ graph [
   ]
   node [
     id 8
-    label "Kragujevac"
+    label "8"
     Country "Serbia"
     Longitude 20.91667
     Internal 1
@@ -108,7 +108,7 @@ graph [
   ]
   node [
     id 9
-    label "Novi Sad"
+    label "9"
     Country "Serbia"
     Longitude 19.83694
     Internal 1
@@ -117,17 +117,17 @@ graph [
   ]
   node [
     id 10
-    label "Bosnia and Herzegovina"
+    label "10"
     Internal 0
   ]
   node [
     id 11
-    label "HUNGARNET"
+    label "11"
     Internal 0
   ]
   node [
     id 12
-    label "Beograd"
+    label "12"
     Country "Serbia"
     Longitude 20.46513
     Internal 1
@@ -136,7 +136,7 @@ graph [
   ]
   node [
     id 13
-    label "Pancevo"
+    label "13"
     Country "Serbia"
     Longitude 20.64028
     Internal 1
@@ -145,12 +145,12 @@ graph [
   ]
   node [
     id 14
-    label "Telekom Serbia"
+    label "14"
     Internal 0
   ]
   node [
     id 15
-    label "Kraljevo"
+    label "15"
     Country "Serbia"
     Longitude 20.68944
     Internal 1
@@ -159,7 +159,7 @@ graph [
   ]
   node [
     id 16
-    label "Raska"
+    label "16"
     Country "Serbia"
     Longitude 20.61528
     Internal 1
@@ -168,7 +168,7 @@ graph [
   ]
   node [
     id 17
-    label "Subotica"
+    label "17"
     Country "Serbia"
     Longitude 19.66667
     Internal 1
@@ -177,7 +177,7 @@ graph [
   ]
   node [
     id 18
-    label "Sombor"
+    label "18"
     Country "Serbia"
     Longitude 19.11222
     Internal 1
@@ -186,7 +186,7 @@ graph [
   ]
   node [
     id 19
-    label "Zrenjanin"
+    label "19"
     Country "Serbia"
     Longitude 20.38194
     Internal 1
@@ -195,7 +195,7 @@ graph [
   ]
   node [
     id 20
-    label "Sabac"
+    label "20"
     Country "Serbia"
     Longitude 19.69
     Internal 1
@@ -204,7 +204,7 @@ graph [
   ]
   node [
     id 21
-    label "Valjevo"
+    label "21"
     Country "Serbia"
     Longitude 19.89821
     Internal 1
@@ -213,7 +213,7 @@ graph [
   ]
   node [
     id 22
-    label "Uzice"
+    label "22"
     Country "Serbia"
     Longitude 19.84878
     Internal 1
@@ -222,7 +222,7 @@ graph [
   ]
   node [
     id 23
-    label "Cacak"
+    label "23"
     Country "Serbia"
     Longitude 20.34972
     Internal 1
@@ -231,7 +231,7 @@ graph [
   ]
   node [
     id 24
-    label "Velika Plana"
+    label "24"
     Country "Serbia"
     Longitude 21.04556
     Internal 1

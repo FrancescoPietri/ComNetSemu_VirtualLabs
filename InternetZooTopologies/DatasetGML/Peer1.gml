@@ -29,7 +29,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Herndon/Ashburn"
+    label "0"
     Country "United States"
     Longitude -77.48749
     Internal 1
@@ -37,7 +37,7 @@ graph [
   ]
   node [
     id 1
-    label "Miami"
+    label "1"
     Country "United States"
     Longitude -80.19366
     Internal 1
@@ -45,7 +45,7 @@ graph [
   ]
   node [
     id 2
-    label "Montreal"
+    label "2"
     Country "Canada"
     Longitude -73.58781
     Internal 1
@@ -53,7 +53,7 @@ graph [
   ]
   node [
     id 3
-    label "New York"
+    label "3"
     Country "United States"
     Longitude -74.00597
     Internal 1
@@ -61,7 +61,7 @@ graph [
   ]
   node [
     id 4
-    label "London"
+    label "4"
     Country "United Kingdom"
     Longitude -0.12574
     Internal 1
@@ -69,7 +69,7 @@ graph [
   ]
   node [
     id 5
-    label "Amsterdam"
+    label "5"
     Country "Netherlands"
     Longitude 4.88969
     Internal 1
@@ -77,7 +77,7 @@ graph [
   ]
   node [
     id 6
-    label "Chicago"
+    label "6"
     Country "United States"
     Longitude -87.65005
     Internal 1
@@ -85,7 +85,7 @@ graph [
   ]
   node [
     id 7
-    label "Toronto"
+    label "7"
     Country "Canada"
     Longitude -79.4163
     Internal 1
@@ -93,7 +93,7 @@ graph [
   ]
   node [
     id 8
-    label "Vancouver"
+    label "8"
     Country "Canada"
     Longitude -123.11934
     Internal 1
@@ -101,7 +101,7 @@ graph [
   ]
   node [
     id 9
-    label "Seattle"
+    label "9"
     Country "United States"
     Longitude -122.33207
     Internal 1
@@ -109,7 +109,7 @@ graph [
   ]
   node [
     id 10
-    label "Fremont"
+    label "10"
     Country "United States"
     Longitude -121.98857
     Internal 1
@@ -117,7 +117,7 @@ graph [
   ]
   node [
     id 11
-    label "San Jose"
+    label "11"
     Country "Costa Rica"
     Longitude -84.08333
     Internal 1
@@ -125,7 +125,7 @@ graph [
   ]
   node [
     id 12
-    label "Los Angeles"
+    label "12"
     Country "United States"
     Longitude -118.24368
     Internal 1
@@ -133,7 +133,7 @@ graph [
   ]
   node [
     id 13
-    label "Dallas"
+    label "13"
     Country "United States"
     Longitude -96.80667
     Internal 1
@@ -141,7 +141,7 @@ graph [
   ]
   node [
     id 14
-    label "San Antonio"
+    label "14"
     Country "United States"
     Longitude -98.49363
     Internal 1
@@ -149,7 +149,7 @@ graph [
   ]
   node [
     id 15
-    label "Atlanta"
+    label "15"
     Country "United States"
     Longitude -84.38798
     Internal 1

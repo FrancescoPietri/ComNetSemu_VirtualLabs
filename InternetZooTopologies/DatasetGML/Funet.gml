@@ -29,7 +29,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Kouvola"
+    label "0"
     Country "Finland"
     Longitude 26.7
     Internal 1
@@ -38,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "Lahti"
+    label "1"
     Country "Finland"
     Longitude 25.66151
     Internal 1
@@ -47,7 +47,7 @@ graph [
   ]
   node [
     id 2
-    label "Mikkeli"
+    label "2"
     Country "Finland"
     Longitude 27.27227
     Internal 1
@@ -56,7 +56,7 @@ graph [
   ]
   node [
     id 3
-    label "Jyvaskyla"
+    label "3"
     Country "Finland"
     Longitude 25.73333
     Internal 1
@@ -65,7 +65,7 @@ graph [
   ]
   node [
     id 4
-    label "Seinajoki"
+    label "4"
     Country "Finland"
     Longitude 22.83333
     Internal 1
@@ -74,7 +74,7 @@ graph [
   ]
   node [
     id 5
-    label "Pori"
+    label "5"
     Country "Finland"
     Longitude 21.78333
     Internal 1
@@ -83,7 +83,7 @@ graph [
   ]
   node [
     id 6
-    label "Tampere"
+    label "6"
     Country "Finland"
     Longitude 23.78712
     Internal 1
@@ -92,7 +92,7 @@ graph [
   ]
   node [
     id 7
-    label "Hameenlinna"
+    label "7"
     Country "Finland"
     Longitude 24.46434
     Internal 1
@@ -101,7 +101,7 @@ graph [
   ]
   node [
     id 8
-    label "Rauma"
+    label "8"
     Country "Finland"
     Longitude 21.51127
     Internal 1
@@ -110,7 +110,7 @@ graph [
   ]
   node [
     id 9
-    label "Turku"
+    label "9"
     Country "Finland"
     Longitude 22.26869
     Internal 1
@@ -119,7 +119,7 @@ graph [
   ]
   node [
     id 10
-    label "Kotka"
+    label "10"
     Country "Finland"
     Longitude 26.91667
     Internal 1
@@ -128,7 +128,7 @@ graph [
   ]
   node [
     id 11
-    label "Helsinki"
+    label "11"
     Country "Finland"
     Longitude 24.93545
     Internal 1
@@ -137,7 +137,7 @@ graph [
   ]
   node [
     id 12
-    label "Espoo"
+    label "12"
     Country "Finland"
     Longitude 24.6522
     Internal 1
@@ -146,7 +146,7 @@ graph [
   ]
   node [
     id 13
-    label "Salo"
+    label "13"
     Country "Finland"
     Longitude 23.13333
     Internal 1
@@ -155,17 +155,17 @@ graph [
   ]
   node [
     id 14
-    label "NORDU"
+    label "14"
     Internal 0
   ]
   node [
     id 15
-    label "NORDU"
+    label "15"
     Internal 0
   ]
   node [
     id 16
-    label "Joensuu"
+    label "16"
     Country "Finland"
     Longitude 29.76667
     Internal 1
@@ -174,7 +174,7 @@ graph [
   ]
   node [
     id 17
-    label "Lappeenranta"
+    label "17"
     Country "Finland"
     Longitude 28.18871
     Internal 1
@@ -183,7 +183,7 @@ graph [
   ]
   node [
     id 18
-    label "Oulu"
+    label "18"
     Country "Finland"
     Longitude 25.46816
     Internal 1
@@ -192,7 +192,7 @@ graph [
   ]
   node [
     id 19
-    label "Haukipudas"
+    label "19"
     Country "Finland"
     Longitude 25.35233
     Internal 1
@@ -201,7 +201,7 @@ graph [
   ]
   node [
     id 20
-    label "Rovaniemi"
+    label "20"
     Country "Finland"
     Longitude 25.71667
     Internal 1
@@ -210,7 +210,7 @@ graph [
   ]
   node [
     id 21
-    label "Sodankyla"
+    label "21"
     Country "Finland"
     Longitude 26.6
     Internal 1
@@ -219,7 +219,7 @@ graph [
   ]
   node [
     id 22
-    label "Ristijavi"
+    label "22"
     Country "Finland"
     Longitude 28.21667
     Internal 1
@@ -228,7 +228,7 @@ graph [
   ]
   node [
     id 23
-    label "Kokkola"
+    label "23"
     Country "Finland"
     Longitude 23.13066
     Internal 1
@@ -237,7 +237,7 @@ graph [
   ]
   node [
     id 24
-    label "Vaasa"
+    label "24"
     Country "Finland"
     Longitude 21.61577
     Internal 1
@@ -246,7 +246,7 @@ graph [
   ]
   node [
     id 25
-    label "Koupio"
+    label "25"
     Country "Finland"
     Longitude 27.67703
     Internal 1
@@ -339,12 +339,6 @@ graph [
   edge [
     source 9
     target 13
-    LinkType "Fiber"
-    LinkLabel "fiber"
-  ]
-  edge [
-    source 11
-    target 12
     LinkType "Fiber"
     LinkLabel "fiber"
   ]

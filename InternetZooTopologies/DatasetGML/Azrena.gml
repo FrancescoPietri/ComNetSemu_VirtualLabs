@@ -29,122 +29,122 @@ graph [
   Testbed 0
   node [
     id 0
-    label "None"
+    label "0"
     Internal 1
     type "Switch"
   ]
   node [
     id 1
-    label "Dialup server"
+    label "1"
     Internal 1
     type "Switch"
   ]
   node [
     id 2
-    label "Wireless server"
+    label "2"
     Internal 1
     type "Router"
   ]
   node [
     id 3
-    label "Wireless router"
+    label "3"
     Internal 1
     type "Router"
   ]
   node [
     id 4
-    label "Geology"
+    label "4"
     Internal 1
     type "Switch"
   ]
   node [
     id 5
-    label "Physics"
+    label "5"
     Internal 1
     type "Switch"
   ]
   node [
     id 6
-    label "ANAS users"
+    label "6"
     Internal 0
   ]
   node [
     id 7
-    label "Distribution switch"
+    label "7"
     Internal 1
     type "Switch"
   ]
   node [
     id 8
-    label "Information Tech."
+    label "8"
     Internal 1
   ]
   node [
     id 9
-    label "Baku Uni"
+    label "9"
     Internal 1
   ]
   node [
     id 10
-    label "Shamsa Obs."
+    label "10"
     Internal 1
   ]
   node [
     id 11
-    label "Cybenetics"
+    label "11"
     Internal 1
   ]
   node [
     id 12
-    label "Khazar Uni"
+    label "12"
     Internal 1
   ]
   node [
     id 13
-    label "NOC"
+    label "13"
     Internal 1
     type "Router"
   ]
   node [
     id 14
-    label "Economical Uni"
+    label "14"
     Internal 1
     type "Router"
   ]
   node [
     id 15
-    label "Local ISP"
+    label "15"
     Internal 0
   ]
   node [
     id 16
-    label "Silk Highway"
+    label "16"
     Internal 0
   ]
   node [
     id 17
-    label "VSAT Station"
+    label "17"
     Internal 1
     type "Router"
   ]
   node [
     id 18
-    label "Technical Uni"
+    label "18"
     Internal 1
   ]
   node [
     id 19
-    label "RENASCENE"
+    label "19"
     Internal 1
   ]
   node [
     id 20
-    label "Architecture-Building Uni"
+    label "20"
     Internal 1
   ]
   node [
     id 21
-    label "Foreign Language Uni."
+    label "21"
     Internal 1
   ]
   edge [
@@ -176,18 +176,6 @@ graph [
     target 7
     LinkType "Ethernet"
     LinkLabel "Ethernet"
-  ]
-  edge [
-    source 1
-    target 6
-    LinkType "Serial"
-    LinkLabel "Serial"
-  ]
-  edge [
-    source 1
-    target 6
-    LinkType "Serial"
-    LinkLabel "Serial"
   ]
   edge [
     source 1
@@ -278,18 +266,6 @@ graph [
     target 15
     LinkType "Serial"
     LinkLabel "serial"
-  ]
-  edge [
-    source 13
-    target 15
-    LinkType "Serial"
-    LinkLabel "Serial"
-  ]
-  edge [
-    source 13
-    target 15
-    LinkType "Serial"
-    LinkLabel "Serial"
   ]
   edge [
     source 16

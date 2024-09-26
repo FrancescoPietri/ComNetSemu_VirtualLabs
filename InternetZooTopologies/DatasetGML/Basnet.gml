@@ -30,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Grodno"
+    label "0"
     Country "Belarus"
     Longitude 23.83029
     Internal 1
@@ -38,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "Minsk"
+    label "1"
     Country "Belarus"
     Longitude 27.56667
     Internal 1
@@ -46,7 +46,7 @@ graph [
   ]
   node [
     id 2
-    label "Vitebsk"
+    label "2"
     Country "Belarus"
     Longitude 30.2033
     Internal 1
@@ -54,7 +54,7 @@ graph [
   ]
   node [
     id 3
-    label "Mogilev"
+    label "3"
     Country "Belarus"
     Longitude 30.33764
     Internal 1
@@ -62,7 +62,7 @@ graph [
   ]
   node [
     id 4
-    label "Gomel"
+    label "4"
     Country "Belarus"
     Longitude 30.98227
     Internal 1
@@ -70,7 +70,7 @@ graph [
   ]
   node [
     id 5
-    label "Brest"
+    label "5"
     Country "Belarus"
     Longitude 23.68775
     Internal 1
@@ -78,7 +78,7 @@ graph [
   ]
   node [
     id 6
-    label "Pionier GEANT 2"
+    label "6"
     Internal 0
   ]
   edge [

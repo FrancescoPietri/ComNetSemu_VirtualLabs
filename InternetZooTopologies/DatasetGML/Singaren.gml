@@ -29,57 +29,57 @@ graph [
   Testbed 0
   node [
     id 0
-    label "NICT QGPOP APAN-JP Japan"
+    label "0"
     Internal 0
   ]
   node [
     id 1
-    label "AARNET"
+    label "1"
     Internal 0
   ]
   node [
     id 2
-    label "Academia Sinica Taiwan"
+    label "2"
     Internal 0
   ]
   node [
     id 3
-    label "NTU"
+    label "3"
     Internal 1
   ]
   node [
     id 4
-    label "Biopolis"
+    label "4"
     Internal 1
   ]
   node [
     id 5
-    label "Fusionopolis"
+    label "5"
     Internal 1
   ]
   node [
     id 6
-    label "NUS"
+    label "6"
     Internal 1
   ]
   node [
     id 7
-    label "Schools"
+    label "7"
     Internal 1
   ]
   node [
     id 8
-    label "SingAREN members"
+    label "8"
     Internal 1
   ]
   node [
     id 9
-    label "SingAREN-GIX"
+    label "9"
     Internal 1
   ]
   node [
     id 10
-    label "TEIN3"
+    label "10"
     Internal 0
   ]
   edge [

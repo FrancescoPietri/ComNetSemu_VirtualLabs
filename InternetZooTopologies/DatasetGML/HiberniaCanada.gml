@@ -29,7 +29,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "New York"
+    label "0"
     Country "Canada"
     Longitude -79.06627
     Internal 1
@@ -38,17 +38,17 @@ graph [
   ]
   node [
     id 1
-    label "None"
+    label "1"
     Internal 0
   ]
   node [
     id 2
-    label "None"
+    label "2"
     Internal 0
   ]
   node [
     id 3
-    label "Moncton"
+    label "3"
     Country "Canada"
     Longitude -64.80186
     Internal 1
@@ -57,13 +57,13 @@ graph [
   ]
   node [
     id 4
-    label "None"
+    label "4"
     hyperedge 1
     Internal 1
   ]
   node [
     id 5
-    label "Edmundston"
+    label "5"
     Country "Canada"
     Longitude -68.32512
     Internal 1
@@ -72,7 +72,7 @@ graph [
   ]
   node [
     id 6
-    label "Quebec"
+    label "6"
     Country "Canada"
     Longitude -71.21454
     Internal 1
@@ -81,7 +81,7 @@ graph [
   ]
   node [
     id 7
-    label "Montreal"
+    label "7"
     Country "Canada"
     Longitude -73.58781
     Internal 1
@@ -90,7 +90,7 @@ graph [
   ]
   node [
     id 8
-    label "Toronto"
+    label "8"
     Country "Canada"
     Longitude -79.4163
     Internal 1
@@ -99,7 +99,7 @@ graph [
   ]
   node [
     id 9
-    label "Buffalo"
+    label "9"
     Country "Canada"
     Longitude -108.48475
     Internal 1
@@ -108,7 +108,7 @@ graph [
   ]
   node [
     id 10
-    label "Albany"
+    label "10"
     Country "Canada"
     Longitude -63.64872
     Internal 1
@@ -117,7 +117,7 @@ graph [
   ]
   node [
     id 11
-    label "Boston"
+    label "11"
     Country "Canada"
     Longitude -121.44399
     Internal 1
@@ -126,7 +126,7 @@ graph [
   ]
   node [
     id 12
-    label "Halifax"
+    label "12"
     Country "Canada"
     Longitude -63.57333
     Internal 1

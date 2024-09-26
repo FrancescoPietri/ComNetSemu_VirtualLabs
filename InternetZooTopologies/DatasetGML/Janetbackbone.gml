@@ -29,7 +29,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "TVN"
+    label "0"
     Country "United Kingdom"
     Longitude -0.93083
     Internal 1
@@ -38,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "SWERN"
+    label "1"
     Country "United Kingdom"
     Longitude -2.35907
     Internal 1
@@ -47,7 +47,7 @@ graph [
   ]
   node [
     id 2
-    label "MidMAN"
+    label "2"
     Country "United Kingdom"
     Longitude -1.96667
     Internal 1
@@ -56,7 +56,7 @@ graph [
   ]
   node [
     id 3
-    label "WREN"
+    label "3"
     Country "United Kingdom"
     Longitude -3.18
     Internal 1
@@ -65,7 +65,7 @@ graph [
   ]
   node [
     id 4
-    label "LMN"
+    label "4"
     Country "United Kingdom"
     Longitude -0.12574
     Internal 1
@@ -74,7 +74,7 @@ graph [
   ]
   node [
     id 5
-    label "EastNet"
+    label "5"
     Country "United Kingdom"
     Longitude 0.11667
     Internal 1
@@ -83,7 +83,7 @@ graph [
   ]
   node [
     id 6
-    label "LeNSE"
+    label "6"
     Country "United Kingdom"
     Longitude -1.40428
     Internal 1
@@ -92,7 +92,7 @@ graph [
   ]
   node [
     id 7
-    label "Kentish MAN"
+    label "7"
     Country "United Kingdom"
     Longitude 0.54863
     Internal 1
@@ -101,7 +101,7 @@ graph [
   ]
   node [
     id 8
-    label "EMMAN"
+    label "8"
     Country "United Kingdom"
     Longitude -1.32806
     Internal 1
@@ -110,13 +110,13 @@ graph [
   ]
   node [
     id 9
-    label "Dublin"
+    label "9"
     Internal 1
     type "Blue Square"
   ]
   node [
     id 10
-    label "Sco-locate"
+    label "10"
     Country "United Kingdom"
     Longitude -3.2
     Internal 1
@@ -125,7 +125,7 @@ graph [
   ]
   node [
     id 11
-    label "Reading"
+    label "11"
     Country "United Kingdom"
     Longitude -0.97113
     Internal 1
@@ -134,7 +134,7 @@ graph [
   ]
   node [
     id 12
-    label "Leeds"
+    label "12"
     Country "United Kingdom"
     Longitude -1.54785
     Internal 1
@@ -143,7 +143,7 @@ graph [
   ]
   node [
     id 13
-    label "Warrington"
+    label "13"
     Country "United Kingdom"
     Longitude -2.58024
     Internal 1
@@ -152,7 +152,7 @@ graph [
   ]
   node [
     id 14
-    label "Glasgow"
+    label "14"
     Country "United Kingdom"
     Longitude -4.25763
     Internal 1
@@ -161,7 +161,7 @@ graph [
   ]
   node [
     id 15
-    label "Telehouse"
+    label "15"
     Country "United Kingdom"
     Longitude -0.12574
     Internal 1
@@ -170,7 +170,7 @@ graph [
   ]
   node [
     id 16
-    label "Telecity"
+    label "16"
     Country "United Kingdom"
     Longitude -0.12574
     Internal 1
@@ -179,7 +179,7 @@ graph [
   ]
   node [
     id 17
-    label "London"
+    label "17"
     Country "United Kingdom"
     Longitude -0.12574
     Internal 1
@@ -188,7 +188,7 @@ graph [
   ]
   node [
     id 18
-    label "Bristol"
+    label "18"
     Country "United Kingdom"
     Longitude -2.58333
     Internal 1
@@ -197,7 +197,7 @@ graph [
   ]
   node [
     id 19
-    label "C&NLMAN"
+    label "19"
     Country "United Kingdom"
     Longitude -2.83333
     Internal 1
@@ -207,7 +207,7 @@ graph [
   ]
   node [
     id 20
-    label "NIRAN"
+    label "20"
     Country "United Kingdom"
     Longitude -6.5
     Internal 1
@@ -217,7 +217,7 @@ graph [
   ]
   node [
     id 21
-    label "UHIMI"
+    label "21"
     Country "United Kingdom"
     Longitude -4.71
     Internal 1
@@ -226,7 +226,7 @@ graph [
   ]
   node [
     id 22
-    label "AbMAN"
+    label "22"
     Country "United Kingdom"
     Longitude -2.09814
     Internal 1
@@ -235,7 +235,7 @@ graph [
   ]
   node [
     id 23
-    label "FaTMAN"
+    label "23"
     Country "United Kingdom"
     Longitude -2.79902
     Internal 1
@@ -244,7 +244,7 @@ graph [
   ]
   node [
     id 24
-    label "EaStMAN"
+    label "24"
     Country "United Kingdom"
     Longitude -3.2
     Internal 1
@@ -253,7 +253,7 @@ graph [
   ]
   node [
     id 25
-    label "Clydenet"
+    label "25"
     Country "United Kingdom"
     Longitude -4.25763
     Internal 1
@@ -262,7 +262,7 @@ graph [
   ]
   node [
     id 26
-    label "NorMAN"
+    label "26"
     Country "United Kingdom"
     Longitude -1.61396
     Internal 1
@@ -271,7 +271,7 @@ graph [
   ]
   node [
     id 27
-    label "YHMAN"
+    label "27"
     Country "United Kingdom"
     Longitude -0.40443
     Internal 1
@@ -280,7 +280,7 @@ graph [
   ]
   node [
     id 28
-    label "NNW"
+    label "28"
     Country "United Kingdom"
     Longitude -2.23743
     Internal 1

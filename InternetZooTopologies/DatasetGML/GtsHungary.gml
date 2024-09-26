@@ -29,13 +29,13 @@ graph [
   Testbed 0
   node [
     id 0
-    label "None"
+    label "0"
     Internal 1
     type "Small Node"
   ]
   node [
     id 1
-    label "Miskolc"
+    label "1"
     Country "Hungary"
     Longitude 20.78333
     Internal 1
@@ -44,7 +44,7 @@ graph [
   ]
   node [
     id 2
-    label "Salgotarjan"
+    label "2"
     Country "Hungary"
     Longitude 19.80303
     Internal 1
@@ -53,7 +53,7 @@ graph [
   ]
   node [
     id 3
-    label "Godollo"
+    label "3"
     Country "Hungary"
     Longitude 19.36667
     Internal 1
@@ -62,7 +62,7 @@ graph [
   ]
   node [
     id 4
-    label "Szolnok"
+    label "4"
     Country "Hungary"
     Longitude 20.2
     Internal 1
@@ -71,7 +71,7 @@ graph [
   ]
   node [
     id 5
-    label "Dunaujvaros"
+    label "5"
     Country "Hungary"
     Longitude 18.93333
     Internal 1
@@ -80,7 +80,7 @@ graph [
   ]
   node [
     id 6
-    label "Nyiregyhaza"
+    label "6"
     Country "Hungary"
     Longitude 21.71671
     Internal 1
@@ -89,7 +89,7 @@ graph [
   ]
   node [
     id 7
-    label "Debrecen"
+    label "7"
     Country "Hungary"
     Longitude 21.63333
     Internal 1
@@ -98,7 +98,7 @@ graph [
   ]
   node [
     id 8
-    label "Kecskemet"
+    label "8"
     Country "Hungary"
     Longitude 19.69128
     Internal 1
@@ -107,7 +107,7 @@ graph [
   ]
   node [
     id 9
-    label "Baja"
+    label "9"
     Country "Hungary"
     Longitude 18.96667
     Internal 1
@@ -116,7 +116,7 @@ graph [
   ]
   node [
     id 10
-    label "Pecs"
+    label "10"
     Country "Hungary"
     Longitude 18.23333
     Internal 1
@@ -125,12 +125,12 @@ graph [
   ]
   node [
     id 11
-    label "None"
+    label "11"
     Internal 0
   ]
   node [
     id 12
-    label "Szeged"
+    label "12"
     Country "Hungary"
     Longitude 20.14824
     Internal 1
@@ -139,7 +139,7 @@ graph [
   ]
   node [
     id 13
-    label "Siofok"
+    label "13"
     Country "Hungary"
     Longitude 18.05
     Internal 1
@@ -148,7 +148,7 @@ graph [
   ]
   node [
     id 14
-    label "Kaposvar"
+    label "14"
     Country "Hungary"
     Longitude 17.8
     Internal 1
@@ -157,7 +157,7 @@ graph [
   ]
   node [
     id 15
-    label "Szekszard"
+    label "15"
     Country "Hungary"
     Longitude 18.71667
     Internal 1
@@ -166,22 +166,22 @@ graph [
   ]
   node [
     id 16
-    label "None"
+    label "16"
     Internal 0
   ]
   node [
     id 17
-    label "Vienna"
+    label "17"
     Internal 0
   ]
   node [
     id 18
-    label "Bratislava"
+    label "18"
     Internal 0
   ]
   node [
     id 19
-    label "Bekescsaba"
+    label "19"
     Country "Hungary"
     Longitude 21.1
     Internal 1
@@ -190,7 +190,7 @@ graph [
   ]
   node [
     id 20
-    label "Budapest"
+    label "20"
     Country "Hungary"
     Longitude 19.03991
     Internal 1
@@ -199,7 +199,7 @@ graph [
   ]
   node [
     id 21
-    label "Vac"
+    label "21"
     Country "Hungary"
     Longitude 19.13333
     Internal 1
@@ -208,7 +208,7 @@ graph [
   ]
   node [
     id 22
-    label "Sopron"
+    label "22"
     Country "Hungary"
     Longitude 16.6
     Internal 1
@@ -217,7 +217,7 @@ graph [
   ]
   node [
     id 23
-    label "Szombathely"
+    label "23"
     Country "Hungary"
     Longitude 16.62155
     Internal 1
@@ -226,7 +226,7 @@ graph [
   ]
   node [
     id 24
-    label "Zalaegerszeg"
+    label "24"
     Country "Hungary"
     Longitude 16.84389
     Internal 1
@@ -235,7 +235,7 @@ graph [
   ]
   node [
     id 25
-    label "Nagykanizsa"
+    label "25"
     Country "Hungary"
     Longitude 16.99104
     Internal 1
@@ -244,7 +244,7 @@ graph [
   ]
   node [
     id 26
-    label "Szekesfehervar"
+    label "26"
     Country "Hungary"
     Longitude 18.41034
     Internal 1
@@ -253,7 +253,7 @@ graph [
   ]
   node [
     id 27
-    label "Veszprem"
+    label "27"
     Country "Hungary"
     Longitude 17.91149
     Internal 1
@@ -262,7 +262,7 @@ graph [
   ]
   node [
     id 28
-    label "Gyor"
+    label "28"
     Country "Hungary"
     Longitude 17.63512
     Internal 1
@@ -271,7 +271,7 @@ graph [
   ]
   node [
     id 29
-    label "Tatabanya"
+    label "29"
     Country "Hungary"
     Longitude 18.41667
     Internal 1

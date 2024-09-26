@@ -28,7 +28,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Dubbo"
+    label "0"
     Country "Australia"
     Longitude 148.61667
     Internal 1
@@ -36,7 +36,7 @@ graph [
   ]
   node [
     id 1
-    label "Moree"
+    label "1"
     Country "Australia"
     Longitude 149.85
     Internal 1
@@ -44,12 +44,12 @@ graph [
   ]
   node [
     id 2
-    label "None"
+    label "2"
     Internal 1
   ]
   node [
     id 3
-    label "Parkes"
+    label "3"
     Country "Australia"
     Longitude 148.18333
     Internal 1
@@ -57,7 +57,7 @@ graph [
   ]
   node [
     id 4
-    label "Albury"
+    label "4"
     Country "Australia"
     Longitude 146.91667
     Internal 1
@@ -65,7 +65,7 @@ graph [
   ]
   node [
     id 5
-    label "Newcastle"
+    label "5"
     Country "Australia"
     Longitude 151.77647
     Internal 1
@@ -73,7 +73,7 @@ graph [
   ]
   node [
     id 6
-    label "Coff's Harbour"
+    label "6"
     Country "Australia"
     Longitude 153.13333
     Internal 1
@@ -81,7 +81,7 @@ graph [
   ]
   node [
     id 7
-    label "Geelong"
+    label "7"
     Country "Australia"
     Longitude 144.36069
     Internal 1
@@ -89,7 +89,7 @@ graph [
   ]
   node [
     id 8
-    label "Shepparton"
+    label "8"
     Country "Australia"
     Longitude 145.4
     Internal 1
@@ -97,7 +97,7 @@ graph [
   ]
   node [
     id 9
-    label "Perth"
+    label "9"
     Country "Australia"
     Longitude 115.83333
     Internal 1
@@ -105,7 +105,7 @@ graph [
   ]
   node [
     id 10
-    label "Adelaide"
+    label "10"
     Country "Australia"
     Longitude 138.6
     Internal 1
@@ -113,7 +113,7 @@ graph [
   ]
   node [
     id 11
-    label "Melbourne"
+    label "11"
     Country "Australia"
     Longitude 144.96332
     Internal 1
@@ -121,7 +121,7 @@ graph [
   ]
   node [
     id 12
-    label "Sydney"
+    label "12"
     Country "Australia"
     Longitude 151.20732
     Internal 1
@@ -129,7 +129,7 @@ graph [
   ]
   node [
     id 13
-    label "Canberra"
+    label "13"
     Country "Australia"
     Longitude 149.12807
     Internal 1
@@ -137,7 +137,7 @@ graph [
   ]
   node [
     id 14
-    label "Brisbane"
+    label "14"
     Country "Australia"
     Longitude 153.02809
     Internal 1
@@ -145,7 +145,7 @@ graph [
   ]
   node [
     id 15
-    label "Kalgoorlie"
+    label "15"
     Country "Australia"
     Longitude 121.46667
     Internal 1
@@ -153,7 +153,7 @@ graph [
   ]
   node [
     id 16
-    label "Port Augusta"
+    label "16"
     Country "Australia"
     Longitude 137.76667
     Internal 1
@@ -218,11 +218,6 @@ graph [
     source 7
     target 10
     id "e3"
-  ]
-  edge [
-    source 7
-    target 10
-    id "e2"
   ]
   edge [
     source 7

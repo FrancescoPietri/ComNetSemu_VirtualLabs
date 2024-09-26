@@ -29,7 +29,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "UiO"
+    label "0"
     Country "Norway"
     Longitude 10.74609
     Internal 1
@@ -38,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "UiO"
+    label "1"
     Country "Norway"
     Longitude 10.74609
     Internal 1
@@ -47,7 +47,7 @@ graph [
   ]
   node [
     id 2
-    label "HiG Gjovik"
+    label "2"
     Country "Norway"
     Longitude 10.69155
     Internal 1
@@ -56,7 +56,7 @@ graph [
   ]
   node [
     id 3
-    label "UiO St Olavsplass 5"
+    label "3"
     Country "Norway"
     Longitude 10.74609
     Internal 1
@@ -65,7 +65,7 @@ graph [
   ]
   node [
     id 4
-    label "HiBU Kongsberg"
+    label "4"
     Country "Norway"
     Longitude 9.65017
     Internal 1
@@ -74,7 +74,7 @@ graph [
   ]
   node [
     id 5
-    label "HiBU Drammen"
+    label "5"
     Country "Norway"
     Longitude 10.20449
     Internal 1
@@ -83,7 +83,7 @@ graph [
   ]
   node [
     id 6
-    label "UNIK Kjeller"
+    label "6"
     Country "Norway"
     Longitude 11.03333
     Internal 1
@@ -92,7 +92,7 @@ graph [
   ]
   node [
     id 7
-    label "HiBu Honefoss"
+    label "7"
     Country "Norway"
     Longitude 10.25647
     Internal 1
@@ -101,7 +101,7 @@ graph [
   ]
   node [
     id 8
-    label "NB Mo i Rana"
+    label "8"
     Country "Norway"
     Longitude 14.14278
     Internal 1
@@ -110,7 +110,7 @@ graph [
   ]
   node [
     id 9
-    label "HiNe Nesna"
+    label "9"
     Country "Norway"
     Longitude 13.02133
     Internal 1
@@ -119,7 +119,7 @@ graph [
   ]
   node [
     id 10
-    label "HVE Borre"
+    label "10"
     Country "Norway"
     Longitude 10.43
     Internal 1
@@ -128,7 +128,7 @@ graph [
   ]
   node [
     id 11
-    label "HVE Larvik"
+    label "11"
     Country "Norway"
     Longitude 10.03517
     Internal 1
@@ -137,7 +137,7 @@ graph [
   ]
   node [
     id 12
-    label "HiN Narvik"
+    label "12"
     Country "Norway"
     Longitude 17.4272
     Internal 1
@@ -146,7 +146,7 @@ graph [
   ]
   node [
     id 13
-    label "HiH Harstad"
+    label "13"
     Country "Norway"
     Longitude 16.54165
     Internal 1
@@ -155,7 +155,7 @@ graph [
   ]
   node [
     id 14
-    label "UiTo Karasjok"
+    label "14"
     Country "Norway"
     Longitude 25.51122
     Internal 1
@@ -164,7 +164,7 @@ graph [
   ]
   node [
     id 15
-    label "UiTo"
+    label "15"
     Country "Norway"
     Longitude 18.95508
     Internal 1
@@ -173,7 +173,7 @@ graph [
   ]
   node [
     id 16
-    label "HiA Alesund"
+    label "16"
     Country "Norway"
     Longitude 6.15492
     Internal 1
@@ -182,7 +182,7 @@ graph [
   ]
   node [
     id 17
-    label "HVO Volda"
+    label "17"
     Country "Norway"
     Longitude 6.07408
     Internal 1
@@ -191,7 +191,7 @@ graph [
   ]
   node [
     id 18
-    label "UiS Stavanger"
+    label "18"
     Country "Norway"
     Longitude 5.73332
     Internal 1
@@ -200,7 +200,7 @@ graph [
   ]
   node [
     id 19
-    label "VetHS Sandnes"
+    label "19"
     Country "Norway"
     Longitude 5.73521
     Internal 1
@@ -209,7 +209,7 @@ graph [
   ]
   node [
     id 20
-    label "HSH Haugesund"
+    label "20"
     Country "Norway"
     Longitude 5.268
     Internal 1
@@ -218,7 +218,7 @@ graph [
   ]
   node [
     id 21
-    label "HSH Stord"
+    label "21"
     Country "Norway"
     Longitude 5.48333
     Internal 1
@@ -227,7 +227,7 @@ graph [
   ]
   node [
     id 22
-    label "UiB Hoyteklogibygget"
+    label "22"
     Country "Norway"
     Longitude 5.32415
     Internal 1
@@ -236,7 +236,7 @@ graph [
   ]
   node [
     id 23
-    label "UiB BT"
+    label "23"
     Country "Norway"
     Longitude 5.32415
     Internal 1
@@ -245,7 +245,7 @@ graph [
   ]
   node [
     id 24
-    label "HSF Songdal"
+    label "24"
     Country "Norway"
     Longitude 7.10026
     Internal 1
@@ -254,7 +254,7 @@ graph [
   ]
   node [
     id 25
-    label "HSF Forde"
+    label "25"
     Country "Norway"
     Longitude 5.85717
     Internal 1
@@ -263,7 +263,7 @@ graph [
   ]
   node [
     id 26
-    label "HiNe Sandnesjoen"
+    label "26"
     Country "Norway"
     Longitude 12.63158
     Internal 1
@@ -272,7 +272,7 @@ graph [
   ]
   node [
     id 27
-    label "HiNT Steinkjer"
+    label "27"
     Country "Norway"
     Longitude 11.49537
     Internal 1
@@ -281,12 +281,12 @@ graph [
   ]
   node [
     id 28
-    label "NORDUnet Stockholm"
+    label "28"
     Internal 0
   ]
   node [
     id 29
-    label "HBO Bodo"
+    label "29"
     Country "Norway"
     Longitude 14.40501
     Internal 1
@@ -295,7 +295,7 @@ graph [
   ]
   node [
     id 30
-    label "SA/SH Kautokeino"
+    label "30"
     Country "Norway"
     Longitude 23.04116
     Internal 1
@@ -304,7 +304,7 @@ graph [
   ]
   node [
     id 31
-    label "HiF Kirkenes"
+    label "31"
     Country "Norway"
     Longitude 30.04578
     Internal 1
@@ -313,7 +313,7 @@ graph [
   ]
   node [
     id 32
-    label "Stockholm"
+    label "32"
     Country "Sweden"
     Longitude 18.0649
     Internal 1
@@ -322,7 +322,7 @@ graph [
   ]
   node [
     id 33
-    label "NyAlesund"
+    label "33"
     Country "Svalbard and Jan Mayen"
     Longitude -8.7187
     Internal 1
@@ -331,7 +331,7 @@ graph [
   ]
   node [
     id 34
-    label "Hing Stjordal"
+    label "34"
     Country "Norway"
     Longitude 10.95
     Internal 1
@@ -340,7 +340,7 @@ graph [
   ]
   node [
     id 35
-    label "HiNT Levanger"
+    label "35"
     Country "Norway"
     Longitude 10.96667
     Internal 1
@@ -349,7 +349,7 @@ graph [
   ]
   node [
     id 36
-    label "HiNT Namsos"
+    label "36"
     Country "Norway"
     Longitude 11.49572
     Internal 1
@@ -358,7 +358,7 @@ graph [
   ]
   node [
     id 37
-    label "HiNe Mo i Rana"
+    label "37"
     Country "Norway"
     Longitude 14.14278
     Internal 1
@@ -367,7 +367,7 @@ graph [
   ]
   node [
     id 38
-    label "HSF Sandane"
+    label "38"
     Country "Norway"
     Longitude 6.21496
     Internal 1
@@ -376,7 +376,7 @@ graph [
   ]
   node [
     id 39
-    label "HSM Molde"
+    label "39"
     Country "Norway"
     Longitude 7.15912
     Internal 1
@@ -385,7 +385,7 @@ graph [
   ]
   node [
     id 40
-    label "UNIS Svalbard"
+    label "40"
     Country "Svalbard and Jan Mayen"
     Longitude -8.7187
     Internal 1
@@ -394,7 +394,7 @@ graph [
   ]
   node [
     id 41
-    label "HSM Kristiansun"
+    label "41"
     Country "Norway"
     Longitude 7.72795
     Internal 1
@@ -403,7 +403,7 @@ graph [
   ]
   node [
     id 42
-    label "HiF Hammerfest"
+    label "42"
     Country "Norway"
     Longitude 23.68209
     Internal 1
@@ -412,7 +412,7 @@ graph [
   ]
   node [
     id 43
-    label "UiTo"
+    label "43"
     Country "Norway"
     Longitude 18.95508
     Internal 1
@@ -421,7 +421,7 @@ graph [
   ]
   node [
     id 44
-    label "HiF Vadso"
+    label "44"
     Country "Norway"
     Longitude 29.74872
     Internal 1
@@ -430,12 +430,12 @@ graph [
   ]
   node [
     id 45
-    label "NORDUnet Kobenhavn"
+    label "45"
     Internal 0
   ]
   node [
     id 46
-    label "UiA Kristiansand"
+    label "46"
     Country "Norway"
     Longitude 7.9956
     Internal 1
@@ -444,7 +444,7 @@ graph [
   ]
   node [
     id 47
-    label "UiA Grimstad"
+    label "47"
     Country "Norway"
     Longitude 8.59343
     Internal 1
@@ -453,7 +453,7 @@ graph [
   ]
   node [
     id 48
-    label "HiO Halden"
+    label "48"
     Country "Norway"
     Longitude 11.38754
     Internal 1
@@ -462,7 +462,7 @@ graph [
   ]
   node [
     id 49
-    label "UMB As"
+    label "49"
     Country "Norway"
     Longitude 10.2
     Internal 1
@@ -471,7 +471,7 @@ graph [
   ]
   node [
     id 50
-    label "HiO Fredrikstad"
+    label "50"
     Country "Norway"
     Longitude 10.9298
     Internal 1
@@ -480,7 +480,7 @@ graph [
   ]
   node [
     id 51
-    label "HiAK Kjeller"
+    label "51"
     Country "Norway"
     Longitude 11.03333
     Internal 1
@@ -489,7 +489,7 @@ graph [
   ]
   node [
     id 52
-    label "Hit Rauland"
+    label "52"
     Country "Norway"
     Longitude 8.0
     Internal 1
@@ -498,7 +498,7 @@ graph [
   ]
   node [
     id 53
-    label "HiT Porsgrunn"
+    label "53"
     Country "Norway"
     Longitude 9.6561
     Internal 1
@@ -507,7 +507,7 @@ graph [
   ]
   node [
     id 54
-    label "HiT Bo"
+    label "54"
     Country "Norway"
     Longitude 9.06667
     Internal 1
@@ -516,7 +516,7 @@ graph [
   ]
   node [
     id 55
-    label "HiT Notodden"
+    label "55"
     Country "Norway"
     Longitude 9.25853
     Internal 1
@@ -525,7 +525,7 @@ graph [
   ]
   node [
     id 56
-    label "HiF Alta"
+    label "56"
     Country "Norway"
     Longitude 23.27165
     Internal 1
@@ -534,7 +534,7 @@ graph [
   ]
   node [
     id 57
-    label "HH Evenstad"
+    label "57"
     Country "Norway"
     Longitude 11.11667
     Internal 1
@@ -543,12 +543,12 @@ graph [
   ]
   node [
     id 58
-    label "NORDUnet Stockholm"
+    label "58"
     Internal 0
   ]
   node [
     id 59
-    label "HH Hamar"
+    label "59"
     Country "Norway"
     Longitude 11.06798
     Internal 1
@@ -557,7 +557,7 @@ graph [
   ]
   node [
     id 60
-    label "HiL Lillehammer"
+    label "60"
     Country "Norway"
     Longitude 10.46628
     Internal 1
@@ -566,7 +566,7 @@ graph [
   ]
   node [
     id 61
-    label "NTNU Hovedbygget"
+    label "61"
     Country "Norway"
     Longitude 10.39506
     Internal 1
@@ -575,7 +575,7 @@ graph [
   ]
   node [
     id 62
-    label "NTNU Realfagbygget"
+    label "62"
     Country "Norway"
     Longitude 10.39506
     Internal 1
@@ -584,7 +584,7 @@ graph [
   ]
   node [
     id 63
-    label "UNINETT Teknobyen"
+    label "63"
     Country "Norway"
     Longitude 10.39506
     Internal 1
@@ -593,7 +593,7 @@ graph [
   ]
   node [
     id 64
-    label "HH Tynset"
+    label "64"
     Country "Norway"
     Longitude 10.78241
     Internal 1
@@ -602,7 +602,7 @@ graph [
   ]
   node [
     id 65
-    label "HBO Mo i Rana"
+    label "65"
     Country "Norway"
     Longitude 14.14278
     Internal 1
@@ -611,7 +611,7 @@ graph [
   ]
   node [
     id 66
-    label "HH Rena"
+    label "66"
     Country "Norway"
     Longitude 11.36409
     Internal 1
@@ -620,7 +620,7 @@ graph [
   ]
   node [
     id 67
-    label "HH Elverum"
+    label "67"
     Country "Norway"
     Longitude 11.56231
     Internal 1
@@ -629,7 +629,7 @@ graph [
   ]
   node [
     id 68
-    label "HH Kongsvinger"
+    label "68"
     Country "Norway"
     Longitude 11.99772
     Internal 1
@@ -1000,15 +1000,6 @@ graph [
     LinkLabel "1 Gbit/s"
     LinkSpeedUnits "G"
     LinkSpeedRaw 1000000000.0
-  ]
-  edge [
-    source 13
-    target 43
-    LinkSpeed "10"
-    LinkNote " it/s"
-    LinkLabel "10 Gbit/s"
-    LinkSpeedUnits "G"
-    LinkSpeedRaw 10000000000.0
   ]
   edge [
     source 13
@@ -1446,15 +1437,6 @@ graph [
   ]
   edge [
     source 61
-    target 63
-    LinkSpeed "1"
-    LinkNote " it/s"
-    LinkLabel "1 Gbit/s"
-    LinkSpeedUnits "G"
-    LinkSpeedRaw 1000000000.0
-  ]
-  edge [
-    source 62
     target 63
     LinkSpeed "1"
     LinkNote " it/s"

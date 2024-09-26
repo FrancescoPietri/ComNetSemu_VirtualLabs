@@ -29,7 +29,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Ft. Pierce"
+    label "0"
     Country "United States"
     Longitude -80.32561
     Internal 1
@@ -37,7 +37,7 @@ graph [
   ]
   node [
     id 1
-    label "Melbourne"
+    label "1"
     Country "United States"
     Longitude -80.60811
     Internal 1
@@ -45,7 +45,7 @@ graph [
   ]
   node [
     id 2
-    label "Lake Alfred"
+    label "2"
     Country "United States"
     Longitude -81.72341
     Internal 1
@@ -53,7 +53,7 @@ graph [
   ]
   node [
     id 3
-    label "Orlando"
+    label "3"
     Country "United States"
     Longitude -81.37924
     Internal 1
@@ -61,7 +61,7 @@ graph [
   ]
   node [
     id 4
-    label "West Palm Beach"
+    label "4"
     Country "United States"
     Longitude -80.05337
     Internal 1
@@ -69,7 +69,7 @@ graph [
   ]
   node [
     id 5
-    label "Tampa"
+    label "5"
     Country "United States"
     Longitude -82.45843
     Internal 1
@@ -77,7 +77,7 @@ graph [
   ]
   node [
     id 6
-    label "Miami"
+    label "6"
     Country "United States"
     Longitude -80.19366
     Internal 1
@@ -85,7 +85,7 @@ graph [
   ]
   node [
     id 7
-    label "Ft. Lauderdale"
+    label "7"
     Country "United States"
     Longitude -80.14338
     Internal 1
@@ -93,7 +93,7 @@ graph [
   ]
   node [
     id 8
-    label "Flovilla"
+    label "8"
     Country "United States"
     Longitude -83.89852
     Internal 1
@@ -101,7 +101,7 @@ graph [
   ]
   node [
     id 9
-    label "Atlanta"
+    label "9"
     Country "United States"
     Longitude -84.38798
     Internal 1
@@ -109,7 +109,7 @@ graph [
   ]
   node [
     id 10
-    label "Tarrytown"
+    label "10"
     Country "United States"
     Longitude -82.5593
     Internal 1
@@ -117,7 +117,7 @@ graph [
   ]
   node [
     id 11
-    label "Gordon"
+    label "11"
     Country "United States"
     Longitude -83.33238
     Internal 1
@@ -125,7 +125,7 @@ graph [
   ]
   node [
     id 12
-    label "Newell"
+    label "12"
     Country "United States"
     Longitude -82.02206
     Internal 1
@@ -133,7 +133,7 @@ graph [
   ]
   node [
     id 13
-    label "Surrency"
+    label "13"
     Country "United States"
     Longitude -82.1979
     Internal 1
@@ -141,7 +141,7 @@ graph [
   ]
   node [
     id 14
-    label "St. Augustine"
+    label "14"
     Country "United States"
     Longitude -81.31452
     Internal 1
@@ -149,7 +149,7 @@ graph [
   ]
   node [
     id 15
-    label "Jacksonville"
+    label "15"
     Country "United States"
     Longitude -81.65565
     Internal 1
@@ -157,7 +157,7 @@ graph [
   ]
   node [
     id 16
-    label "Titusville"
+    label "16"
     Country "United States"
     Longitude -80.80755
     Internal 1
@@ -165,7 +165,7 @@ graph [
   ]
   node [
     id 17
-    label "Daytona Beach"
+    label "17"
     Country "United States"
     Longitude -81.02283
     Internal 1

@@ -30,307 +30,307 @@ graph [
   Testbed 0
   node [
     id 0
-    label "None"
+    label "0"
     hyperedge 1
     Internal 1
   ]
   node [
     id 1
-    label "UANL"
+    label "1"
     Internal 0
     type "White Octagon"
   ]
   node [
     id 2
-    label "UTEI"
+    label "2"
     Internal 0
     type "Transparent Cloud"
   ]
   node [
     id 3
-    label "UACJ"
+    label "3"
     Internal 0
     type "White Octagon"
   ]
   node [
     id 4
-    label "UAL"
+    label "4"
     Internal 0
     type "White Octagon"
   ]
   node [
     id 5
-    label "UNAM"
+    label "5"
     Internal 0
     type "White Octagon"
   ]
   node [
     id 6
-    label "ITESM"
+    label "6"
     Internal 0
     type "White Octagon"
   ]
   node [
     id 7
-    label "UAT"
+    label "7"
     Internal 0
     type "White Octagon"
   ]
   node [
     id 8
-    label "CUDI"
+    label "8"
     Internal 0
     type "Green Circle"
   ]
   node [
     id 9
-    label "?"
+    label "9"
     Internal 0
     type "Green Circle"
   ]
   node [
     id 10
-    label "VBNS"
+    label "10"
     Internal 0
     type "Transparent Cloud"
   ]
   node [
     id 11
-    label "UAM"
+    label "11"
     Internal 0
     type "White Octagon"
   ]
   node [
     id 12
-    label "MILITARY"
+    label "12"
     Internal 0
     type "White Octagon"
   ]
   node [
     id 13
-    label "UV"
+    label "13"
     Internal 0
     type "White Octagon"
   ]
   node [
     id 14
-    label "CO?"
+    label "14"
     Internal 0
     type "White Octagon"
   ]
   node [
     id 15
-    label "UDLAP"
+    label "15"
     Internal 0
     type "White Octagon"
   ]
   node [
     id 16
-    label "BUAP"
+    label "16"
     Internal 0
     type "White Octagon"
   ]
   node [
     id 17
-    label "IPN"
+    label "17"
     Internal 0
     type "White Octagon"
   ]
   node [
     id 18
-    label "ITSEM"
+    label "18"
     Internal 0
     type "White Octagon"
   ]
   node [
     id 19
-    label "UAEM"
+    label "19"
     Internal 0
     type "White Octagon"
   ]
   node [
     id 20
-    label "UAEH"
+    label "20"
     Internal 0
     type "White Octagon"
   ]
   node [
     id 21
-    label "UaSLP"
+    label "21"
     Internal 0
     type "Green Circle"
   ]
   node [
     id 22
-    label "UPALP"
+    label "22"
     Internal 0
     type "Green Circle"
   ]
   node [
     id 23
-    label "???"
+    label "23"
     Internal 0
     type "Green Circle"
   ]
   node [
     id 24
-    label "LANIA"
+    label "24"
     Internal 0
     type "Green Circle"
   ]
   node [
     id 25
-    label "UDG"
+    label "25"
     Internal 0
     type "White Octagon"
   ]
   node [
     id 26
-    label "INANDO"
+    label "26"
     Internal 0
     type "Green Circle"
   ]
   node [
     id 27
-    label "UniSod?"
+    label "27"
     Internal 0
     type "Green Circle"
   ]
   node [
     id 28
-    label "VPN"
+    label "28"
     Internal 0
     type "Transparent Cloud"
   ]
   node [
     id 29
-    label "Ucol"
+    label "29"
     Internal 0
     type "Green Circle"
   ]
   node [
     id 30
-    label "OCSE?"
+    label "30"
     Internal 0
     type "Green Circle"
   ]
   node [
     id 31
-    label "None"
+    label "31"
     hyperedge 1
     Internal 1
   ]
   node [
     id 32
-    label "UASLP"
+    label "32"
     Internal 0
     type "Green Circle"
   ]
   node [
     id 33
-    label "ITE"
+    label "33"
     Internal 0
     type "Green Circle"
   ]
   node [
     id 34
-    label "ILCE"
+    label "34"
     Internal 0
     type "White Octagon"
   ]
   node [
     id 35
-    label "ITAM"
+    label "35"
     Internal 0
     type "Green Circle"
   ]
   node [
     id 36
-    label "UP"
+    label "36"
     Internal 0
     type "Green Circle"
   ]
   node [
     id 37
-    label "CP"
+    label "37"
     Internal 0
     type "Green Circle"
   ]
   node [
     id 38
-    label "ULSA"
+    label "38"
     Internal 0
     type "Green Circle"
   ]
   node [
     id 39
-    label "TAMU"
+    label "39"
     Internal 0
     type "Green Circle"
   ]
   node [
     id 40
-    label "IMP"
+    label "40"
     Internal 0
     type "Green Circle"
   ]
   node [
     id 41
-    label "CENIC"
+    label "41"
     Internal 0
     type "Transparent Cloud"
   ]
   node [
     id 42
-    label "Abilene"
+    label "42"
     Internal 0
     type "Transparent Cloud"
   ]
   node [
     id 43
-    label "MTY"
+    label "43"
     Internal 1
     type "Node PoP"
   ]
   node [
     id 44
-    label "GDL"
+    label "44"
     Internal 1
     type "Node PoP"
   ]
   node [
     id 45
-    label "MEX"
+    label "45"
     Internal 1
     type "Node PoP"
   ]
   node [
     id 46
-    label "Cd.J"
+    label "46"
     Internal 1
     type "Node PoP"
   ]
   node [
     id 47
-    label "TU"
+    label "47"
     Internal 1
     type "Node PoP"
   ]
   node [
     id 48
-    label "CAN"
+    label "48"
     Internal 1
     type "Node PoP"
   ]
   node [
     id 49
-    label "UABC"
+    label "49"
     Internal 0
     type "Green Circle"
   ]
   node [
     id 50
-    label "?"
+    label "50"
     Internal 0
     type "White Octagon"
   ]

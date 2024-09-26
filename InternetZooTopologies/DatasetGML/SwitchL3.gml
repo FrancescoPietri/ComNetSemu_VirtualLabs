@@ -29,7 +29,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Fribourg"
+    label "0"
     Country "Switzerland"
     Longitude 7.15128
     Internal 1
@@ -37,7 +37,7 @@ graph [
   ]
   node [
     id 1
-    label "Basel"
+    label "1"
     Country "Switzerland"
     Longitude 7.57327
     Internal 1
@@ -45,7 +45,7 @@ graph [
   ]
   node [
     id 2
-    label "Delemont"
+    label "2"
     Country "Switzerland"
     Longitude 7.34453
     Internal 1
@@ -53,7 +53,7 @@ graph [
   ]
   node [
     id 3
-    label "Bern"
+    label "3"
     Country "Switzerland"
     Longitude 7.44744
     Internal 1
@@ -61,7 +61,7 @@ graph [
   ]
   node [
     id 4
-    label "Kreuzlingen"
+    label "4"
     Country "Switzerland"
     Longitude 9.18333
     Internal 1
@@ -69,7 +69,7 @@ graph [
   ]
   node [
     id 5
-    label "St. Gallen"
+    label "5"
     Country "Switzerland"
     Longitude 9.37477
     Internal 1
@@ -77,7 +77,7 @@ graph [
   ]
   node [
     id 6
-    label "Villigen PSI"
+    label "6"
     Country "Switzerland"
     Longitude 8.21486
     Internal 1
@@ -85,7 +85,7 @@ graph [
   ]
   node [
     id 7
-    label "Zurich (ETH)"
+    label "7"
     Country "Switzerland"
     Longitude 8.55
     Internal 1
@@ -93,7 +93,7 @@ graph [
   ]
   node [
     id 8
-    label "Buchs SG"
+    label "8"
     Country "Switzerland"
     Longitude 8.07375
     Internal 1
@@ -101,7 +101,7 @@ graph [
   ]
   node [
     id 9
-    label "Chur"
+    label "9"
     Country "Switzerland"
     Longitude 9.53287
     Internal 1
@@ -109,67 +109,67 @@ graph [
   ]
   node [
     id 10
-    label "GBLX"
+    label "10"
     Internal 0
   ]
   node [
     id 11
-    label "Swisscom"
+    label "11"
     Internal 0
   ]
   node [
     id 12
-    label "Swisscom"
+    label "12"
     Internal 0
   ]
   node [
     id 13
-    label "TELIA"
+    label "13"
     Internal 0
   ]
   node [
     id 14
-    label "SwissIX"
+    label "14"
     Internal 0
   ]
   node [
     id 15
-    label "TIX"
+    label "15"
     Internal 0
   ]
   node [
     id 16
-    label "BelWue"
+    label "16"
     Internal 0
   ]
   node [
     id 17
-    label "CERN"
+    label "17"
     Internal 0
   ]
   node [
     id 18
-    label "CIXP"
+    label "18"
     Internal 0
   ]
   node [
     id 19
-    label "AMS-IX"
+    label "19"
     Internal 0
   ]
   node [
     id 20
-    label "SwissIX"
+    label "20"
     Internal 0
   ]
   node [
     id 21
-    label "GEANT2"
+    label "21"
     Internal 0
   ]
   node [
     id 22
-    label "Neuchatel"
+    label "22"
     Country "Switzerland"
     Longitude 6.931
     Internal 1
@@ -177,7 +177,7 @@ graph [
   ]
   node [
     id 23
-    label "IXEurope Zurich"
+    label "23"
     Country "Switzerland"
     Longitude 8.55
     Internal 1
@@ -185,7 +185,7 @@ graph [
   ]
   node [
     id 24
-    label "Brig"
+    label "24"
     Country "Switzerland"
     Longitude 7.98333
     Internal 1
@@ -193,7 +193,7 @@ graph [
   ]
   node [
     id 25
-    label "Martigny"
+    label "25"
     Country "Switzerland"
     Longitude 7.07245
     Internal 1
@@ -201,7 +201,7 @@ graph [
   ]
   node [
     id 26
-    label "Grenchen"
+    label "26"
     Country "Switzerland"
     Longitude 7.39586
     Internal 1
@@ -209,7 +209,7 @@ graph [
   ]
   node [
     id 27
-    label "Davos"
+    label "27"
     Country "Switzerland"
     Longitude 9.83723
     Internal 1
@@ -217,7 +217,7 @@ graph [
   ]
   node [
     id 28
-    label "Liechtenstein"
+    label "28"
     geocode_country "Liechtenstein"
     Country "Liechtenstein"
     Longitude 9.53333
@@ -226,7 +226,7 @@ graph [
   ]
   node [
     id 29
-    label "Rapperswil"
+    label "29"
     Country "Switzerland"
     Longitude 8.82228
     Internal 1
@@ -234,7 +234,7 @@ graph [
   ]
   node [
     id 30
-    label "Manno"
+    label "30"
     Country "Switzerland"
     Longitude 8.91892
     Internal 1
@@ -242,7 +242,7 @@ graph [
   ]
   node [
     id 31
-    label "Zurich (University)"
+    label "31"
     Country "Switzerland"
     Longitude 8.55
     Internal 1
@@ -250,7 +250,7 @@ graph [
   ]
   node [
     id 32
-    label "Horw"
+    label "32"
     Country "Switzerland"
     Longitude 8.30956
     Internal 1
@@ -258,7 +258,7 @@ graph [
   ]
   node [
     id 33
-    label "Brugg"
+    label "33"
     Country "Switzerland"
     Longitude 7.27887
     Internal 1
@@ -266,7 +266,7 @@ graph [
   ]
   node [
     id 34
-    label "CERN"
+    label "34"
     Country "Switzerland"
     Longitude 6.14569
     Internal 1
@@ -274,7 +274,7 @@ graph [
   ]
   node [
     id 35
-    label "Lausanne (University)"
+    label "35"
     Country "Switzerland"
     Longitude 6.63282
     Internal 1
@@ -282,7 +282,7 @@ graph [
   ]
   node [
     id 36
-    label "Geneva"
+    label "36"
     Country "Switzerland"
     Longitude 6.14569
     Internal 1
@@ -290,7 +290,7 @@ graph [
   ]
   node [
     id 37
-    label "Lausanne (EPFL)"
+    label "37"
     Country "Switzerland"
     Longitude 6.63282
     Internal 1
@@ -298,7 +298,7 @@ graph [
   ]
   node [
     id 38
-    label "Yverdon"
+    label "38"
     Country "Switzerland"
     Longitude 6.64115
     Internal 1
@@ -306,7 +306,7 @@ graph [
   ]
   node [
     id 39
-    label "Birmensdorf"
+    label "39"
     Country "Switzerland"
     Longitude 8.44256
     Internal 1
@@ -314,7 +314,7 @@ graph [
   ]
   node [
     id 40
-    label "Rueschlikon"
+    label "40"
     Country "Switzerland"
     Longitude 8.55135
     Internal 1
@@ -322,7 +322,7 @@ graph [
   ]
   node [
     id 41
-    label "Winterthur"
+    label "41"
     Country "Switzerland"
     Longitude 8.75
     Internal 1

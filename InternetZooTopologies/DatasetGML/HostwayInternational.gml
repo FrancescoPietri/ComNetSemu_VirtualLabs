@@ -29,7 +29,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "Seattle"
+    label "0"
     Country "United States"
     Longitude -122.33207
     Internal 1
@@ -37,7 +37,7 @@ graph [
   ]
   node [
     id 1
-    label "Tampa"
+    label "1"
     Country "United States"
     Longitude -82.45843
     Internal 1
@@ -45,7 +45,7 @@ graph [
   ]
   node [
     id 2
-    label "Chicago"
+    label "2"
     Country "United States"
     Longitude -87.65005
     Internal 1
@@ -53,7 +53,7 @@ graph [
   ]
   node [
     id 3
-    label "Vancouver"
+    label "3"
     Country "Canada"
     Longitude -123.11934
     Internal 1
@@ -61,7 +61,7 @@ graph [
   ]
   node [
     id 4
-    label "Miami"
+    label "4"
     Country "United States"
     Longitude -80.19366
     Internal 1
@@ -69,7 +69,7 @@ graph [
   ]
   node [
     id 5
-    label "Austin"
+    label "5"
     Country "United States"
     Longitude -97.74306
     Internal 1
@@ -77,7 +77,7 @@ graph [
   ]
   node [
     id 6
-    label "New York"
+    label "6"
     Country "United States"
     Longitude -74.00597
     Internal 1
@@ -85,7 +85,7 @@ graph [
   ]
   node [
     id 7
-    label "Atlanta"
+    label "7"
     Country "United States"
     Longitude -84.38798
     Internal 1
@@ -93,7 +93,7 @@ graph [
   ]
   node [
     id 8
-    label "Bucharest"
+    label "8"
     Country "Romania"
     Longitude 26.10626
     Internal 1
@@ -101,7 +101,7 @@ graph [
   ]
   node [
     id 9
-    label "Seoul"
+    label "9"
     Country "South Korea"
     Longitude 126.97783
     Internal 1
@@ -109,7 +109,7 @@ graph [
   ]
   node [
     id 10
-    label "Sydney"
+    label "10"
     Country "Australia"
     Longitude 151.20732
     Internal 1
@@ -117,7 +117,7 @@ graph [
   ]
   node [
     id 11
-    label "Hannover"
+    label "11"
     Country "Germany"
     Longitude 9.73322
     Internal 1
@@ -125,7 +125,7 @@ graph [
   ]
   node [
     id 12
-    label "Amsterdam"
+    label "12"
     Country "Netherlands"
     Longitude 4.88969
     Internal 1
@@ -133,7 +133,7 @@ graph [
   ]
   node [
     id 13
-    label "Antwerp"
+    label "13"
     Country "Belgium"
     Longitude 4.41667
     Internal 1
@@ -141,7 +141,7 @@ graph [
   ]
   node [
     id 14
-    label "Frankfurt"
+    label "14"
     Country "Germany"
     Longitude 8.68333
     Internal 1
@@ -149,7 +149,7 @@ graph [
   ]
   node [
     id 15
-    label "London"
+    label "15"
     Country "United Kingdom"
     Longitude -0.12574
     Internal 1
