@@ -34,8 +34,8 @@ class OfficeTopologyLink(Topo):
         # Link configurations
         queue_lenght = 10
         host_link_config = dict()             # Default host links
-        weakbb_link_config = dict(delay='20ms', use_tbf=True, bw=20, max_queue_size=queue_lenght, latency_ms=10000000, burst=1000000)     # Weak backbone links (low bandwidth)
-        strongbb_link_config = dict(delay='25ms', use_tbf=True, bw=50, max_queue_size=queue_lenght, latency_ms=10000000, burst=1000000)     # Strong backbone links (high bandwidth)
+        weakbb_link_config = dict(delay='20ms', use_tbf=True, bw=20, max_queue_size=queue_lenght, burst=1000000)     # Weak backbone links (low bandwidth)
+        strongbb_link_config = dict(delay='25ms', use_tbf=True, bw=50, max_queue_size=queue_lenght,  burst=1000000)     # Strong backbone links (high bandwidth)
 
         # Add links between hosts and switches
         self.addLink(h1of1, sof1, **host_link_config)

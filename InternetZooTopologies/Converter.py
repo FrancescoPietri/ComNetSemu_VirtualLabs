@@ -7,7 +7,6 @@ PATH_DATASET = 'DatasetGML/'
 PATH_TOPOLOGIES = 'Topologies/'
 
 if __name__ == "__main__":
-
     converter = GMLtoTopology()
 
     while 1:
@@ -18,19 +17,27 @@ if __name__ == "__main__":
     4) Clear Topologies
     5) Quit""")
         sel = input()
+        if sel != "5" and sel != "4":
+            print("Adding Link capacity? [y,n]")
+            linkSel = input()
+            if linkSel=="y":
+                flagLink = True
+            else:
+                flagLink = False
+
         if(sel=="1"):
             print("Enter GML file name")
             name = input()
-            converter.convert_gml_topo(name, PATH_DATASET, PATH_TOPOLOGIES)
+            converter.convert_gml_topo(name, PATH_DATASET, PATH_TOPOLOGIES, flagLink)
         if(sel=="2"):
             random.seed()
             randFile = random.randrange(0, len(os.listdir(PATH_DATASET))-1)
             randFile = os.listdir(PATH_DATASET)[randFile]
-            converter.convert_gml_topo(randFile, PATH_DATASET, PATH_TOPOLOGIES)
+            converter.convert_gml_topo(randFile, PATH_DATASET, PATH_TOPOLOGIES, flagLink)
         if(sel=="3"):
             for file in os.listdir(PATH_DATASET):
                 try:
-                    converter.convert_gml_topo(file, PATH_DATASET, PATH_TOPOLOGIES)
+                    converter.convert_gml_topo(file, PATH_DATASET, PATH_TOPOLOGIES, flagLink)
                 except:
                     print(file)
         if(sel=="4"):
