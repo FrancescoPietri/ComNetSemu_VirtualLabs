@@ -1,6 +1,7 @@
 # ComNetSemu Virtual Labs
 
 This repository contains a collection of various Mininet topologies designed for use in the ComNetSemu environment. A more detailed description of each topology can be found in the `StaticTopologies` folder.
+This repository contains also a GMLtoTopology converter and a base dataset of GML files, additional information can be found inside the `GMLtoTopology` folder.
 
 ## How to Demo
 
