@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "3/02/11"
   GeoLocation "Ireland"
   GeoExtent "Country"
@@ -30,7 +31,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Limerick"
     Country "Ireland"
     Longitude -8.62306
     Internal 1
@@ -38,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Cork"
     Country "Ireland"
     Longitude -8.49583
     Internal 1
@@ -46,7 +47,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Tralee"
     Country "Ireland"
     Longitude -9.70264
     Internal 1
@@ -54,7 +55,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Galway"
     Country "Ireland"
     Longitude -9.04889
     Internal 1
@@ -62,7 +63,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Sligo"
     Country "Ireland"
     Longitude -8.46943
     Internal 1
@@ -70,7 +71,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Letterkenny"
     Country "Ireland"
     Longitude -7.73333
     Internal 1
@@ -78,7 +79,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Athlone"
     Country "Ireland"
     Longitude -7.93722
     Internal 1
@@ -86,7 +87,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Dundalk"
     Country "Ireland"
     Longitude -6.41667
     Internal 1
@@ -94,7 +95,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Blanchardstown, Dun Laoghaire, Tallaght"
     Country "Ireland"
     Longitude -6.37556
     Internal 1
@@ -102,7 +103,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Carlow"
     Country "Ireland"
     Longitude -6.73694
     Internal 1
@@ -110,7 +111,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Waterford"
     Country "Ireland"
     Longitude -7.11194
     Internal 1

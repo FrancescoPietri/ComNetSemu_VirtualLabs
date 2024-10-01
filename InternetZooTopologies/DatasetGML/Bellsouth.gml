@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "21/10/10"
   GeoLocation "USA"
   GeoExtent "Country"
@@ -30,7 +31,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Cocoa Beach"
     Country "United States"
     Longitude -80.60755
     Internal 1
@@ -38,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Daytona Beach"
     Country "United States"
     Longitude -81.02283
     Internal 1
@@ -46,7 +47,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "West Palm Beach"
     Country "United States"
     Longitude -80.05337
     Internal 1
@@ -54,7 +55,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Stuart"
     Country "United States"
     Longitude -80.25283
     Internal 1
@@ -62,7 +63,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Jacksonville"
     Country "United States"
     Longitude -81.65565
     Internal 1
@@ -70,7 +71,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Savannah"
     Country "United States"
     Longitude -81.09983
     Internal 1
@@ -78,7 +79,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Panama City"
     Country "United States"
     Longitude -85.66021
     Internal 1
@@ -86,7 +87,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Gainesville"
     Country "United States"
     Longitude -82.32483
     Internal 1
@@ -94,7 +95,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Albany"
     geocode_append "GA"
     Country "United States"
     Longitude -84.15574
@@ -103,7 +104,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Macon"
     Country "United States"
     Longitude -83.6324
     Internal 1
@@ -111,7 +112,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Stone Mt?"
     Country "United States"
     Longitude -84.1702
     Internal 1
@@ -119,7 +120,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "Nashville"
     Country "United States"
     Longitude -86.78444
     Internal 1
@@ -127,7 +128,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Knoxville"
     Country "United States"
     Longitude -83.92074
     Internal 1
@@ -135,7 +136,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "New Orleans?"
     Country "United States"
     Longitude -90.07507
     Internal 1
@@ -143,7 +144,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "Lafayette"
     Country "United States"
     Longitude -92.01984
     Internal 1
@@ -151,7 +152,7 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "Baton Rouge"
     Country "United States"
     Longitude -91.15455
     Internal 1
@@ -159,7 +160,7 @@ graph [
   ]
   node [
     id 16
-    label "16"
+    label "Shreveport"
     Country "United States"
     Longitude -93.75018
     Internal 1
@@ -167,7 +168,7 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "Jackson"
     Country "United States"
     Longitude -90.18481
     Internal 1
@@ -175,7 +176,7 @@ graph [
   ]
   node [
     id 18
-    label "18"
+    label "Memphis"
     Country "United States"
     Longitude -90.04898
     Internal 1
@@ -183,7 +184,7 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "Owensboro"
     Country "United States"
     Longitude -87.11333
     Internal 1
@@ -191,7 +192,7 @@ graph [
   ]
   node [
     id 20
-    label "20"
+    label "Louisville"
     Country "United States"
     Longitude -85.75941
     Internal 1
@@ -199,7 +200,7 @@ graph [
   ]
   node [
     id 21
-    label "21"
+    label "Georgetown"
     geocode_append "KY"
     Country "United States"
     Longitude -84.55883
@@ -208,12 +209,12 @@ graph [
   ]
   node [
     id 22
-    label "22"
+    label "?"
     Internal 1
   ]
   node [
     id 23
-    label "23"
+    label "Greensboro"
     Country "United States"
     Longitude -79.79198
     Internal 1
@@ -221,7 +222,7 @@ graph [
   ]
   node [
     id 24
-    label "24"
+    label "Arden"
     geocode_append "NC"
     Country "United States"
     Longitude -82.51651
@@ -230,7 +231,7 @@ graph [
   ]
   node [
     id 25
-    label "25"
+    label "Charlotte"
     Country "United States"
     Longitude -80.84313
     Internal 1
@@ -238,7 +239,7 @@ graph [
   ]
   node [
     id 26
-    label "26"
+    label "Winston"
     Country "United States"
     Longitude -80.24422
     Internal 1
@@ -246,7 +247,7 @@ graph [
   ]
   node [
     id 27
-    label "27"
+    label "Columbia"
     Country "United States"
     Longitude -81.03481
     Internal 1
@@ -254,7 +255,7 @@ graph [
   ]
   node [
     id 28
-    label "28"
+    label "Augusta"
     geocode_append "GA"
     Country "United States"
     Longitude -81.97484
@@ -263,7 +264,7 @@ graph [
   ]
   node [
     id 29
-    label "29"
+    label "Florence"
     Country "United States"
     Longitude -79.76256
     Internal 1
@@ -271,7 +272,7 @@ graph [
   ]
   node [
     id 30
-    label "30"
+    label "Charleston"
     geocode_append "SC"
     Country "United States"
     Longitude -79.93092
@@ -280,7 +281,7 @@ graph [
   ]
   node [
     id 31
-    label "31"
+    label "New Orleans"
     Country "United States"
     Longitude -90.07507
     Internal 1
@@ -288,7 +289,7 @@ graph [
   ]
   node [
     id 32
-    label "32"
+    label "Slidell"
     Country "United States"
     Longitude -89.78117
     Internal 1
@@ -296,7 +297,7 @@ graph [
   ]
   node [
     id 33
-    label "33"
+    label "Huntsville"
     Country "United States"
     Longitude -86.5861
     Internal 1
@@ -304,7 +305,7 @@ graph [
   ]
   node [
     id 34
-    label "34"
+    label "Chatanooga"
     Country "United States"
     Longitude -85.30968
     Internal 1
@@ -312,7 +313,7 @@ graph [
   ]
   node [
     id 35
-    label "35"
+    label "Atlanta"
     Country "United States"
     Longitude -84.38798
     Internal 1
@@ -320,7 +321,7 @@ graph [
   ]
   node [
     id 36
-    label "36"
+    label "Athens"
     Country "United States"
     Longitude -83.37794
     Internal 1
@@ -328,7 +329,7 @@ graph [
   ]
   node [
     id 37
-    label "37"
+    label "Biloxi"
     Country "United States"
     Longitude -88.88531
     Internal 1
@@ -336,7 +337,7 @@ graph [
   ]
   node [
     id 38
-    label "38"
+    label "Pensacola"
     Country "United States"
     Longitude -87.21691
     Internal 1
@@ -344,7 +345,7 @@ graph [
   ]
   node [
     id 39
-    label "39"
+    label "Montgomery"
     Country "United States"
     Longitude -86.29997
     Internal 1
@@ -352,7 +353,7 @@ graph [
   ]
   node [
     id 40
-    label "40"
+    label "Birmingham"
     Country "United States"
     Longitude -86.80249
     Internal 1
@@ -360,7 +361,7 @@ graph [
   ]
   node [
     id 41
-    label "41"
+    label "Ft Lauderdale"
     Country "United States"
     Longitude -80.14338
     Internal 1
@@ -368,7 +369,7 @@ graph [
   ]
   node [
     id 42
-    label "42"
+    label "Boca Raton"
     Country "United States"
     Longitude -80.0831
     Internal 1
@@ -376,7 +377,7 @@ graph [
   ]
   node [
     id 43
-    label "43"
+    label "Mobile"
     Country "United States"
     Longitude -88.04305
     Internal 1
@@ -384,7 +385,7 @@ graph [
   ]
   node [
     id 44
-    label "44"
+    label "Greenville"
     Country "United States"
     Longitude -82.39401
     Internal 1
@@ -392,7 +393,7 @@ graph [
   ]
   node [
     id 45
-    label "45"
+    label "Spartanburg"
     Country "United States"
     Longitude -81.93205
     Internal 1
@@ -400,7 +401,7 @@ graph [
   ]
   node [
     id 46
-    label "46"
+    label "Stone Mt?"
     Country "United States"
     Longitude -84.1702
     Internal 1
@@ -408,7 +409,7 @@ graph [
   ]
   node [
     id 47
-    label "47"
+    label "Wilmington"
     Country "United States"
     Longitude -77.94471
     Internal 1
@@ -416,7 +417,7 @@ graph [
   ]
   node [
     id 48
-    label "48"
+    label "Orlando"
     Country "United States"
     Longitude -81.37924
     Internal 1
@@ -424,7 +425,7 @@ graph [
   ]
   node [
     id 49
-    label "49"
+    label "Miami"
     Country "United States"
     Longitude -80.19366
     Internal 1
@@ -432,7 +433,7 @@ graph [
   ]
   node [
     id 50
-    label "50"
+    label "Miami?"
     Country "United States"
     Longitude -80.19366
     Internal 1

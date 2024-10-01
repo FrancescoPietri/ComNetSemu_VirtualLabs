@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "15/11/10"
   GeoLocation "Virginia, Tennessee, West Virginia, Maryland, USA"
   GeoExtent "Region"
@@ -29,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Martinsville"
     geocode_append "VA"
     Country "United States"
     Longitude -79.87254
@@ -38,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Danville"
     geocode_append "VA"
     Country "United States"
     Longitude -79.39502
@@ -47,7 +48,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Johnson City"
     Country "United States"
     Longitude -82.35347
     Internal 1
@@ -55,7 +56,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Greensboro"
     Country "United States"
     Longitude -79.79198
     Internal 1
@@ -63,7 +64,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Troutville"
     geocode_append "VA"
     Country "United States"
     Longitude -79.87476
@@ -72,7 +73,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Charlottesville"
     geocode_append "VA"
     Country "United States"
     Longitude -78.47668
@@ -81,7 +82,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Lynchburg"
     geocode_append "VA"
     Country "United States"
     Longitude -79.14225
@@ -90,7 +91,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Lexington"
     geocode_append "VA"
     Country "United States"
     Longitude -79.44282
@@ -99,7 +100,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Waynesboro"
     geocode_append "VA"
     Country "United States"
     Longitude -78.88947
@@ -108,7 +109,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Staunton"
     geocode_append "VA"
     Country "United States"
     Longitude -79.0717
@@ -117,13 +118,13 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 11
-    label "11"
+    label "Herndon"
     geocode_append "VA"
     Country "United States"
     Longitude -77.3861
@@ -132,7 +133,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Warrenton"
     geocode_append "VA"
     Country "United States"
     Longitude -77.79527
@@ -141,7 +142,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "Roanoke"
     geocode_append "VA"
     Country "United States"
     Longitude -79.94143
@@ -150,37 +151,37 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 15
-    label "15"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 16
-    label "16"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 17
-    label "17"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 18
-    label "18"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 19
-    label "19"
+    label "Ashburn"
     geocode_append "VA"
     Country "United States"
     Longitude -77.48749
@@ -189,7 +190,7 @@ graph [
   ]
   node [
     id 20
-    label "20"
+    label "Leesburg"
     geocode_append "VA"
     Country "United States"
     Longitude -77.5636
@@ -198,7 +199,7 @@ graph [
   ]
   node [
     id 21
-    label "21"
+    label "Winchester"
     geocode_append "VA"
     Country "United States"
     Longitude -78.16333
@@ -207,7 +208,7 @@ graph [
   ]
   node [
     id 22
-    label "22"
+    label "Front Royal"
     geocode_append "VA"
     Country "United States"
     Longitude -78.19444
@@ -216,7 +217,7 @@ graph [
   ]
   node [
     id 23
-    label "23"
+    label "Edinburg"
     geocode_append "VA"
     Country "United States"
     Longitude -78.56585
@@ -225,7 +226,7 @@ graph [
   ]
   node [
     id 24
-    label "24"
+    label "Harrisonburg"
     geocode_append "VA"
     Country "United States"
     Longitude -78.86892
@@ -234,7 +235,7 @@ graph [
   ]
   node [
     id 25
-    label "25"
+    label "Carlisle"
     Country "United States"
     Longitude -77.18887
     Internal 1
@@ -242,7 +243,7 @@ graph [
   ]
   node [
     id 26
-    label "26"
+    label "Chambersburg"
     Country "United States"
     Longitude -77.6611
     Internal 1
@@ -250,7 +251,7 @@ graph [
   ]
   node [
     id 27
-    label "27"
+    label "Hagerstown"
     Country "United States"
     Longitude -77.71999
     Internal 1
@@ -258,7 +259,7 @@ graph [
   ]
   node [
     id 28
-    label "28"
+    label "Martinsburg"
     Country "United States"
     Longitude -77.96389
     Internal 1
@@ -266,7 +267,7 @@ graph [
   ]
   node [
     id 29
-    label "29"
+    label "Bristol"
     geocode_append "VA"
     Country "United States"
     Longitude -82.18847
@@ -275,7 +276,7 @@ graph [
   ]
   node [
     id 30
-    label "30"
+    label "Kingsport"
     Country "United States"
     Longitude -82.56182
     Internal 1
@@ -283,7 +284,7 @@ graph [
   ]
   node [
     id 31
-    label "31"
+    label "Huntington"
     geocode_append "WV"
     Country "United States"
     Longitude -82.44515
@@ -292,7 +293,7 @@ graph [
   ]
   node [
     id 32
-    label "32"
+    label "Charleston"
     geocode_append "WV"
     Country "United States"
     Longitude -81.63262
@@ -301,7 +302,7 @@ graph [
   ]
   node [
     id 33
-    label "33"
+    label "Bluefield"
     Country "United States"
     Longitude -81.22232
     Internal 1
@@ -309,7 +310,7 @@ graph [
   ]
   node [
     id 34
-    label "34"
+    label "Blacksburg"
     geocode_append "VA"
     Country "United States"
     Longitude -80.41394
@@ -318,7 +319,7 @@ graph [
   ]
   node [
     id 35
-    label "35"
+    label "Christiansburg"
     geocode_append "VA"
     Country "United States"
     Longitude -80.40894
@@ -327,7 +328,7 @@ graph [
   ]
   node [
     id 36
-    label "36"
+    label "Radford"
     geocode_append "VA"
     Country "United States"
     Longitude -80.57645
@@ -336,7 +337,7 @@ graph [
   ]
   node [
     id 37
-    label "37"
+    label "Wytheville"
     geocode_append "VA"
     Country "United States"
     Longitude -81.08481
@@ -345,7 +346,7 @@ graph [
   ]
   node [
     id 38
-    label "38"
+    label "Abingdon"
     geocode_append "VA"
     Country "United States"
     Longitude -81.97735
@@ -411,6 +412,11 @@ graph [
     source 5
     target 8
     id "e28"
+  ]
+  edge [
+    source 5
+    target 8
+    id "e29"
   ]
   edge [
     source 5
@@ -521,6 +527,11 @@ graph [
     source 17
     target 24
     id "e35"
+  ]
+  edge [
+    source 17
+    target 24
+    id "e34"
   ]
   edge [
     source 17

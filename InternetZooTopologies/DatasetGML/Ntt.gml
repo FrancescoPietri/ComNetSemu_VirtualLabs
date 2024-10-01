@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "31/03/11"
   GeoLocation "Global"
   GeoExtent "Global"
@@ -29,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Washington DC"
     Country "United States"
     Longitude -77.03637
     Internal 1
@@ -38,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Miami"
     Country "United States"
     Longitude -80.19366
     Internal 1
@@ -47,7 +48,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Atlanta"
     Country "United States"
     Longitude -84.38798
     Internal 1
@@ -56,7 +57,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "New York City"
     Country "United States"
     Longitude -74.00597
     Internal 1
@@ -65,7 +66,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Geneva"
     Country "Switzerland"
     Longitude 6.14569
     Internal 1
@@ -74,7 +75,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Frankfurt"
     Country "Germany"
     Longitude 8.68333
     Internal 1
@@ -83,7 +84,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Paris"
     Country "France"
     Longitude 2.3488
     Internal 1
@@ -92,7 +93,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Madrid"
     Country "Spain"
     Longitude -3.70256
     Internal 1
@@ -101,7 +102,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Dusseldorf"
     Country "Germany"
     Longitude 6.77616
     Internal 1
@@ -110,7 +111,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Amsterdam"
     Country "Netherlands"
     Longitude 4.88969
     Internal 1
@@ -119,7 +120,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Cairo"
     Country "Egypt"
     Longitude 31.24967
     Internal 1
@@ -128,7 +129,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "Ar Riyad"
     Country "Saudi Arabia"
     Longitude 46.72185
     Internal 1
@@ -137,7 +138,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Chennai"
     Country "India"
     Longitude 80.27847
     Internal 1
@@ -146,7 +147,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "Colombo"
     Country "Sri Lanka"
     Longitude 79.84778
     Internal 1
@@ -155,7 +156,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "Bangkok"
     Country "Thailand"
     Longitude 100.51667
     Internal 1
@@ -164,7 +165,7 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "Ho Chi Minh"
     Country "Vietnam"
     Longitude 106.66667
     Internal 1
@@ -173,7 +174,7 @@ graph [
   ]
   node [
     id 16
-    label "16"
+    label "Brunei"
     Country "Brunei"
     Longitude 114.94806
     Internal 1
@@ -182,7 +183,7 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "Lagos"
     Country "Nigeria"
     Longitude 3.39583
     Internal 1
@@ -191,7 +192,7 @@ graph [
   ]
   node [
     id 18
-    label "18"
+    label "Johannesburg"
     Country "South Africa"
     Longitude 28.04363
     Internal 1
@@ -200,7 +201,7 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "Cape Town"
     Country "South Africa"
     Longitude 18.41667
     Internal 1
@@ -209,7 +210,7 @@ graph [
   ]
   node [
     id 20
-    label "20"
+    label "Seoul"
     Country "South Korea"
     Longitude 126.97783
     Internal 1
@@ -218,7 +219,7 @@ graph [
   ]
   node [
     id 21
-    label "21"
+    label "Dubai"
     Country "United Arab Emirates"
     Longitude 55.28
     Internal 1
@@ -227,7 +228,7 @@ graph [
   ]
   node [
     id 22
-    label "22"
+    label "Beijing"
     Country "China"
     Longitude 116.39723
     Internal 1
@@ -236,7 +237,7 @@ graph [
   ]
   node [
     id 23
-    label "23"
+    label "Shanghai"
     Country "China"
     Longitude 121.45806
     Internal 1
@@ -245,7 +246,7 @@ graph [
   ]
   node [
     id 24
-    label "24"
+    label "London"
     Country "United Kingdom"
     Longitude -0.12574
     Internal 1
@@ -254,7 +255,7 @@ graph [
   ]
   node [
     id 25
-    label "25"
+    label "Wellington"
     Country "New Zealand"
     Longitude 174.77557
     Internal 1
@@ -263,7 +264,7 @@ graph [
   ]
   node [
     id 26
-    label "26"
+    label "Mountain View"
     Country "United States"
     Longitude -122.08385
     Internal 1
@@ -272,7 +273,7 @@ graph [
   ]
   node [
     id 27
-    label "27"
+    label "Mumbai"
     Country "India"
     Longitude 72.84794
     Internal 1
@@ -281,7 +282,7 @@ graph [
   ]
   node [
     id 28
-    label "28"
+    label "Rangoon"
     Country "Myanmar [Burma]"
     Longitude 96.15611
     Internal 1
@@ -290,7 +291,7 @@ graph [
   ]
   node [
     id 29
-    label "29"
+    label "Hong Kong"
     Country "Hong Kong"
     Longitude 114.15769
     Internal 1
@@ -299,7 +300,7 @@ graph [
   ]
   node [
     id 30
-    label "30"
+    label "Tokyo"
     Country "Japan"
     Longitude 139.5813
     Internal 1
@@ -308,7 +309,7 @@ graph [
   ]
   node [
     id 31
-    label "31"
+    label "Osaka"
     Country "Japan"
     Longitude 135.50218
     Internal 1
@@ -317,7 +318,7 @@ graph [
   ]
   node [
     id 32
-    label "32"
+    label "Warsaw"
     Country "Poland"
     Longitude 21.01178
     Internal 1
@@ -326,7 +327,7 @@ graph [
   ]
   node [
     id 33
-    label "33"
+    label "Macau"
     Country "Macau"
     Longitude 113.54611
     Internal 1
@@ -335,7 +336,7 @@ graph [
   ]
   node [
     id 34
-    label "34"
+    label "Hanoi"
     Country "Vietnam"
     Longitude 105.84117
     Internal 1
@@ -344,7 +345,7 @@ graph [
   ]
   node [
     id 35
-    label "35"
+    label "Manila"
     Country "Philippines"
     Longitude 120.9822
     Internal 1
@@ -353,7 +354,7 @@ graph [
   ]
   node [
     id 36
-    label "36"
+    label "Tapei"
     Country "Hungary"
     Longitude 20.11667
     Internal 1
@@ -362,7 +363,7 @@ graph [
   ]
   node [
     id 37
-    label "37"
+    label "Dallas"
     Country "United States"
     Longitude -96.80667
     Internal 1
@@ -371,7 +372,7 @@ graph [
   ]
   node [
     id 38
-    label "38"
+    label "Houston"
     Country "United States"
     Longitude -95.36327
     Internal 1
@@ -380,7 +381,7 @@ graph [
   ]
   node [
     id 39
-    label "39"
+    label "Kuala Lumpur"
     Country "Malaysia"
     Longitude 101.68653
     Internal 1
@@ -389,7 +390,7 @@ graph [
   ]
   node [
     id 40
-    label "40"
+    label "Singapore"
     Country "Singapore"
     Longitude 103.85007
     Internal 1
@@ -398,7 +399,7 @@ graph [
   ]
   node [
     id 41
-    label "41"
+    label "Jakarta"
     Country "Indonesia"
     Longitude 106.84513
     Internal 1
@@ -407,7 +408,7 @@ graph [
   ]
   node [
     id 42
-    label "42"
+    label "Sydney"
     Country "Australia"
     Longitude 151.20732
     Internal 1
@@ -416,7 +417,7 @@ graph [
   ]
   node [
     id 43
-    label "43"
+    label "San Jose"
     Country "United States"
     Longitude -121.89496
     Internal 1
@@ -425,7 +426,7 @@ graph [
   ]
   node [
     id 44
-    label "44"
+    label "Los Angeles"
     Country "United States"
     Longitude -118.24368
     Internal 1
@@ -434,7 +435,7 @@ graph [
   ]
   node [
     id 45
-    label "45"
+    label "Seattle"
     Country "United States"
     Longitude -122.33207
     Internal 1
@@ -443,7 +444,7 @@ graph [
   ]
   node [
     id 46
-    label "46"
+    label "Chicago"
     Country "United States"
     Longitude -87.65005
     Internal 1
@@ -453,6 +454,26 @@ graph [
   edge [
     source 0
     target 1
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 0
+    target 1
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 0
+    target 1
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 0
+    target 1
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 0
+    target 2
     LinkLabel "OC192/STM64"
   ]
   edge [
@@ -467,7 +488,57 @@ graph [
   ]
   edge [
     source 0
+    target 3
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 0
+    target 3
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 0
+    target 3
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 0
+    target 3
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 0
+    target 3
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 0
     target 37
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 0
+    target 37
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 0
+    target 37
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 0
+    target 37
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 0
+    target 9
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 0
+    target 9
     LinkLabel "OC192/STM64"
   ]
   edge [
@@ -482,7 +553,52 @@ graph [
   ]
   edge [
     source 0
+    target 43
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 0
+    target 43
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 0
+    target 43
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 0
+    target 43
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 0
     target 44
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 0
+    target 44
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 0
+    target 44
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 0
+    target 44
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 0
+    target 44
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 0
+    target 45
     LinkLabel "OC192/STM64"
   ]
   edge [
@@ -497,6 +613,26 @@ graph [
   ]
   edge [
     source 1
+    target 2
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 1
+    target 37
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 1
+    target 37
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 1
+    target 37
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 2
     target 37
     LinkLabel "OC192/STM64"
   ]
@@ -512,7 +648,32 @@ graph [
   ]
   edge [
     source 3
+    target 24
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 3
+    target 24
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 3
     target 45
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 3
+    target 45
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 3
+    target 46
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 3
+    target 46
     LinkLabel "OC192/STM64"
   ]
   edge [
@@ -527,8 +688,28 @@ graph [
   ]
   edge [
     source 4
+    target 5
+    LinkLabel "OC12/STM4"
+  ]
+  edge [
+    source 4
     target 6
     LinkLabel "OC12/STM4"
+  ]
+  edge [
+    source 4
+    target 6
+    LinkLabel "OC12/STM4"
+  ]
+  edge [
+    source 5
+    target 24
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 5
+    target 24
+    LinkLabel "OC192/STM64"
   ]
   edge [
     source 5
@@ -542,7 +723,27 @@ graph [
   ]
   edge [
     source 5
+    target 8
+    LinkLabel "OC12/STM4"
+  ]
+  edge [
+    source 5
     target 32
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 5
+    target 32
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 5
+    target 9
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 5
+    target 9
     LinkLabel "OC192/STM64"
   ]
   edge [
@@ -553,6 +754,16 @@ graph [
   edge [
     source 6
     target 24
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 6
+    target 24
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 6
+    target 9
     LinkLabel "OC192/STM64"
   ]
   edge [
@@ -576,6 +787,36 @@ graph [
     LinkLabel "OC12/STM4"
   ]
   edge [
+    source 8
+    target 9
+    LinkLabel "OC12/STM4"
+  ]
+  edge [
+    source 9
+    target 30
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 9
+    target 30
+    LinkLabel "OC48/STM16"
+  ]
+  edge [
+    source 9
+    target 30
+    LinkLabel "OC48/STM16"
+  ]
+  edge [
+    source 9
+    target 30
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 9
+    target 30
+    LinkLabel "OC48/STM16"
+  ]
+  edge [
     source 9
     target 30
     LinkLabel "OC192/STM64"
@@ -592,6 +833,16 @@ graph [
   ]
   edge [
     source 20
+    target 30
+    LinkLabel "OC12/STM4"
+  ]
+  edge [
+    source 20
+    target 30
+    LinkLabel "OC48/STM16"
+  ]
+  edge [
+    source 20
     target 31
     LinkLabel "OC48/STM16"
   ]
@@ -599,6 +850,16 @@ graph [
     source 24
     target 40
     LinkLabel "OC3 and below/STM1"
+  ]
+  edge [
+    source 24
+    target 31
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 24
+    target 31
+    LinkLabel "OC192/STM64"
   ]
   edge [
     source 24
@@ -622,6 +883,11 @@ graph [
   ]
   edge [
     source 29
+    target 40
+    LinkLabel "OC12/STM4"
+  ]
+  edge [
+    source 29
     target 35
     LinkLabel "OC48/STM16"
   ]
@@ -632,13 +898,63 @@ graph [
   ]
   edge [
     source 29
+    target 36
+    LinkLabel "OC48/STM16"
+  ]
+  edge [
+    source 29
+    target 36
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 29
     target 30
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 29
+    target 30
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 29
+    target 30
+    LinkLabel "OC48/STM16"
+  ]
+  edge [
+    source 29
+    target 30
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 29
+    target 30
+    LinkLabel "OC48/STM16"
+  ]
+  edge [
+    source 29
+    target 31
     LinkLabel "OC192/STM64"
   ]
   edge [
     source 29
     target 31
     LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 29
+    target 31
+    LinkLabel "OC48/STM16"
+  ]
+  edge [
+    source 29
+    target 31
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 29
+    target 31
+    LinkLabel "OC48/STM16"
   ]
   edge [
     source 30
@@ -657,8 +973,53 @@ graph [
   ]
   edge [
     source 30
+    target 36
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 30
+    target 36
+    LinkLabel "OC48/STM16"
+  ]
+  edge [
+    source 30
     target 40
     LinkLabel "OC12/STM4"
+  ]
+  edge [
+    source 30
+    target 40
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 30
+    target 40
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 30
+    target 40
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 30
+    target 40
+    LinkLabel "OC12/STM4"
+  ]
+  edge [
+    source 30
+    target 40
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 30
+    target 40
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 30
+    target 42
+    LinkLabel "OC48/STM16"
   ]
   edge [
     source 30
@@ -668,6 +1029,96 @@ graph [
   edge [
     source 30
     target 43
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 30
+    target 43
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 30
+    target 43
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 30
+    target 43
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 30
+    target 43
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 30
+    target 43
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 30
+    target 43
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 30
+    target 43
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 30
+    target 43
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 30
+    target 44
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 30
+    target 44
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 30
+    target 44
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 30
+    target 44
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 30
+    target 44
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 30
+    target 44
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 30
+    target 44
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 30
+    target 44
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 30
+    target 44
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 30
+    target 44
     LinkLabel "OC192/STM64"
   ]
   edge [
@@ -682,7 +1133,102 @@ graph [
   ]
   edge [
     source 30
+    target 45
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 30
+    target 45
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 30
+    target 45
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 30
+    target 45
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 30
     target 31
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 30
+    target 31
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 30
+    target 31
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 30
+    target 31
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 30
+    target 31
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 30
+    target 31
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 30
+    target 31
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 30
+    target 31
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 30
+    target 31
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 30
+    target 31
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 30
+    target 31
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 30
+    target 31
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 30
+    target 31
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 30
+    target 31
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 31
+    target 40
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 31
+    target 40
     LinkLabel "OC192/STM64"
   ]
   edge [
@@ -697,7 +1243,92 @@ graph [
   ]
   edge [
     source 31
+    target 43
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 31
+    target 43
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 31
+    target 43
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 31
+    target 43
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 31
+    target 43
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 31
+    target 43
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 31
+    target 43
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 31
     target 44
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 31
+    target 44
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 31
+    target 44
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 31
+    target 44
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 31
+    target 44
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 31
+    target 44
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 31
+    target 44
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 31
+    target 45
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 31
+    target 45
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 31
+    target 45
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 31
+    target 45
     LinkLabel "OC192/STM64"
   ]
   edge [
@@ -717,7 +1348,57 @@ graph [
   ]
   edge [
     source 37
+    target 43
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 37
+    target 43
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 37
+    target 43
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 37
+    target 43
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 37
     target 44
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 37
+    target 44
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 37
+    target 44
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 37
+    target 44
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 37
+    target 44
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 37
+    target 46
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 37
+    target 46
     LinkLabel "OC192/STM64"
   ]
   edge [
@@ -736,9 +1417,44 @@ graph [
     LinkLabel "OC48/STM16"
   ]
   edge [
+    source 39
+    target 40
+    LinkLabel "OC48/STM16"
+  ]
+  edge [
     source 40
     target 41
     LinkLabel "OC3 and below/STM1"
+  ]
+  edge [
+    source 40
+    target 41
+    LinkLabel "OC3 and below/STM1"
+  ]
+  edge [
+    source 40
+    target 41
+    LinkLabel "OC12/STM4"
+  ]
+  edge [
+    source 40
+    target 41
+    LinkLabel "OC3 and below/STM1"
+  ]
+  edge [
+    source 40
+    target 41
+    LinkLabel "OC12/STM4"
+  ]
+  edge [
+    source 42
+    target 43
+    LinkLabel "OC3 and below/STM1"
+  ]
+  edge [
+    source 42
+    target 43
+    LinkLabel "OC12/STM4"
   ]
   edge [
     source 42
@@ -752,11 +1468,61 @@ graph [
   ]
   edge [
     source 43
+    target 44
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 43
+    target 44
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 43
+    target 44
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 43
     target 45
     LinkLabel "OC192/STM64"
   ]
   edge [
     source 43
+    target 45
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 43
+    target 45
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 43
+    target 45
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 43
+    target 46
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 43
+    target 46
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 43
+    target 46
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 45
+    target 46
+    LinkLabel "OC192/STM64"
+  ]
+  edge [
+    source 45
     target 46
     LinkLabel "OC192/STM64"
   ]

@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "18/10/10"
   GeoLocation "USA"
   GeoExtent "Country"
@@ -30,7 +31,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Chicago"
     Country "United States"
     Longitude -87.65005
     Internal 1
@@ -39,7 +40,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Dallas"
     Country "United States"
     Longitude -96.80667
     Internal 1
@@ -48,7 +49,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "St Cloud"
     geocode_append "MN"
     Country "United States"
     Longitude -94.16249
@@ -58,7 +59,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Minneapolis/St Paul"
     Country "United States"
     Longitude -93.26384
     Internal 1
@@ -67,7 +68,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Los Angeles"
     Country "United States"
     Longitude -118.24368
     Internal 1
@@ -76,7 +77,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Santa Clara"
     Country "United States"
     Longitude -121.95524
     Internal 1
@@ -85,7 +86,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Las Vegas"
     Country "United States"
     Longitude -115.13722
     Internal 1
@@ -94,7 +95,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Phoenix"
     Country "United States"
     Longitude -112.07404
     Internal 1
@@ -103,7 +104,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Sacramento"
     Country "United States"
     Longitude -121.4944
     Internal 1
@@ -112,7 +113,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Santa Rose"
     Country "United States"
     Longitude -122.71443
     Internal 1
@@ -121,7 +122,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Salem"
     Country "United States"
     Longitude -123.0351
     Internal 1
@@ -130,7 +131,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "Bend"
     geocode_append "OR"
     Country "United States"
     Longitude -121.31531
@@ -140,7 +141,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Eugene"
     Country "United States"
     Longitude -123.08675
     Internal 1
@@ -149,7 +150,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "Reno"
     Country "United States"
     Longitude -119.8138
     Internal 1
@@ -158,7 +159,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "Rancho Cordova"
     Country "United States"
     Longitude -121.30273
     Internal 1
@@ -167,7 +168,7 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "New York"
     Country "United States"
     Longitude -74.00597
     Internal 1
@@ -176,7 +177,7 @@ graph [
   ]
   node [
     id 16
-    label "16"
+    label "Ashburn"
     Country "United States"
     Longitude -77.48749
     Internal 1
@@ -185,7 +186,7 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "Spokane"
     Country "United States"
     Longitude -117.42605
     Internal 1
@@ -194,7 +195,7 @@ graph [
   ]
   node [
     id 18
-    label "18"
+    label "Fargo?"
     geocode_append "ND"
     Country "United States"
     Longitude -96.7898
@@ -204,7 +205,7 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "Billings"
     Country "United States"
     Longitude -108.50069
     Internal 1
@@ -213,7 +214,7 @@ graph [
   ]
   node [
     id 20
-    label "20"
+    label "Denver"
     Country "United States"
     Longitude -104.9847
     Internal 1
@@ -222,7 +223,7 @@ graph [
   ]
   node [
     id 21
-    label "21"
+    label "Ogden"
     Country "United States"
     Longitude -111.97383
     Internal 1
@@ -231,7 +232,7 @@ graph [
   ]
   node [
     id 22
-    label "22"
+    label "Orem"
     Country "United States"
     Longitude -111.69465
     Internal 1
@@ -240,7 +241,7 @@ graph [
   ]
   node [
     id 23
-    label "23"
+    label "Salt Lake City"
     Country "United States"
     Longitude -111.89105
     Internal 1
@@ -249,7 +250,7 @@ graph [
   ]
   node [
     id 24
-    label "24"
+    label "Boise"
     Country "United States"
     Longitude -116.20345
     Internal 1
@@ -258,7 +259,7 @@ graph [
   ]
   node [
     id 25
-    label "25"
+    label "Portland"
     Country "United States"
     Longitude -122.67621
     Internal 1
@@ -267,7 +268,7 @@ graph [
   ]
   node [
     id 26
-    label "26"
+    label "Seattle"
     Country "United States"
     Longitude -122.33207
     Internal 1

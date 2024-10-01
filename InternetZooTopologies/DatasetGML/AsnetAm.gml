@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "20/10/10"
   GeoLocation "Armenia"
   GeoExtent "Country"
@@ -29,246 +30,246 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "?"
     Internal 1
     doubted 1
   ]
   node [
     id 1
-    label "1"
+    label "Drug Agency"
     Internal 1
     type "NAS RA Organisation (ASNET-AM)"
   ]
   node [
     id 2
-    label "2"
+    label "Inst. Radio Meas."
     Internal 1
     type "NAS RA Organisation (ASNET-AM)"
   ]
   node [
     id 3
-    label "3"
+    label "Isnt. Chemical Physics"
     Internal 1
     type "NAS RA Organisation (ASNET-AM)"
   ]
   node [
     id 4
-    label "4"
+    label "Inst. Biochem"
     Internal 1
     type "NAS RA Organisation (ASNET-AM)"
   ]
   node [
     id 5
-    label "5"
+    label "Inst. Geophysics"
     Internal 1
     type "NAS RA Organisation (ASNET-AM)"
   ]
   node [
     id 6
-    label "6"
+    label "Inst. of Health"
     Internal 1
     type "NAS RA Organisation (ASNET-AM)"
   ]
   node [
     id 7
-    label "7"
+    label "Inst. Informatics"
     Internal 1
     type "NAS RA Organisation (ASNET-AM)"
   ]
   node [
     id 8
-    label "8"
+    label "TV station"
     Internal 1
     type "NAS RA Organisation (ASNET-AM)"
   ]
   node [
     id 9
-    label "9"
+    label "Inst. Phylosophy"
     Internal 1
     type "NAS RA Organisation (ASNET-AM)"
   ]
   node [
     id 10
-    label "10"
+    label "?"
     Internal 1
     doubted 1
   ]
   node [
     id 11
-    label "11"
+    label "Organic chem"
     Internal 1
     type "NAS RA Organisation (ASNET-AM)"
   ]
   node [
     id 12
-    label "12"
+    label "Library"
     Internal 1
     type "NAS RA Organisation (ASNET-AM)"
   ]
   node [
     id 13
-    label "13"
+    label "Lib Net"
     Internal 0
   ]
   node [
     id 14
-    label "14"
+    label "ICT"
     Internal 1
     type "NAS RA Organisation (ASNET-AM)"
   ]
   node [
     id 15
-    label "15"
+    label "Geological"
     Internal 1
     type "NAS RA Organisation (ASNET-AM)"
   ]
   node [
     id 16
-    label "16"
+    label "Inst. Math."
     Internal 1
     type "NAS RA Organisation (ASNET-AM)"
   ]
   node [
     id 17
-    label "17"
+    label "Inst. Mechanics"
     Internal 1
     type "NAS RA Organisation (ASNET-AM)"
   ]
   node [
     id 18
-    label "18"
+    label "ASHMS"
     Internal 1
     type "Dark Blue Colour"
   ]
   node [
     id 19
-    label "19"
+    label "Inst. Physiology"
     Internal 1
     type "NAS RA Organisation (ASNET-AM)"
   ]
   node [
     id 20
-    label "20"
+    label "Yeveran Physics Inst."
     Internal 1
     type "Scientific Organisation"
   ]
   node [
     id 21
-    label "21"
+    label "ArmESFo"
     Internal 1
     type "Cyan Colour"
   ]
   node [
     id 22
-    label "22"
+    label "National Academy"
     Internal 1
     type "NAS RA Organisation (ASNET-AM)"
   ]
   node [
     id 23
-    label "23"
+    label "NSSPA"
     Internal 1
     type "Dark Blue Colour"
   ]
   node [
     id 24
-    label "24"
+    label "Min. of Education"
     Internal 1
     type "Dark Blue Colour"
   ]
   node [
     id 25
-    label "25"
+    label "National Stats. science"
     Internal 1
     type "Dark Blue Colour"
   ]
   node [
     id 26
-    label "26"
+    label "EEMC MNP"
     Internal 1
     type "Dark Blue Colour"
   ]
   node [
     id 27
-    label "27"
+    label "?"
     Internal 1
     type "Educational Organisation"
   ]
   node [
     id 28
-    label "28"
+    label "Museum"
     Internal 1
     type "NAS RA Organisation (ASNET-AM)"
   ]
   node [
     id 29
-    label "29"
+    label "ISTC"
     Internal 1
     type "NAS RA Organisation (ASNET-AM)"
   ]
   node [
     id 30
-    label "30"
+    label "Geophys. Obser."
     Internal 1
     type "NAS RA Organisation (ASNET-AM)"
   ]
   node [
     id 31
-    label "31"
+    label "?"
     Internal 1
     doubted 1
   ]
   node [
     id 32
-    label "32"
+    label "Encycloped."
     Internal 1
     type "NAS RA Organisation (ASNET-AM)"
   ]
   node [
     id 33
-    label "33"
+    label "Literature"
     Internal 1
     type "NAS RA Organisation (ASNET-AM)"
   ]
   node [
     id 34
-    label "34"
+    label "Economy"
     Internal 1
     type "NAS RA Organisation (ASNET-AM)"
   ]
   node [
     id 35
-    label "35"
+    label "Linguistic Inst"
     Internal 1
     type "NAS RA Organisation (ASNET-AM)"
   ]
   node [
     id 36
-    label "36"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 37
-    label "37"
+    label "American Uni."
     Internal 1
     type "Educational Organisation"
   ]
   node [
     id 38
-    label "38"
+    label "Oriental"
     Internal 1
     type "NAS RA Organisation (ASNET-AM)"
   ]
   node [
     id 39
-    label "39"
+    label "Hist"
     Internal 1
     type "NAS RA Organisation (ASNET-AM)"
   ]
   node [
     id 40
-    label "40"
+    label "Art"
     Country "Armenia"
     Longitude 43.97583
     Internal 1
@@ -277,145 +278,145 @@ graph [
   ]
   node [
     id 41
-    label "41"
+    label "Hydroecol"
     Internal 1
     type "NAS RA Organisation (ASNET-AM)"
   ]
   node [
     id 42
-    label "42"
+    label "Engineer academy"
     Internal 1
     type "NAS RA Organisation (ASNET-AM)"
   ]
   node [
     id 43
-    label "43"
+    label "education"
     Internal 1
     type "NAS RA Organisation (ASNET-AM)"
   ]
   node [
     id 44
-    label "44"
+    label "SCS"
     Internal 1
     type "Dark Blue Colour"
   ]
   node [
     id 45
-    label "45"
+    label "Organic Chem"
     Internal 1
     type "NAS RA Organisation (ASNET-AM)"
   ]
   node [
     id 46
-    label "46"
+    label "Astrophysical Obs."
     Internal 1
     type "NAS RA Organisation (ASNET-AM)"
   ]
   node [
     id 47
-    label "47"
+    label "Inst. Microbiology"
     Internal 1
     type "NAS RA Organisation (ASNET-AM)"
   ]
   node [
     id 48
-    label "48"
+    label "Molecular Structure"
     Internal 1
     type "NAS RA Organisation (ASNET-AM)"
   ]
   node [
     id 49
-    label "49"
+    label "General Chem"
     Internal 1
     type "NAS RA Organisation (ASNET-AM)"
   ]
   node [
     id 50
-    label "50"
+    label "research"
     Internal 1
     type "NAS RA Organisation (ASNET-AM)"
   ]
   node [
     id 51
-    label "51"
+    label "engineering center"
     Internal 1
     type "NAS RA Organisation (ASNET-AM)"
   ]
   node [
     id 52
-    label "52"
+    label "?"
     Internal 1
     doubted 1
   ]
   node [
     id 53
-    label "53"
+    label "Inst. Radiophysics"
     Internal 1
     type "NAS RA Organisation (ASNET-AM)"
   ]
   node [
     id 54
-    label "54"
+    label "ARENA"
     Internal 1
     type "Cyan Colour"
   ]
   node [
     id 55
-    label "55"
+    label "Institute of Applied Physics"
     Internal 1
     type "NAS RA Organisation (ASNET-AM)"
   ]
   node [
     id 56
-    label "56"
+    label "Inst. of Molecular Biology"
     Internal 1
     type "NAS RA Organisation (ASNET-AM)"
   ]
   node [
     id 57
-    label "57"
+    label "Agricultural Academy"
     Internal 1
     type "Educational Organisation"
   ]
   node [
     id 58
-    label "58"
+    label "Ecological Center"
     Internal 1
     type "NAS RA Organisation (ASNET-AM)"
   ]
   node [
     id 59
-    label "59"
+    label "Intitute of Botany"
     Internal 1
     type "NAS RA Organisation (ASNET-AM)"
   ]
   node [
     id 60
-    label "60"
+    label "Institute of Zoology"
     Internal 1
     type "NAS RA Organisation (ASNET-AM)"
   ]
   node [
     id 61
-    label "61"
+    label "Gallery"
     Internal 1
     type "NAS RA Organisation (ASNET-AM)"
   ]
   node [
     id 62
-    label "62"
+    label "Yerevan University"
     Internal 1
     type "Educational Organisation"
   ]
   node [
     id 63
-    label "63"
+    label "State Engineering University"
     Internal 1
     type "Educational Organisation"
   ]
   node [
     id 64
-    label "64"
+    label "Yerevan Medical University"
     Internal 1
     type "Educational Organisation"
   ]
@@ -485,6 +486,12 @@ graph [
     source 7
     target 10
     id "e25"
+  ]
+  edge [
+    source 7
+    target 46
+    LinkType "Wireless"
+    LinkLabel "wireless"
   ]
   edge [
     source 7
@@ -583,6 +590,12 @@ graph [
     source 14
     target 36
     id "e67"
+  ]
+  edge [
+    source 15
+    target 22
+    LinkType "Fiber"
+    LinkLabel "fiber"
   ]
   edge [
     source 15

@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "21/10/10"
   GeoLocation "Israel"
   GeoExtent "Country"
@@ -29,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Tel Aviv GigaPoP"
     Country "Israel"
     Longitude 34.76667
     Internal 1
@@ -38,17 +39,17 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Int'l backup "
     Internal 0
   ]
   node [
     id 2
-    label "2"
+    label "IIX"
     Internal 0
   ]
   node [
     id 3
-    label "3"
+    label "Petach Tikva GigaPoP"
     Country "Israel"
     Longitude 34.88503
     Internal 1
@@ -57,17 +58,17 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "External Users"
     Internal 0
   ]
   node [
     id 5
-    label "5"
+    label "GEANT 2 Germany"
     Internal 0
   ]
   node [
     id 6
-    label "6"
+    label "Open University"
     Country "Israel"
     Longitude 34.86667
     Internal 1
@@ -76,7 +77,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Haifa University"
     Country "Israel"
     Longitude 34.98917
     Internal 1
@@ -85,7 +86,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Technion"
     Country "Israel"
     Longitude 34.98917
     Internal 1
@@ -94,7 +95,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Bar Ilan University"
     Country "Israel"
     Longitude 34.81417
     Internal 1
@@ -103,7 +104,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Hebrew University"
     Country "Israel"
     Longitude 35.2253
     Internal 1
@@ -112,7 +113,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "Ben Gurion University"
     Country "Israel"
     Longitude 34.95167
     Internal 1
@@ -121,7 +122,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Weizmann Institute"
     Country "Israel"
     Longitude 34.81861
     Internal 1
@@ -130,7 +131,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "Tel Aviv University"
     Country "Israel"
     Longitude 34.76667
     Internal 1

@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "24/10/10"
   GeoLocation "USA"
   GeoExtent "Country"
@@ -29,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "South Bend"
     Country "United States"
     Longitude -86.25001
     Internal 1
@@ -37,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Toledo"
     Country "United States"
     Longitude -83.55521
     Internal 1
@@ -45,7 +46,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Kalmazoo"
     Country "United States"
     Longitude -85.58723
     Internal 1
@@ -53,7 +54,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Chicago"
     Country "United States"
     Longitude -87.65005
     Internal 1
@@ -61,7 +62,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Youngstown"
     Country "United States"
     Longitude -80.64952
     Internal 1
@@ -69,7 +70,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Erie"
     Country "United States"
     Longitude -80.08506
     Internal 1
@@ -77,7 +78,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Cleveland"
     Country "United States"
     Longitude -81.69541
     Internal 1
@@ -85,7 +86,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Akron"
     Country "United States"
     Longitude -81.51901
     Internal 1
@@ -93,7 +94,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Bethany Beach"
     Country "United States"
     Longitude -75.05518
     Internal 1
@@ -101,7 +102,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Dover"
     Country "United States"
     Longitude -75.52437
     Internal 1
@@ -109,7 +110,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Buffalo"
     Country "United States"
     Longitude -78.87837
     Internal 1
@@ -117,7 +118,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "Rochester"
     Country "United States"
     Longitude -77.61556
     Internal 1
@@ -125,7 +126,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Roanoke"
     Country "United States"
     Longitude -79.94143
     Internal 1
@@ -133,7 +134,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "Norfolk/VA Beach"
     Country "United States"
     Longitude -76.28522
     Internal 1
@@ -141,7 +142,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "Fredericksburg"
     Country "United States"
     Longitude -77.46054
     Internal 1
@@ -149,7 +150,7 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "Richmond"
     Country "United States"
     Longitude -77.46026
     Internal 1
@@ -157,7 +158,7 @@ graph [
   ]
   node [
     id 16
-    label "16"
+    label "Harrisburg"
     Country "United States"
     Longitude -76.88442
     Internal 1
@@ -165,7 +166,7 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "Altoona"
     Country "United States"
     Longitude -78.39474
     Internal 1
@@ -173,7 +174,7 @@ graph [
   ]
   node [
     id 18
-    label "18"
+    label "Poughkeepsie"
     Country "United States"
     Longitude -73.92097
     Internal 1
@@ -181,7 +182,7 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "New York City"
     Country "United States"
     Longitude -74.00597
     Internal 1
@@ -189,7 +190,7 @@ graph [
   ]
   node [
     id 20
-    label "20"
+    label "Stamford"
     Country "United States"
     Longitude -73.53873
     Internal 1
@@ -197,7 +198,7 @@ graph [
   ]
   node [
     id 21
-    label "21"
+    label "Binghampton"
     Country "United States"
     Longitude -75.91797
     Internal 1
@@ -205,7 +206,7 @@ graph [
   ]
   node [
     id 22
-    label "22"
+    label "Newark"
     Country "United States"
     Longitude -74.17237
     Internal 1
@@ -213,7 +214,7 @@ graph [
   ]
   node [
     id 23
-    label "23"
+    label "Philadelphia"
     Country "United States"
     Longitude -75.16379
     Internal 1
@@ -221,7 +222,7 @@ graph [
   ]
   node [
     id 24
-    label "24"
+    label "Newark/Wilmington"
     Country "United States"
     Longitude -75.54659
     Internal 1
@@ -229,7 +230,7 @@ graph [
   ]
   node [
     id 25
-    label "25"
+    label "Atlantic City"
     Country "United States"
     Longitude -74.42293
     Internal 1
@@ -237,13 +238,13 @@ graph [
   ]
   node [
     id 26
-    label "26"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 27
-    label "27"
+    label "Petersburg"
     Country "United States"
     Longitude -77.40193
     Internal 1
@@ -251,7 +252,7 @@ graph [
   ]
   node [
     id 28
-    label "28"
+    label "Emporia"
     Country "United States"
     Longitude -77.54248
     Internal 1
@@ -259,13 +260,13 @@ graph [
   ]
   node [
     id 29
-    label "29"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 30
-    label "30"
+    label "Saginaw"
     Country "United States"
     Longitude -83.95081
     Internal 1
@@ -273,7 +274,7 @@ graph [
   ]
   node [
     id 31
-    label "31"
+    label "Indianapolis"
     Country "United States"
     Longitude -86.15804
     Internal 1
@@ -281,7 +282,7 @@ graph [
   ]
   node [
     id 32
-    label "32"
+    label "Williamsburg"
     Country "United States"
     Longitude -76.70746
     Internal 1
@@ -289,7 +290,7 @@ graph [
   ]
   node [
     id 33
-    label "33"
+    label "Culpeper"
     Country "United States"
     Longitude -77.99666
     Internal 1
@@ -297,7 +298,7 @@ graph [
   ]
   node [
     id 34
-    label "34"
+    label "Charlottesville"
     Country "United States"
     Longitude -78.47668
     Internal 1
@@ -305,7 +306,7 @@ graph [
   ]
   node [
     id 35
-    label "35"
+    label "Dayton"
     Country "United States"
     Longitude -84.19161
     Internal 1
@@ -313,7 +314,7 @@ graph [
   ]
   node [
     id 36
-    label "36"
+    label "Columbus"
     Country "United States"
     Longitude -82.99879
     Internal 1
@@ -321,7 +322,7 @@ graph [
   ]
   node [
     id 37
-    label "37"
+    label "Danville"
     Country "United States"
     Longitude -79.39502
     Internal 1
@@ -329,7 +330,7 @@ graph [
   ]
   node [
     id 38
-    label "38"
+    label "Raleigh"
     Country "United States"
     Longitude -78.63861
     Internal 1
@@ -337,7 +338,7 @@ graph [
   ]
   node [
     id 39
-    label "39"
+    label "Rocky Mount"
     Country "United States"
     Longitude -77.79053
     Internal 1
@@ -345,7 +346,7 @@ graph [
   ]
   node [
     id 40
-    label "40"
+    label "Roanoke Rapids"
     Country "United States"
     Longitude -77.65415
     Internal 1
@@ -353,7 +354,7 @@ graph [
   ]
   node [
     id 41
-    label "41"
+    label "Pittsburgh"
     Country "United States"
     Longitude -79.99589
     Internal 1
@@ -361,7 +362,7 @@ graph [
   ]
   node [
     id 42
-    label "42"
+    label "Johnstown"
     Country "United States"
     Longitude -78.92197
     Internal 1
@@ -369,7 +370,7 @@ graph [
   ]
   node [
     id 43
-    label "43"
+    label "Frederick"
     Country "United States"
     Longitude -77.41054
     Internal 1
@@ -377,7 +378,7 @@ graph [
   ]
   node [
     id 44
-    label "44"
+    label "Hagerstown"
     Country "United States"
     Longitude -77.71999
     Internal 1
@@ -385,7 +386,7 @@ graph [
   ]
   node [
     id 45
-    label "45"
+    label "Ashburn"
     Country "United States"
     Longitude -77.48749
     Internal 1
@@ -393,7 +394,7 @@ graph [
   ]
   node [
     id 46
-    label "46"
+    label "Washington, DC"
     Country "United States"
     Longitude -77.03637
     Internal 1
@@ -401,7 +402,7 @@ graph [
   ]
   node [
     id 47
-    label "47"
+    label "Staunton"
     Country "United States"
     Longitude -79.0717
     Internal 1
@@ -409,7 +410,7 @@ graph [
   ]
   node [
     id 48
-    label "48"
+    label "Baltimore"
     Country "United States"
     Longitude -76.61219
     Internal 1
@@ -417,7 +418,7 @@ graph [
   ]
   node [
     id 49
-    label "49"
+    label "New Haven"
     Country "United States"
     Longitude -72.92816
     Internal 1
@@ -425,7 +426,7 @@ graph [
   ]
   node [
     id 50
-    label "50"
+    label "Hartford"
     Country "United States"
     Longitude -72.68509
     Internal 1
@@ -433,13 +434,13 @@ graph [
   ]
   node [
     id 51
-    label "51"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 52
-    label "52"
+    label "Montreal"
     Country "Canada"
     Longitude -73.58781
     Internal 1
@@ -447,7 +448,7 @@ graph [
   ]
   node [
     id 53
-    label "53"
+    label "Albany"
     Country "United States"
     Longitude -73.75623
     Internal 1
@@ -455,7 +456,7 @@ graph [
   ]
   node [
     id 54
-    label "54"
+    label "Watertown"
     Country "United States"
     Longitude -75.91076
     Internal 1
@@ -463,7 +464,7 @@ graph [
   ]
   node [
     id 55
-    label "55"
+    label "Syracuse"
     Country "United States"
     Longitude -76.14742
     Internal 1
@@ -471,7 +472,7 @@ graph [
   ]
   node [
     id 56
-    label "56"
+    label "Providence"
     Country "United States"
     Longitude -71.41283
     Internal 1
@@ -479,7 +480,7 @@ graph [
   ]
   node [
     id 57
-    label "57"
+    label "Boston"
     Country "United States"
     Longitude -71.05977
     Internal 1
@@ -487,7 +488,7 @@ graph [
   ]
   node [
     id 58
-    label "58"
+    label "Worcester"
     Country "United States"
     Longitude -71.80229
     Internal 1
@@ -495,7 +496,7 @@ graph [
   ]
   node [
     id 59
-    label "59"
+    label "Springfield"
     Country "United States"
     Longitude -72.58981
     Internal 1
@@ -503,7 +504,7 @@ graph [
   ]
   node [
     id 60
-    label "60"
+    label "Harrisonburg"
     Country "United States"
     Longitude -78.86892
     Internal 1
@@ -511,7 +512,7 @@ graph [
   ]
   node [
     id 61
-    label "61"
+    label "Salisbury"
     Country "United States"
     Longitude -75.59937
     Internal 1
@@ -519,7 +520,7 @@ graph [
   ]
   node [
     id 62
-    label "62"
+    label "Cincinnati"
     Country "United States"
     Longitude -84.45689
     Internal 1
@@ -527,7 +528,7 @@ graph [
   ]
   node [
     id 63
-    label "63"
+    label "Jackson"
     Country "United States"
     Longitude -84.40135
     Internal 1
@@ -535,7 +536,7 @@ graph [
   ]
   node [
     id 64
-    label "64"
+    label "Battle Creek"
     Country "United States"
     Longitude -85.17971
     Internal 1
@@ -543,7 +544,7 @@ graph [
   ]
   node [
     id 65
-    label "65"
+    label "Traverse City"
     Country "United States"
     Longitude -85.62063
     Internal 1
@@ -551,7 +552,7 @@ graph [
   ]
   node [
     id 66
-    label "66"
+    label "Grand Rapids"
     Country "United States"
     Longitude -85.66809
     Internal 1
@@ -559,7 +560,7 @@ graph [
   ]
   node [
     id 67
-    label "67"
+    label "Lansing"
     Country "United States"
     Longitude -84.55553
     Internal 1
@@ -567,7 +568,7 @@ graph [
   ]
   node [
     id 68
-    label "68"
+    label "Flint"
     Country "United States"
     Longitude -83.68746
     Internal 1
@@ -575,7 +576,7 @@ graph [
   ]
   node [
     id 69
-    label "69"
+    label "Easton"
     Country "United States"
     Longitude -76.07633
     Internal 1
@@ -583,7 +584,7 @@ graph [
   ]
   node [
     id 70
-    label "70"
+    label "Southfield"
     Country "United States"
     Longitude -83.22187
     Internal 1
@@ -591,7 +592,7 @@ graph [
   ]
   node [
     id 71
-    label "71"
+    label "Detroit"
     Country "United States"
     Longitude -83.04575
     Internal 1
@@ -599,7 +600,7 @@ graph [
   ]
   node [
     id 72
-    label "72"
+    label "Ann Arbor"
     Country "United States"
     Longitude -83.74088
     Internal 1
@@ -679,6 +680,11 @@ graph [
     source 6
     target 7
     id "e20"
+  ]
+  edge [
+    source 6
+    target 7
+    id "e21"
   ]
   edge [
     source 7
@@ -1019,6 +1025,11 @@ graph [
     source 53
     target 55
     id "e33"
+  ]
+  edge [
+    source 53
+    target 55
+    id "e32"
   ]
   edge [
     source 54

@@ -1,4 +1,6 @@
 graph [
+  multigraph 1
+  multigraph 1
   DateObtained "21/10/10"
   GeoLocation "Finland"
   GeoExtent "Country+"
@@ -29,7 +31,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Kouvola"
     Country "Finland"
     Longitude 26.7
     Internal 1
@@ -38,7 +40,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Lahti"
     Country "Finland"
     Longitude 25.66151
     Internal 1
@@ -47,7 +49,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Mikkeli"
     Country "Finland"
     Longitude 27.27227
     Internal 1
@@ -56,7 +58,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Jyvaskyla"
     Country "Finland"
     Longitude 25.73333
     Internal 1
@@ -65,7 +67,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Seinajoki"
     Country "Finland"
     Longitude 22.83333
     Internal 1
@@ -74,7 +76,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Pori"
     Country "Finland"
     Longitude 21.78333
     Internal 1
@@ -83,7 +85,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Tampere"
     Country "Finland"
     Longitude 23.78712
     Internal 1
@@ -92,7 +94,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Hameenlinna"
     Country "Finland"
     Longitude 24.46434
     Internal 1
@@ -101,7 +103,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Rauma"
     Country "Finland"
     Longitude 21.51127
     Internal 1
@@ -110,7 +112,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Turku"
     Country "Finland"
     Longitude 22.26869
     Internal 1
@@ -119,7 +121,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Kotka"
     Country "Finland"
     Longitude 26.91667
     Internal 1
@@ -128,7 +130,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "Helsinki"
     Country "Finland"
     Longitude 24.93545
     Internal 1
@@ -137,7 +139,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Espoo"
     Country "Finland"
     Longitude 24.6522
     Internal 1
@@ -146,7 +148,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "Salo"
     Country "Finland"
     Longitude 23.13333
     Internal 1
@@ -155,17 +157,17 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "NORDU"
     Internal 0
   ]
   node [
     id 15
-    label "15"
+    label "NORDU"
     Internal 0
   ]
   node [
     id 16
-    label "16"
+    label "Joensuu"
     Country "Finland"
     Longitude 29.76667
     Internal 1
@@ -174,7 +176,7 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "Lappeenranta"
     Country "Finland"
     Longitude 28.18871
     Internal 1
@@ -183,7 +185,7 @@ graph [
   ]
   node [
     id 18
-    label "18"
+    label "Oulu"
     Country "Finland"
     Longitude 25.46816
     Internal 1
@@ -192,7 +194,7 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "Haukipudas"
     Country "Finland"
     Longitude 25.35233
     Internal 1
@@ -201,7 +203,7 @@ graph [
   ]
   node [
     id 20
-    label "20"
+    label "Rovaniemi"
     Country "Finland"
     Longitude 25.71667
     Internal 1
@@ -210,7 +212,7 @@ graph [
   ]
   node [
     id 21
-    label "21"
+    label "Sodankyla"
     Country "Finland"
     Longitude 26.6
     Internal 1
@@ -219,7 +221,7 @@ graph [
   ]
   node [
     id 22
-    label "22"
+    label "Ristijavi"
     Country "Finland"
     Longitude 28.21667
     Internal 1
@@ -228,7 +230,7 @@ graph [
   ]
   node [
     id 23
-    label "23"
+    label "Kokkola"
     Country "Finland"
     Longitude 23.13066
     Internal 1
@@ -237,7 +239,7 @@ graph [
   ]
   node [
     id 24
-    label "24"
+    label "Vaasa"
     Country "Finland"
     Longitude 21.61577
     Internal 1
@@ -246,7 +248,7 @@ graph [
   ]
   node [
     id 25
-    label "25"
+    label "Koupio"
     Country "Finland"
     Longitude 27.67703
     Internal 1
@@ -339,6 +341,12 @@ graph [
   edge [
     source 9
     target 13
+    LinkType "Fiber"
+    LinkLabel "fiber"
+  ]
+  edge [
+    source 11
+    target 12
     LinkType "Fiber"
     LinkLabel "fiber"
   ]

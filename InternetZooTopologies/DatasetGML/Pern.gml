@@ -1,11 +1,12 @@
 graph [
+  multigraph 1
   DateObtained "22/10/10"
   GeoLocation "Pakistan"
   GeoExtent "Country"
   Network "PERN"
   Provenance "Primary"
   Access 0
-  Source "http://pern.edu.pk/index.php?option=com_content&#38;task=view&#38;id=12&#38;Itemid=75"
+  Source "http://pern.edu.pk/index.php?option=com_content&amp;task=view&amp;id=12&amp;Itemid=75"
   Version "1.0"
   Type "REN"
   DateType "Current"
@@ -29,85 +30,85 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 1
-    label "1"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 2
-    label "2"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 3
-    label "3"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 4
-    label "4"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 5
-    label "5"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 6
-    label "6"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 7
-    label "7"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 8
-    label "8"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 9
-    label "9"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 10
-    label "10"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 11
-    label "11"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 12
-    label "12"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 13
-    label "13"
+    label "Peshawar"
     Country "Pakistan"
     Longitude 71.58018
     Internal 1
@@ -116,181 +117,181 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 15
-    label "15"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 16
-    label "16"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 17
-    label "17"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 18
-    label "18"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 19
-    label "19"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 20
-    label "20"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 21
-    label "21"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 22
-    label "22"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 23
-    label "23"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 24
-    label "24"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 25
-    label "25"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 26
-    label "26"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 27
-    label "27"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 28
-    label "28"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 29
-    label "29"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 30
-    label "30"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 31
-    label "31"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 32
-    label "32"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 33
-    label "33"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 34
-    label "34"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 35
-    label "35"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 36
-    label "36"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 37
-    label "37"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 38
-    label "38"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 39
-    label "39"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 40
-    label "40"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 41
-    label "41"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 42
-    label "42"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 43
-    label "43"
+    label "Karachi"
     Country "Pakistan"
     Longitude 67.0822
     Internal 1
@@ -299,43 +300,43 @@ graph [
   ]
   node [
     id 44
-    label "44"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 45
-    label "45"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 46
-    label "46"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 47
-    label "47"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 48
-    label "48"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 49
-    label "49"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 50
-    label "50"
+    label "Faisalabad"
     Country "Pakistan"
     Longitude 73.08333
     Internal 1
@@ -344,97 +345,97 @@ graph [
   ]
   node [
     id 51
-    label "51"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 52
-    label "52"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 53
-    label "53"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 54
-    label "54"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 55
-    label "55"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 56
-    label "56"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 57
-    label "57"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 58
-    label "58"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 59
-    label "59"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 60
-    label "60"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 61
-    label "61"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 62
-    label "62"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 63
-    label "63"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 64
-    label "64"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 65
-    label "65"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 66
-    label "66"
+    label "Quetta"
     Country "Pakistan"
     Longitude 67.0125
     Internal 1
@@ -443,37 +444,37 @@ graph [
   ]
   node [
     id 67
-    label "67"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 68
-    label "68"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 69
-    label "69"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 70
-    label "70"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 71
-    label "71"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 72
-    label "72"
+    label "Lahore"
     Country "Pakistan"
     Longitude 74.34361
     Internal 1
@@ -482,181 +483,181 @@ graph [
   ]
   node [
     id 73
-    label "73"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 74
-    label "74"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 75
-    label "75"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 76
-    label "76"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 77
-    label "77"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 78
-    label "78"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 79
-    label "79"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 80
-    label "80"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 81
-    label "81"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 82
-    label "82"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 83
-    label "83"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 84
-    label "84"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 85
-    label "85"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 86
-    label "86"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 87
-    label "87"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 88
-    label "88"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 89
-    label "89"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 90
-    label "90"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 91
-    label "91"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 92
-    label "92"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 93
-    label "93"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 94
-    label "94"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 95
-    label "95"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 96
-    label "96"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 97
-    label "97"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 98
-    label "98"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 99
-    label "99"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 100
-    label "100"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 101
-    label "101"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 102
-    label "102"
+    label "Peshawar"
     Country "Pakistan"
     Longitude 71.58018
     Internal 1
@@ -665,103 +666,103 @@ graph [
   ]
   node [
     id 103
-    label "103"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 104
-    label "104"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 105
-    label "105"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 106
-    label "106"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 107
-    label "107"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 108
-    label "108"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 109
-    label "109"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 110
-    label "110"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 111
-    label "111"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 112
-    label "112"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 113
-    label "113"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 114
-    label "114"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 115
-    label "115"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 116
-    label "116"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 117
-    label "117"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 118
-    label "118"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 119
-    label "119"
+    label "Abbottabad"
     Country "Pakistan"
     Longitude 73.21449
     Internal 1
@@ -770,43 +771,43 @@ graph [
   ]
   node [
     id 120
-    label "120"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 121
-    label "121"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 122
-    label "122"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 123
-    label "123"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 124
-    label "124"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 125
-    label "125"
+    label "None"
     Internal 1
     type "University"
   ]
   node [
     id 126
-    label "126"
+    label "Islamabad"
     Country "Pakistan"
     Longitude 73.04329
     Internal 1

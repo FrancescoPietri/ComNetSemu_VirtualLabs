@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "19/10/10"
   GeoLocation "Washington State, USA"
   GeoExtent "Region"
@@ -29,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Spokane"
     Country "United States"
     Longitude -117.42605
     Internal 1
@@ -37,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Coeur d'Alene"
     Country "United States"
     Longitude -116.78047
     Internal 1
@@ -45,7 +46,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Wenatchee"
     Country "United States"
     Longitude -120.31035
     Internal 1
@@ -53,7 +54,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Othello"
     Country "United States"
     Longitude -119.17529
     Internal 1
@@ -61,7 +62,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Walla Walla"
     Country "United States"
     Longitude -118.34302
     Internal 1
@@ -69,7 +70,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Pasco"
     Country "United States"
     Longitude -119.10057
     Internal 1
@@ -77,7 +78,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Pullman"
     Country "United States"
     Longitude -117.17962
     Internal 1
@@ -85,7 +86,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Lewiston"
     Country "United States"
     Longitude -117.01766
     Internal 1
@@ -93,7 +94,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Kennewick"
     Country "United States"
     Longitude -119.13723
     Internal 1
@@ -101,7 +102,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Yakima"
     Country "United States"
     Longitude -120.5059
     Internal 1
@@ -109,7 +110,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Ellensburg"
     Country "United States"
     Longitude -120.54785
     Internal 1
@@ -117,7 +118,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "Vancouver"
     Country "Canada"
     Longitude -123.11934
     Internal 1
@@ -125,7 +126,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Bellingham"
     Country "United States"
     Longitude -122.48822
     Internal 1
@@ -133,7 +134,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "Mt Vernon"
     Country "United States"
     Longitude -122.33405
     Internal 1
@@ -141,7 +142,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "Everett"
     Country "United States"
     Longitude -122.20208
     Internal 1
@@ -149,7 +150,7 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "Westin - Seattle"
     Country "United States"
     Longitude -122.3377
     Internal 1
@@ -157,7 +158,7 @@ graph [
   ]
   node [
     id 16
-    label "16"
+    label "Tacoma"
     Country "United States"
     Longitude -122.44429
     Internal 1
@@ -165,7 +166,7 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "Olympia"
     Country "United States"
     Longitude -122.9007
     Internal 1
@@ -173,7 +174,7 @@ graph [
   ]
   node [
     id 18
-    label "18"
+    label "Portland"
     Country "United States"
     Longitude -122.67621
     Internal 1

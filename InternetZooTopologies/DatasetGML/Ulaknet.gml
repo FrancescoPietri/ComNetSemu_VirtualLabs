@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "21/10/10"
   GeoLocation "Turkey"
   GeoExtent "Country"
@@ -30,7 +31,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Denizli"
     Country "Turkey"
     Longitude 29.0875
     Internal 1
@@ -39,7 +40,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Usak"
     Country "Turkey"
     Longitude 29.4058
     Internal 1
@@ -48,7 +49,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Aydin"
     Country "Turkey"
     Longitude 27.83963
     Internal 1
@@ -57,7 +58,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Mugla"
     Country "Turkey"
     Longitude 28.3665
     Internal 1
@@ -66,7 +67,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Burdur"
     Country "Turkey"
     Longitude 30.29083
     Internal 1
@@ -75,7 +76,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Antalya"
     Country "Turkey"
     Longitude 30.68972
     Internal 1
@@ -84,7 +85,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Afyonkarahisar"
     Country "Turkey"
     Longitude 30.54333
     Internal 1
@@ -93,7 +94,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Isparta"
     Country "Turkey"
     Longitude 30.55222
     Internal 1
@@ -102,7 +103,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Batman"
     Country "Turkey"
     Longitude 41.13221
     Internal 1
@@ -111,7 +112,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Siirt"
     Country "Turkey"
     Longitude 41.94025
     Internal 1
@@ -120,13 +121,13 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Gazimagusa"
     Internal 1
     type "Yellow Colour"
   ]
   node [
     id 11
-    label "11"
+    label "Yalova"
     Country "Turkey"
     Longitude 29.27693
     Internal 1
@@ -135,7 +136,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Amasya"
     Country "Turkey"
     Longitude 35.83306
     Internal 1
@@ -144,7 +145,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "Tokat"
     Country "Turkey"
     Longitude 36.55444
     Internal 1
@@ -153,7 +154,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "Nigde"
     Country "Turkey"
     Longitude 34.67935
     Internal 1
@@ -162,7 +163,7 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "Hatay"
     Country "Turkey"
     Longitude 36.15722
     Internal 1
@@ -171,7 +172,7 @@ graph [
   ]
   node [
     id 16
-    label "16"
+    label "Adiyaman"
     Country "Turkey"
     Longitude 38.27629
     Internal 1
@@ -180,13 +181,13 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "K. Maras"
     Internal 1
     type "Yellow Colour"
   ]
   node [
     id 18
-    label "18"
+    label "Erzurum"
     Country "Turkey"
     Longitude 41.27694
     Internal 1
@@ -195,7 +196,7 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "Bartin"
     Country "Turkey"
     Longitude 32.3375
     Internal 1
@@ -204,7 +205,7 @@ graph [
   ]
   node [
     id 20
-    label "20"
+    label "Karabuk"
     Country "Turkey"
     Longitude 32.62768
     Internal 1
@@ -213,7 +214,7 @@ graph [
   ]
   node [
     id 21
-    label "21"
+    label "Mersin"
     Country "Turkey"
     Longitude 34.61792
     Internal 1
@@ -222,7 +223,7 @@ graph [
   ]
   node [
     id 22
-    label "22"
+    label "Karaman"
     Country "Turkey"
     Longitude 33.215
     Internal 1
@@ -231,7 +232,7 @@ graph [
   ]
   node [
     id 23
-    label "23"
+    label "Aksaray"
     Country "Turkey"
     Longitude 34.02537
     Internal 1
@@ -240,7 +241,7 @@ graph [
   ]
   node [
     id 24
-    label "24"
+    label "Konya"
     Country "Turkey"
     Longitude 32.4825
     Internal 1
@@ -249,7 +250,7 @@ graph [
   ]
   node [
     id 25
-    label "25"
+    label "Sinop"
     Country "Turkey"
     Longitude 35.17124
     Internal 1
@@ -258,7 +259,7 @@ graph [
   ]
   node [
     id 26
-    label "26"
+    label "Samsun"
     Country "Turkey"
     Longitude 36.33
     Internal 1
@@ -267,7 +268,7 @@ graph [
   ]
   node [
     id 27
-    label "27"
+    label "Adana"
     Country "Turkey"
     Longitude 35.32889
     Internal 1
@@ -276,7 +277,7 @@ graph [
   ]
   node [
     id 28
-    label "28"
+    label "Bilecik"
     Country "Turkey"
     Longitude 29.97932
     Internal 1
@@ -285,7 +286,7 @@ graph [
   ]
   node [
     id 29
-    label "29"
+    label "Giresun"
     Country "Turkey"
     Longitude 38.38741
     Internal 1
@@ -294,7 +295,7 @@ graph [
   ]
   node [
     id 30
-    label "30"
+    label "Hakkari"
     Country "Turkey"
     Longitude 43.74083
     Internal 1
@@ -303,7 +304,7 @@ graph [
   ]
   node [
     id 31
-    label "31"
+    label "Elazig"
     Country "Turkey"
     Longitude 39.22321
     Internal 1
@@ -312,7 +313,7 @@ graph [
   ]
   node [
     id 32
-    label "32"
+    label "Ardahan"
     Country "Turkey"
     Longitude 42.70222
     Internal 1
@@ -321,7 +322,7 @@ graph [
   ]
   node [
     id 33
-    label "33"
+    label "Artvin"
     Country "Turkey"
     Longitude 41.81944
     Internal 1
@@ -330,7 +331,7 @@ graph [
   ]
   node [
     id 34
-    label "34"
+    label "Corum"
     Country "Turkey"
     Longitude 34.95333
     Internal 1
@@ -339,7 +340,7 @@ graph [
   ]
   node [
     id 35
-    label "35"
+    label "Bingol"
     Country "Turkey"
     Longitude 40.49389
     Internal 1
@@ -348,7 +349,7 @@ graph [
   ]
   node [
     id 36
-    label "36"
+    label "Van"
     Country "Turkey"
     Longitude 43.38311
     Internal 1
@@ -357,7 +358,7 @@ graph [
   ]
   node [
     id 37
-    label "37"
+    label "Osmaniye"
     Country "Turkey"
     Longitude 36.24778
     Internal 1
@@ -366,7 +367,7 @@ graph [
   ]
   node [
     id 38
-    label "38"
+    label "Agri"
     Country "Turkey"
     Longitude 43.05139
     Internal 1
@@ -375,7 +376,7 @@ graph [
   ]
   node [
     id 39
-    label "39"
+    label "Ordu"
     Country "Turkey"
     Longitude 37.87889
     Internal 1
@@ -384,7 +385,7 @@ graph [
   ]
   node [
     id 40
-    label "40"
+    label "Mardin"
     Country "Turkey"
     Longitude 40.74357
     Internal 1
@@ -393,7 +394,7 @@ graph [
   ]
   node [
     id 41
-    label "41"
+    label "Malatya"
     Country "Turkey"
     Longitude 38.31667
     Internal 1
@@ -402,7 +403,7 @@ graph [
   ]
   node [
     id 42
-    label "42"
+    label "Sirnak"
     Country "Turkey"
     Longitude 42.45944
     Internal 1
@@ -411,7 +412,7 @@ graph [
   ]
   node [
     id 43
-    label "43"
+    label "Diyarbakir"
     Country "Turkey"
     Longitude 40.21889
     Internal 1
@@ -420,7 +421,7 @@ graph [
   ]
   node [
     id 44
-    label "44"
+    label "Yozgat"
     Country "Turkey"
     Longitude 34.80444
     Internal 1
@@ -429,7 +430,7 @@ graph [
   ]
   node [
     id 45
-    label "45"
+    label "Kayseri"
     Country "Turkey"
     Longitude 35.48528
     Internal 1
@@ -438,7 +439,7 @@ graph [
   ]
   node [
     id 46
-    label "46"
+    label "Kars"
     Country "Turkey"
     Longitude 43.09495
     Internal 1
@@ -447,7 +448,7 @@ graph [
   ]
   node [
     id 47
-    label "47"
+    label "Nevsehir"
     Country "Turkey"
     Longitude 34.71222
     Internal 1
@@ -456,7 +457,7 @@ graph [
   ]
   node [
     id 48
-    label "48"
+    label "Gaziantep"
     Country "Turkey"
     Longitude 37.3825
     Internal 1
@@ -465,7 +466,7 @@ graph [
   ]
   node [
     id 49
-    label "49"
+    label "Kirikkale"
     Country "Turkey"
     Longitude 33.50639
     Internal 1
@@ -474,7 +475,7 @@ graph [
   ]
   node [
     id 50
-    label "50"
+    label "Kilis"
     Country "Turkey"
     Longitude 37.115
     Internal 1
@@ -483,12 +484,12 @@ graph [
   ]
   node [
     id 51
-    label "51"
+    label "GEANT"
     Internal 0
   ]
   node [
     id 52
-    label "52"
+    label "Kirsehir"
     Country "Turkey"
     Longitude 34.16389
     Internal 1
@@ -497,7 +498,7 @@ graph [
   ]
   node [
     id 53
-    label "53"
+    label "Cankiri"
     Country "Turkey"
     Longitude 33.6153
     Internal 1
@@ -506,7 +507,7 @@ graph [
   ]
   node [
     id 54
-    label "54"
+    label "Kastamonu"
     Country "Turkey"
     Longitude 33.77528
     Internal 1
@@ -515,7 +516,7 @@ graph [
   ]
   node [
     id 55
-    label "55"
+    label "Mus"
     Country "Turkey"
     Longitude 41.50693
     Internal 1
@@ -524,7 +525,7 @@ graph [
   ]
   node [
     id 56
-    label "56"
+    label "Eskisehir"
     Country "Turkey"
     Longitude 30.52056
     Internal 1
@@ -533,7 +534,7 @@ graph [
   ]
   node [
     id 57
-    label "57"
+    label "Kocaeli"
     Country "Turkey"
     Longitude 29.91694
     Internal 1
@@ -542,7 +543,7 @@ graph [
   ]
   node [
     id 58
-    label "58"
+    label "Sakarya"
     Country "Turkey"
     Longitude 30.40333
     Internal 1
@@ -551,7 +552,7 @@ graph [
   ]
   node [
     id 59
-    label "59"
+    label "Bitlis"
     Country "Turkey"
     Longitude 42.10784
     Internal 1
@@ -560,7 +561,7 @@ graph [
   ]
   node [
     id 60
-    label "60"
+    label "Bursa"
     Country "Turkey"
     Longitude 29.06111
     Internal 1
@@ -569,7 +570,7 @@ graph [
   ]
   node [
     id 61
-    label "61"
+    label "Bolu"
     Country "Turkey"
     Longitude 31.60611
     Internal 1
@@ -578,7 +579,7 @@ graph [
   ]
   node [
     id 62
-    label "62"
+    label "Duzce"
     Country "Turkey"
     Longitude 31.16389
     Internal 1
@@ -587,7 +588,7 @@ graph [
   ]
   node [
     id 63
-    label "63"
+    label "Zonguldak"
     Country "Turkey"
     Longitude 31.79305
     Internal 1
@@ -596,7 +597,7 @@ graph [
   ]
   node [
     id 64
-    label "64"
+    label "Rize"
     Country "Turkey"
     Longitude 40.52194
     Internal 1
@@ -605,23 +606,23 @@ graph [
   ]
   node [
     id 65
-    label "65"
+    label "S. Urfa"
     Internal 1
     type "Yellow Colour"
   ]
   node [
     id 66
-    label "66"
+    label "Internet"
     Internal 0
   ]
   node [
     id 67
-    label "67"
+    label "Internet"
     Internal 0
   ]
   node [
     id 68
-    label "68"
+    label "Trabzon"
     Country "Turkey"
     Longitude 39.72694
     Internal 1
@@ -630,7 +631,7 @@ graph [
   ]
   node [
     id 69
-    label "69"
+    label "Igdir"
     Country "Turkey"
     Longitude 44.045
     Internal 1
@@ -639,7 +640,7 @@ graph [
   ]
   node [
     id 70
-    label "70"
+    label "Manisa"
     Country "Turkey"
     Longitude 27.42646
     Internal 1
@@ -648,7 +649,7 @@ graph [
   ]
   node [
     id 71
-    label "71"
+    label "Kutahya"
     Country "Turkey"
     Longitude 29.98333
     Internal 1
@@ -657,7 +658,7 @@ graph [
   ]
   node [
     id 72
-    label "72"
+    label "Erzincan"
     Country "Turkey"
     Longitude 39.49278
     Internal 1
@@ -666,7 +667,7 @@ graph [
   ]
   node [
     id 73
-    label "73"
+    label "Sivas"
     Country "Turkey"
     Longitude 37.01611
     Internal 1
@@ -675,7 +676,7 @@ graph [
   ]
   node [
     id 74
-    label "74"
+    label "Istanbul"
     Country "Turkey"
     Longitude 28.94966
     Internal 1
@@ -684,7 +685,7 @@ graph [
   ]
   node [
     id 75
-    label "75"
+    label "iZMiR"
     Country "Turkey"
     Longitude 27.13838
     Internal 1
@@ -693,7 +694,7 @@ graph [
   ]
   node [
     id 76
-    label "76"
+    label "Ankara"
     Country "Turkey"
     Longitude 32.85427
     Internal 1
@@ -702,7 +703,7 @@ graph [
   ]
   node [
     id 77
-    label "77"
+    label "Kirklareli"
     Country "Turkey"
     Longitude 27.22521
     Internal 1
@@ -711,7 +712,7 @@ graph [
   ]
   node [
     id 78
-    label "78"
+    label "Tekirdag"
     Country "Turkey"
     Longitude 27.50852
     Internal 1
@@ -720,7 +721,7 @@ graph [
   ]
   node [
     id 79
-    label "79"
+    label "Edirne"
     Country "Turkey"
     Longitude 26.55597
     Internal 1
@@ -729,7 +730,7 @@ graph [
   ]
   node [
     id 80
-    label "80"
+    label "Canakkale"
     Country "Turkey"
     Longitude 26.40639
     Internal 1
@@ -738,7 +739,7 @@ graph [
   ]
   node [
     id 81
-    label "81"
+    label "Balikesin"
     Country "Turkey"
     Longitude 27.88611
     Internal 1

@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "3/02/11"
   GeoLocation "Malaysia"
   GeoExtent "Country"
@@ -30,13 +31,13 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "UiTM"
     Internal 1
     type "Member"
   ]
   node [
     id 1
-    label "1"
+    label "UTP"
     Country "Malaysia"
     Longitude 101.0829
     Internal 1
@@ -45,7 +46,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "UUM"
     Country "Malaysia"
     Longitude 100.5574
     Internal 1
@@ -54,7 +55,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "UM"
     Country "Malaysia"
     Longitude 101.68653
     Internal 1
@@ -63,7 +64,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "UNIMAS"
     Country "Malaysia"
     Longitude 110.33333
     Internal 1
@@ -72,7 +73,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "UMS"
     Country "Malaysia"
     Longitude 116.06667
     Internal 1
@@ -81,25 +82,25 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "IUM"
     Internal 1
     type "Member"
   ]
   node [
     id 7
-    label "7"
+    label "UPSI"
     Internal 1
     type "Member"
   ]
   node [
     id 8
-    label "8"
+    label "Nottingham Malaysia"
     Internal 1
     type "Member"
   ]
   node [
     id 9
-    label "9"
+    label "UPM"
     Country "Malaysia"
     Longitude 100.62476
     Internal 1
@@ -108,13 +109,13 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "UTHM"
     Internal 1
     type "Member"
   ]
   node [
     id 11
-    label "11"
+    label "UTM"
     Country "Malaysia"
     Longitude 103.7578
     Internal 1
@@ -123,13 +124,13 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "UMT"
     Internal 1
     type "Member"
   ]
   node [
     id 13
-    label "13"
+    label "UMK"
     Country "Malaysia"
     Longitude 102.2386
     Internal 1
@@ -138,13 +139,13 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "UDM"
     Internal 1
     type "Member"
   ]
   node [
     id 15
-    label "15"
+    label "UMP"
     Country "Malaysia"
     Longitude 103.326
     Internal 1
@@ -153,25 +154,25 @@ graph [
   ]
   node [
     id 16
-    label "16"
+    label "UPNIM"
     Internal 1
     type "Member"
   ]
   node [
     id 17
-    label "17"
+    label "UTeM"
     Internal 1
     type "Member"
   ]
   node [
     id 18
-    label "18"
+    label "NOC"
     Internal 1
     type "Member"
   ]
   node [
     id 19
-    label "19"
+    label "UKM"
     Country "Malaysia"
     Longitude 101.8157
     Internal 1
@@ -180,7 +181,7 @@ graph [
   ]
   node [
     id 20
-    label "20"
+    label "MMU"
     Country "Malaysia"
     Longitude 101.65718
     Internal 1
@@ -189,7 +190,7 @@ graph [
   ]
   node [
     id 21
-    label "21"
+    label "USIM"
     Country "Malaysia"
     Longitude 101.93333
     Internal 1
@@ -198,7 +199,7 @@ graph [
   ]
   node [
     id 22
-    label "22"
+    label "UNITEN"
     Country "Malaysia"
     Longitude 103.326
     Internal 1
@@ -207,13 +208,13 @@ graph [
   ]
   node [
     id 23
-    label "23"
+    label "MIMOS"
     Internal 1
     type "Member"
   ]
   node [
     id 24
-    label "24"
+    label "Monash Malaysia"
     Country "Malaysia"
     Longitude 101.60671
     Internal 1
@@ -222,19 +223,19 @@ graph [
   ]
   node [
     id 25
-    label "25"
+    label "TMRnD"
     Internal 1
     type "Member"
   ]
   node [
     id 26
-    label "26"
+    label "MoHE"
     Internal 1
     type "Member"
   ]
   node [
     id 27
-    label "27"
+    label "USM"
     Country "Malaysia"
     Longitude 100.33543
     Internal 1
@@ -243,13 +244,13 @@ graph [
   ]
   node [
     id 28
-    label "28"
+    label "UniMAP"
     Internal 1
     type "Member"
   ]
   node [
     id 29
-    label "29"
+    label "Cyberjaya PoP (NOC)"
     Country "Malaysia"
     Longitude 101.65718
     Internal 1
@@ -258,13 +259,13 @@ graph [
   ]
   node [
     id 30
-    label "30"
+    label "Border Router"
     Internal 1
     type "Router"
   ]
   node [
     id 31
-    label "31"
+    label "South PoP (UTM)"
     Country "Malaysia"
     Longitude 103.7578
     Internal 1
@@ -273,7 +274,7 @@ graph [
   ]
   node [
     id 32
-    label "32"
+    label "East Coast PoP (UMP)"
     Country "Malaysia"
     Longitude 103.326
     Internal 1
@@ -282,7 +283,7 @@ graph [
   ]
   node [
     id 33
-    label "33"
+    label "North PoP (USM)"
     Country "Malaysia"
     Longitude 100.33543
     Internal 1
@@ -291,7 +292,7 @@ graph [
   ]
   node [
     id 34
-    label "34"
+    label "KL PoP (UM)"
     Country "Malaysia"
     Longitude 101.68653
     Internal 1
@@ -300,12 +301,12 @@ graph [
   ]
   node [
     id 35
-    label "35"
+    label "TEIN3"
     Internal 0
   ]
   node [
     id 36
-    label "36"
+    label "Commodity Internet"
     Internal 0
   ]
   edge [
@@ -559,6 +560,14 @@ graph [
   edge [
     source 29
     target 34
+    LinkSpeed "1"
+    LinkLabel "1 Gbps"
+    LinkSpeedUnits "G"
+    LinkSpeedRaw 1000000000.0
+  ]
+  edge [
+    source 29
+    target 30
     LinkSpeed "1"
     LinkLabel "1 Gbps"
     LinkSpeedUnits "G"

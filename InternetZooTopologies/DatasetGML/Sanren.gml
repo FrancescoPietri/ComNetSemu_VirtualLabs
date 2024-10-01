@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "3/02/11"
   GeoLocation "South Africa"
   GeoExtent "Country"
@@ -30,7 +31,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Johannesburg"
     Country "South Africa"
     Longitude 28.04363
     Internal 1
@@ -38,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Pretoria"
     Country "South Africa"
     Longitude 28.18783
     Internal 1
@@ -46,7 +47,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Durban"
     Country "South Africa"
     Longitude 31.01667
     Internal 1
@@ -54,7 +55,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Bloemfontein"
     Country "South Africa"
     Longitude 26.2
     Internal 1
@@ -62,7 +63,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "East London"
     Country "South Africa"
     Longitude 27.91162
     Internal 1
@@ -70,7 +71,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Port Elizabeth"
     Country "South Africa"
     Longitude 25.58333
     Internal 1
@@ -78,7 +79,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Cape Town"
     Country "South Africa"
     Longitude 18.41667
     Internal 1

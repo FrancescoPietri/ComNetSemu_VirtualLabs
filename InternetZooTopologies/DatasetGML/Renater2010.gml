@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "1/02/11"
   GeoLocation "France"
   GeoExtent "Country"
@@ -30,7 +31,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Bordeaux"
     Country "France"
     Longitude -0.56667
     Internal 1
@@ -39,7 +40,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Pau"
     Country "France"
     Longitude -0.36667
     Internal 1
@@ -48,7 +49,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Orleans"
     Country "France"
     Longitude 1.9
     Internal 1
@@ -57,7 +58,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Limoges"
     Country "France"
     Longitude 1.2578
     Internal 1
@@ -66,7 +67,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Clermont-Ferrand"
     Country "France"
     Longitude 3.08333
     Internal 1
@@ -75,7 +76,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Dijon"
     Country "France"
     Longitude 5.01667
     Internal 1
@@ -84,7 +85,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Toulouse"
     Country "France"
     Longitude 1.44367
     Internal 1
@@ -93,7 +94,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Montpellier"
     Country "France"
     Longitude 3.88333
     Internal 1
@@ -102,7 +103,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Besancon"
     Country "France"
     Longitude 6.03333
     Internal 1
@@ -111,7 +112,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Grenoble"
     Country "France"
     Longitude 5.71667
     Internal 1
@@ -120,7 +121,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Lannion"
     Country "France"
     Longitude -3.46667
     Internal 1
@@ -129,7 +130,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "Brest"
     Country "France"
     Longitude -4.48333
     Internal 1
@@ -138,7 +139,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Le Mans"
     Country "France"
     Longitude 0.2
     Internal 1
@@ -147,7 +148,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "Tours"
     Country "France"
     Longitude 0.68333
     Internal 1
@@ -156,7 +157,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "Vierzon"
     Country "France"
     Longitude 2.08333
     Internal 1
@@ -165,7 +166,7 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "Geneve"
     Country "Switzerland"
     Longitude 6.46906
     Internal 1
@@ -174,7 +175,7 @@ graph [
   ]
   node [
     id 16
-    label "16"
+    label "Vannes"
     Country "France"
     Longitude -2.75
     Internal 1
@@ -183,7 +184,7 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "Loreient"
     Country "France"
     Longitude -3.36667
     Internal 1
@@ -192,7 +193,7 @@ graph [
   ]
   node [
     id 18
-    label "18"
+    label "Quimper"
     Country "France"
     Longitude -4.1
     Internal 1
@@ -201,7 +202,7 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "Saint-Brieuc"
     Country "France"
     Longitude -2.78333
     Internal 1
@@ -210,23 +211,23 @@ graph [
   ]
   node [
     id 20
-    label "20"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 21
-    label "21"
+    label "Outre Mer: Nouvelle Caledonie, Polynesie Francaise, La Reunion"
     Internal 0
   ]
   node [
     id 22
-    label "22"
+    label "Mayotte, Guadeloupe, Martinique, Guyane"
     Internal 0
   ]
   node [
     id 23
-    label "23"
+    label "Angers"
     Country "France"
     Longitude -0.55
     Internal 1
@@ -235,12 +236,12 @@ graph [
   ]
   node [
     id 24
-    label "24"
+    label "Geant2"
     Internal 0
   ]
   node [
     id 25
-    label "25"
+    label "Corte"
     Country "France"
     Longitude 9.15
     Internal 1
@@ -249,7 +250,7 @@ graph [
   ]
   node [
     id 26
-    label "26"
+    label "Cadarache"
     Country "France"
     Longitude 5.75
     Internal 1
@@ -258,7 +259,7 @@ graph [
   ]
   node [
     id 27
-    label "27"
+    label "Marseille"
     Country "France"
     Longitude 5.4
     Internal 1
@@ -267,7 +268,7 @@ graph [
   ]
   node [
     id 28
-    label "28"
+    label "Nice"
     Country "France"
     Longitude 7.26608
     Internal 1
@@ -276,17 +277,17 @@ graph [
   ]
   node [
     id 29
-    label "29"
+    label "SFINX"
     Internal 0
   ]
   node [
     id 30
-    label "30"
+    label "Internet mondial"
     Internal 0
   ]
   node [
     id 31
-    label "31"
+    label "Lyon"
     Country "France"
     Longitude 4.85
     Internal 1
@@ -295,7 +296,7 @@ graph [
   ]
   node [
     id 32
-    label "32"
+    label "Paris"
     Country "France"
     Longitude 2.3488
     Internal 1
@@ -304,7 +305,7 @@ graph [
   ]
   node [
     id 33
-    label "33"
+    label "Nantes"
     Country "France"
     Longitude -1.55336
     Internal 1
@@ -313,7 +314,7 @@ graph [
   ]
   node [
     id 34
-    label "34"
+    label "Poiters"
     Country "France"
     Longitude 0.33333
     Internal 1
@@ -322,7 +323,7 @@ graph [
   ]
   node [
     id 35
-    label "35"
+    label "Strasbourg"
     Country "France"
     Longitude 7.75
     Internal 1
@@ -331,7 +332,7 @@ graph [
   ]
   node [
     id 36
-    label "36"
+    label "Nancy"
     Country "France"
     Longitude 6.2
     Internal 1
@@ -340,7 +341,7 @@ graph [
   ]
   node [
     id 37
-    label "37"
+    label "Reims"
     Country "France"
     Longitude 4.03333
     Internal 1
@@ -349,7 +350,7 @@ graph [
   ]
   node [
     id 38
-    label "38"
+    label "Compiegne"
     Country "France"
     Longitude 2.82606
     Internal 1
@@ -358,7 +359,7 @@ graph [
   ]
   node [
     id 39
-    label "39"
+    label "Lille"
     Country "France"
     Longitude 3.06667
     Internal 1
@@ -367,7 +368,7 @@ graph [
   ]
   node [
     id 40
-    label "40"
+    label "Rouen"
     Country "France"
     Longitude 1.09932
     Internal 1
@@ -376,7 +377,7 @@ graph [
   ]
   node [
     id 41
-    label "41"
+    label "Caen"
     Country "France"
     Longitude -0.35912
     Internal 1
@@ -385,7 +386,7 @@ graph [
   ]
   node [
     id 42
-    label "42"
+    label "Rennes"
     Country "France"
     Longitude -1.68333
     Internal 1

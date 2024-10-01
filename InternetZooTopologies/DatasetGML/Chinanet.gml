@@ -1,11 +1,12 @@
 graph [
+  multigraph 1
   DateObtained "19/10/10"
   GeoLocation "China"
   GeoExtent "Country"
   Network "China Telecom "
   Provenance "Primary"
   Access 0
-  Source "http://www.chinatelecomusa.com/content.asp?pl=627&#38;sl=637&#38;contentid=660&#38;id=1&#38;indexid=0"
+  Source "http://www.chinatelecomusa.com/content.asp?pl=627&amp;sl=637&amp;contentid=660&amp;id=1&amp;indexid=0"
   Version "1.0"
   Type "COM"
   DateType "Current"
@@ -29,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Lhasa"
     Country "China"
     Longitude 91.1
     Internal 1
@@ -38,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Lanzhou"
     Country "China"
     Longitude 103.79222
     Internal 1
@@ -47,7 +48,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Kashi"
     Country "China"
     Longitude 75.97972
     Internal 1
@@ -56,7 +57,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Shiquanhe"
     Country "China"
     Longitude 80.06667
     Internal 1
@@ -65,7 +66,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Jinan"
     Country "China"
     Longitude 116.99722
     Internal 1
@@ -74,7 +75,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Qingdao"
     Country "China"
     Longitude 120.37194
     Internal 1
@@ -83,7 +84,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Taiyuan"
     Country "China"
     Longitude 112.56028
     Internal 1
@@ -92,7 +93,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Shilazhuang"
     Country "China"
     Longitude 114.47861
     Internal 1
@@ -101,7 +102,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Shanghai"
     Country "China"
     Longitude 121.45806
     Internal 1
@@ -110,7 +111,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Suzhou"
     Country "China"
     Longitude 120.61806
     Internal 1
@@ -119,17 +120,17 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "International Link 1"
     Internal 0
   ]
   node [
     id 11
-    label "11"
+    label "International Link 2"
     Internal 0
   ]
   node [
     id 12
-    label "12"
+    label "Nanning"
     Country "China"
     Longitude 108.31667
     Internal 1
@@ -138,7 +139,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "Changsha"
     Country "China"
     Longitude 112.96667
     Internal 1
@@ -147,7 +148,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "Guiyang"
     Country "China"
     Longitude 106.71667
     Internal 1
@@ -156,7 +157,7 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "Chongqing"
     Country "China"
     Longitude 106.55278
     Internal 1
@@ -165,7 +166,7 @@ graph [
   ]
   node [
     id 16
-    label "16"
+    label "Chengdu"
     Country "China"
     Longitude 104.06667
     Internal 1
@@ -174,7 +175,7 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "Kunming"
     Country "China"
     Longitude 102.71833
     Internal 1
@@ -183,7 +184,7 @@ graph [
   ]
   node [
     id 18
-    label "18"
+    label "Xi'an"
     Country "China"
     Longitude 108.92861
     Internal 1
@@ -192,7 +193,7 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "Zhengzhou"
     Country "China"
     Longitude 113.64861
     Internal 1
@@ -201,17 +202,17 @@ graph [
   ]
   node [
     id 20
-    label "20"
+    label "International Link 4"
     Internal 0
   ]
   node [
     id 21
-    label "21"
+    label "International Link 3"
     Internal 0
   ]
   node [
     id 22
-    label "22"
+    label "Haikou"
     Country "China"
     Longitude 110.34167
     Internal 1
@@ -220,7 +221,7 @@ graph [
   ]
   node [
     id 23
-    label "23"
+    label "Hong Kong"
     Country "China"
     Longitude 100.51803
     Internal 1
@@ -229,7 +230,7 @@ graph [
   ]
   node [
     id 24
-    label "24"
+    label "Hangzhou"
     Country "China"
     Longitude 120.16889
     Internal 1
@@ -238,7 +239,7 @@ graph [
   ]
   node [
     id 25
-    label "25"
+    label "Wuhan"
     Country "China"
     Longitude 114.26667
     Internal 1
@@ -247,7 +248,7 @@ graph [
   ]
   node [
     id 26
-    label "26"
+    label "Hefei"
     Country "China"
     Longitude 117.28083
     Internal 1
@@ -256,7 +257,7 @@ graph [
   ]
   node [
     id 27
-    label "27"
+    label "Nanjing"
     Country "China"
     Longitude 118.77778
     Internal 1
@@ -265,7 +266,7 @@ graph [
   ]
   node [
     id 28
-    label "28"
+    label "Guangzhou"
     Country "China"
     Longitude 113.25
     Internal 1
@@ -274,7 +275,7 @@ graph [
   ]
   node [
     id 29
-    label "29"
+    label "Xiamen"
     Country "China"
     Longitude 118.08187
     Internal 1
@@ -283,7 +284,7 @@ graph [
   ]
   node [
     id 30
-    label "30"
+    label "Fuzhou"
     Country "China"
     Longitude 119.30611
     Internal 1
@@ -292,7 +293,7 @@ graph [
   ]
   node [
     id 31
-    label "31"
+    label "Nandhang"
     Country "China"
     Longitude 115.88333
     Internal 1
@@ -301,7 +302,7 @@ graph [
   ]
   node [
     id 32
-    label "32"
+    label "Xining"
     Country "China"
     Longitude 101.76667
     Internal 1
@@ -310,7 +311,7 @@ graph [
   ]
   node [
     id 33
-    label "33"
+    label "Urumqi"
     Country "China"
     Longitude 87.58333
     Internal 1
@@ -319,7 +320,7 @@ graph [
   ]
   node [
     id 34
-    label "34"
+    label "Harbin"
     Country "China"
     Longitude 126.65
     Internal 1
@@ -328,7 +329,7 @@ graph [
   ]
   node [
     id 35
-    label "35"
+    label "Changchun"
     Country "China"
     Longitude 125.32278
     Internal 1
@@ -337,7 +338,7 @@ graph [
   ]
   node [
     id 36
-    label "36"
+    label "Shenyang"
     Country "China"
     Longitude 123.43278
     Internal 1
@@ -346,7 +347,7 @@ graph [
   ]
   node [
     id 37
-    label "37"
+    label "Dalian"
     Country "China"
     Longitude 121.60222
     Internal 1
@@ -355,7 +356,7 @@ graph [
   ]
   node [
     id 38
-    label "38"
+    label "Tianjin"
     Country "China"
     Longitude 117.17667
     Internal 1
@@ -364,7 +365,7 @@ graph [
   ]
   node [
     id 39
-    label "39"
+    label "Beijing"
     Country "China"
     Longitude 116.39723
     Internal 1
@@ -373,7 +374,7 @@ graph [
   ]
   node [
     id 40
-    label "40"
+    label "Hohhot"
     Country "China"
     Longitude 111.65222
     Internal 1
@@ -382,7 +383,7 @@ graph [
   ]
   node [
     id 41
-    label "41"
+    label "Yinchuan"
     Country "China"
     Longitude 106.27306
     Internal 1

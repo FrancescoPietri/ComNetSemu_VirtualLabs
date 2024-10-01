@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "21/10/10"
   GeoLocation "Hong Kong"
   GeoExtent "Country"
@@ -29,108 +30,108 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "ASGCNET"
     Internal 0
   ]
   node [
     id 1
-    label "1"
+    label "KREPNET2"
     Internal 0
   ]
   node [
     id 2
-    label "2"
+    label "HKIX"
     Internal 1
     type "IX"
   ]
   node [
     id 3
-    label "3"
+    label "APAN-JP"
     Internal 0
   ]
   node [
     id 4
-    label "4"
+    label "International"
     Internal 0
   ]
   node [
     id 5
-    label "5"
+    label "CERNET"
     Internal 0
   ]
   node [
     id 6
-    label "6"
+    label "ASNET"
     Internal 0
   ]
   node [
     id 7
-    label "7"
+    label "GOOGLE"
     Internal 0
   ]
   node [
     id 8
-    label "8"
+    label "TEIN3"
     Internal 0
   ]
   node [
     id 9
-    label "9"
+    label "Vocational Training Council"
     Internal 0
   ]
   node [
     id 10
-    label "10"
+    label "HKEAA"
     Internal 0
   ]
   node [
     id 11
-    label "11"
+    label "Open Uni"
     Internal 0
   ]
   node [
     id 12
-    label "12"
+    label "Technology Park"
     Internal 0
   ]
   node [
     id 13
-    label "13"
+    label "LU"
     Internal 1
   ]
   node [
     id 14
-    label "14"
+    label "HKIEd"
     Internal 1
   ]
   node [
     id 15
-    label "15"
+    label "HKU"
     Internal 1
   ]
   node [
     id 16
-    label "16"
+    label "HKUST"
     Internal 1
   ]
   node [
     id 17
-    label "17"
+    label "PolyU"
     Internal 1
   ]
   node [
     id 18
-    label "18"
+    label "CUHK"
     Internal 1
   ]
   node [
     id 19
-    label "19"
+    label "CityU"
     Internal 1
   ]
   node [
     id 20
-    label "20"
+    label "HKBU"
     Internal 1
   ]
   edge [
@@ -237,6 +238,18 @@ graph [
   edge [
     source 15
     target 17
+    LinkType "Fiber"
+    LinkLabel "fiber"
+  ]
+  edge [
+    source 15
+    target 17
+    LinkType "Fiber"
+    LinkLabel "fiber"
+  ]
+  edge [
+    source 16
+    target 18
     LinkType "Fiber"
     LinkLabel "fiber"
   ]

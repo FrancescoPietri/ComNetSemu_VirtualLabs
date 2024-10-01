@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "22/10/10"
   GeoLocation "Slovakia"
   GeoExtent "Country"
@@ -29,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Zilina"
     Country "Slovakia"
     Longitude 18.73941
     Internal 1
@@ -38,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Prievidza"
     Country "Slovakia"
     Longitude 18.63333
     Internal 1
@@ -47,7 +48,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Trencin"
     Country "Slovakia"
     Longitude 18.04436
     Internal 1
@@ -56,7 +57,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Puchov"
     Country "Slovakia"
     Longitude 18.33333
     Internal 1
@@ -65,7 +66,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Martin"
     Country "Slovakia"
     Longitude 18.93333
     Internal 1
@@ -74,7 +75,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Ruzomberok"
     Country "Slovakia"
     Longitude 19.31667
     Internal 1
@@ -83,7 +84,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Zvolen"
     Country "Slovakia"
     Longitude 19.13333
     Internal 1
@@ -92,7 +93,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "B. Bystrica"
     Country "Slovakia"
     Longitude 19.15
     Internal 1
@@ -101,7 +102,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "L.Mikulas"
     Country "Slovakia"
     Longitude 19.62218
     Internal 1
@@ -110,7 +111,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "T.Lomnica"
     Country "Slovakia"
     Longitude 20.28128
     Internal 1
@@ -119,17 +120,17 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "ACOnet"
     Internal 0
   ]
   node [
     id 11
-    label "11"
+    label "VIX"
     Internal 0
   ]
   node [
     id 12
-    label "12"
+    label "Topolcany"
     Country "Slovakia"
     Longitude 18.18333
     Internal 1
@@ -138,7 +139,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "Levice"
     Country "Slovakia"
     Longitude 18.6
     Internal 1
@@ -147,7 +148,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "Nove Zamky"
     Country "Slovakia"
     Longitude 18.16195
     Internal 1
@@ -156,7 +157,7 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "Sala"
     Country "Slovakia"
     Longitude 17.88333
     Internal 1
@@ -165,43 +166,43 @@ graph [
   ]
   node [
     id 16
-    label "16"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 17
-    label "17"
+    label "PIONIER"
     Internal 0
   ]
   node [
     id 18
-    label "18"
+    label "NIX"
     Internal 0
   ]
   node [
     id 19
-    label "19"
+    label "CESNET"
     Internal 0
   ]
   node [
     id 20
-    label "20"
+    label "GEANT"
     Internal 0
   ]
   node [
     id 21
-    label "21"
+    label "SIX"
     Internal 0
   ]
   node [
     id 22
-    label "22"
+    label "GTS"
     Internal 0
   ]
   node [
     id 23
-    label "23"
+    label "Lucenec"
     Country "Slovakia"
     Longitude 19.66667
     Internal 1
@@ -210,7 +211,7 @@ graph [
   ]
   node [
     id 24
-    label "24"
+    label "R.Sobota"
     Country "Slovakia"
     Longitude 20.03333
     Internal 1
@@ -219,7 +220,7 @@ graph [
   ]
   node [
     id 25
-    label "25"
+    label "Michalovca"
     Country "Slovakia"
     Longitude 21.93333
     Internal 1
@@ -228,7 +229,7 @@ graph [
   ]
   node [
     id 26
-    label "26"
+    label "Humenne"
     Country "Slovakia"
     Longitude 21.91667
     Internal 1
@@ -237,7 +238,7 @@ graph [
   ]
   node [
     id 27
-    label "27"
+    label "Presov"
     Country "Slovakia"
     Longitude 21.25
     Internal 1
@@ -246,7 +247,7 @@ graph [
   ]
   node [
     id 28
-    label "28"
+    label "Poprad"
     Country "Slovakia"
     Longitude 20.3
     Internal 1
@@ -255,7 +256,7 @@ graph [
   ]
   node [
     id 29
-    label "29"
+    label "Spisska Nova Ves"
     Country "Slovakia"
     Longitude 20.56667
     Internal 1
@@ -264,7 +265,7 @@ graph [
   ]
   node [
     id 30
-    label "30"
+    label "Roznava"
     Country "Slovakia"
     Longitude 20.53333
     Internal 1
@@ -273,7 +274,7 @@ graph [
   ]
   node [
     id 31
-    label "31"
+    label "Kosice"
     Country "Slovakia"
     Longitude 21.25
     Internal 1
@@ -282,7 +283,7 @@ graph [
   ]
   node [
     id 32
-    label "32"
+    label "Trebisov"
     Country "Slovakia"
     Longitude 21.71667
     Internal 1
@@ -291,7 +292,7 @@ graph [
   ]
   node [
     id 33
-    label "33"
+    label "Piestany"
     Country "Slovakia"
     Longitude 17.83333
     Internal 1
@@ -300,7 +301,7 @@ graph [
   ]
   node [
     id 34
-    label "34"
+    label "Nove Mesto n. Vahom"
     Country "Slovakia"
     Longitude 17.8309
     Internal 1
@@ -309,7 +310,7 @@ graph [
   ]
   node [
     id 35
-    label "35"
+    label "Bielsko-Biala"
     Country "Poland"
     Longitude 19.03333
     Internal 1
@@ -318,7 +319,7 @@ graph [
   ]
   node [
     id 36
-    label "36"
+    label "Brno"
     Country "Czech Republic"
     Longitude 16.60796
     Internal 1
@@ -327,7 +328,7 @@ graph [
   ]
   node [
     id 37
-    label "37"
+    label "Vieden"
     Country "Austria"
     Longitude 16.37208
     Internal 1
@@ -336,7 +337,7 @@ graph [
   ]
   node [
     id 38
-    label "38"
+    label "Bratislava"
     Country "Slovakia"
     Longitude 17.10674
     Internal 1
@@ -345,7 +346,7 @@ graph [
   ]
   node [
     id 39
-    label "39"
+    label "Trnava"
     Country "Slovakia"
     Longitude 17.6
     Internal 1
@@ -354,7 +355,7 @@ graph [
   ]
   node [
     id 40
-    label "40"
+    label "Komarno"
     Country "Slovakia"
     Longitude 18.12263
     Internal 1
@@ -363,7 +364,7 @@ graph [
   ]
   node [
     id 41
-    label "41"
+    label "Hurbanovo"
     Country "Slovakia"
     Longitude 18.19233
     Internal 1
@@ -372,7 +373,7 @@ graph [
   ]
   node [
     id 42
-    label "42"
+    label "Nitra"
     Country "Slovakia"
     Longitude 18.08453
     Internal 1

@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "16/11/10"
   GeoLocation "Latin America"
   GeoExtent "Continent"
@@ -30,7 +31,7 @@ graph [
   Testbed 1
   node [
     id 0
-    label "0"
+    label "Montevideo"
     Country "Uruguay"
     Longitude -56.16735
     Internal 1
@@ -38,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Rosario"
     Country "Argentina"
     Longitude -60.66639
     Internal 1
@@ -46,7 +47,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Curitba"
     Country "Brazil"
     Longitude -49.27306
     Internal 1
@@ -54,7 +55,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Port Alegre"
     Country "Brazil"
     Longitude -51.23
     Internal 1
@@ -62,12 +63,12 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "?"
     Internal 1
   ]
   node [
     id 5
-    label "5"
+    label "La Paz"
     Country "Bolivia"
     Longitude -68.15
     Internal 1
@@ -75,7 +76,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Santiago"
     Country "Chile"
     Longitude -70.56656
     Internal 1
@@ -83,7 +84,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Santa Cruz"
     Country "Bolivia"
     Longitude -63.16667
     Internal 1
@@ -91,7 +92,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Lima"
     Country "Peru"
     Longitude -77.02824
     Internal 1
@@ -99,7 +100,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Cuenca"
     Country "Ecuador"
     Longitude -78.98333
     Internal 1
@@ -107,12 +108,12 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "?"
     Internal 1
   ]
   node [
     id 11
-    label "11"
+    label "Durango"
     Country "Mexico"
     Longitude -104.66667
     Internal 1
@@ -120,7 +121,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Guadajajara"
     Country "Mexico"
     Longitude -103.33333
     Internal 1
@@ -128,7 +129,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "Costa Rica"
     geocode_country "Costa Rica"
     Country "Costa Rica"
     Longitude -84.0
@@ -137,7 +138,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "Nicaragua"
     Country "Nicaragua"
     Longitude -86.2504
     Internal 1
@@ -145,7 +146,7 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "El Salvador"
     geocode_country "El Salvador"
     Country "El Salvador"
     Longitude -88.91667
@@ -154,7 +155,7 @@ graph [
   ]
   node [
     id 16
-    label "16"
+    label "Guatemala"
     Country "Guatemala"
     Longitude -90.51327
     Internal 1
@@ -162,7 +163,7 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "Mexico City"
     Country "Mexico"
     Longitude -99.12766
     Internal 1
@@ -170,22 +171,22 @@ graph [
   ]
   node [
     id 18
-    label "18"
+    label "?"
     Internal 1
   ]
   node [
     id 19
-    label "19"
+    label "?"
     Internal 1
   ]
   node [
     id 20
-    label "20"
+    label "?"
     Internal 1
   ]
   node [
     id 21
-    label "21"
+    label "Guayaquil"
     Country "Ecuador"
     Longitude -79.9
     Internal 1
@@ -193,7 +194,7 @@ graph [
   ]
   node [
     id 22
-    label "22"
+    label "Mendoza"
     Country "Argentina"
     Longitude -68.81667
     Internal 1
@@ -201,12 +202,12 @@ graph [
   ]
   node [
     id 23
-    label "23"
+    label "Miami"
     Internal 0
   ]
   node [
     id 24
-    label "24"
+    label "Monterey"
     Country "Mexico"
     Longitude -98.91667
     Internal 1
@@ -214,27 +215,27 @@ graph [
   ]
   node [
     id 25
-    label "25"
+    label "?"
     Internal 1
   ]
   node [
     id 26
-    label "26"
+    label "?"
     Internal 1
   ]
   node [
     id 27
-    label "27"
+    label "?"
     Internal 1
   ]
   node [
     id 28
-    label "28"
+    label "?"
     Internal 1
   ]
   node [
     id 29
-    label "29"
+    label "Sao Paulo"
     Country "Brazil"
     Longitude -46.63611
     Internal 1
@@ -242,7 +243,7 @@ graph [
   ]
   node [
     id 30
-    label "30"
+    label "Caracas"
     Country "Venezuela"
     Longitude -66.91667
     Internal 1
@@ -250,7 +251,7 @@ graph [
   ]
   node [
     id 31
-    label "31"
+    label "Honduras"
     Country "Honduras"
     Longitude -87.20681
     Internal 1
@@ -258,7 +259,7 @@ graph [
   ]
   node [
     id 32
-    label "32"
+    label "Jamaica"
     Country "Jamaica"
     Longitude -76.79358
     Internal 1
@@ -266,12 +267,12 @@ graph [
   ]
   node [
     id 33
-    label "33"
+    label "?"
     Internal 1
   ]
   node [
     id 34
-    label "34"
+    label "Cali"
     Country "Colombia"
     Longitude -76.5225
     Internal 1
@@ -279,7 +280,7 @@ graph [
   ]
   node [
     id 35
-    label "35"
+    label "Bogota"
     Country "Colombia"
     Longitude -74.08175
     Internal 1
@@ -287,7 +288,7 @@ graph [
   ]
   node [
     id 36
-    label "36"
+    label "Quito"
     Country "Ecuador"
     Longitude -78.52495
     Internal 1
@@ -295,7 +296,7 @@ graph [
   ]
   node [
     id 37
-    label "37"
+    label "Puerto Rico"
     Country "Puerto Rico"
     Longitude -66.10572
     Internal 1
@@ -303,7 +304,7 @@ graph [
   ]
   node [
     id 38
-    label "38"
+    label "Trinidad and Tobago"
     Country "Trinidad and Tobago"
     Longitude -61.51657
     Internal 1
@@ -311,17 +312,17 @@ graph [
   ]
   node [
     id 39
-    label "39"
+    label "?"
     Internal 1
   ]
   node [
     id 40
-    label "40"
+    label "?"
     Internal 1
   ]
   node [
     id 41
-    label "41"
+    label "Rio De Janeiro"
     Country "Brazil"
     Longitude -43.2075
     Internal 1
@@ -329,7 +330,7 @@ graph [
   ]
   node [
     id 42
-    label "42"
+    label "Londrina"
     Country "Brazil"
     Longitude -51.16278
     Internal 1
@@ -337,7 +338,7 @@ graph [
   ]
   node [
     id 43
-    label "43"
+    label "Sucre"
     Country "Bolivia"
     Longitude -65.26274
     Internal 1
@@ -345,7 +346,7 @@ graph [
   ]
   node [
     id 44
-    label "44"
+    label "Tarija"
     Country "Bolivia"
     Longitude -64.72956
     Internal 1
@@ -353,7 +354,7 @@ graph [
   ]
   node [
     id 45
-    label "45"
+    label "Cordoba"
     Country "Argentina"
     Longitude -64.18333
     Internal 1
@@ -361,7 +362,7 @@ graph [
   ]
   node [
     id 46
-    label "46"
+    label "Buenos Aires"
     Country "Argentina"
     Longitude -58.37723
     Internal 1
@@ -369,17 +370,17 @@ graph [
   ]
   node [
     id 47
-    label "47"
+    label "New York"
     Internal 0
   ]
   node [
     id 48
-    label "48"
+    label "Fort Lauderdale"
     Internal 0
   ]
   node [
     id 49
-    label "49"
+    label "Brasilia"
     Country "Brazil"
     Longitude -47.92972
     Internal 1
@@ -387,7 +388,7 @@ graph [
   ]
   node [
     id 50
-    label "50"
+    label "Belo Horizonte"
     Country "Brazil"
     Longitude -43.93778
     Internal 1

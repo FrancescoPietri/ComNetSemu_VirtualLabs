@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "22/10/10"
   GeoLocation "Beijing, China"
   GeoExtent "Metro"
@@ -30,58 +31,58 @@ graph [
   Testbed 1
   node [
     id 0
-    label "0"
+    label "Peking University"
     Internal 1
     type "Router"
   ]
   node [
     id 1
-    label "1"
+    label "CERNET"
     Internal 0
   ]
   node [
     id 2
-    label "2"
+    label "APAN/STAR"
     Internal 0
   ]
   node [
     id 3
-    label "3"
+    label "CERNET"
     Internal 0
   ]
   node [
     id 4
-    label "4"
+    label "Tsinghua Unviersity"
     Internal 1
     type "Router"
   ]
   node [
     id 5
-    label "5"
+    label "Natural Science Foundation of China"
     Internal 1
     type "Router"
   ]
   node [
     id 6
-    label "6"
+    label "Beijing University of Posts and Telecommunications"
     Internal 1
     type "Router"
   ]
   node [
     id 7
-    label "7"
+    label "Beijing University of Aeronautics and Astronautics"
     Internal 1
     type "Router"
   ]
   node [
     id 8
-    label "8"
+    label "China Academy of Sciences"
     Internal 1
     type "Router"
   ]
   node [
     id 9
-    label "9"
+    label "CSTNET"
     Internal 0
   ]
   edge [

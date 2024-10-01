@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "14/01/11"
   GeoLocation "USA"
   GeoExtent "Country"
@@ -30,7 +31,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Seattle"
     Country "United States"
     Longitude -122.33207
     Internal 1
@@ -38,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "San Jose"
     Country "United States"
     Longitude -121.89496
     Internal 1
@@ -46,7 +47,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Minneapolis"
     Country "United States"
     Longitude -93.26384
     Internal 1
@@ -54,7 +55,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Chicago"
     Country "United States"
     Longitude -87.65005
     Internal 1
@@ -62,7 +63,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Vienna"
     Country "United States"
     Longitude -77.26526
     Internal 1
@@ -70,7 +71,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Dallas"
     Country "United States"
     Longitude -96.80667
     Internal 1

@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "21/10/10"
   GeoLocation "Denmark"
   GeoExtent "Country"
@@ -30,7 +31,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Odense"
     Country "Denmark"
     Longitude 10.38831
     Internal 1
@@ -39,7 +40,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Nyborg"
     Country "Denmark"
     Longitude 10.78964
     Internal 1
@@ -48,7 +49,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Vejle"
     Country "Denmark"
     Longitude 9.5357
     Internal 1
@@ -57,7 +58,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Kolding"
     Country "Denmark"
     Longitude 9.47216
     Internal 1
@@ -66,7 +67,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Holbaek"
     Country "Denmark"
     Longitude 11.71667
     Internal 1
@@ -75,7 +76,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Lyngby"
     Country "Denmark"
     Longitude 12.50378
     Internal 1
@@ -84,7 +85,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Slagelse"
     Country "Denmark"
     Longitude 11.35459
     Internal 1
@@ -93,7 +94,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Naestved"
     Country "Denmark"
     Longitude 11.54766
     Internal 1
@@ -102,7 +103,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Orestad"
     Country "Denmark"
     Longitude 12.60035
     Internal 1
@@ -111,46 +112,46 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "None"
     Internal 1
     type "Lower speed connection"
   ]
   node [
     id 10
-    label "10"
+    label "NORDUnet"
     Internal 0
   ]
   node [
     id 11
-    label "11"
+    label "NORDUnet"
     Internal 0
   ]
   node [
     id 12
-    label "12"
+    label "None"
     Internal 1
     type "Lower speed connection"
   ]
   node [
     id 13
-    label "13"
+    label "None"
     Internal 1
     type "Lower speed connection"
   ]
   node [
     id 14
-    label "14"
+    label "None"
     Internal 0
   ]
   node [
     id 15
-    label "15"
+    label "None"
     Internal 1
     type "Lower speed connection"
   ]
   node [
     id 16
-    label "16"
+    label "Herning"
     Country "Denmark"
     Longitude 8.97378
     Internal 1
@@ -159,13 +160,13 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "None"
     Internal 1
     type "Lower speed connection"
   ]
   node [
     id 18
-    label "18"
+    label "Aalborg"
     Country "Denmark"
     Longitude 9.9187
     Internal 1
@@ -174,7 +175,7 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "Farso"
     Country "Denmark"
     Longitude 9.33926
     Internal 1
@@ -183,7 +184,7 @@ graph [
   ]
   node [
     id 20
-    label "20"
+    label "Hobro"
     Country "Denmark"
     Longitude 9.79029
     Internal 1
@@ -192,7 +193,7 @@ graph [
   ]
   node [
     id 21
-    label "21"
+    label "Silkeborg"
     Country "Denmark"
     Longitude 9.54508
     Internal 1
@@ -201,7 +202,7 @@ graph [
   ]
   node [
     id 22
-    label "22"
+    label "Arthus"
     Country "Denmark"
     Longitude 10.21076
     Internal 1
@@ -210,13 +211,13 @@ graph [
   ]
   node [
     id 23
-    label "23"
+    label "None"
     Internal 1
     type "Lower speed connection"
   ]
   node [
     id 24
-    label "24"
+    label "None"
     Internal 1
     type "Lower speed connection"
   ]
@@ -224,6 +225,11 @@ graph [
     source 0
     target 1
     id "e15"
+  ]
+  edge [
+    source 0
+    target 1
+    id "e14"
   ]
   edge [
     source 0
@@ -274,6 +280,11 @@ graph [
     source 5
     target 8
     id "e21"
+  ]
+  edge [
+    source 5
+    target 8
+    id "e22"
   ]
   edge [
     source 5

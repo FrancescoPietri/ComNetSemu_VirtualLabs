@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "20/07/11"
   GeoLocation "Montenegro"
   GeoExtent "Country"
@@ -29,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Bijelo Polje"
     Country "Montenegro"
     Longitude 19.74758
     Internal 1
@@ -37,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Niksic"
     Country "Montenegro"
     Longitude 18.94446
     Internal 1
@@ -45,7 +46,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Podgorica"
     Country "Montenegro"
     Longitude 19.26361
     Internal 1
@@ -53,7 +54,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Njegusi"
     Country "Montenegro"
     Longitude 18.82833
     Internal 1
@@ -61,7 +62,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Kotor"
     Country "Montenegro"
     Longitude 18.76825
     Internal 1
@@ -69,7 +70,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Herceg Novi"
     Country "Montenegro"
     Longitude 18.5375
     Internal 1

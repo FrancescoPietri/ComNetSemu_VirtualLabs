@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "14/01/11"
   GeoLocation "Canada"
   GeoExtent "Country"
@@ -30,7 +31,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Montreal"
     Country "Canada"
     Longitude -73.58781
     Internal 1
@@ -38,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Quebec"
     Country "Canada"
     Longitude -71.21454
     Internal 1
@@ -46,7 +47,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "London"
     Country "Canada"
     Longitude -81.23304
     Internal 1
@@ -54,12 +55,12 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "internetMCI T3"
     Internal 0
   ]
   node [
     id 4
-    label "4"
+    label "Moncton"
     Country "Canada"
     Longitude -64.80186
     Internal 1
@@ -67,7 +68,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Halifax"
     Country "Canada"
     Longitude -63.57333
     Internal 1
@@ -75,7 +76,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Sherbrooke"
     Country "Canada"
     Longitude -71.89908
     Internal 1
@@ -83,7 +84,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Saint John"
     Country "Canada"
     Longitude -66.06766
     Internal 1
@@ -91,7 +92,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Sydney"
     Country "Canada"
     Longitude -60.1831
     Internal 1
@@ -99,7 +100,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Yarmouth"
     Country "Canada"
     Longitude -66.11557
     Internal 1
@@ -107,17 +108,17 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "ANS CO+RE T1"
     Internal 0
   ]
   node [
     id 11
-    label "11"
+    label "internetMCI T3"
     Internal 0
   ]
   node [
     id 12
-    label "12"
+    label "Victoria"
     Country "Canada"
     Longitude -123.3693
     Internal 1
@@ -125,7 +126,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "Toronto"
     Country "Canada"
     Longitude -79.4163
     Internal 1
@@ -133,7 +134,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "Hamilton"
     Country "Canada"
     Longitude -79.94964
     Internal 1
@@ -141,7 +142,7 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "Vancouver"
     Country "Canada"
     Longitude -123.11934
     Internal 1
@@ -149,12 +150,12 @@ graph [
   ]
   node [
     id 16
-    label "16"
+    label "ANS CO+RE T1"
     Internal 0
   ]
   node [
     id 17
-    label "17"
+    label "Calgary"
     Country "Canada"
     Longitude -114.08529
     Internal 1
@@ -162,7 +163,7 @@ graph [
   ]
   node [
     id 18
-    label "18"
+    label "Edmonton"
     Country "Canada"
     Longitude -113.46871
     Internal 1
@@ -170,7 +171,7 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "Lethbridge"
     Country "Canada"
     Longitude -112.81856
     Internal 1
@@ -178,7 +179,7 @@ graph [
   ]
   node [
     id 20
-    label "20"
+    label "Winnipeg"
     Country "Canada"
     Longitude -97.14704
     Internal 1
@@ -186,7 +187,7 @@ graph [
   ]
   node [
     id 21
-    label "21"
+    label "Ottawa"
     Country "Canada"
     Longitude -75.69812
     Internal 1
@@ -194,7 +195,7 @@ graph [
   ]
   node [
     id 22
-    label "22"
+    label "Kitchener"
     Country "Canada"
     Longitude -80.48299
     Internal 1

@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "14/01/11"
   GeoLocation "USA"
   GeoExtent "Country"
@@ -29,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Cheyenne"
     Country "United States"
     Longitude -104.82025
     Internal 1
@@ -37,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Atlanta"
     Country "United States"
     Longitude -84.38798
     Internal 1
@@ -45,7 +46,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Boulder"
     Country "United States"
     Longitude -105.27055
     Internal 1
@@ -53,7 +54,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Seattle"
     Country "United States"
     Longitude -122.33207
     Internal 1
@@ -61,7 +62,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Stockton"
     Country "United States"
     Longitude -121.29078
     Internal 1
@@ -69,7 +70,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Anaheim"
     Country "United States"
     Longitude -117.9145
     Internal 1
@@ -77,7 +78,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Fort Worth"
     Country "United States"
     Longitude -97.32085
     Internal 1
@@ -85,7 +86,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Kansas City"
     Country "United States"
     Longitude -94.62746
     Internal 1
@@ -93,7 +94,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Chicago"
     Country "United States"
     Longitude -87.65005
     Internal 1
@@ -101,7 +102,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "New York (Pennsauken)"
     Country "United States"
     Longitude -74.00597
     Internal 1
@@ -109,7 +110,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Washington, DC"
     Country "United States"
     Longitude -77.03637
     Internal 1

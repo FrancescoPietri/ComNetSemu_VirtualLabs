@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "20/10/10"
   GeoLocation "Cyprus"
   GeoExtent "Country"
@@ -29,13 +30,13 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Cyprus Univ. of Tech."
     Internal 1
     type "Cloud with Router"
   ]
   node [
     id 1
-    label "1"
+    label "Intercollege"
     Country "Cyprus"
     Longitude 33.64397
     Internal 1
@@ -44,113 +45,113 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "United Nations"
     Internal 1
     type "Cloud with Router"
   ]
   node [
     id 3
-    label "3"
+    label "CyIX Cypress ISPs"
     Internal 0
   ]
   node [
     id 4
-    label "4"
+    label "Users"
     Internal 1
     type "PC"
   ]
   node [
     id 5
-    label "5"
+    label "Grid"
     Internal 1
     type "Cloud"
   ]
   node [
     id 6
-    label "6"
+    label "Grid-SW"
     Internal 1
     type "Route Switch Processor"
   ]
   node [
     id 7
-    label "7"
+    label "None"
     Internal 1
     type "Cloud with Switch"
   ]
   node [
     id 8
-    label "8"
+    label "KyprosNet"
     Internal 0
   ]
   node [
     id 9
-    label "9"
+    label "Inst. of Neurology"
     Internal 1
     type "Cloud with Router"
   ]
   node [
     id 10
-    label "10"
+    label "Pedagogical Inst."
     Internal 1
     type "Cloud with Router"
   ]
   node [
     id 11
-    label "11"
+    label "Nursing School"
     Internal 1
     type "Cloud with Router"
   ]
   node [
     id 12
-    label "12"
+    label "Phillips College"
     Internal 1
     type "Cloud with Router"
   ]
   node [
     id 13
-    label "13"
+    label "European Uni."
     Internal 1
     type "Cloud with Router"
   ]
   node [
     id 14
-    label "14"
+    label "Open Uni. of Cyprus"
     Internal 1
     type "Cloud with Router"
   ]
   node [
     id 15
-    label "15"
+    label "Univ. of Nicosia"
     Internal 1
     type "Cloud with Router"
   ]
   node [
     id 16
-    label "16"
+    label "Agriculture Inst."
     Internal 1
     type "Cloud with Router"
   ]
   node [
     id 17
-    label "17"
+    label "Cyprus Inst."
     Internal 1
     type "Cloud with Router"
   ]
   node [
     id 18
-    label "18"
+    label "English School"
     Internal 1
     type "Cloud with Router"
   ]
   node [
     id 19
-    label "19"
+    label "Uni. of Frederick"
     Internal 1
     type "Cloud with Router"
   ]
   node [
     id 20
-    label "20"
+    label "Limassol PoP"
     Country "Cyprus"
     Longitude 33.03333
     Internal 1
@@ -159,13 +160,13 @@ graph [
   ]
   node [
     id 21
-    label "21"
+    label "European Inst. of Cyprus"
     Internal 1
     type "Cloud with Router"
   ]
   node [
     id 22
-    label "22"
+    label "Border Router"
     Country "Cyprus"
     Longitude 33.36667
     Internal 1
@@ -174,39 +175,39 @@ graph [
   ]
   node [
     id 23
-    label "23"
+    label "EUMED CONNECT"
     Internal 1
     type "Router"
   ]
   node [
     id 24
-    label "24"
+    label "Syria NREN"
     Internal 0
   ]
   node [
     id 25
-    label "25"
+    label "GEANT Athens"
     Internal 0
   ]
   node [
     id 26
-    label "26"
+    label "GEANT Milano"
     Internal 0
   ]
   node [
     id 27
-    label "27"
+    label "Univ. of Cyprus"
     Internal 0
   ]
   node [
     id 28
-    label "28"
+    label "Evagoras"
     Internal 1
     type "Router"
   ]
   node [
     id 29
-    label "29"
+    label "Nicosia PoP"
     Country "Cyprus"
     Longitude 33.36667
     Internal 1

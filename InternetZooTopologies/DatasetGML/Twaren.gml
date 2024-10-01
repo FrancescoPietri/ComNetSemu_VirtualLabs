@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "18/10/10"
   GeoLocation "Taiwan"
   GeoExtent "Country"
@@ -29,102 +30,102 @@ graph [
   Testbed 1
   node [
     id 0
-    label "0"
+    label "CCU"
     Internal 1
   ]
   node [
     id 1
-    label "1"
+    label "NHLUE"
     Internal 1
   ]
   node [
     id 2
-    label "2"
+    label "TN"
     Internal 1
   ]
   node [
     id 3
-    label "3"
+    label "NCKU"
     Internal 1
   ]
   node [
     id 4
-    label "4"
+    label "TC"
     Internal 1
   ]
   node [
     id 5
-    label "5"
+    label "CHI"
     Internal 1
   ]
   node [
     id 6
-    label "6"
+    label "NDHU"
     Internal 1
   ]
   node [
     id 7
-    label "7"
+    label "NCNU"
     Internal 1
   ]
   node [
     id 8
-    label "8"
+    label "LA"
     Internal 1
   ]
   node [
     id 9
-    label "9"
+    label "NIU"
     Internal 1
   ]
   node [
     id 10
-    label "10"
+    label "NTTU"
     Internal 1
   ]
   node [
     id 11
-    label "11"
+    label "NSYSU"
     Internal 1
   ]
   node [
     id 12
-    label "12"
+    label "NCHU"
     Internal 1
   ]
   node [
     id 13
-    label "13"
+    label "HC"
     Internal 1
   ]
   node [
     id 14
-    label "14"
+    label "NCTU"
     Internal 1
   ]
   node [
     id 15
-    label "15"
+    label "NTHU"
     Internal 1
   ]
   node [
     id 16
-    label "16"
+    label "NCU"
     Internal 1
   ]
   node [
     id 17
-    label "17"
+    label "ASCC"
     Internal 1
   ]
   node [
     id 18
-    label "18"
+    label "NTU"
     Internal 1
   ]
   node [
     id 19
-    label "19"
+    label "TP"
     Internal 1
   ]
   edge [

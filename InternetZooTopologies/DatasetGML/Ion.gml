@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "24/10/10"
   GeoLocation "New York, USA"
   GeoExtent "Region"
@@ -29,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Schroon Lake"
     Country "United States"
     Longitude -73.76096
     Internal 1
@@ -37,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Remsen"
     Country "United States"
     Longitude -75.18683
     Internal 1
@@ -45,7 +46,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Benningtown"
     Country "United States"
     Longitude -73.19677
     Internal 1
@@ -53,7 +54,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Brattleboro"
     Country "United States"
     Longitude -72.55787
     Internal 1
@@ -61,7 +62,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Putney"
     Country "United States"
     Longitude -72.48342
     Internal 1
@@ -69,7 +70,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Bellows Falls"
     Country "United States"
     Longitude -72.44398
     Internal 1
@@ -77,7 +78,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Keene"
     Country "United States"
     Longitude -72.27814
     Internal 1
@@ -85,7 +86,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Boston"
     Country "United States"
     Longitude -71.05977
     Internal 1
@@ -93,7 +94,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Saratoga Springs"
     Country "United States"
     Longitude -73.78457
     Internal 1
@@ -101,7 +102,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Queensbury"
     Country "United States"
     Longitude -73.61317
     Internal 1
@@ -109,7 +110,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Margaretsville"
     Country "United States"
     Longitude -74.64821
     Internal 1
@@ -117,7 +118,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "Delhi"
     Country "United States"
     Longitude -74.91599
     Internal 1
@@ -125,7 +126,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Norwich"
     Country "United States"
     Longitude -75.52351
     Internal 1
@@ -133,7 +134,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "Deposit"
     Country "United States"
     Longitude -75.42768
     Internal 1
@@ -141,7 +142,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "Herkimmer"
     Country "United States"
     Longitude -74.98599
     Internal 1
@@ -149,7 +150,7 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "Newport"
     Country "United States"
     Longitude -75.01432
     Internal 1
@@ -157,7 +158,7 @@ graph [
   ]
   node [
     id 16
-    label "16"
+    label "Vernon"
     Country "United States"
     geocode_id "5142269"
     Internal 1
@@ -166,7 +167,7 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "Utica"
     Country "United States"
     Longitude -75.23266
     Internal 1
@@ -174,7 +175,7 @@ graph [
   ]
   node [
     id 18
-    label "18"
+    label "Hancock"
     Country "United States"
     Longitude -75.28045
     Internal 1
@@ -182,7 +183,7 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "Binghampton"
     Country "United States"
     Longitude -75.91797
     Internal 1
@@ -190,7 +191,7 @@ graph [
   ]
   node [
     id 20
-    label "20"
+    label "Coxsackie"
     Country "United States"
     Longitude -73.8029
     Internal 1
@@ -198,19 +199,19 @@ graph [
   ]
   node [
     id 21
-    label "21"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 22
-    label "22"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 23
-    label "23"
+    label "Champlain"
     Country "United States"
     Longitude -73.44653
     Internal 1
@@ -218,13 +219,13 @@ graph [
   ]
   node [
     id 24
-    label "24"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 25
-    label "25"
+    label "Chesterfield"
     Country "United States"
     geocode_id "5112478"
     Internal 1
@@ -233,7 +234,7 @@ graph [
   ]
   node [
     id 26
-    label "26"
+    label "Westport"
     Country "United States"
     Longitude -73.43568
     Internal 1
@@ -241,7 +242,7 @@ graph [
   ]
   node [
     id 27
-    label "27"
+    label "Chazy"
     Country "United States"
     Longitude -73.43597
     Internal 1
@@ -249,7 +250,7 @@ graph [
   ]
   node [
     id 28
-    label "28"
+    label "Plattsburgh"
     Country "United States"
     Longitude -73.45291
     Internal 1
@@ -257,7 +258,7 @@ graph [
   ]
   node [
     id 29
-    label "29"
+    label "Burlington"
     Country "United States"
     Longitude -73.21207
     Internal 1
@@ -265,17 +266,17 @@ graph [
   ]
   node [
     id 30
-    label "30"
+    label "None"
     Internal 1
   ]
   node [
     id 31
-    label "31"
+    label "None"
     Internal 1
   ]
   node [
     id 32
-    label "32"
+    label "Winooski"
     Country "United States"
     Longitude -73.18568
     Internal 1
@@ -283,7 +284,7 @@ graph [
   ]
   node [
     id 33
-    label "33"
+    label "Essex Junction"
     Country "United States"
     Longitude -73.11096
     Internal 1
@@ -291,7 +292,7 @@ graph [
   ]
   node [
     id 34
-    label "34"
+    label "Mountpelier"
     Country "United States"
     Longitude -72.57539
     Internal 1
@@ -299,7 +300,7 @@ graph [
   ]
   node [
     id 35
-    label "35"
+    label "Poughkeepsie"
     Country "United States"
     Longitude -73.92097
     Internal 1
@@ -307,7 +308,7 @@ graph [
   ]
   node [
     id 36
-    label "36"
+    label "Germantown"
     Country "United States"
     Longitude -73.8918
     Internal 1
@@ -315,7 +316,7 @@ graph [
   ]
   node [
     id 37
-    label "37"
+    label "Rowland"
     Country "United States"
     Longitude -75.04211
     Internal 1
@@ -323,7 +324,7 @@ graph [
   ]
   node [
     id 38
-    label "38"
+    label "Port Jervis"
     Country "United States"
     Longitude -74.69266
     Internal 1
@@ -331,7 +332,7 @@ graph [
   ]
   node [
     id 39
-    label "39"
+    label "Forest City"
     Country "United States"
     Longitude -75.46657
     Internal 1
@@ -339,7 +340,7 @@ graph [
   ]
   node [
     id 40
-    label "40"
+    label "South Canaan"
     Country "United States"
     Longitude -75.41213
     Internal 1
@@ -347,7 +348,7 @@ graph [
   ]
   node [
     id 41
-    label "41"
+    label "New York City"
     Country "United States"
     Longitude -74.00597
     Internal 1
@@ -355,7 +356,7 @@ graph [
   ]
   node [
     id 42
-    label "42"
+    label "Putnam Valley"
     Country "United States"
     Longitude -73.87403
     Internal 1
@@ -363,7 +364,7 @@ graph [
   ]
   node [
     id 43
-    label "43"
+    label "Monroe"
     Country "United States"
     geocode_id "5127313"
     Internal 1
@@ -372,7 +373,7 @@ graph [
   ]
   node [
     id 44
-    label "44"
+    label "Harriman"
     Country "United States"
     Longitude -74.14459
     Internal 1
@@ -380,7 +381,7 @@ graph [
   ]
   node [
     id 45
-    label "45"
+    label "Addison"
     Country "United States"
     Longitude -77.23359
     Internal 1
@@ -388,7 +389,7 @@ graph [
   ]
   node [
     id 46
-    label "46"
+    label "Corning"
     Country "United States"
     Longitude -77.05469
     Internal 1
@@ -396,7 +397,7 @@ graph [
   ]
   node [
     id 47
-    label "47"
+    label "Elmira"
     Country "United States"
     Longitude -76.80773
     Internal 1
@@ -404,7 +405,7 @@ graph [
   ]
   node [
     id 48
-    label "48"
+    label "Odessa"
     Country "United States"
     Longitude -76.78857
     Internal 1
@@ -412,7 +413,7 @@ graph [
   ]
   node [
     id 49
-    label "49"
+    label "Burdett"
     Country "United States"
     Longitude -76.84885
     Internal 1
@@ -420,7 +421,7 @@ graph [
   ]
   node [
     id 50
-    label "50"
+    label "Waterloo"
     Country "United States"
     Longitude -76.86274
     Internal 1
@@ -428,7 +429,7 @@ graph [
   ]
   node [
     id 51
-    label "51"
+    label "Geneva"
     Country "United States"
     Longitude -76.97774
     Internal 1
@@ -436,7 +437,7 @@ graph [
   ]
   node [
     id 52
-    label "52"
+    label "Ovid"
     Country "United States"
     Longitude -76.82301
     Internal 1
@@ -444,7 +445,7 @@ graph [
   ]
   node [
     id 53
-    label "53"
+    label "Millerton"
     Country "United States"
     Longitude -76.93857
     Internal 1
@@ -452,7 +453,7 @@ graph [
   ]
   node [
     id 54
-    label "54"
+    label "Whitesville"
     Country "United States"
     Longitude -77.76249
     Internal 1
@@ -460,7 +461,7 @@ graph [
   ]
   node [
     id 55
-    label "55"
+    label "Hamilton"
     Country "United States"
     Longitude -75.54462
     Internal 1
@@ -468,7 +469,7 @@ graph [
   ]
   node [
     id 56
-    label "56"
+    label "Cooperstown"
     Country "United States"
     Longitude -74.92432
     Internal 1
@@ -476,7 +477,7 @@ graph [
   ]
   node [
     id 57
-    label "57"
+    label "Oneonta"
     Country "United States"
     Longitude -75.06377
     Internal 1
@@ -484,7 +485,7 @@ graph [
   ]
   node [
     id 58
-    label "58"
+    label "Middleburgh"
     Country "United States"
     Longitude -74.33292
     Internal 1
@@ -492,7 +493,7 @@ graph [
   ]
   node [
     id 59
-    label "59"
+    label "Dryden"
     Country "United States"
     Longitude -76.29716
     Internal 1
@@ -500,7 +501,7 @@ graph [
   ]
   node [
     id 60
-    label "60"
+    label "Ithaca"
     Country "United States"
     Longitude -76.49661
     Internal 1
@@ -508,7 +509,7 @@ graph [
   ]
   node [
     id 61
-    label "61"
+    label "Cortland"
     Country "United States"
     Longitude -76.18048
     Internal 1
@@ -516,7 +517,7 @@ graph [
   ]
   node [
     id 62
-    label "62"
+    label "Morrisville"
     Country "United States"
     Longitude -75.64018
     Internal 1
@@ -524,7 +525,7 @@ graph [
   ]
   node [
     id 63
-    label "63"
+    label "Paul Smiths"
     Country "United States"
     Longitude -74.25266
     Internal 1
@@ -532,7 +533,7 @@ graph [
   ]
   node [
     id 64
-    label "64"
+    label "Albany"
     Country "United States"
     Longitude -73.75623
     Internal 1
@@ -540,7 +541,7 @@ graph [
   ]
   node [
     id 65
-    label "65"
+    label "Gloversville"
     Country "United States"
     Longitude -74.34375
     Internal 1
@@ -548,7 +549,7 @@ graph [
   ]
   node [
     id 66
-    label "66"
+    label "Saranac Lake"
     Country "United States"
     Longitude -74.13127
     Internal 1
@@ -556,7 +557,7 @@ graph [
   ]
   node [
     id 67
-    label "67"
+    label "Buffalo"
     Country "United States"
     Longitude -78.87837
     Internal 1
@@ -564,7 +565,7 @@ graph [
   ]
   node [
     id 68
-    label "68"
+    label "Barre"
     Country "United States"
     Longitude -78.19419
     Internal 1
@@ -572,7 +573,7 @@ graph [
   ]
   node [
     id 69
-    label "69"
+    label "Lowville"
     Country "United States"
     Longitude -75.49185
     Internal 1
@@ -580,7 +581,7 @@ graph [
   ]
   node [
     id 70
-    label "70"
+    label "Boonville"
     Country "United States"
     Longitude -75.33656
     Internal 1
@@ -588,7 +589,7 @@ graph [
   ]
   node [
     id 71
-    label "71"
+    label "Altmar"
     Country "United States"
     Longitude -76.00214
     Internal 1
@@ -596,7 +597,7 @@ graph [
   ]
   node [
     id 72
-    label "72"
+    label "Pulaski"
     Country "United States"
     Longitude -76.1277
     Internal 1
@@ -604,7 +605,7 @@ graph [
   ]
   node [
     id 73
-    label "73"
+    label "Auburn"
     Country "United States"
     Longitude -76.56605
     Internal 1
@@ -612,7 +613,7 @@ graph [
   ]
   node [
     id 74
-    label "74"
+    label "Syracuse"
     Country "United States"
     Longitude -76.14742
     Internal 1
@@ -620,7 +621,7 @@ graph [
   ]
   node [
     id 75
-    label "75"
+    label "Rochester"
     Country "United States"
     Longitude -77.61556
     Internal 1
@@ -628,7 +629,7 @@ graph [
   ]
   node [
     id 76
-    label "76"
+    label "Phelps"
     Country "United States"
     Longitude -77.05747
     Internal 1
@@ -636,7 +637,7 @@ graph [
   ]
   node [
     id 77
-    label "77"
+    label "Almond"
     Country "United States"
     Longitude -77.73833
     Internal 1
@@ -644,7 +645,7 @@ graph [
   ]
   node [
     id 78
-    label "78"
+    label "Ingleside"
     Country "United States"
     Longitude -77.3936
     Internal 1
@@ -652,7 +653,7 @@ graph [
   ]
   node [
     id 79
-    label "79"
+    label "Wellsville"
     Country "United States"
     Longitude -77.94806
     Internal 1
@@ -660,7 +661,7 @@ graph [
   ]
   node [
     id 80
-    label "80"
+    label "Alfred"
     Country "United States"
     Longitude -77.79055
     Internal 1
@@ -668,7 +669,7 @@ graph [
   ]
   node [
     id 81
-    label "81"
+    label "Salamanca"
     Country "United States"
     Longitude -78.71503
     Internal 1
@@ -676,7 +677,7 @@ graph [
   ]
   node [
     id 82
-    label "82"
+    label "Olean"
     Country "United States"
     Longitude -78.42974
     Internal 1
@@ -684,7 +685,7 @@ graph [
   ]
   node [
     id 83
-    label "83"
+    label "Cassadaga"
     Country "United States"
     Longitude -79.30949
     Internal 1
@@ -692,7 +693,7 @@ graph [
   ]
   node [
     id 84
-    label "84"
+    label "Jamestown"
     Country "United States"
     Longitude -79.23533
     Internal 1
@@ -700,12 +701,12 @@ graph [
   ]
   node [
     id 85
-    label "85"
+    label "Empire Telephone Co"
     Internal 1
   ]
   node [
     id 86
-    label "86"
+    label "Fredonia"
     Country "United States"
     Longitude -79.33171
     Internal 1
@@ -713,7 +714,7 @@ graph [
   ]
   node [
     id 87
-    label "87"
+    label "Lake Placid"
     Country "United States"
     Longitude -73.97987
     Internal 1
@@ -721,7 +722,7 @@ graph [
   ]
   node [
     id 88
-    label "88"
+    label "Malone"
     Country "United States"
     Longitude -74.2949
     Internal 1
@@ -729,55 +730,55 @@ graph [
   ]
   node [
     id 89
-    label "89"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 90
-    label "90"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 91
-    label "91"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 92
-    label "92"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 93
-    label "93"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 94
-    label "94"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 95
-    label "95"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 96
-    label "96"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 97
-    label "97"
+    label "Cobleskill"
     Country "United States"
     Longitude -74.48542
     Internal 1
@@ -785,7 +786,7 @@ graph [
   ]
   node [
     id 98
-    label "98"
+    label "Cazenovia"
     Country "United States"
     Longitude -75.85269
     Internal 1
@@ -793,7 +794,7 @@ graph [
   ]
   node [
     id 99
-    label "99"
+    label "Manchester"
     Country "United States"
     Longitude -73.07233
     Internal 1
@@ -801,7 +802,7 @@ graph [
   ]
   node [
     id 100
-    label "100"
+    label "Whitehall"
     Country "United States"
     Longitude -73.40372
     Internal 1
@@ -809,7 +810,7 @@ graph [
   ]
   node [
     id 101
-    label "101"
+    label "Bristol"
     Country "United States"
     Longitude -73.07901
     Internal 1
@@ -817,7 +818,7 @@ graph [
   ]
   node [
     id 102
-    label "102"
+    label "Lebanon"
     Country "United States"
     Longitude -72.25176
     Internal 1
@@ -825,7 +826,7 @@ graph [
   ]
   node [
     id 103
-    label "103"
+    label "White River Junction"
     Country "United States"
     Longitude -72.31926
     Internal 1
@@ -833,7 +834,7 @@ graph [
   ]
   node [
     id 104
-    label "104"
+    label "Barre"
     Country "United States"
     Longitude -72.50205
     Internal 1
@@ -841,7 +842,7 @@ graph [
   ]
   node [
     id 105
-    label "105"
+    label "Rutland"
     Country "United States"
     Longitude -72.97261
     Internal 1
@@ -849,7 +850,7 @@ graph [
   ]
   node [
     id 106
-    label "106"
+    label "Middlebury"
     Country "United States"
     Longitude -73.16734
     Internal 1
@@ -857,7 +858,7 @@ graph [
   ]
   node [
     id 107
-    label "107"
+    label "Crown Point"
     Country "United States"
     Longitude -73.43707
     Internal 1
@@ -865,7 +866,7 @@ graph [
   ]
   node [
     id 108
-    label "108"
+    label "Addison"
     Country "United States"
     Longitude -73.30262
     Internal 1
@@ -873,43 +874,43 @@ graph [
   ]
   node [
     id 109
-    label "109"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 110
-    label "110"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 111
-    label "111"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 112
-    label "112"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 113
-    label "113"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 114
-    label "114"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 115
-    label "115"
+    label "Gouveneur"
     Country "United States"
     Longitude -75.46299
     Internal 1
@@ -917,7 +918,7 @@ graph [
   ]
   node [
     id 116
-    label "116"
+    label "Saugerties"
     Country "United States"
     Longitude -73.95291
     Internal 1
@@ -925,7 +926,7 @@ graph [
   ]
   node [
     id 117
-    label "117"
+    label "Watertown"
     Country "United States"
     Longitude -75.91076
     Internal 1
@@ -933,7 +934,7 @@ graph [
   ]
   node [
     id 118
-    label "118"
+    label "Alexandria Bay"
     Country "United States"
     Longitude -75.91773
     Internal 1
@@ -941,7 +942,7 @@ graph [
   ]
   node [
     id 119
-    label "119"
+    label "Ogdensburg"
     Country "United States"
     Longitude -75.48634
     Internal 1
@@ -949,7 +950,7 @@ graph [
   ]
   node [
     id 120
-    label "120"
+    label "Massena"
     Country "United States"
     Longitude -74.89186
     Internal 1
@@ -957,7 +958,7 @@ graph [
   ]
   node [
     id 121
-    label "121"
+    label "Potsdam"
     Country "United States"
     Longitude -74.98131
     Internal 1
@@ -965,7 +966,7 @@ graph [
   ]
   node [
     id 122
-    label "122"
+    label "Canton"
     Country "United States"
     Longitude -75.16909
     Internal 1
@@ -973,13 +974,13 @@ graph [
   ]
   node [
     id 123
-    label "123"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 124
-    label "124"
+    label "None"
     hyperedge 1
     Internal 1
   ]
@@ -1027,6 +1028,11 @@ graph [
     source 3
     target 6
     id "e48"
+  ]
+  edge [
+    source 3
+    target 6
+    id "e49"
   ]
   edge [
     source 3
@@ -1177,6 +1183,11 @@ graph [
     source 24
     target 35
     id "e139"
+  ]
+  edge [
+    source 24
+    target 35
+    id "e140"
   ]
   edge [
     source 24
@@ -1425,6 +1436,11 @@ graph [
   ]
   edge [
     source 60
+    target 124
+    id "e104"
+  ]
+  edge [
+    source 60
     target 109
     id "e102"
   ]
@@ -1657,6 +1673,11 @@ graph [
     source 102
     target 103
     id "e36"
+  ]
+  edge [
+    source 102
+    target 103
+    id "e35"
   ]
   edge [
     source 106

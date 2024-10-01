@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "22/10/10"
   GeoLocation "Palestine"
   GeoExtent "Country"
@@ -30,72 +31,72 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "AQSA"
     Internal 1
     type "University"
   ]
   node [
     id 1
-    label "1"
+    label "IUG"
     Internal 1
     type "University"
   ]
   node [
     id 2
-    label "2"
+    label "HU"
     Internal 1
     type "University"
   ]
   node [
     id 3
-    label "3"
+    label "PPU"
     Internal 1
     type "University"
   ]
   node [
     id 4
-    label "4"
+    label "AZHR"
     Internal 1
     type "University"
   ]
   node [
     id 5
-    label "5"
+    label "ARIJ"
     Internal 1
     type "Research Center"
   ]
   node [
     id 6
-    label "6"
+    label "ICB"
     Internal 1
     type "Research Center"
   ]
   node [
     id 7
-    label "7"
+    label "GEANT"
     Internal 0
   ]
   node [
     id 8
-    label "8"
+    label "Annajah National Univeristy"
     Internal 1
     type "University"
   ]
   node [
     id 9
-    label "9"
+    label "AAUJ"
     Internal 1
     type "University"
   ]
   node [
     id 10
-    label "10"
+    label "BZU"
     Internal 1
     type "University"
   ]
   node [
     id 11
-    label "11"
+    label "PADI2"
     Country "Malaysia"
     Longitude 100.9299
     Internal 1
@@ -104,19 +105,19 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "QOU"
     Internal 1
     type "University"
   ]
   node [
     id 13
-    label "13"
+    label "AQU"
     Internal 1
     type "University"
   ]
   node [
     id 14
-    label "14"
+    label "BU"
     Internal 1
     type "University"
   ]

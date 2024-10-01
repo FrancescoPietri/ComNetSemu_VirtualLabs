@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "18/10/10"
   GeoLocation "Canada"
   GeoExtent "Country"
@@ -29,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "New York"
     Country "Canada"
     Longitude -79.06627
     Internal 1
@@ -37,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Montreal"
     Country "Canada"
     Longitude -73.58781
     Internal 1
@@ -45,7 +46,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Halifax"
     Country "Canada"
     Longitude -63.57333
     Internal 1
@@ -53,7 +54,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Los Angeles"
     Country "Canada"
     Longitude -139.52642
     Internal 1
@@ -61,7 +62,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Toronto"
     Country "Canada"
     Longitude -79.4163
     Internal 1
@@ -69,7 +70,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Vancouver"
     Country "Canada"
     Longitude -123.11934
     Internal 1
@@ -77,7 +78,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Victoria"
     Country "Canada"
     Longitude -123.3693
     Internal 1
@@ -85,7 +86,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Seattle"
     Country "Canada"
     Longitude -139.20265
     Internal 1
@@ -93,7 +94,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Calgary"
     Country "Canada"
     Longitude -114.08529
     Internal 1
@@ -101,7 +102,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Edmonton"
     Country "Canada"
     Longitude -113.46871
     Internal 1
@@ -109,7 +110,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Saskatoon"
     Country "Canada"
     Longitude -106.63452
     Internal 1
@@ -117,7 +118,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "Regina"
     Country "Canada"
     Longitude -104.6178
     Internal 1
@@ -125,7 +126,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Winnipeg"
     Country "Canada"
     Longitude -97.14704
     Internal 1

@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "3/02/11"
   GeoLocation "Spain"
   GeoExtent "Country"
@@ -30,7 +31,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Navarra"
     Country "Spain"
     Longitude -1.64323
     Internal 1
@@ -38,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Rioja"
     Country "Spain"
     Longitude -2.45
     Internal 1
@@ -46,7 +47,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Cantabria"
     Country "Spain"
     Longitude -3.80444
     Internal 1
@@ -54,7 +55,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Pais Vasco"
     Country "Spain"
     Longitude -2.75
     Internal 1
@@ -62,7 +63,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Baleares"
     Country "Spain"
     Longitude 2.65024
     Internal 1
@@ -70,7 +71,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Valencia"
     Country "Spain"
     Longitude -0.37739
     Internal 1
@@ -78,7 +79,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Aragon"
     Country "Spain"
     Longitude -0.87734
     Internal 1
@@ -86,7 +87,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Cataluna"
     Country "Spain"
     Longitude 2.15899
     Internal 1
@@ -94,7 +95,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Murcia"
     Country "Spain"
     Longitude -1.11667
     Internal 1
@@ -102,7 +103,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Galacia"
     Country "Spain"
     Longitude -8.54569
     Internal 1
@@ -110,7 +111,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Asturias"
     Country "Spain"
     Longitude -5.84476
     Internal 1
@@ -118,7 +119,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "Extremadura"
     Country "Spain"
     Longitude -6.96667
     Internal 1
@@ -126,7 +127,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Andalucia"
     Country "Spain"
     Longitude -5.98694
     Internal 1
@@ -134,7 +135,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "Canarias (las palmas)"
     Country "Spain"
     Longitude -15.41667
     Internal 1
@@ -142,7 +143,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "Canarias (tenerife)"
     Country "Spain"
     Longitude -16.31667
     Internal 1
@@ -150,7 +151,7 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "Castilla La Mancha"
     Country "Spain"
     Longitude -3.93333
     Internal 1
@@ -158,7 +159,7 @@ graph [
   ]
   node [
     id 16
-    label "16"
+    label "Nacional"
     Country "Spain"
     Longitude -3.70256
     Internal 1
@@ -166,7 +167,7 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "Madrid"
     Country "Spain"
     Longitude -3.70256
     Internal 1
@@ -174,7 +175,7 @@ graph [
   ]
   node [
     id 18
-    label "18"
+    label "Castilla Y Leon"
     Country "Spain"
     Longitude -4.71667
     Internal 1
@@ -259,6 +260,14 @@ graph [
     LinkLabel "622 Mbps"
     LinkSpeedUnits "M"
     LinkSpeedRaw 622000000.0
+  ]
+  edge [
+    source 4
+    target 7
+    LinkSpeed "155"
+    LinkLabel "155 Mbps"
+    LinkSpeedUnits "M"
+    LinkSpeedRaw 155000000.0
   ]
   edge [
     source 5

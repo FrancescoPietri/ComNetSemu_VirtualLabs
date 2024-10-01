@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "2/01/11"
   GeoLocation "Germany"
   GeoExtent "Country"
@@ -30,7 +31,7 @@ graph [
   Testbed 1
   node [
     id 0
-    label "0"
+    label "CHE"
     Country "Germany"
     Longitude 12.91667
     Internal 1
@@ -38,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "LEI"
     Country "Germany"
     Longitude 12.37129
     Internal 1
@@ -46,7 +47,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "ADH"
     Country "Germany"
     Longitude 13.41053
     Internal 1
@@ -54,7 +55,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "DRE"
     Country "Germany"
     Longitude 13.73832
     Internal 1
@@ -62,7 +63,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "GSI"
     Country "Germany"
     Longitude 8.64944
     Internal 1
@@ -70,7 +71,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "HEI"
     Country "Germany"
     Longitude 8.69079
     Internal 1
@@ -78,7 +79,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "JEN"
     Country "Germany"
     Longitude 11.58333
     Internal 1
@@ -86,7 +87,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "ILM"
     Country "Germany"
     Longitude 10.9
     Internal 1
@@ -94,17 +95,17 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "DeCix"
     Internal 0
   ]
   node [
     id 9
-    label "9"
+    label "Geant"
     Internal 0
   ]
   node [
     id 10
-    label "10"
+    label "FZK"
     Country "Germany"
     Longitude 8.38583
     Internal 1
@@ -112,7 +113,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "STU"
     Country "Germany"
     Longitude 9.17702
     Internal 1
@@ -120,17 +121,17 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "DeCix"
     Internal 0
   ]
   node [
     id 13
-    label "13"
+    label "Telia"
     Internal 0
   ]
   node [
     id 14
-    label "14"
+    label "BIE"
     Country "Germany"
     Longitude 8.53333
     Internal 1
@@ -138,12 +139,12 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "Telekom"
     Internal 0
   ]
   node [
     id 16
-    label "16"
+    label "GOE"
     Country "Germany"
     Longitude 9.93333
     Internal 1
@@ -151,7 +152,7 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "BRE"
     Country "Germany"
     Longitude 8.80777
     Internal 1
@@ -159,7 +160,7 @@ graph [
   ]
   node [
     id 18
-    label "18"
+    label "WUP"
     Country "Germany"
     Longitude 7.18333
     Internal 1
@@ -167,7 +168,7 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "BIR"
     Country "Germany"
     Longitude 6.95
     Internal 1
@@ -175,7 +176,7 @@ graph [
   ]
   node [
     id 20
-    label "20"
+    label "BON"
     Country "Germany"
     Longitude 7.1
     Internal 1
@@ -183,7 +184,7 @@ graph [
   ]
   node [
     id 21
-    label "21"
+    label "MAR"
     Country "Germany"
     Longitude 8.76667
     Internal 1
@@ -191,7 +192,7 @@ graph [
   ]
   node [
     id 22
-    label "22"
+    label "GIE"
     Country "Germany"
     Longitude 8.65
     Internal 1
@@ -199,7 +200,7 @@ graph [
   ]
   node [
     id 23
-    label "23"
+    label "KAS"
     Country "Germany"
     Longitude 9.5
     Internal 1
@@ -207,7 +208,7 @@ graph [
   ]
   node [
     id 24
-    label "24"
+    label "PAD"
     Country "Germany"
     Longitude 8.75439
     Internal 1
@@ -215,7 +216,7 @@ graph [
   ]
   node [
     id 25
-    label "25"
+    label "EWE"
     Country "Germany"
     Longitude 8.2
     Internal 1
@@ -223,12 +224,12 @@ graph [
   ]
   node [
     id 26
-    label "26"
+    label "Telekom"
     Internal 0
   ]
   node [
     id 27
-    label "27"
+    label "MUE"
     Country "Germany"
     Longitude 7.62571
     Internal 1
@@ -236,7 +237,7 @@ graph [
   ]
   node [
     id 28
-    label "28"
+    label "SAA"
     Country "Germany"
     Longitude 7.0
     Internal 1
@@ -244,12 +245,12 @@ graph [
   ]
   node [
     id 29
-    label "29"
+    label "GC"
     Internal 0
   ]
   node [
     id 30
-    label "30"
+    label "DES"
     Country "Germany"
     Longitude 10.0
     Internal 1
@@ -257,7 +258,7 @@ graph [
   ]
   node [
     id 31
-    label "31"
+    label "HAM"
     Country "Germany"
     Longitude 10.0
     Internal 1
@@ -265,7 +266,7 @@ graph [
   ]
   node [
     id 32
-    label "32"
+    label "KIE"
     Country "Germany"
     Longitude 10.13489
     Internal 1
@@ -273,7 +274,7 @@ graph [
   ]
   node [
     id 33
-    label "33"
+    label "ROS"
     Country "Germany"
     Longitude 12.14049
     Internal 1
@@ -281,7 +282,7 @@ graph [
   ]
   node [
     id 34
-    label "34"
+    label "MAG"
     Country "Germany"
     Longitude 11.66667
     Internal 1
@@ -289,7 +290,7 @@ graph [
   ]
   node [
     id 35
-    label "35"
+    label "BRA"
     Country "Germany"
     Longitude 10.53333
     Internal 1
@@ -297,7 +298,7 @@ graph [
   ]
   node [
     id 36
-    label "36"
+    label "KAI"
     Country "Germany"
     Longitude 7.75
     Internal 1
@@ -305,7 +306,7 @@ graph [
   ]
   node [
     id 37
-    label "37"
+    label "GRE"
     Country "Germany"
     Longitude 13.38333
     Internal 1
@@ -313,7 +314,7 @@ graph [
   ]
   node [
     id 38
-    label "38"
+    label "DOR"
     Country "Germany"
     Longitude 7.45
     Internal 1
@@ -321,7 +322,7 @@ graph [
   ]
   node [
     id 39
-    label "39"
+    label "BOC"
     Country "Germany"
     Longitude 7.21667
     Internal 1
@@ -329,7 +330,7 @@ graph [
   ]
   node [
     id 40
-    label "40"
+    label "FHM"
     Country "Germany"
     Longitude 11.57549
     Internal 1
@@ -337,7 +338,7 @@ graph [
   ]
   node [
     id 41
-    label "41"
+    label "REG"
     Country "Germany"
     Longitude 12.09556
     Internal 1
@@ -345,7 +346,7 @@ graph [
   ]
   node [
     id 42
-    label "42"
+    label "AUG"
     Country "Germany"
     Longitude 10.88333
     Internal 1
@@ -353,7 +354,7 @@ graph [
   ]
   node [
     id 43
-    label "43"
+    label "GAR"
     Country "Germany"
     Longitude 11.65
     Internal 1
@@ -361,7 +362,7 @@ graph [
   ]
   node [
     id 44
-    label "44"
+    label "DUI"
     Country "Germany"
     Longitude 7.01667
     Internal 1
@@ -369,7 +370,7 @@ graph [
   ]
   node [
     id 45
-    label "45"
+    label "FZJ"
     Country "Germany"
     Longitude 6.36667
     Internal 1
@@ -377,7 +378,7 @@ graph [
   ]
   node [
     id 46
-    label "46"
+    label "AAC"
     Country "Germany"
     Longitude 6.08342
     Internal 1
@@ -385,7 +386,7 @@ graph [
   ]
   node [
     id 47
-    label "47"
+    label "WUE"
     Country "Germany"
     Longitude 9.93611
     Internal 1
@@ -393,7 +394,7 @@ graph [
   ]
   node [
     id 48
-    label "48"
+    label "TUB"
     Country "Germany"
     Longitude 13.41053
     Internal 1
@@ -401,7 +402,7 @@ graph [
   ]
   node [
     id 49
-    label "49"
+    label "HUB"
     Country "Germany"
     Longitude 13.41053
     Internal 1
@@ -409,7 +410,7 @@ graph [
   ]
   node [
     id 50
-    label "50"
+    label "HAN"
     Country "Germany"
     Longitude 9.73322
     Internal 1
@@ -417,7 +418,7 @@ graph [
   ]
   node [
     id 51
-    label "51"
+    label "FRA"
     Country "Germany"
     Longitude 8.68333
     Internal 1
@@ -425,7 +426,7 @@ graph [
   ]
   node [
     id 52
-    label "52"
+    label "POT"
     Country "Germany"
     Longitude 13.06566
     Internal 1
@@ -433,7 +434,7 @@ graph [
   ]
   node [
     id 53
-    label "53"
+    label "ERL"
     Country "Germany"
     Longitude 11.00389
     Internal 1
@@ -441,7 +442,7 @@ graph [
   ]
   node [
     id 54
-    label "54"
+    label "BAY"
     Country "Germany"
     Longitude 11.57833
     Internal 1
@@ -449,7 +450,7 @@ graph [
   ]
   node [
     id 55
-    label "55"
+    label "FFO"
     Country "Germany"
     Longitude 14.55062
     Internal 1
@@ -457,7 +458,7 @@ graph [
   ]
   node [
     id 56
-    label "56"
+    label "ZIB"
     Country "Germany"
     Longitude 13.41053
     Internal 1
@@ -465,7 +466,7 @@ graph [
   ]
   node [
     id 57
-    label "57"
+    label "ZEU"
     Country "Germany"
     Longitude 13.61667
     Internal 1

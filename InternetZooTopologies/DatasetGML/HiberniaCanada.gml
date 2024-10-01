@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "23/03/11"
   GeoLocation "Canada"
   GeoExtent "Country"
@@ -29,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "New York"
     Country "Canada"
     Longitude -79.06627
     Internal 1
@@ -38,17 +39,17 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "None"
     Internal 0
   ]
   node [
     id 2
-    label "2"
+    label "None"
     Internal 0
   ]
   node [
     id 3
-    label "3"
+    label "Moncton"
     Country "Canada"
     Longitude -64.80186
     Internal 1
@@ -57,13 +58,13 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 5
-    label "5"
+    label "Edmundston"
     Country "Canada"
     Longitude -68.32512
     Internal 1
@@ -72,7 +73,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Quebec"
     Country "Canada"
     Longitude -71.21454
     Internal 1
@@ -81,7 +82,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Montreal"
     Country "Canada"
     Longitude -73.58781
     Internal 1
@@ -90,7 +91,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Toronto"
     Country "Canada"
     Longitude -79.4163
     Internal 1
@@ -99,7 +100,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Buffalo"
     Country "Canada"
     Longitude -108.48475
     Internal 1
@@ -108,7 +109,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Albany"
     Country "Canada"
     Longitude -63.64872
     Internal 1
@@ -117,7 +118,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "Boston"
     Country "Canada"
     Longitude -121.44399
     Internal 1
@@ -126,7 +127,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Halifax"
     Country "Canada"
     Longitude -63.57333
     Internal 1

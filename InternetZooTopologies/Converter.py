@@ -9,6 +9,9 @@ PATH_TOPOLOGIES = 'Topologies/'
 if __name__ == "__main__":
     converter = GMLtoTopology()
 
+    '''for file in os.listdir(PATH_DATASET):
+        converter.add_multigraph(file)'''
+
     while 1:
         print("""Options:\n
     1) Convert a specific GML

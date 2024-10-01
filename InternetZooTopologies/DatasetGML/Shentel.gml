@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "15/11/10"
   GeoLocation "Maryland, West Virginia, Virginia, USA"
   GeoExtent "Region"
@@ -30,7 +31,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Hagerstown"
     Country "United States"
     Longitude -77.71999
     Internal 1
@@ -38,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Shepherdstown"
     Country "United States"
     Longitude -77.80416
     Internal 1
@@ -46,7 +47,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Winchester"
     Country "United States"
     Longitude -78.16333
     Internal 1
@@ -54,7 +55,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Berryville"
     Country "United States"
     Longitude -77.98222
     Internal 1
@@ -62,7 +63,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Petersburg"
     Country "United States"
     Longitude -79.12392
     Internal 1
@@ -70,7 +71,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Franklin"
     Country "United States"
     Longitude -79.33115
     Internal 1
@@ -78,7 +79,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Martinsburg"
     Country "United States"
     Longitude -77.96389
     Internal 1
@@ -86,7 +87,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Edinburg"
     Country "United States"
     Longitude -78.56585
     Internal 1
@@ -94,7 +95,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Harrisonburg"
     Country "United States"
     Longitude -78.86892
     Internal 1
@@ -102,7 +103,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Covington (Planned)"
     Country "United States"
     Longitude -79.99395
     Internal 1
@@ -110,7 +111,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Glenville"
     Country "United States"
     Longitude -80.8376
     Internal 1
@@ -118,7 +119,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "Sutton"
     Country "United States"
     Longitude -80.70982
     Internal 1
@@ -126,7 +127,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Summersville"
     Country "United States"
     Longitude -80.8526
     Internal 1
@@ -134,7 +135,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "Charleston (Planned)"
     Country "United States"
     Longitude -81.63262
     Internal 1
@@ -142,25 +143,25 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 15
-    label "15"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 16
-    label "16"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 17
-    label "17"
+    label "Weston"
     Country "United States"
     Longitude -80.46731
     Internal 1
@@ -168,7 +169,7 @@ graph [
   ]
   node [
     id 18
-    label "18"
+    label "Warrenton"
     Country "United States"
     Longitude -77.79527
     Internal 1
@@ -176,7 +177,7 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "Front Royal"
     Country "United States"
     Longitude -78.19444
     Internal 1
@@ -184,37 +185,37 @@ graph [
   ]
   node [
     id 20
-    label "20"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 21
-    label "21"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 22
-    label "22"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 23
-    label "23"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 24
-    label "24"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 25
-    label "25"
+    label "Leesburg"
     Country "United States"
     Longitude -77.5636
     Internal 1
@@ -222,7 +223,7 @@ graph [
   ]
   node [
     id 26
-    label "26"
+    label "Ashburn"
     Country "United States"
     Longitude -77.48749
     Internal 1
@@ -230,7 +231,7 @@ graph [
   ]
   node [
     id 27
-    label "27"
+    label "Herndon"
     Country "United States"
     Longitude -77.3861
     Internal 1

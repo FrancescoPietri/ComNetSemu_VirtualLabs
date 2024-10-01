@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   GeoLocation "Fife and Tayside, UK"
   GeoExtent "Region"
   Network "FatMan"
@@ -29,19 +30,19 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Carnegie College"
     Internal 1
     type "Green Node"
   ]
   node [
     id 1
-    label "1"
+    label "Adam Smith College"
     Internal 1
     type "Green Node"
   ]
   node [
     id 2
-    label "2"
+    label "Kirkcaldy"
     Country "United Kingdom"
     Longitude -3.16667
     Internal 1
@@ -50,41 +51,41 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "UoD Fife Campus"
     Internal 1
     type "Blue Node"
   ]
   node [
     id 4
-    label "4"
+    label "Janet and Internet"
     Internal 0
   ]
   node [
     id 5
-    label "5"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 6
-    label "6"
+    label "Janet and Internet"
     Internal 0
   ]
   node [
     id 7
-    label "7"
+    label "Dundee College"
     Internal 1
     type "Green Node"
   ]
   node [
     id 8
-    label "8"
+    label "Angus College"
     Internal 1
     type "Green Node"
   ]
   node [
     id 9
-    label "9"
+    label "Glasgow"
     Country "United Kingdom"
     Longitude -4.25763
     Internal 1
@@ -93,7 +94,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Leeds"
     Country "United Kingdom"
     Longitude -1.54785
     Internal 1
@@ -102,7 +103,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "RNEP1"
     Country "United Kingdom"
     Longitude -2.96667
     Internal 1
@@ -111,7 +112,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "RNEP2"
     Country "United Kingdom"
     Longitude -2.96667
     Internal 1
@@ -120,25 +121,25 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "University of Abertay Dundee"
     Internal 1
     type "Blue Node"
   ]
   node [
     id 14
-    label "14"
+    label "University of Dundee"
     Internal 1
     type "Blue Node"
   ]
   node [
     id 15
-    label "15"
+    label "University of St Andrews"
     Internal 1
     type "Blue Node"
   ]
   node [
     id 16
-    label "16"
+    label "Elmwood College"
     Internal 1
     type "Green Node"
   ]

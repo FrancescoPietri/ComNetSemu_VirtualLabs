@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "20/10/10"
   GeoLocation "Vietnam"
   GeoExtent "Country"
@@ -29,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Hue"
     Country "Vietnam"
     Longitude 107.6
     Internal 1
@@ -38,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "VN HN"
     Country "Vietnam"
     Longitude 105.84117
     Internal 1
@@ -47,7 +48,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "HCM"
     Country "Vietnam"
     Longitude 106.66667
     Internal 1
@@ -56,7 +57,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "DN"
     Country "Vietnam"
     Longitude 108.22083
     Internal 1
@@ -65,7 +66,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "KR"
     geocode_country "Korea"
     Country "South Korea"
     Longitude 127.5
@@ -75,7 +76,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "JP"
     geocode_country "Japan"
     Country "Japan"
     Longitude 139.75309
@@ -85,7 +86,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "HK"
     geocode_country "Hong Kong"
     Country "Hong Kong"
     Longitude 114.16667
@@ -95,7 +96,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "CN"
     geocode_country "China"
     Country "China"
     Longitude 105.0
@@ -105,7 +106,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "PH"
     geocode_country "Philippines"
     Country "Philippines"
     Longitude 122.0
@@ -115,7 +116,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Nha Trang"
     Country "Vietnam"
     Longitude 109.18333
     Internal 1
@@ -124,7 +125,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Vinh"
     Country "Vietnam"
     Longitude 105.96667
     Internal 1
@@ -133,7 +134,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "Thai Nguyen"
     Country "Vietnam"
     Longitude 105.84417
     Internal 1
@@ -142,7 +143,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "An Giang"
     Country "Vietnam"
     Longitude 105.41667
     Internal 1
@@ -151,7 +152,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "Da Lat"
     Country "Vietnam"
     Longitude 108.44193
     Internal 1
@@ -160,7 +161,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "Hai Phong"
     Country "Vietnam"
     Longitude 106.68222
     Internal 1
@@ -169,7 +170,7 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "AU"
     geocode_country "Australia"
     Country "Australia"
     Longitude 135.0
@@ -179,7 +180,7 @@ graph [
   ]
   node [
     id 16
-    label "16"
+    label "CT"
     Country "Vietnam"
     Longitude 105.78333
     Internal 1
@@ -188,7 +189,7 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "TH"
     geocode_country "Thailand"
     Country "Thailand"
     Longitude 100.0
@@ -198,7 +199,7 @@ graph [
   ]
   node [
     id 18
-    label "18"
+    label "MY"
     geocode_country "Malaysia"
     Country "Malaysia"
     Longitude 112.5
@@ -208,7 +209,7 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "ID"
     geocode_country "Indonesia"
     Country "Indonesia"
     Longitude 120.0
@@ -218,27 +219,27 @@ graph [
   ]
   node [
     id 20
-    label "20"
+    label "Abilene Internet2 USA"
     Internal 0
   ]
   node [
     id 21
-    label "21"
+    label "Internet"
     Internal 0
   ]
   node [
     id 22
-    label "22"
+    label "EU"
     Internal 0
   ]
   node [
     id 23
-    label "23"
+    label "EU"
     Internal 0
   ]
   node [
     id 24
-    label "24"
+    label "SG"
     geocode_country "Singapore"
     Country "Singapore"
     Longitude 103.8

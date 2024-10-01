@@ -1,10 +1,11 @@
 graph [
+  multigraph 1
   DateObtained "20/10/10"
   GeoLocation "Bulgaria"
   GeoExtent "Country"
   Network "BREN"
   Provenance "Primary"
-  Note "Names from http://www.bren.bg/index.php?option=com_content&#38;view=article&#38;id=11&#38;Itemid=15&#38;lang=en"
+  Note "Names from http://www.bren.bg/index.php?option=com_content&view=article&id=11&Itemid=15&lang=en"
   Source "http://www.bren.bg/images/stories/bren_2010_english.png"
   Version "1.0"
   Type "REN"
@@ -30,7 +31,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Technical Uni"
     Country "Bulgaria"
     Longitude 23.32415
     Internal 1
@@ -39,13 +40,13 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 2
-    label "2"
+    label "Todos Kableshkov Uni"
     Country "Bulgaria"
     Longitude 23.32415
     Internal 1
@@ -54,7 +55,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "IPP-BAS"
     Country "Bulgaria"
     Longitude 23.32415
     Internal 1
@@ -63,7 +64,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Telecom. and Post"
     Country "Bulgaria"
     Longitude 23.32415
     Internal 1
@@ -72,7 +73,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "South-West Uni"
     Country "Bulgaria"
     Longitude 23.1
     Internal 1
@@ -81,7 +82,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Civil Engineering"
     Country "Bulgaria"
     Longitude 23.32415
     Internal 1
@@ -90,7 +91,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Higher Attestation Commission"
     Country "Bulgaria"
     Longitude 23.32415
     Internal 1
@@ -99,18 +100,18 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Academy of Sciences"
     Internal 0
   ]
   node [
     id 9
-    label "9"
+    label "NMU"
     Internal 1
     type "End Customer"
   ]
   node [
     id 10
-    label "10"
+    label "Vasil Levski Uni"
     Country "Bulgaria"
     Longitude 26.92286
     Internal 1
@@ -119,7 +120,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "Uni of Economics"
     Country "Bulgaria"
     Longitude 27.91667
     Internal 1
@@ -128,7 +129,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Varna Tech Uni"
     Country "Bulgaria"
     Longitude 27.91667
     Internal 1
@@ -137,7 +138,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "Naval Academy"
     Country "Bulgaria"
     Longitude 27.91667
     Internal 1
@@ -146,19 +147,19 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 15
-    label "15"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 16
-    label "16"
+    label "Shumen University"
     Country "Bulgaria"
     Longitude 26.92286
     Internal 1
@@ -167,7 +168,7 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "Ruse Uni."
     Country "Bulgaria"
     Longitude 25.97083
     Internal 1
@@ -176,7 +177,7 @@ graph [
   ]
   node [
     id 18
-    label "18"
+    label "Academy of Economics"
     Country "Bulgaria"
     Longitude 25.35389
     Internal 1
@@ -185,7 +186,7 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "Technical Uni."
     Country "Bulgaria"
     Longitude 24.75
     Internal 1
@@ -194,7 +195,7 @@ graph [
   ]
   node [
     id 20
-    label "20"
+    label "Agriculture"
     Country "Bulgaria"
     Longitude 24.75
     Internal 1
@@ -203,7 +204,7 @@ graph [
   ]
   node [
     id 21
-    label "21"
+    label "Plovdiv Uni"
     Country "Bulgaria"
     Longitude 24.75
     Internal 1
@@ -212,7 +213,7 @@ graph [
   ]
   node [
     id 22
-    label "22"
+    label "Pleven University"
     Country "Bulgaria"
     Longitude 24.61667
     Internal 1
@@ -221,13 +222,13 @@ graph [
   ]
   node [
     id 23
-    label "23"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 24
-    label "24"
+    label "Veliko Uni"
     Country "Bulgaria"
     Longitude 25.62904
     Internal 1
@@ -236,7 +237,7 @@ graph [
   ]
   node [
     id 25
-    label "25"
+    label "Military Uni"
     Country "Bulgaria"
     Longitude 25.62904
     Internal 1
@@ -245,7 +246,7 @@ graph [
   ]
   node [
     id 26
-    label "26"
+    label "Gabrovo Uni"
     Country "Bulgaria"
     Longitude 25.33417
     Internal 1
@@ -254,7 +255,7 @@ graph [
   ]
   node [
     id 27
-    label "27"
+    label "Sofia University"
     Country "Bulgaria"
     Longitude 23.32415
     Internal 1
@@ -263,7 +264,7 @@ graph [
   ]
   node [
     id 28
-    label "28"
+    label "Economy Uni."
     Country "Bulgaria"
     Longitude 23.32415
     Internal 1
@@ -272,17 +273,17 @@ graph [
   ]
   node [
     id 29
-    label "29"
+    label "GEANT"
     Internal 0
   ]
   node [
     id 30
-    label "30"
+    label "BG Internet"
     Internal 0
   ]
   node [
     id 31
-    label "31"
+    label "Medical Uni. Pharmacy"
     Country "Bulgaria"
     Longitude 23.32415
     Internal 1
@@ -291,7 +292,7 @@ graph [
   ]
   node [
     id 32
-    label "32"
+    label "Medical Uni Public Health"
     Country "Bulgaria"
     Longitude 23.32415
     Internal 1
@@ -300,7 +301,7 @@ graph [
   ]
   node [
     id 33
-    label "33"
+    label "Min. Education"
     Country "Bulgaria"
     Longitude 23.32415
     Internal 1
@@ -309,7 +310,7 @@ graph [
   ]
   node [
     id 34
-    label "34"
+    label "Sofia Uni."
     Country "Bulgaria"
     Longitude 23.32415
     Internal 1
@@ -318,7 +319,7 @@ graph [
   ]
   node [
     id 35
-    label "35"
+    label "Medical Uni Sofia"
     Country "Bulgaria"
     Longitude 23.32415
     Internal 1
@@ -327,7 +328,7 @@ graph [
   ]
   node [
     id 36
-    label "36"
+    label "Medical college of Sofia"
     Country "Bulgaria"
     Longitude 23.32415
     Internal 1

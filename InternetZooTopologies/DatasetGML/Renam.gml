@@ -1,11 +1,12 @@
 graph [
+  multigraph 1
   DateObtained "12/07/11"
   GeoLocation "Moldova"
   GeoExtent "Country"
   Network "Renam"
   Provenance "Primary"
   Note "Information unclear, only links between main towns recorded."
-  Source "http://www.renam.md/index.php?option=com_content&#38;task=view&#38;id=10&#38;Itemid=16"
+  Source "http://www.renam.md/index.php?option=com_content&task=view&id=10&Itemid=16"
   Version "1.0"
   Type "REN"
   DateType "Historic"
@@ -30,7 +31,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Chisinau"
     Country "Moldova"
     Longitude 28.8575
     Internal 1
@@ -38,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Balti"
     Country "Moldova"
     Longitude 27.92889
     Internal 1
@@ -46,7 +47,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "       Cahul"
     Country "Moldova"
     Longitude 28.19444
     Internal 1
@@ -54,12 +55,12 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "StarNet ISP"
     Internal 0
   ]
   node [
     id 4
-    label "4"
+    label "RoEduNet"
     Internal 0
   ]
   edge [

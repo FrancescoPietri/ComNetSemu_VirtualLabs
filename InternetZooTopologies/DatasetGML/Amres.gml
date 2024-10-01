@@ -1,11 +1,12 @@
 graph [
+  multigraph 1
   DateObtained "5/07/11"
   GeoLocation "Serbia"
   GeoExtent "Country"
   Network "AMRES"
   Provenance "Primary"
-  Note "External node names from http://netiis.rcub.bg.ac.rs/netiis/NetIIS?service=main&#38;ID=group.21361"
-  Source "http://www.amres.ac.rs/index.php?option=com_content&#38;task=view&#38;id=25&#38;Itemid=56&#38;lang=ser"
+  Note "External node names from http://netiis.rcub.bg.ac.rs/netiis/NetIIS?service=main&ID=group.21361"
+  Source "http://www.amres.ac.rs/index.php?option=com_content&task=view&id=25&Itemid=56&lang=ser"
   Version "1.0"
   Type "REN"
   DateType "Current"
@@ -30,7 +31,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Bor"
     Country "Serbia"
     Longitude 22.09528
     Internal 1
@@ -39,13 +40,13 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Kosovska Mitrovica"
     Internal 1
     type "Small Node"
   ]
   node [
     id 2
-    label "2"
+    label "Novi Pazar"
     Country "Serbia"
     Longitude 20.51222
     Internal 1
@@ -54,7 +55,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Krustevac"
     Country "Serbia"
     Longitude 21.33389
     Internal 1
@@ -63,7 +64,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Vranje"
     Country "Serbia"
     Longitude 21.90028
     Internal 1
@@ -72,7 +73,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Nis"
     Country "Serbia"
     Longitude 21.90333
     Internal 1
@@ -81,7 +82,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Pirot"
     Country "Serbia"
     Longitude 22.58611
     Internal 1
@@ -90,7 +91,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Leskovac"
     Country "Serbia"
     Longitude 21.94611
     Internal 1
@@ -99,7 +100,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Kragujevac"
     Country "Serbia"
     Longitude 20.91667
     Internal 1
@@ -108,7 +109,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Novi Sad"
     Country "Serbia"
     Longitude 19.83694
     Internal 1
@@ -117,17 +118,17 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Bosnia and Herzegovina"
     Internal 0
   ]
   node [
     id 11
-    label "11"
+    label "HUNGARNET"
     Internal 0
   ]
   node [
     id 12
-    label "12"
+    label "Beograd"
     Country "Serbia"
     Longitude 20.46513
     Internal 1
@@ -136,7 +137,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "Pancevo"
     Country "Serbia"
     Longitude 20.64028
     Internal 1
@@ -145,12 +146,12 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "Telekom Serbia"
     Internal 0
   ]
   node [
     id 15
-    label "15"
+    label "Kraljevo"
     Country "Serbia"
     Longitude 20.68944
     Internal 1
@@ -159,7 +160,7 @@ graph [
   ]
   node [
     id 16
-    label "16"
+    label "Raska"
     Country "Serbia"
     Longitude 20.61528
     Internal 1
@@ -168,7 +169,7 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "Subotica"
     Country "Serbia"
     Longitude 19.66667
     Internal 1
@@ -177,7 +178,7 @@ graph [
   ]
   node [
     id 18
-    label "18"
+    label "Sombor"
     Country "Serbia"
     Longitude 19.11222
     Internal 1
@@ -186,7 +187,7 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "Zrenjanin"
     Country "Serbia"
     Longitude 20.38194
     Internal 1
@@ -195,7 +196,7 @@ graph [
   ]
   node [
     id 20
-    label "20"
+    label "Sabac"
     Country "Serbia"
     Longitude 19.69
     Internal 1
@@ -204,7 +205,7 @@ graph [
   ]
   node [
     id 21
-    label "21"
+    label "Valjevo"
     Country "Serbia"
     Longitude 19.89821
     Internal 1
@@ -213,7 +214,7 @@ graph [
   ]
   node [
     id 22
-    label "22"
+    label "Uzice"
     Country "Serbia"
     Longitude 19.84878
     Internal 1
@@ -222,7 +223,7 @@ graph [
   ]
   node [
     id 23
-    label "23"
+    label "Cacak"
     Country "Serbia"
     Longitude 20.34972
     Internal 1
@@ -231,7 +232,7 @@ graph [
   ]
   node [
     id 24
-    label "24"
+    label "Velika Plana"
     Country "Serbia"
     Longitude 21.04556
     Internal 1

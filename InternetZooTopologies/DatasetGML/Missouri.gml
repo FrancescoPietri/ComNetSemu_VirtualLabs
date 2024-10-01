@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "18/10/10"
   GeoLocation "Missouri"
   GeoExtent "Region"
@@ -29,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Rich Hill"
     Country "United States"
     Longitude -94.36106
     Internal 1
@@ -38,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Kearney"
     Country "United States"
     Longitude -94.36217
     Internal 1
@@ -47,7 +48,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Burlington Junction"
     Country "United States"
     Longitude -95.06609
     Internal 1
@@ -56,12 +57,12 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "To Omaha"
     Internal 0
   ]
   node [
     id 4
-    label "4"
+    label "Warrensburg"
     Country "United States"
     Longitude -93.73605
     Internal 1
@@ -70,7 +71,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Higginsville"
     Country "United States"
     Longitude -93.71716
     Internal 1
@@ -79,7 +80,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Louisburg"
     Country "United States"
     Longitude -94.68079
     Internal 1
@@ -88,7 +89,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Peculiar"
     Country "United States"
     Longitude -94.45856
     Internal 1
@@ -97,7 +98,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Branson"
     Country "United States"
     Longitude -93.21851
     Internal 1
@@ -106,7 +107,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Saint Louis"
     Country "United States"
     Longitude -90.19789
     Internal 1
@@ -115,7 +116,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Lees Summit"
     Country "United States"
     Longitude -94.38217
     Internal 1
@@ -124,7 +125,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "Sedalia"
     Country "United States"
     Longitude -93.22826
     Internal 1
@@ -133,7 +134,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Sullivan"
     Country "United States"
     Longitude -91.16042
     Internal 1
@@ -142,7 +143,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "Steelville"
     Country "United States"
     Longitude -91.35487
     Internal 1
@@ -151,7 +152,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "Tipton"
     Country "United States"
     Longitude -92.77992
     Internal 1
@@ -160,7 +161,7 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "Cuba"
     Country "United States"
     Longitude -91.40348
     Internal 1
@@ -169,7 +170,7 @@ graph [
   ]
   node [
     id 16
-    label "16"
+    label "Huntsville"
     Country "United States"
     Longitude -92.54518
     Internal 1
@@ -178,7 +179,7 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "Moberly"
     Country "United States"
     Longitude -92.43824
     Internal 1
@@ -187,7 +188,7 @@ graph [
   ]
   node [
     id 18
-    label "18"
+    label "Green City"
     Country "United States"
     Longitude -92.95326
     Internal 1
@@ -196,7 +197,7 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "Kirksville"
     Country "United States"
     Longitude -92.58325
     Internal 1
@@ -205,7 +206,7 @@ graph [
   ]
   node [
     id 20
-    label "20"
+    label "Hurdland"
     Country "United States"
     Longitude -92.30213
     Internal 1
@@ -214,7 +215,7 @@ graph [
   ]
   node [
     id 21
-    label "21"
+    label "Hannibal"
     Country "United States"
     Longitude -91.35848
     Internal 1
@@ -223,7 +224,7 @@ graph [
   ]
   node [
     id 22
-    label "22"
+    label "Palmyra"
     Country "United States"
     Longitude -91.52321
     Internal 1
@@ -232,7 +233,7 @@ graph [
   ]
   node [
     id 23
-    label "23"
+    label "New London"
     Country "United States"
     Longitude -91.40098
     Internal 1
@@ -241,7 +242,7 @@ graph [
   ]
   node [
     id 24
-    label "24"
+    label "Atlanta"
     Country "United States"
     Longitude -92.48102
     Internal 1
@@ -250,7 +251,7 @@ graph [
   ]
   node [
     id 25
-    label "25"
+    label "Bevier"
     Country "United States"
     Longitude -92.56408
     Internal 1
@@ -259,7 +260,7 @@ graph [
   ]
   node [
     id 26
-    label "26"
+    label "East Saint Louis"
     Country "United States"
     Longitude -90.2527
     Internal 1
@@ -268,12 +269,12 @@ graph [
   ]
   node [
     id 27
-    label "27"
+    label "To Chicago"
     Internal 0
   ]
   node [
     id 28
-    label "28"
+    label "Rolla"
     Country "United States"
     Longitude -91.77127
     Internal 1
@@ -282,7 +283,7 @@ graph [
   ]
   node [
     id 29
-    label "29"
+    label "Pilot Grove"
     Country "United States"
     Longitude -92.91158
     Internal 1
@@ -291,7 +292,7 @@ graph [
   ]
   node [
     id 30
-    label "30"
+    label "Jefferson City"
     Country "United States"
     Longitude -92.17352
     Internal 1
@@ -300,25 +301,25 @@ graph [
   ]
   node [
     id 31
-    label "31"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 32
-    label "32"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 33
-    label "33"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 34
-    label "34"
+    label "Cleveland"
     Country "United States"
     Longitude -94.59357
     Internal 1
@@ -327,7 +328,7 @@ graph [
   ]
   node [
     id 35
-    label "35"
+    label "Tulsa"
     Country "United States"
     Longitude -95.99278
     Internal 1
@@ -336,7 +337,7 @@ graph [
   ]
   node [
     id 36
-    label "36"
+    label "Joplin"
     Country "United States"
     Longitude -94.51328
     Internal 1
@@ -345,7 +346,7 @@ graph [
   ]
   node [
     id 37
-    label "37"
+    label "Shelbina"
     Country "United States"
     Longitude -92.04295
     Internal 1
@@ -354,7 +355,7 @@ graph [
   ]
   node [
     id 38
-    label "38"
+    label "Paris"
     Country "United States"
     Longitude -92.00128
     Internal 1
@@ -363,7 +364,7 @@ graph [
   ]
   node [
     id 39
-    label "39"
+    label "Farber"
     Country "United States"
     Longitude -91.5746
     Internal 1
@@ -372,7 +373,7 @@ graph [
   ]
   node [
     id 40
-    label "40"
+    label "Vandalia"
     Country "United States"
     Longitude -91.48849
     Internal 1
@@ -381,7 +382,7 @@ graph [
   ]
   node [
     id 41
-    label "41"
+    label "Columbia"
     Country "United States"
     Longitude -92.33407
     Internal 1
@@ -390,7 +391,7 @@ graph [
   ]
   node [
     id 42
-    label "42"
+    label "Mexico"
     Country "United States"
     Longitude -91.88295
     Internal 1
@@ -399,7 +400,7 @@ graph [
   ]
   node [
     id 43
-    label "43"
+    label "Mokane"
     Country "United States"
     Longitude -91.87434
     Internal 1
@@ -408,7 +409,7 @@ graph [
   ]
   node [
     id 44
-    label "44"
+    label "Auxvasse"
     Country "United States"
     Longitude -91.89712
     Internal 1
@@ -417,7 +418,7 @@ graph [
   ]
   node [
     id 45
-    label "45"
+    label "Springfield"
     Country "United States"
     Longitude -93.29824
     Internal 1
@@ -426,7 +427,7 @@ graph [
   ]
   node [
     id 46
-    label "46"
+    label "Linneus"
     Country "United States"
     Longitude -93.18882
     Internal 1
@@ -435,7 +436,7 @@ graph [
   ]
   node [
     id 47
-    label "47"
+    label "Unionville"
     Country "United States"
     Longitude -93.00326
     Internal 1
@@ -444,7 +445,7 @@ graph [
   ]
   node [
     id 48
-    label "48"
+    label "Alma"
     Country "United States"
     Longitude -93.54521
     Internal 1
@@ -453,7 +454,7 @@ graph [
   ]
   node [
     id 49
-    label "49"
+    label "Carrollton"
     Country "United States"
     Longitude -93.49577
     Internal 1
@@ -462,7 +463,7 @@ graph [
   ]
   node [
     id 50
-    label "50"
+    label "Tina"
     Country "United States"
     Longitude -93.44021
     Internal 1
@@ -471,7 +472,7 @@ graph [
   ]
   node [
     id 51
-    label "51"
+    label "Chillicothe"
     Country "United States"
     Longitude -93.55244
     Internal 1
@@ -480,12 +481,12 @@ graph [
   ]
   node [
     id 52
-    label "52"
+    label "To Des Moines"
     Internal 0
   ]
   node [
     id 53
-    label "53"
+    label "Princeton"
     Country "United States"
     Longitude -93.5805
     Internal 1
@@ -494,7 +495,7 @@ graph [
   ]
   node [
     id 54
-    label "54"
+    label "Trenton"
     Country "United States"
     Longitude -93.61661
     Internal 1
@@ -503,7 +504,7 @@ graph [
   ]
   node [
     id 55
-    label "55"
+    label "Marshall"
     Country "United States"
     Longitude -93.19687
     Internal 1
@@ -512,7 +513,7 @@ graph [
   ]
   node [
     id 56
-    label "56"
+    label "Savannah"
     Country "United States"
     Longitude -94.83025
     Internal 1
@@ -521,7 +522,7 @@ graph [
   ]
   node [
     id 57
-    label "57"
+    label "Maryville"
     Country "United States"
     Longitude -94.87247
     Internal 1
@@ -530,7 +531,7 @@ graph [
   ]
   node [
     id 58
-    label "58"
+    label "Maitland"
     Country "United States"
     Longitude -95.07442
     Internal 1
@@ -539,7 +540,7 @@ graph [
   ]
   node [
     id 59
-    label "59"
+    label "Rock Port"
     Country "United States"
     Longitude -95.51693
     Internal 1
@@ -548,7 +549,7 @@ graph [
   ]
   node [
     id 60
-    label "60"
+    label "Oregon"
     Country "United States"
     Longitude -95.14498
     Internal 1
@@ -557,7 +558,7 @@ graph [
   ]
   node [
     id 61
-    label "61"
+    label "Saint Joseph"
     Country "United States"
     Longitude -94.84663
     Internal 1
@@ -566,7 +567,7 @@ graph [
   ]
   node [
     id 62
-    label "62"
+    label "Kansas City"
     Country "United States"
     Longitude -94.57857
     Internal 1
@@ -575,7 +576,7 @@ graph [
   ]
   node [
     id 63
-    label "63"
+    label "Lathrop"
     Country "United States"
     Longitude -94.32995
     Internal 1
@@ -584,7 +585,7 @@ graph [
   ]
   node [
     id 64
-    label "64"
+    label "Cameron"
     Country "United States"
     Longitude -94.24106
     Internal 1
@@ -593,7 +594,7 @@ graph [
   ]
   node [
     id 65
-    label "65"
+    label "Albany"
     Country "United States"
     Longitude -94.33107
     Internal 1
@@ -602,7 +603,7 @@ graph [
   ]
   node [
     id 66
-    label "66"
+    label "Bethany"
     Country "United States"
     Longitude -94.02829
     Internal 1

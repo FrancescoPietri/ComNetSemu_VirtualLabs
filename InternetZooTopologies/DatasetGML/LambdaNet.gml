@@ -1,11 +1,12 @@
 graph [
+  multigraph 1
   DateObtained "24/10/10"
   GeoLocation "Germany"
   GeoExtent "Country"
   Network "Lambdanet "
   Provenance "Primary"
   Access 0
-  Source "http://www.lambdanet.de/index.php?p=72&#38;l=2&#38;sid=f944ec21433eadf24cc67a6488e72d20"
+  Source "http://www.lambdanet.de/index.php?p=72&amp;l=2&amp;sid=f944ec21433eadf24cc67a6488e72d20"
   Version "1.0"
   Type "COM"
   DateType "Current"
@@ -29,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Magdeburg"
     Country "Germany"
     Longitude 11.66667
     Internal 1
@@ -37,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Brunswick"
     Country "Germany"
     Longitude 10.53333
     Internal 1
@@ -45,7 +46,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Rostock"
     Country "Germany"
     Longitude 12.14049
     Internal 1
@@ -53,7 +54,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Berlin"
     Country "Germany"
     Longitude 13.41053
     Internal 1
@@ -61,7 +62,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Leipzig"
     Country "Germany"
     Longitude 12.37129
     Internal 1
@@ -69,7 +70,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Dresden"
     Country "Germany"
     Longitude 13.73832
     Internal 1
@@ -77,7 +78,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Erfurt"
     Country "Germany"
     Longitude 11.03333
     Internal 1
@@ -85,7 +86,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Coburg"
     Country "Germany"
     Longitude 10.96667
     Internal 1
@@ -93,7 +94,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Nuremberg"
     Country "Germany"
     Longitude 11.06833
     Internal 1
@@ -101,23 +102,23 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Prague"
     Internal 1
   ]
   node [
     id 10
-    label "10"
+    label "Stockholm"
     Internal 1
   ]
   node [
     id 11
-    label "11"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 12
-    label "12"
+    label "Duren"
     Country "Germany"
     Longitude 6.48333
     Internal 1
@@ -125,7 +126,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "Dusseldorf"
     Country "Germany"
     Longitude 6.77616
     Internal 1
@@ -133,7 +134,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "Cologne"
     Country "Germany"
     Longitude 6.95
     Internal 1
@@ -141,7 +142,7 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "Bonn"
     Country "Germany"
     Longitude 7.1
     Internal 1
@@ -149,7 +150,7 @@ graph [
   ]
   node [
     id 16
-    label "16"
+    label "Essen"
     Country "Germany"
     Longitude 7.01667
     Internal 1
@@ -157,22 +158,22 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "Brno"
     Internal 1
   ]
   node [
     id 18
-    label "18"
+    label "Vienna"
     Internal 1
   ]
   node [
     id 19
-    label "19"
+    label "Bratislava"
     Internal 1
   ]
   node [
     id 20
-    label "20"
+    label "Paris"
     Country "Germany"
     Longitude 8.66432
     Internal 1
@@ -180,7 +181,7 @@ graph [
   ]
   node [
     id 21
-    label "21"
+    label "Augsburg"
     Country "Germany"
     Longitude 10.88333
     Internal 1
@@ -188,7 +189,7 @@ graph [
   ]
   node [
     id 22
-    label "22"
+    label "Aachen"
     Country "Germany"
     Longitude 6.08342
     Internal 1
@@ -196,12 +197,12 @@ graph [
   ]
   node [
     id 23
-    label "23"
+    label "London"
     Internal 1
   ]
   node [
     id 24
-    label "24"
+    label "Karlsruhe"
     Country "Germany"
     Longitude 8.38583
     Internal 1
@@ -209,7 +210,7 @@ graph [
   ]
   node [
     id 25
-    label "25"
+    label "Stuttgart"
     Country "Germany"
     Longitude 9.17702
     Internal 1
@@ -217,7 +218,7 @@ graph [
   ]
   node [
     id 26
-    label "26"
+    label "Ingolstadt"
     Country "Germany"
     Longitude 11.43333
     Internal 1
@@ -225,7 +226,7 @@ graph [
   ]
   node [
     id 27
-    label "27"
+    label "Munich"
     Country "Germany"
     Longitude 11.57549
     Internal 1
@@ -233,12 +234,12 @@ graph [
   ]
   node [
     id 28
-    label "28"
+    label "Zurich"
     Internal 1
   ]
   node [
     id 29
-    label "29"
+    label "Wurzburg"
     Country "Germany"
     Longitude 9.93611
     Internal 1
@@ -246,7 +247,7 @@ graph [
   ]
   node [
     id 30
-    label "30"
+    label "Frankfurt"
     Country "Germany"
     Longitude 8.68333
     Internal 1
@@ -254,7 +255,7 @@ graph [
   ]
   node [
     id 31
-    label "31"
+    label "Mannheim"
     Country "Germany"
     Longitude 8.46472
     Internal 1
@@ -262,7 +263,7 @@ graph [
   ]
   node [
     id 32
-    label "32"
+    label "Kiel"
     Country "Germany"
     Longitude 10.13489
     Internal 1
@@ -270,12 +271,12 @@ graph [
   ]
   node [
     id 33
-    label "33"
+    label "Copenhagen"
     Internal 1
   ]
   node [
     id 34
-    label "34"
+    label "Amsterdam"
     Country "Germany"
     Longitude 6.9553
     Internal 1
@@ -283,7 +284,7 @@ graph [
   ]
   node [
     id 35
-    label "35"
+    label "Dortmund"
     Country "Germany"
     Longitude 7.45
     Internal 1
@@ -291,7 +292,7 @@ graph [
   ]
   node [
     id 36
-    label "36"
+    label "Gutersloh"
     Country "Germany"
     Longitude 8.38333
     Internal 1
@@ -299,7 +300,7 @@ graph [
   ]
   node [
     id 37
-    label "37"
+    label "Bielefeld"
     Country "Germany"
     Longitude 8.53333
     Internal 1
@@ -307,7 +308,7 @@ graph [
   ]
   node [
     id 38
-    label "38"
+    label "Hertford"
     Country "Germany"
     Longitude 8.68333
     Internal 1
@@ -315,7 +316,7 @@ graph [
   ]
   node [
     id 39
-    label "39"
+    label "Bremen"
     Country "Germany"
     Longitude 8.80777
     Internal 1
@@ -323,7 +324,7 @@ graph [
   ]
   node [
     id 40
-    label "40"
+    label "Hanover"
     Country "Germany"
     Longitude 9.73322
     Internal 1
@@ -331,7 +332,7 @@ graph [
   ]
   node [
     id 41
-    label "41"
+    label "Hamburg"
     Country "Germany"
     Longitude 10.0
     Internal 1

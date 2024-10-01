@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "16/01/11"
   GeoLocation "Indonesia"
   GeoExtent "Country"
@@ -30,7 +31,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Cilacap"
     Country "Indonesia"
     Longitude 109.00944
     Internal 1
@@ -38,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Purwokerto"
     Country "Indonesia"
     Longitude 109.23444
     Internal 1
@@ -46,7 +47,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Sukabumi"
     Country "Indonesia"
     Longitude 106.92667
     Internal 1
@@ -54,7 +55,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Tasikmalaya"
     Country "Indonesia"
     Longitude 108.2
     Internal 1
@@ -62,7 +63,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Pekalongan"
     Country "Indonesia"
     Longitude 109.6753
     Internal 1
@@ -70,7 +71,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Semarang"
     Country "Indonesia"
     Longitude 110.4203
     Internal 1
@@ -78,7 +79,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Magelang"
     Country "Indonesia"
     Longitude 110.21778
     Internal 1
@@ -86,7 +87,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Yogyakarta"
     Country "Indonesia"
     Longitude 110.36083
     Internal 1
@@ -94,7 +95,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Kudus"
     Country "Indonesia"
     Longitude 110.8405
     Internal 1
@@ -102,7 +103,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Surakarta"
     Country "Indonesia"
     Longitude 110.83167
     Internal 1
@@ -110,7 +111,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Nusa Dua"
     Country "Indonesia"
     Longitude 123.77028
     Internal 1
@@ -118,7 +119,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "Surabaya"
     Country "Indonesia"
     Longitude 112.75083
     Internal 1
@@ -126,7 +127,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Kediri"
     Country "Indonesia"
     Longitude 112.01667
     Internal 1
@@ -134,7 +135,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "Madium"
     Country "Indonesia"
     Longitude 111.5239
     Internal 1
@@ -142,7 +143,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "Tuban"
     Country "Indonesia"
     Longitude 112.05
     Internal 1
@@ -150,7 +151,7 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "Banyunwangi"
     Country "Indonesia"
     Longitude 114.3646
     Internal 1
@@ -158,7 +159,7 @@ graph [
   ]
   node [
     id 16
-    label "16"
+    label "Jember"
     Country "Indonesia"
     Longitude 113.70317
     Internal 1
@@ -166,7 +167,7 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "Probolinggo"
     Country "Indonesia"
     Longitude 113.2159
     Internal 1
@@ -174,7 +175,7 @@ graph [
   ]
   node [
     id 18
-    label "18"
+    label "Malang"
     Country "Indonesia"
     Longitude 112.6304
     Internal 1
@@ -182,12 +183,12 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "Bakauhuni"
     Internal 1
   ]
   node [
     id 20
-    label "20"
+    label "Cibaliung"
     Country "Indonesia"
     Longitude 105.85
     Internal 1
@@ -195,7 +196,7 @@ graph [
   ]
   node [
     id 21
-    label "21"
+    label "Tegal"
     Country "Indonesia"
     Longitude 109.1402
     Internal 1
@@ -203,7 +204,7 @@ graph [
   ]
   node [
     id 22
-    label "22"
+    label "Cirebon"
     Country "Indonesia"
     Longitude 108.557
     Internal 1
@@ -211,7 +212,7 @@ graph [
   ]
   node [
     id 23
-    label "23"
+    label "Bandung"
     Country "Indonesia"
     Longitude 107.61861
     Internal 1
@@ -219,7 +220,7 @@ graph [
   ]
   node [
     id 24
-    label "24"
+    label "Karawang"
     Country "Indonesia"
     Longitude 107.30556
     Internal 1
@@ -227,7 +228,7 @@ graph [
   ]
   node [
     id 25
-    label "25"
+    label "Jakarta"
     Country "Indonesia"
     Longitude 106.84513
     Internal 1
@@ -235,7 +236,7 @@ graph [
   ]
   node [
     id 26
-    label "26"
+    label "Bogor"
     Country "Indonesia"
     Longitude 106.78917
     Internal 1
@@ -243,7 +244,7 @@ graph [
   ]
   node [
     id 27
-    label "27"
+    label "Serang"
     Country "Indonesia"
     Longitude 106.1502
     Internal 1
@@ -251,7 +252,7 @@ graph [
   ]
   node [
     id 28
-    label "28"
+    label "Anyer"
     Country "Indonesia"
     Longitude 105.88333
     Internal 1

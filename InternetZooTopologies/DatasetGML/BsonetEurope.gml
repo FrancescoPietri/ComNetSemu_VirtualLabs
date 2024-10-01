@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "16/01/11"
   GeoLocation "Europe"
   GeoExtent "Continent"
@@ -30,7 +31,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Prague"
     Country "Czech Republic"
     Longitude 14.42076
     Internal 1
@@ -38,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Frankfurt"
     Country "Germany"
     Longitude 8.68333
     Internal 1
@@ -46,7 +47,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Hamburg"
     Country "Germany"
     Longitude 10.0
     Internal 1
@@ -54,7 +55,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Copenhagen"
     Country "Denmark"
     Longitude 12.56553
     Internal 1
@@ -62,12 +63,12 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Dubai"
     Internal 0
   ]
   node [
     id 5
-    label "5"
+    label "Madrid"
     Country "Spain"
     Longitude -3.70256
     Internal 1
@@ -75,7 +76,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Geneva"
     Country "Switzerland"
     Longitude 6.14569
     Internal 1
@@ -83,7 +84,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Milan"
     Country "Italy"
     Longitude 9.18951
     Internal 1
@@ -91,7 +92,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Brussels"
     Country "Belgium"
     Longitude 4.34878
     Internal 1
@@ -99,7 +100,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Amsterdam"
     Country "Netherlands"
     Longitude 4.88969
     Internal 1
@@ -107,7 +108,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Helsinki"
     Country "Finland"
     Longitude 24.93545
     Internal 1
@@ -115,7 +116,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "Stockholm"
     Country "Sweden"
     Longitude 18.0649
     Internal 1
@@ -123,12 +124,12 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Hong Kong"
     Internal 0
   ]
   node [
     id 13
-    label "13"
+    label "Oslo"
     Country "Norway"
     Longitude 10.74609
     Internal 1
@@ -136,7 +137,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "London"
     Country "United Kingdom"
     Longitude -0.12574
     Internal 1
@@ -144,17 +145,17 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "New York"
     Internal 0
   ]
   node [
     id 16
-    label "16"
+    label "New York"
     Internal 0
   ]
   node [
     id 17
-    label "17"
+    label "Paris"
     Country "France"
     Longitude 2.3488
     Internal 1
@@ -244,6 +245,11 @@ graph [
     source 10
     target 11
     id "e1"
+  ]
+  edge [
+    source 10
+    target 11
+    id "e0"
   ]
   edge [
     source 10

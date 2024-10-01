@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "24/10/10"
   GeoLocation "Iowa, USA"
   GeoExtent "Region"
@@ -29,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Bloomfield"
     Country "United States"
     Longitude -92.41491
     Internal 1
@@ -37,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Omaha"
     Country "United States"
     Longitude -95.93779
     Internal 1
@@ -45,7 +46,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Oskaloosa"
     Country "United States"
     Longitude -92.64436
     Internal 1
@@ -53,7 +54,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Ottumwa"
     Country "United States"
     Longitude -92.4113
     Internal 1
@@ -61,7 +62,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Creston"
     Country "United States"
     Longitude -94.36135
     Internal 1
@@ -69,7 +70,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Osceola"
     Country "United States"
     Longitude -93.7655
     Internal 1
@@ -77,7 +78,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Stanton"
     Country "United States"
     Longitude -95.10415
     Internal 1
@@ -85,7 +86,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Harlan"
     Country "United States"
     Longitude -95.32555
     Internal 1
@@ -93,7 +94,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Clarinda"
     Country "United States"
     Longitude -95.03831
     Internal 1
@@ -101,7 +102,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Sioux City"
     Country "United States"
     Longitude -96.40031
     Internal 1
@@ -109,35 +110,35 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 11
-    label "11"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 12
-    label "12"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 13
-    label "13"
+    label "Minneapolis"
     Internal 0
   ]
   node [
     id 14
-    label "14"
+    label "Kansas City"
     Internal 0
   ]
   node [
     id 15
-    label "15"
+    label "Dubuque"
     Country "United States"
     Longitude -90.66457
     Internal 1
@@ -145,7 +146,7 @@ graph [
   ]
   node [
     id 16
-    label "16"
+    label "Davenport"
     Country "United States"
     Longitude -90.57764
     Internal 1
@@ -153,7 +154,7 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "Iowa City"
     Country "United States"
     Longitude -91.53017
     Internal 1
@@ -161,7 +162,7 @@ graph [
   ]
   node [
     id 18
-    label "18"
+    label "Cedar Rapids"
     Country "United States"
     Longitude -91.64407
     Internal 1
@@ -169,12 +170,12 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "Chicago"
     Internal 0
   ]
   node [
     id 20
-    label "20"
+    label "Mt. Pleasant"
     Country "United States"
     Longitude -91.55794
     Internal 1
@@ -182,7 +183,7 @@ graph [
   ]
   node [
     id 21
-    label "21"
+    label "Fairfield"
     Country "United States"
     Longitude -91.96267
     Internal 1
@@ -190,7 +191,7 @@ graph [
   ]
   node [
     id 22
-    label "22"
+    label "Muscatine"
     Country "United States"
     Longitude -91.04321
     Internal 1
@@ -198,7 +199,7 @@ graph [
   ]
   node [
     id 23
-    label "23"
+    label "Ames"
     Country "United States"
     Longitude -93.61994
     Internal 1
@@ -206,7 +207,7 @@ graph [
   ]
   node [
     id 24
-    label "24"
+    label "Marshalltown"
     Country "United States"
     Longitude -92.90798
     Internal 1
@@ -214,7 +215,7 @@ graph [
   ]
   node [
     id 25
-    label "25"
+    label "Spencer"
     Country "United States"
     Longitude -95.14444
     Internal 1
@@ -222,7 +223,7 @@ graph [
   ]
   node [
     id 26
-    label "26"
+    label "Sioux Falls"
     Country "United States"
     Longitude -96.70033
     Internal 1
@@ -230,7 +231,7 @@ graph [
   ]
   node [
     id 27
-    label "27"
+    label "Ft Dodge"
     Country "United States"
     Longitude -94.16802
     Internal 1
@@ -238,7 +239,7 @@ graph [
   ]
   node [
     id 28
-    label "28"
+    label "Mason City"
     Country "United States"
     Longitude -93.20104
     Internal 1
@@ -246,7 +247,7 @@ graph [
   ]
   node [
     id 29
-    label "29"
+    label "Waterloo"
     Country "United States"
     Longitude -92.34296
     Internal 1
@@ -254,7 +255,7 @@ graph [
   ]
   node [
     id 30
-    label "30"
+    label "Grinnell"
     Country "United States"
     Longitude -92.72241
     Internal 1
@@ -262,7 +263,7 @@ graph [
   ]
   node [
     id 31
-    label "31"
+    label "Newton"
     Country "United States"
     Longitude -93.04798
     Internal 1
@@ -270,7 +271,7 @@ graph [
   ]
   node [
     id 32
-    label "32"
+    label "Des Moines"
     Country "United States"
     Longitude -93.60911
     Internal 1

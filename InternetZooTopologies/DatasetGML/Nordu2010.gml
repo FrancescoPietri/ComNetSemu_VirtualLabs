@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "22/10/10"
   GeoLocation "Europe"
   GeoExtent "Continent"
@@ -30,57 +31,57 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Poznan"
     Internal 0
   ]
   node [
     id 1
-    label "1"
+    label "GEANT"
     Internal 0
   ]
   node [
     id 2
-    label "2"
+    label "London"
     Internal 0
   ]
   node [
     id 3
-    label "3"
+    label "Amsterdam GLORIAD"
     Internal 0
   ]
   node [
     id 4
-    label "4"
+    label "ICELINK: Greenland, Canada, USA"
     Internal 0
   ]
   node [
     id 5
-    label "5"
+    label "London"
     Internal 0
   ]
   node [
     id 6
-    label "6"
+    label "GLORIAD"
     Internal 0
   ]
   node [
     id 7
-    label "7"
+    label "INTERNET"
     Internal 0
   ]
   node [
     id 8
-    label "8"
+    label "INTERNET"
     Internal 0
   ]
   node [
     id 9
-    label "9"
+    label "New York"
     Internal 0
   ]
   node [
     id 10
-    label "10"
+    label "Reyjavik"
     Country "Iceland"
     Longitude -21.89541
     Internal 1
@@ -88,7 +89,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "Oslo"
     Country "Norway"
     Longitude 10.74609
     Internal 1
@@ -96,7 +97,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Stockholm"
     Country "Sweden"
     Longitude 18.0649
     Internal 1
@@ -104,7 +105,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "Espoo"
     Country "Finland"
     Longitude 24.6522
     Internal 1
@@ -112,7 +113,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "Helsinki"
     Country "Finland"
     Longitude 24.93545
     Internal 1
@@ -120,12 +121,12 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "St Petersburg"
     Internal 0
   ]
   node [
     id 16
-    label "16"
+    label "Copenhagen"
     Country "Denmark"
     Longitude 12.56553
     Internal 1
@@ -133,7 +134,7 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "Hamburg"
     Country "Germany"
     Longitude 10.0
     Internal 1

@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "22/10/10"
   GeoLocation "Brazil"
   GeoExtent "Country"
@@ -29,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Revife"
     Country "Brazil"
     Longitude -34.88111
     Internal 1
@@ -37,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Maceio"
     Country "Brazil"
     Longitude -35.73528
     Internal 1
@@ -45,7 +46,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Campina Grande"
     Country "Brazil"
     Longitude -35.88111
     Internal 1
@@ -53,7 +54,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Jobo Passoa"
     Country "Brazil"
     Longitude -34.86306
     Internal 1
@@ -61,7 +62,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Brasilia"
     Country "Brazil"
     Longitude -47.92972
     Internal 1
@@ -69,7 +70,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Belo Horizonte"
     Country "Brazil"
     Longitude -43.93778
     Internal 1
@@ -77,7 +78,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Aracaju"
     Country "Brazil"
     Longitude -37.07167
     Internal 1
@@ -85,7 +86,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Salvador"
     Country "Brazil"
     Longitude -38.51083
     Internal 1
@@ -93,7 +94,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Vitoria"
     Country "Brazil"
     Longitude -40.33778
     Internal 1
@@ -101,7 +102,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Rio de Janeiro"
     Country "Brazil"
     Longitude -43.2075
     Internal 1
@@ -109,7 +110,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Manaus"
     Country "Brazil"
     Longitude -60.025
     Internal 1
@@ -117,7 +118,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "Goiania"
     Country "Brazil"
     Longitude -49.25389
     Internal 1
@@ -125,7 +126,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Cuiaba"
     Country "Brazil"
     Longitude -56.09667
     Internal 1
@@ -133,7 +134,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "Curitiba"
     Country "Brazil"
     Longitude -49.27306
     Internal 1
@@ -141,7 +142,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "Porto Alegro"
     Country "Brazil"
     Longitude -51.23
     Internal 1
@@ -149,7 +150,7 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "Florianopolis"
     Country "Brazil"
     Longitude -48.54917
     Internal 1
@@ -157,7 +158,7 @@ graph [
   ]
   node [
     id 16
-    label "16"
+    label "Sao Paulo"
     Country "Brazil"
     Longitude -46.63611
     Internal 1
@@ -165,7 +166,7 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "Porto Velho"
     Country "Brazil"
     Longitude -63.90389
     Internal 1
@@ -173,7 +174,7 @@ graph [
   ]
   node [
     id 18
-    label "18"
+    label "Rio Branco"
     Country "Brazil"
     Longitude -67.81
     Internal 1
@@ -181,7 +182,7 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "Palmas"
     Country "Brazil"
     Longitude -48.36028
     Internal 1
@@ -189,7 +190,7 @@ graph [
   ]
   node [
     id 20
-    label "20"
+    label "Campo Grande"
     Country "Brazil"
     Longitude -54.64639
     Internal 1
@@ -197,7 +198,7 @@ graph [
   ]
   node [
     id 21
-    label "21"
+    label "Teresina"
     Country "Brazil"
     Longitude -42.80194
     Internal 1
@@ -205,7 +206,7 @@ graph [
   ]
   node [
     id 22
-    label "22"
+    label "Natal"
     Country "Brazil"
     Longitude -35.20944
     Internal 1
@@ -213,22 +214,22 @@ graph [
   ]
   node [
     id 23
-    label "23"
+    label "RedCLARA"
     Internal 0
   ]
   node [
     id 24
-    label "24"
+    label "Inetnet Comercial"
     Internal 0
   ]
   node [
     id 25
-    label "25"
+    label "Americas Light"
     Internal 0
   ]
   node [
     id 26
-    label "26"
+    label "Boa Vista"
     Country "Brazil"
     Longitude -60.67333
     Internal 1
@@ -236,7 +237,7 @@ graph [
   ]
   node [
     id 27
-    label "27"
+    label "Macapa"
     Country "Brazil"
     Longitude -51.06639
     Internal 1
@@ -244,7 +245,7 @@ graph [
   ]
   node [
     id 28
-    label "28"
+    label "Belem"
     Country "Brazil"
     Longitude -48.50444
     Internal 1
@@ -252,7 +253,7 @@ graph [
   ]
   node [
     id 29
-    label "29"
+    label "Sao Luis"
     Country "Brazil"
     Longitude -44.30278
     Internal 1
@@ -260,7 +261,7 @@ graph [
   ]
   node [
     id 30
-    label "30"
+    label "Fortaleza"
     Country "Brazil"
     Longitude -38.54306
     Internal 1

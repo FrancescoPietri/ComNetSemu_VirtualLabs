@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "12/07/11"
   GeoLocation "UK"
   GeoExtent "Country"
@@ -29,27 +30,27 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "HEAnet"
     Internal 0
   ]
   node [
     id 1
-    label "1"
+    label "Europe (GEANT2)"
     Internal 0
   ]
   node [
     id 2
-    label "2"
+    label "People's Republic of China"
     Internal 0
   ]
   node [
     id 3
-    label "3"
+    label "Japan (NII)"
     Internal 0
   ]
   node [
     id 4
-    label "4"
+    label "Belfast"
     Country "United Kingdom"
     Longitude -5.93333
     Internal 1
@@ -57,37 +58,37 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "JANET"
     Internal 1
   ]
   node [
     id 6
-    label "6"
+    label "US Research Networks ESnet"
     Internal 0
   ]
   node [
     id 7
-    label "7"
+    label "US Research Networks Abilene"
     Internal 0
   ]
   node [
     id 8
-    label "8"
+    label "LINX"
     Internal 0
   ]
   node [
     id 9
-    label "9"
+    label "UK ISPs"
     Internal 0
   ]
   node [
     id 10
-    label "10"
+    label "Private Peering with ISPs"
     Internal 0
   ]
   node [
     id 11
-    label "11"
+    label "Global Transit to the World"
     Internal 0
   ]
   edge [

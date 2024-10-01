@@ -1,10 +1,11 @@
 graph [
+  multigraph 1
   DateObtained "14/01/11"
   GeoLocation "USA"
   GeoExtent "Country"
   Network "GlobalCenter"
   Provenance "Secondary"
-  Note "Bought out by Frontier Corp in Jan 98. Global Center was web site distribution and Frontier added long-distance and internet. http://books.google.com.au/books?id=kRsEAAAAMBAJ&#38;pg=PA29&#38;lpg=PA29&#38;dq=GlobalCenter+ATM&#38;source=bl&#38;ots=SiMlAhbS2r&#38;sig=BPskYTNKkAh_sNpohaL3r6FmMTI&#38;hl=en&#38;ei=I7rZTbe2Mc3qrQf1otCOBg&#38;sa=X&#38;oi=book_result&#38;ct=result&#38;resnum=10&#38;ved=0CFIQ6AEwCQ#v=onepage&#38;q=GlobalCenter%20ATM&#38;f=false"
+  Note "Bought out by Frontier Corp in Jan 98. Global Center was web site distribution and Frontier added long-distance and internet. http://books.google.com.au/books?id=kRsEAAAAMBAJ&pg=PA29&lpg=PA29&dq=GlobalCenter+ATM&source=bl&ots=SiMlAhbS2r&sig=BPskYTNKkAh_sNpohaL3r6FmMTI&hl=en&ei=I7rZTbe2Mc3qrQf1otCOBg&sa=X&oi=book_result&ct=result&resnum=10&ved=0CFIQ6AEwCQ#v=onepage&q=GlobalCenter%20ATM&f=false"
   Source "http://www.nthelp.com/images/GlobalCenter.jpg"
   Version "1.0"
   Type "COM"
@@ -30,7 +31,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Minneapolis"
     Country "United States"
     Longitude -93.26384
     Internal 1
@@ -38,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Seattle"
     Country "United States"
     Longitude -122.33207
     Internal 1
@@ -46,7 +47,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "San Jose"
     Country "United States"
     Longitude -121.89496
     Internal 1
@@ -54,7 +55,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Phoenix"
     Country "United States"
     Longitude -112.07404
     Internal 1
@@ -62,7 +63,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Dallas"
     Country "United States"
     Longitude -96.80667
     Internal 1
@@ -70,7 +71,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Atlanta"
     Country "United States"
     Longitude -84.38798
     Internal 1
@@ -78,7 +79,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Vienna"
     Country "United States"
     Longitude -77.26526
     Internal 1
@@ -86,7 +87,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Whippany"
     Country "United States"
     Longitude -74.4171
     Internal 1
@@ -94,7 +95,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Chicago"
     Country "United States"
     Longitude -87.65005
     Internal 1

@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "23/03/11"
   GeoLocation "Ireland"
   GeoExtent "Country"
@@ -29,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Dublin"
     Country "Ireland"
     Longitude -6.26719
     Internal 1
@@ -38,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Galway"
     Country "Ireland"
     Longitude -9.04889
     Internal 1
@@ -47,7 +48,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Limerick"
     Country "Ireland"
     Longitude -8.62306
     Internal 1
@@ -56,7 +57,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Cork"
     Country "Ireland"
     Longitude -8.49583
     Internal 1
@@ -65,7 +66,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Waterford"
     Country "Ireland"
     Longitude -7.11194
     Internal 1
@@ -74,7 +75,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Portlaioise"
     Country "Ireland"
     Longitude -7.29979
     Internal 1
@@ -83,12 +84,12 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "None"
     Internal 0
   ]
   node [
     id 7
-    label "7"
+    label "None"
     Internal 0
   ]
   edge [

@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "25/01/11"
   GeoLocation "United States"
   GeoExtent "Country"
@@ -30,7 +31,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "ILLINOIS"
     Country "United States"
     Longitude -89.64371
     Internal 1
@@ -38,16 +39,16 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "MITRE"
     Country "United States"
     Longitude -70.9342
     Internal 1
     Latitude 41.63622
-    type "&#34;T&#34; Node"
+    type "&quot;T&quot; Node"
   ]
   node [
     id 2
-    label "2"
+    label "CARNEGIE"
     Country "United States"
     Longitude -79.94283
     Internal 1
@@ -55,7 +56,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "CASE"
     Country "United States"
     Longitude -81.59707
     Internal 1
@@ -63,7 +64,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "ETAC"
     Country "United States"
     Longitude -77.03637
     Internal 1
@@ -71,34 +72,34 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "AFGWC"
     Country "United States"
     Longitude -89.85035
     Internal 1
     Latitude 38.5427
-    type "&#34;T&#34; Node"
+    type "&quot;T&quot; Node"
   ]
   node [
     id 6
-    label "6"
+    label "BBN"
     Country "United States"
     Longitude -71.10561
     Internal 1
     Latitude 42.3751
-    type "&#34;T&#34; Node"
+    type "&quot;T&quot; Node"
   ]
   node [
     id 7
-    label "7"
+    label "NBS"
     Country "United States"
     Longitude -77.20137
     Internal 1
     Latitude 39.14344
-    type "&#34;T&#34; Node"
+    type "&quot;T&quot; Node"
   ]
   node [
     id 8
-    label "8"
+    label "Tinker"
     Country "United States"
     Longitude -97.38663
     Internal 1
@@ -106,25 +107,25 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "AMES"
     Country "United States"
     Longitude -122.08385
     Internal 1
     Latitude 37.38605
-    type "&#34;T&#34; Node"
+    type "&quot;T&quot; Node"
   ]
   node [
     id 10
-    label "10"
+    label "ARPA"
     Country "United States"
     Longitude -77.10428
     Internal 1
     Latitude 38.88101
-    type "&#34;T&#34; Node"
+    type "&quot;T&quot; Node"
   ]
   node [
     id 11
-    label "11"
+    label "RADC"
     Country "United States"
     Longitude -75.45573
     Internal 1
@@ -132,7 +133,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "McClellan"
     Country "United States"
     Longitude -121.37217
     Internal 1
@@ -140,7 +141,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "RAND"
     Country "United States"
     Longitude -118.49119
     Internal 1
@@ -148,7 +149,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "AMES"
     Country "United States"
     Longitude -122.08385
     Internal 1
@@ -156,25 +157,25 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "NOAA {[Boulder, Colorado}}"
     Country "United States"
     Longitude -105.49222
     Internal 1
     Latitude 39.90776
-    type "&#34;T&#34; Node"
+    type "&quot;T&quot; Node"
   ]
   node [
     id 16
-    label "16"
+    label "SAAC"
     Country "United States"
     Longitude -77.04692
     Internal 1
     Latitude 38.80484
-    type "&#34;T&#34; Node"
+    type "&quot;T&quot; Node"
   ]
   node [
     id 17
-    label "17"
+    label "BELVOIR"
     Country "United States"
     Longitude -77.14589
     Internal 1
@@ -182,7 +183,7 @@ graph [
   ]
   node [
     id 18
-    label "18"
+    label "SDC"
     Country "United States"
     Longitude -118.49119
     Internal 1
@@ -190,7 +191,7 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "BBN"
     Country "United States"
     Longitude -71.10561
     Internal 1
@@ -198,7 +199,7 @@ graph [
   ]
   node [
     id 20
-    label "20"
+    label "HARVARD"
     Country "United States"
     Longitude -71.11644
     Internal 1
@@ -206,7 +207,7 @@ graph [
   ]
   node [
     id 21
-    label "21"
+    label "SRI"
     Country "United States"
     Longitude -122.18219
     Internal 1
@@ -214,7 +215,7 @@ graph [
   ]
   node [
     id 22
-    label "22"
+    label "UCSB"
     Country "United States"
     Longitude -119.69819
     Internal 1
@@ -222,7 +223,7 @@ graph [
   ]
   node [
     id 23
-    label "23"
+    label "UCLA"
     Country "United States"
     Longitude -118.24368
     Internal 1
@@ -230,7 +231,7 @@ graph [
   ]
   node [
     id 24
-    label "24"
+    label "Stanford"
     Country "United States"
     Longitude -122.14302
     Internal 1
@@ -238,16 +239,16 @@ graph [
   ]
   node [
     id 25
-    label "25"
+    label "USC"
     Country "United States"
     Longitude -118.24368
     Internal 1
     Latitude 34.05223
-    type "&#34;T&#34; Node"
+    type "&quot;T&quot; Node"
   ]
   node [
     id 26
-    label "26"
+    label "UTAH"
     Country "United States"
     Longitude -111.89105
     Internal 1
@@ -255,7 +256,7 @@ graph [
   ]
   node [
     id 27
-    label "27"
+    label "Lincoln"
     Country "United States"
     Longitude -71.2245
     Internal 1
@@ -263,7 +264,7 @@ graph [
   ]
   node [
     id 28
-    label "28"
+    label "MIT"
     Country "United States"
     Longitude -71.09172
     Internal 1

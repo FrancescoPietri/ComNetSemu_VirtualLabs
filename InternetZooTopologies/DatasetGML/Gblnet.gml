@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "16/01/11"
   GeoLocation "Europe"
   GeoExtent "Continent"
@@ -29,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "New York"
     Country "United Kingdom"
     Longitude -0.14008
     Internal 1
@@ -37,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "London"
     Country "United Kingdom"
     Longitude -0.12574
     Internal 1
@@ -45,7 +46,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Stockholm"
     Country "Sweden"
     Longitude 18.0649
     Internal 1
@@ -53,7 +54,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "St Petersburg"
     Country "Russia"
     Longitude 30.26417
     Internal 1
@@ -61,7 +62,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Moscow"
     Country "Russia"
     Longitude 37.61556
     Internal 1
@@ -69,7 +70,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Amsterdam"
     Country "Netherlands"
     Longitude 4.88969
     Internal 1
@@ -77,7 +78,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Frankfurt"
     Country "Germany"
     Longitude 8.68333
     Internal 1
@@ -85,7 +86,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Paris"
     Country "France"
     Longitude 2.3488
     Internal 1

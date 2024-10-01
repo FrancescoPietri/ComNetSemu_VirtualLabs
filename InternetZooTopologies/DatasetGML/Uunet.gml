@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "14/01/11"
   GeoLocation "USA"
   GeoExtent "Country"
@@ -29,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Montreal"
     Country "Canada"
     Longitude -73.58781
     Internal 1
@@ -37,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Halifax"
     Country "Canada"
     Longitude -63.57333
     Internal 1
@@ -45,7 +46,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "London"
     Country "Canada"
     Longitude -81.23304
     Internal 1
@@ -53,7 +54,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Ottawa"
     Country "Canada"
     Longitude -75.69812
     Internal 1
@@ -61,7 +62,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "New York"
     Country "United States"
     Longitude -74.00597
     Internal 1
@@ -69,7 +70,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Philadelphia"
     Country "United States"
     Longitude -75.16379
     Internal 1
@@ -77,7 +78,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Boston"
     Country "United States"
     Longitude -71.05977
     Internal 1
@@ -85,7 +86,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Hartford"
     Country "United States"
     Longitude -72.68509
     Internal 1
@@ -93,7 +94,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Baltimore"
     Country "United States"
     Longitude -76.61219
     Internal 1
@@ -101,7 +102,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Washington, DC"
     Country "United States"
     Longitude -77.03637
     Internal 1
@@ -109,17 +110,17 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Stockholm"
     Internal 0
   ]
   node [
     id 11
-    label "11"
+    label "London"
     Internal 0
   ]
   node [
     id 12
-    label "12"
+    label "Austin"
     Country "United States"
     Longitude -97.74306
     Internal 1
@@ -127,7 +128,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "Dallas"
     Country "United States"
     Longitude -96.80667
     Internal 1
@@ -135,7 +136,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "Houston"
     Country "United States"
     Longitude -95.36327
     Internal 1
@@ -143,7 +144,7 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "New Orleans"
     Country "United States"
     Longitude -90.07507
     Internal 1
@@ -151,7 +152,7 @@ graph [
   ]
   node [
     id 16
-    label "16"
+    label "Jacksonville"
     Country "United States"
     Longitude -81.65565
     Internal 1
@@ -159,7 +160,7 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "Orlando"
     Country "United States"
     Longitude -81.37924
     Internal 1
@@ -167,7 +168,7 @@ graph [
   ]
   node [
     id 18
-    label "18"
+    label "Miami"
     Country "United States"
     Longitude -80.19366
     Internal 1
@@ -175,12 +176,12 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "Monaco"
     Internal 0
   ]
   node [
     id 20
-    label "20"
+    label "Buffalo"
     Country "United States"
     Longitude -78.87837
     Internal 1
@@ -188,7 +189,7 @@ graph [
   ]
   node [
     id 21
-    label "21"
+    label "Cleveland"
     Country "United States"
     Longitude -81.69541
     Internal 1
@@ -196,12 +197,12 @@ graph [
   ]
   node [
     id 22
-    label "22"
+    label "Cologne"
     Internal 0
   ]
   node [
     id 23
-    label "23"
+    label "Pittsburgh"
     Country "United States"
     Longitude -79.99589
     Internal 1
@@ -209,7 +210,7 @@ graph [
   ]
   node [
     id 24
-    label "24"
+    label "Detroit"
     Country "United States"
     Longitude -83.04575
     Internal 1
@@ -217,7 +218,7 @@ graph [
   ]
   node [
     id 25
-    label "25"
+    label "Chicago"
     Country "United States"
     Longitude -87.65005
     Internal 1
@@ -225,7 +226,7 @@ graph [
   ]
   node [
     id 26
-    label "26"
+    label "Indianapolis"
     Country "United States"
     Longitude -86.15804
     Internal 1
@@ -233,7 +234,7 @@ graph [
   ]
   node [
     id 27
-    label "27"
+    label "Kansas City"
     Country "United States"
     Longitude -94.62746
     Internal 1
@@ -241,7 +242,7 @@ graph [
   ]
   node [
     id 28
-    label "28"
+    label "St Louis"
     Country "United States"
     Longitude -90.19789
     Internal 1
@@ -249,7 +250,7 @@ graph [
   ]
   node [
     id 29
-    label "29"
+    label "Edmonton"
     Country "Canada"
     Longitude -113.46871
     Internal 1
@@ -257,12 +258,12 @@ graph [
   ]
   node [
     id 30
-    label "30"
+    label "Tokyo"
     Internal 0
   ]
   node [
     id 31
-    label "31"
+    label "Los Angeles"
     Country "United States"
     Longitude -118.24368
     Internal 1
@@ -270,7 +271,7 @@ graph [
   ]
   node [
     id 32
-    label "32"
+    label "Las Vegas"
     Country "United States"
     Longitude -115.13722
     Internal 1
@@ -278,7 +279,7 @@ graph [
   ]
   node [
     id 33
-    label "33"
+    label "Atlanta"
     Country "United States"
     Longitude -84.38798
     Internal 1
@@ -286,7 +287,7 @@ graph [
   ]
   node [
     id 34
-    label "34"
+    label "Raleigh"
     Country "United States"
     Longitude -78.63861
     Internal 1
@@ -294,17 +295,17 @@ graph [
   ]
   node [
     id 35
-    label "35"
+    label "Hawaii"
     Internal 0
   ]
   node [
     id 36
-    label "36"
+    label "Hawaii"
     Internal 0
   ]
   node [
     id 37
-    label "37"
+    label "Phoenix"
     Country "United States"
     Longitude -112.07404
     Internal 1
@@ -312,7 +313,7 @@ graph [
   ]
   node [
     id 38
-    label "38"
+    label "San Diego"
     Country "United States"
     Longitude -117.15726
     Internal 1
@@ -320,7 +321,7 @@ graph [
   ]
   node [
     id 39
-    label "39"
+    label "Toronto"
     Country "Canada"
     Longitude -79.4163
     Internal 1
@@ -328,7 +329,7 @@ graph [
   ]
   node [
     id 40
-    label "40"
+    label "Kitchener"
     Country "Canada"
     Longitude -80.48299
     Internal 1
@@ -336,7 +337,7 @@ graph [
   ]
   node [
     id 41
-    label "41"
+    label "Calgary"
     Country "Canada"
     Longitude -114.08529
     Internal 1
@@ -344,7 +345,7 @@ graph [
   ]
   node [
     id 42
-    label "42"
+    label "Vancouver"
     Country "Canada"
     Longitude -123.11934
     Internal 1
@@ -352,7 +353,7 @@ graph [
   ]
   node [
     id 43
-    label "43"
+    label "Seattle"
     Country "United States"
     Longitude -122.33207
     Internal 1
@@ -360,7 +361,7 @@ graph [
   ]
   node [
     id 44
-    label "44"
+    label "Portland"
     Country "United States"
     Longitude -122.67621
     Internal 1
@@ -368,7 +369,7 @@ graph [
   ]
   node [
     id 45
-    label "45"
+    label "San Francisco"
     Country "United States"
     Longitude -122.41942
     Internal 1
@@ -376,7 +377,7 @@ graph [
   ]
   node [
     id 46
-    label "46"
+    label "Salt Lake City"
     Country "United States"
     Longitude -111.89105
     Internal 1
@@ -384,7 +385,7 @@ graph [
   ]
   node [
     id 47
-    label "47"
+    label "Denver"
     Country "United States"
     Longitude -104.9847
     Internal 1
@@ -392,7 +393,7 @@ graph [
   ]
   node [
     id 48
-    label "48"
+    label "Minneapolis"
     Country "United States"
     Longitude -93.26384
     Internal 1

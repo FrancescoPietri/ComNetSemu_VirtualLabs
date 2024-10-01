@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "20/07/11"
   GeoLocation "Belarus"
   GeoExtent "Country"
@@ -30,7 +31,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Grodno"
     Country "Belarus"
     Longitude 23.83029
     Internal 1
@@ -38,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Minsk"
     Country "Belarus"
     Longitude 27.56667
     Internal 1
@@ -46,7 +47,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Vitebsk"
     Country "Belarus"
     Longitude 30.2033
     Internal 1
@@ -54,7 +55,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Mogilev"
     Country "Belarus"
     Longitude 30.33764
     Internal 1
@@ -62,7 +63,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Gomel"
     Country "Belarus"
     Longitude 30.98227
     Internal 1
@@ -70,7 +71,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Brest"
     Country "Belarus"
     Longitude 23.68775
     Internal 1
@@ -78,7 +79,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Pionier GEANT 2"
     Internal 0
   ]
   edge [

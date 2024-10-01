@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "2/01/11"
   GeoLocation "Global"
   GeoExtent "Global"
@@ -29,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Rio De Janeiro"
     Country "Brazil"
     Longitude -43.2075
     Internal 1
@@ -37,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Paris"
     Country "France"
     Longitude 2.3488
     Internal 1
@@ -45,7 +46,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Miami"
     Country "United States"
     Longitude -80.19366
     Internal 1
@@ -53,7 +54,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Sao Paulo"
     Country "Brazil"
     Longitude -46.63611
     Internal 1
@@ -61,7 +62,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Amsterdam"
     Country "Netherlands"
     Longitude 4.88969
     Internal 1
@@ -69,7 +70,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Frankfurt"
     Country "Germany"
     Longitude 8.68333
     Internal 1
@@ -77,7 +78,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "London"
     Country "United Kingdom"
     Longitude -0.12574
     Internal 1
@@ -85,7 +86,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Brussels"
     Country "Belgium"
     Longitude 4.34878
     Internal 1
@@ -93,7 +94,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "New York"
     Country "United States"
     Longitude -74.00597
     Internal 1
@@ -101,7 +102,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Atlanta"
     Country "United States"
     Longitude -84.38798
     Internal 1
@@ -109,7 +110,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Seattle"
     Country "United States"
     Longitude -122.33207
     Internal 1
@@ -117,7 +118,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "San Jose/San Francisco"
     Country "United States"
     Longitude -121.89496
     Internal 1
@@ -125,7 +126,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Los Angeles"
     Country "United States"
     Longitude -118.24368
     Internal 1
@@ -133,7 +134,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "Phoenix"
     Country "United States"
     Longitude -112.07404
     Internal 1
@@ -141,7 +142,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "Dallas"
     Country "United States"
     Longitude -96.80667
     Internal 1
@@ -149,7 +150,7 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "Chicago"
     Country "United States"
     Longitude -87.65005
     Internal 1
@@ -157,7 +158,7 @@ graph [
   ]
   node [
     id 16
-    label "16"
+    label "Toronto"
     Country "Canada"
     Longitude -79.4163
     Internal 1
@@ -165,7 +166,7 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "Ashburn"
     Country "United States"
     Longitude -77.48749
     Internal 1
@@ -175,6 +176,11 @@ graph [
     source 0
     target 2
     id "e40"
+  ]
+  edge [
+    source 0
+    target 2
+    id "e41"
   ]
   edge [
     source 0
@@ -203,6 +209,11 @@ graph [
   ]
   edge [
     source 2
+    target 9
+    id "e38"
+  ]
+  edge [
+    source 2
     target 14
     id "e18"
   ]
@@ -213,13 +224,38 @@ graph [
   ]
   edge [
     source 4
+    target 17
+    id "e34"
+  ]
+  edge [
+    source 4
     target 5
     id "e51"
   ]
   edge [
     source 4
+    target 5
+    id "e50"
+  ]
+  edge [
+    source 4
+    target 5
+    id "e52"
+  ]
+  edge [
+    source 4
     target 6
     id "e48"
+  ]
+  edge [
+    source 4
+    target 6
+    id "e46"
+  ]
+  edge [
+    source 4
+    target 6
+    id "e47"
   ]
   edge [
     source 4
@@ -230,6 +266,11 @@ graph [
     source 6
     target 8
     id "e37"
+  ]
+  edge [
+    source 6
+    target 8
+    id "e36"
   ]
   edge [
     source 8
@@ -243,13 +284,43 @@ graph [
   ]
   edge [
     source 8
+    target 17
+    id "e28"
+  ]
+  edge [
+    source 8
+    target 17
+    id "e29"
+  ]
+  edge [
+    source 8
+    target 17
+    id "e30"
+  ]
+  edge [
+    source 8
     target 15
     id "e24"
+  ]
+  edge [
+    source 8
+    target 15
+    id "e23"
   ]
   edge [
     source 9
     target 17
     id "e33"
+  ]
+  edge [
+    source 9
+    target 17
+    id "e32"
+  ]
+  edge [
+    source 9
+    target 17
+    id "e31"
   ]
   edge [
     source 9
@@ -283,13 +354,38 @@ graph [
   ]
   edge [
     source 11
+    target 12
+    id "e3"
+  ]
+  edge [
+    source 11
+    target 12
+    id "e2"
+  ]
+  edge [
+    source 11
     target 15
     id "e5"
+  ]
+  edge [
+    source 11
+    target 15
+    id "e6"
   ]
   edge [
     source 12
     target 13
     id "e10"
+  ]
+  edge [
+    source 12
+    target 13
+    id "e9"
+  ]
+  edge [
+    source 12
+    target 13
+    id "e8"
   ]
   edge [
     source 12
@@ -307,9 +403,19 @@ graph [
     id "e15"
   ]
   edge [
+    source 13
+    target 14
+    id "e14"
+  ]
+  edge [
     source 14
     target 17
     id "e17"
+  ]
+  edge [
+    source 14
+    target 17
+    id "e16"
   ]
   edge [
     source 14
@@ -325,5 +431,10 @@ graph [
     source 15
     target 17
     id "e21"
+  ]
+  edge [
+    source 15
+    target 17
+    id "e22"
   ]
 ]

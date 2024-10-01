@@ -12,5 +12,21 @@
         "bw": 50,
         "max_queue_size": 10,
         "burst": 1000000
+    },
+    "2": {
+        "bw": 67.0,
+        "delay": 4.0,
+        "jitter": 4.0,
+        "loss": null,
+        "gro": false,
+        "txo": true,
+        "rxo": true,
+        "speedup": 0,
+        "use_hfsc": false,
+        "use_tbf": false,
+        "latency_ms": null,
+        "enable_ecn": false,
+        "enable_red": false,
+        "max_queue_size": null
     }
 }

@@ -1,11 +1,12 @@
 graph [
+  multigraph 1
   DateObtained "19/10/10"
   GeoLocation "Austria"
   GeoExtent "Country"
   Network "ACOnet"
   Provenance "Primary"
   Note "Vienna is unclear - Internal links show which of two internal PoPs they connect to, but external links not clear."
-  Source "http://www.aco.net/ueberblick.html?&#38;L=1"
+  Source "http://www.aco.net/ueberblick.html?&amp;L=1"
   Version "1.0"
   Type "REN"
   DateType "Historic"
@@ -30,7 +31,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Eisenstadt"
     Country "Austria"
     Longitude 16.51667
     Internal 1
@@ -38,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "St. Polten"
     Country "Austria"
     Longitude 15.63333
     Internal 1
@@ -46,7 +47,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Graz2"
     Country "Austria"
     Longitude 15.45
     Internal 1
@@ -54,7 +55,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Leoben"
     Country "Austria"
     Longitude 15.1
     Internal 1
@@ -62,7 +63,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Vienna2"
     Country "Austria"
     Longitude 16.37208
     Internal 1
@@ -70,12 +71,12 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "GEANT"
     Internal 0
   ]
   node [
     id 6
-    label "6"
+    label "Krems"
     Country "Austria"
     Longitude 15.61415
     Internal 1
@@ -83,7 +84,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Vienna1"
     Country "Austria"
     Longitude 16.37208
     Internal 1
@@ -91,33 +92,33 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Level3"
     Internal 0
   ]
   node [
     id 9
-    label "9"
+    label "VIX"
     Internal 0
   ]
   node [
     id 10
-    label "10"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 11
-    label "11"
+    label "SANET"
     Internal 0
   ]
   node [
     id 12
-    label "12"
+    label "CESNET"
     Internal 0
   ]
   node [
     id 13
-    label "13"
+    label "Klagenfurt2"
     Country "Austria"
     Longitude 14.30528
     Internal 1
@@ -125,7 +126,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "Graz1"
     Country "Austria"
     Longitude 15.45
     Internal 1
@@ -133,7 +134,7 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "Linz1"
     Country "Austria"
     Longitude 14.28611
     Internal 1
@@ -141,7 +142,7 @@ graph [
   ]
   node [
     id 16
-    label "16"
+    label "Linz2"
     Country "Austria"
     Longitude 14.28611
     Internal 1
@@ -149,7 +150,7 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "Salzburg1"
     Country "Austria"
     Longitude 13.04399
     Internal 1
@@ -157,7 +158,7 @@ graph [
   ]
   node [
     id 18
-    label "18"
+    label "Salzburg2"
     Country "Austria"
     Longitude 13.04399
     Internal 1
@@ -165,7 +166,7 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "Innsbruck1"
     Country "Austria"
     Longitude 11.39454
     Internal 1
@@ -173,7 +174,7 @@ graph [
   ]
   node [
     id 20
-    label "20"
+    label "Innsbruck2"
     Country "Austria"
     Longitude 11.39454
     Internal 1
@@ -181,7 +182,7 @@ graph [
   ]
   node [
     id 21
-    label "21"
+    label "Dornbirn"
     Country "Austria"
     Longitude 9.73306
     Internal 1
@@ -189,7 +190,7 @@ graph [
   ]
   node [
     id 22
-    label "22"
+    label "Klagenfurt1"
     Country "Austria"
     Longitude 14.30528
     Internal 1

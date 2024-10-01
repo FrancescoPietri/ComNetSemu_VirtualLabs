@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "22/10/10"
   GeoLocation "Europe"
   GeoExtent "Continent"
@@ -29,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Hamburg"
     Country "Germany"
     Longitude 10.0
     Internal 1
@@ -37,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Hannover"
     Country "Germany"
     Longitude 9.73322
     Internal 1
@@ -45,7 +46,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Stuttgart"
     Country "Germany"
     Longitude 9.17702
     Internal 1
@@ -53,7 +54,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Munich"
     Country "Germany"
     Longitude 11.57549
     Internal 1
@@ -61,7 +62,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Berlin"
     Country "Germany"
     Longitude 13.41053
     Internal 1
@@ -69,7 +70,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Cologne"
     Country "Germany"
     Longitude 6.95
     Internal 1
@@ -77,7 +78,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Frankfurt"
     Country "Germany"
     Longitude 8.68333
     Internal 1
@@ -85,7 +86,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Dublin"
     Country "Ireland"
     Longitude -6.26719
     Internal 1
@@ -93,7 +94,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "London"
     Country "United Kingdom"
     Longitude -0.12574
     Internal 1
@@ -101,7 +102,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Paris"
     Country "France"
     Longitude 2.3488
     Internal 1
@@ -109,7 +110,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Rotterdam"
     Country "Netherlands"
     Longitude 4.47917
     Internal 1
@@ -117,7 +118,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "The Hague"
     Country "Netherlands"
     Longitude 4.29861
     Internal 1
@@ -125,7 +126,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Amsterdam"
     Country "Netherlands"
     Longitude 4.88969
     Internal 1
@@ -133,7 +134,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "Utrecht"
     Country "Netherlands"
     Longitude 5.12222
     Internal 1
@@ -141,7 +142,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "Dusseldorf"
     Country "Germany"
     Longitude 6.77616
     Internal 1
@@ -179,8 +180,18 @@ graph [
   ]
   edge [
     source 5
+    target 14
+    id "e10"
+  ]
+  edge [
+    source 5
     target 6
     id "e13"
+  ]
+  edge [
+    source 5
+    target 6
+    id "e14"
   ]
   edge [
     source 6
@@ -191,6 +202,11 @@ graph [
     source 7
     target 8
     id "e1"
+  ]
+  edge [
+    source 7
+    target 8
+    id "e0"
   ]
   edge [
     source 8

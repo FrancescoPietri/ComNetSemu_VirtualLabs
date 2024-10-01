@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "2/12/10"
   GeoLocation "Australia"
   GeoExtent "Country"
@@ -29,112 +30,112 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "AKAMAI"
     Internal 0
   ]
   node [
     id 1
-    label "1"
+    label "Velocix"
     Internal 0
   ]
   node [
     id 2
-    label "2"
+    label "AARNET"
     Internal 0
   ]
   node [
     id 3
-    label "3"
+    label "WADE"
     Internal 0
   ]
   node [
     id 4
-    label "4"
+    label "Pipe"
     Internal 0
   ]
   node [
     id 5
-    label "5"
+    label "AARNET"
     Internal 0
   ]
   node [
     id 6
-    label "6"
+    label "Pipe"
     Internal 0
   ]
   node [
     id 7
-    label "7"
+    label "Transact"
     Internal 0
   ]
   node [
     id 8
-    label "8"
+    label "AKAMAI"
     Internal 0
   ]
   node [
     id 9
-    label "9"
+    label "PIPE"
     Internal 0
   ]
   node [
     id 10
-    label "10"
+    label "VOCUS"
     Internal 0
   ]
   node [
     id 11
-    label "11"
+    label "TELSTRA"
     Internal 0
   ]
   node [
     id 12
-    label "12"
+    label "REACH"
     Internal 0
   ]
   node [
     id 13
-    label "13"
+    label "AKAMAI"
     Internal 0
   ]
   node [
     id 14
-    label "14"
+    label "GOOGLE"
     Internal 0
   ]
   node [
     id 15
-    label "15"
+    label "PIPE"
     Internal 0
   ]
   node [
     id 16
-    label "16"
+    label "PIPE"
     Internal 0
   ]
   node [
     id 17
-    label "17"
+    label "Equinix"
     Internal 0
   ]
   node [
     id 18
-    label "18"
+    label "AARNET"
     Internal 0
   ]
   node [
     id 19
-    label "19"
+    label "AKAMAI"
     Internal 0
   ]
   node [
     id 20
-    label "20"
+    label "PIPE"
     Internal 0
   ]
   node [
     id 21
-    label "21"
+    label "Hobart"
     Country "Australia"
     Longitude 147.32941
     Internal 1
@@ -142,12 +143,12 @@ graph [
   ]
   node [
     id 22
-    label "22"
+    label "Google"
     Internal 0
   ]
   node [
     id 23
-    label "23"
+    label "Darwin"
     Country "Australia"
     Longitude 130.84185
     Internal 1
@@ -155,7 +156,7 @@ graph [
   ]
   node [
     id 24
-    label "24"
+    label "Adelaide"
     Country "Australia"
     Longitude 138.6
     Internal 1
@@ -163,7 +164,7 @@ graph [
   ]
   node [
     id 25
-    label "25"
+    label "Perth"
     Country "Australia"
     Longitude 115.83333
     Internal 1
@@ -171,7 +172,7 @@ graph [
   ]
   node [
     id 26
-    label "26"
+    label "Brisbane"
     Country "Australia"
     Longitude 153.02809
     Internal 1
@@ -179,7 +180,7 @@ graph [
   ]
   node [
     id 27
-    label "27"
+    label "Sydney1"
     Country "Australia"
     Longitude 151.20732
     Internal 1
@@ -187,7 +188,7 @@ graph [
   ]
   node [
     id 28
-    label "28"
+    label "Sydney2"
     Country "Australia"
     Longitude 151.20732
     Internal 1
@@ -195,7 +196,7 @@ graph [
   ]
   node [
     id 29
-    label "29"
+    label "Canberra"
     Country "Australia"
     Longitude 149.12807
     Internal 1
@@ -203,7 +204,7 @@ graph [
   ]
   node [
     id 30
-    label "30"
+    label "Melbourne"
     Country "Australia"
     Longitude 144.96332
     Internal 1

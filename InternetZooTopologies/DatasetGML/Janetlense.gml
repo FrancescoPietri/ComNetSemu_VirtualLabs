@@ -1,11 +1,12 @@
 graph [
+  multigraph 1
   DateObtained "24/01/11"
   GeoLocation "Central South, UK"
   GeoExtent "Region"
   Network "Janet Lense"
   Provenance "Primary"
-  Note "Additional information from http://www.lense.net.uk/index.php?option=com_content&#38;view=article&#38;id=51&#38;Itemid=70 JANET local provider"
-  Source "http://www.lense.net.uk/index.php?option=com_content&#38;view=article&#38;id=52&#38;Itemid=73"
+  Note "Additional information from http://www.lense.net.uk/index.php?option=com_content&view=article&id=51&Itemid=70 JANET local provider"
+  Source "http://www.lense.net.uk/index.php?option=com_content&view=article&id=52&Itemid=73"
   Version "1.0"
   DateType "Current"
   Type "REN"
@@ -30,7 +31,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Southampton Aggregation"
     Country "United Kingdom"
     Longitude -1.4
     Internal 1
@@ -39,7 +40,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Southampton"
     Country "United Kingdom"
     Longitude -1.4
     Internal 1
@@ -48,7 +49,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Winchester"
     Country "United Kingdom"
     Longitude -1.3187
     Internal 1
@@ -57,7 +58,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Portsmouth"
     Country "United Kingdom"
     Longitude -1.07142
     Internal 1
@@ -66,7 +67,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Bournemouth"
     Country "United Kingdom"
     Longitude -1.88333
     Internal 1
@@ -75,7 +76,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Bere Regis Colocation"
     Country "United Kingdom"
     Longitude -2.11667
     Internal 1
@@ -84,7 +85,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Solent"
     Country "United Kingdom"
     Longitude -1.4
     Internal 1
@@ -93,7 +94,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Bournemouth Aggregation"
     Country "United Kingdom"
     Longitude -1.88333
     Internal 1
@@ -102,7 +103,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Isle of Wight Colocation"
     Country "United Kingdom"
     Longitude -1.33333
     Internal 1
@@ -111,7 +112,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Hampton Park Colocation"
     Country "United Kingdom"
     Longitude 0.28453
     Internal 1
@@ -120,7 +121,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Wymering"
     Country "United Kingdom"
     Longitude -1.07404
     Internal 1
@@ -129,7 +130,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "Chichester"
     Country "United Kingdom"
     Longitude -0.78003
     Internal 1
@@ -138,12 +139,12 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Janet SJ5"
     Internal 0
   ]
   node [
     id 13
-    label "13"
+    label "Southampton Core"
     Country "United Kingdom"
     Longitude -1.4
     Internal 1
@@ -152,7 +153,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "Aldershot Core"
     Country "United Kingdom"
     Longitude -0.76667
     Internal 1
@@ -161,7 +162,7 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "Brighton Aggregation"
     Country "United Kingdom"
     Longitude -0.13947
     Internal 1
@@ -170,7 +171,7 @@ graph [
   ]
   node [
     id 16
-    label "16"
+    label "Brighton"
     Country "United Kingdom"
     Longitude -0.13947
     Internal 1
@@ -179,7 +180,7 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "Sussex"
     Country "United Kingdom"
     Longitude 0.28453
     Internal 1
@@ -188,7 +189,7 @@ graph [
   ]
   node [
     id 18
-    label "18"
+    label "Surrey"
     Country "United Kingdom"
     Longitude -0.55893
     Internal 1
@@ -197,7 +198,7 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "Aldershot Aggregation"
     Country "United Kingdom"
     Longitude -0.76667
     Internal 1
@@ -215,10 +216,28 @@ graph [
   ]
   edge [
     source 0
+    target 13
+    LinkSpeed "1"
+    LinkNote "E Primary Link"
+    LinkLabel "1GE Primary Link"
+    LinkSpeedUnits "G"
+    LinkSpeedRaw 1000000000.0
+  ]
+  edge [
+    source 0
     target 14
     LinkSpeed "1"
     LinkNote "E Backup Link"
     LinkLabel "1GE Backup Link"
+    LinkSpeedUnits "G"
+    LinkSpeedRaw 1000000000.0
+  ]
+  edge [
+    source 1
+    target 13
+    LinkSpeed "1"
+    LinkNote "E Primary Link"
+    LinkLabel "1GE Primary Link"
     LinkSpeedUnits "G"
     LinkSpeedRaw 1000000000.0
   ]
@@ -476,6 +495,24 @@ graph [
   ]
   edge [
     source 14
+    target 15
+    LinkSpeed "1"
+    LinkNote "E Primary Link"
+    LinkLabel "1GE Primary Link"
+    LinkSpeedUnits "G"
+    LinkSpeedRaw 1000000000.0
+  ]
+  edge [
+    source 14
+    target 16
+    LinkSpeed "1"
+    LinkNote "E Primary Link"
+    LinkLabel "1GE Primary Link"
+    LinkSpeedUnits "G"
+    LinkSpeedRaw 1000000000.0
+  ]
+  edge [
+    source 14
     target 16
     LinkSpeed "1"
     LinkNote "E Primary Link"
@@ -495,6 +532,24 @@ graph [
   edge [
     source 14
     target 18
+    LinkSpeed "1"
+    LinkNote "E Primary Link"
+    LinkLabel "1GE Primary Link"
+    LinkSpeedUnits "G"
+    LinkSpeedRaw 1000000000.0
+  ]
+  edge [
+    source 14
+    target 18
+    LinkSpeed "1"
+    LinkNote "E Primary Link"
+    LinkLabel "1GE Primary Link"
+    LinkSpeedUnits "G"
+    LinkSpeedRaw 1000000000.0
+  ]
+  edge [
+    source 14
+    target 19
     LinkSpeed "1"
     LinkNote "E Primary Link"
     LinkLabel "1GE Primary Link"

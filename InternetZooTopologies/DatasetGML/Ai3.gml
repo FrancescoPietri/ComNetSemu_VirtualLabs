@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "19/10/10"
   GeoLocation "Asia-Pacific"
   GeoExtent "Continent"
@@ -29,52 +30,52 @@ graph [
   Testbed 1
   node [
     id 0
-    label "0"
+    label "UNIBRAW"
     Internal 1
   ]
   node [
     id 1
-    label "1"
+    label "NAIST"
     Internal 1
   ]
   node [
     id 2
-    label "2"
+    label "KEIO"
     Internal 1
   ]
   node [
     id 3
-    label "3"
+    label "IOIT"
     Internal 1
   ]
   node [
     id 4
-    label "4"
+    label "ASTI"
     Internal 1
   ]
   node [
     id 5
-    label "5"
+    label "TU"
     Internal 1
   ]
   node [
     id 6
-    label "6"
+    label "AIT"
     Internal 1
   ]
   node [
     id 7
-    label "7"
+    label "ITB"
     Internal 1
   ]
   node [
     id 8
-    label "8"
+    label "TP"
     Internal 1
   ]
   node [
     id 9
-    label "9"
+    label "USM"
     Internal 1
   ]
   edge [

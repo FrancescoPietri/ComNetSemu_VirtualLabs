@@ -41,6 +41,17 @@ from mininet.link import TCLink\n\n""")
         with open(file_path, 'w') as file:
             file.write(formatted_code)
 
+    def add_multigraph(self, file_gml):
+        with open(op.join('DatasetGML/' ,file_gml), 'r') as file:
+            lines = file.readlines()
+
+        for i, line in enumerate(lines):
+            if 'graph' in line:
+                lines.insert(i+1, '  multigraph 1\n')
+                break
+
+        with open(op.join('DatasetGML/',file_gml), 'w') as file:
+            file.writelines(lines)
 
     def convert_gml_topo(self, name, datasetDirPath, topologyDirPath, flagLK=False, dictLinkConf=DEF_DICT_LINKS_CONF):
         random.seed()

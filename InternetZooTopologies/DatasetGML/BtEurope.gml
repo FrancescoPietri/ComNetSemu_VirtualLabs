@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "16/11/10"
   GeoLocation "Europe"
   GeoExtent "Continent"
@@ -29,7 +30,7 @@ graph [
   Testbed 1
   node [
     id 0
-    label "0"
+    label "Budapest"
     Country "Hungary"
     Longitude 19.03991
     Internal 1
@@ -37,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Munich"
     Country "Germany"
     Longitude 11.57549
     Internal 1
@@ -45,7 +46,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Prague"
     Country "Czech Republic"
     Longitude 14.42076
     Internal 1
@@ -53,7 +54,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Vienna"
     Country "Austria"
     Longitude 16.37208
     Internal 1
@@ -61,7 +62,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Dusseldorf"
     Country "Germany"
     Longitude 6.77616
     Internal 1
@@ -69,7 +70,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Frankfurt"
     Country "Germany"
     Longitude 8.68333
     Internal 1
@@ -77,7 +78,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Zurich"
     Country "Switzerland"
     Longitude 8.55
     Internal 1
@@ -85,7 +86,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Paris"
     Country "France"
     Longitude 2.3488
     Internal 1
@@ -93,7 +94,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Milan"
     Country "Italy"
     Longitude 9.18951
     Internal 1
@@ -101,7 +102,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Barcelona"
     Country "Spain"
     Longitude 2.15899
     Internal 1
@@ -109,7 +110,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Goonhilly"
     Country "United Kingdom"
     Longitude -5.2
     Internal 1
@@ -117,17 +118,17 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "New York"
     Internal 0
   ]
   node [
     id 12
-    label "12"
+    label "Washington"
     Internal 0
   ]
   node [
     id 13
-    label "13"
+    label "Madrid"
     Country "Spain"
     Longitude -3.70256
     Internal 1
@@ -135,7 +136,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "Helsinki"
     Country "Finland"
     Longitude 24.93545
     Internal 1
@@ -143,7 +144,7 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "Copenhagen"
     Country "Denmark"
     Longitude 12.56553
     Internal 1
@@ -151,7 +152,7 @@ graph [
   ]
   node [
     id 16
-    label "16"
+    label "London"
     Country "United Kingdom"
     Longitude -0.12574
     Internal 1
@@ -159,7 +160,7 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "London"
     Country "United Kingdom"
     Longitude -0.12574
     Internal 1
@@ -167,7 +168,7 @@ graph [
   ]
   node [
     id 18
-    label "18"
+    label "Madley"
     Country "United Kingdom"
     Longitude -2.85
     Internal 1
@@ -175,7 +176,7 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "Dublin"
     Country "Ireland"
     Longitude -6.26719
     Internal 1
@@ -183,7 +184,7 @@ graph [
   ]
   node [
     id 20
-    label "20"
+    label "Brussels"
     Country "Belgium"
     Longitude 4.34878
     Internal 1
@@ -191,7 +192,7 @@ graph [
   ]
   node [
     id 21
-    label "21"
+    label "Amsterdam"
     Country "Netherlands"
     Longitude 4.88969
     Internal 1
@@ -199,7 +200,7 @@ graph [
   ]
   node [
     id 22
-    label "22"
+    label "Gothenburg"
     Country "Sweden"
     Longitude 11.96679
     Internal 1
@@ -207,7 +208,7 @@ graph [
   ]
   node [
     id 23
-    label "23"
+    label "Stockholm"
     Country "Sweden"
     Longitude 18.0649
     Internal 1

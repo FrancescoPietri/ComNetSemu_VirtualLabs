@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "14/01/11"
   GeoLocation "USA"
   GeoExtent "Country"
@@ -29,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "SEQSUINET, Rice University, Houston"
     Country "United States"
     Longitude -95.36327
     Internal 1
@@ -37,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Jon Von Neumann Center, Princeton, NJ"
     Country "United States"
     Longitude -74.65905
     Internal 1
@@ -45,7 +46,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "SURANET, Georgia Tech, Atlanta"
     Country "United States"
     Longitude -84.38798
     Internal 1
@@ -53,7 +54,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Pittsburgh Supercomputer Center"
     Country "United States"
     Longitude -79.99589
     Internal 1
@@ -61,7 +62,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Cornell Theory Center, Ithaca NY"
     Country "United States"
     Longitude -76.49661
     Internal 1
@@ -69,7 +70,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "NorthWestNet, Seattle"
     Country "United States"
     Longitude -122.33207
     Internal 1
@@ -77,7 +78,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "BARRnet, Palo Alto"
     Country "United States"
     Longitude -122.14302
     Internal 1
@@ -85,7 +86,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "San Diego Supercomputer Center"
     Country "United States"
     Longitude -117.15726
     Internal 1
@@ -93,7 +94,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Westnet, Salt Lake City"
     Country "United States"
     Longitude -111.89105
     Internal 1
@@ -101,7 +102,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "NCAR, Boulder"
     Country "United States"
     Longitude -105.27055
     Internal 1
@@ -109,7 +110,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "MIDnet, Lincoln, NE"
     Country "United States"
     Longitude -96.66696
     Internal 1
@@ -117,7 +118,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "NCSA, University of Illinois, Champaign"
     Country "United States"
     Longitude -88.24338
     Internal 1
@@ -125,7 +126,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Merit Univ of Michigan, Ann Arbor"
     Country "United States"
     Longitude -83.74088
     Internal 1

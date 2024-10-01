@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "22/10/10"
   GeoLocation "Japan"
   GeoExtent "Country"
@@ -29,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Fukuoka DC"
     Country "Japan"
     Longitude 130.41806
     Internal 1
@@ -38,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Oita U"
     Country "Japan"
     Longitude 131.6125
     Internal 1
@@ -47,7 +48,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Kyushu U"
     Country "Japan"
     Longitude 131.0
     Internal 1
@@ -56,13 +57,13 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Kyushu IT"
     Internal 1
     type "Edge Node"
   ]
   node [
     id 4
-    label "4"
+    label "Hiroshima U"
     Country "Japan"
     Longitude 132.45937
     Internal 1
@@ -71,7 +72,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Hiroshima DC"
     Country "Japan"
     Longitude 132.45937
     Internal 1
@@ -80,7 +81,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Ehime U"
     Country "Japan"
     Longitude 132.76574
     Internal 1
@@ -89,7 +90,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Yamaguchi U"
     Country "Japan"
     Longitude 131.47139
     Internal 1
@@ -98,19 +99,19 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "IMS, U Tokyo"
     Internal 1
     type "Edge Node"
   ]
   node [
     id 9
-    label "9"
+    label "ISSP, U Tokyo"
     Internal 1
     type "Edge Node"
   ]
   node [
     id 10
-    label "10"
+    label "Matsuyama DC"
     Country "Japan"
     Longitude 132.76574
     Internal 1
@@ -119,7 +120,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "Kagawa U"
     Country "Japan"
     Longitude 134.04333
     Internal 1
@@ -128,13 +129,13 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Kamioka Obs, ICRR, U Tokyo"
     Internal 1
     type "Edge Node"
   ]
   node [
     id 13
-    label "13"
+    label "Chiba U"
     Country "Japan"
     Longitude 140.12333
     Internal 1
@@ -143,7 +144,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "Shinshu U"
     Country "Japan"
     Longitude 133.56667
     Internal 1
@@ -152,13 +153,13 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "NIFS"
     Internal 1
     type "Edge Node"
   ]
   node [
     id 16
-    label "16"
+    label "Kanazawa U"
     Country "Japan"
     Longitude 136.62556
     Internal 1
@@ -167,13 +168,13 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "JAIST"
     Internal 1
     type "Edge Node"
   ]
   node [
     id 18
-    label "18"
+    label "Doshisha U"
     Country "Japan"
     Longitude 135.77841
     Internal 1
@@ -182,13 +183,13 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "ICR, Kyoto U"
     Internal 1
     type "Edge Node"
   ]
   node [
     id 20
-    label "20"
+    label "Nagoya DC"
     Country "Japan"
     Longitude 136.90641
     Internal 1
@@ -197,13 +198,13 @@ graph [
   ]
   node [
     id 21
-    label "21"
+    label "NINS-Okazaki"
     Internal 1
     type "Edge Node"
   ]
   node [
     id 22
-    label "22"
+    label "Shizuoka U"
     Country "Japan"
     Longitude 138.38306
     Internal 1
@@ -212,7 +213,7 @@ graph [
   ]
   node [
     id 23
-    label "23"
+    label "Nagoya U"
     Country "Japan"
     Longitude 136.90641
     Internal 1
@@ -221,7 +222,7 @@ graph [
   ]
   node [
     id 24
-    label "24"
+    label "Kanazawa DC"
     Country "Japan"
     Longitude 136.62556
     Internal 1
@@ -230,7 +231,7 @@ graph [
   ]
   node [
     id 25
-    label "25"
+    label "Toyama U"
     Country "Japan"
     Longitude 137.21139
     Internal 1
@@ -239,7 +240,7 @@ graph [
   ]
   node [
     id 26
-    label "26"
+    label "Yamanashi U"
     Country "Japan"
     Longitude 138.56833
     Internal 1
@@ -248,7 +249,7 @@ graph [
   ]
   node [
     id 27
-    label "27"
+    label "U Tokushima"
     Country "Japan"
     Longitude 134.55944
     Internal 1
@@ -257,7 +258,7 @@ graph [
   ]
   node [
     id 28
-    label "28"
+    label "Tokyo DC3"
     Country "Japan"
     Longitude 139.5813
     Internal 1
@@ -266,37 +267,37 @@ graph [
   ]
   node [
     id 29
-    label "29"
+    label "NII"
     Internal 1
     type "Edge Node"
   ]
   node [
     id 30
-    label "30"
+    label "NII-CHiba"
     Internal 1
     type "Edge Node"
   ]
   node [
     id 31
-    label "31"
+    label "GSIST, U Tokyo"
     Internal 1
     type "Edge Node"
   ]
   node [
     id 32
-    label "32"
+    label "U Electro-Communications"
     Internal 1
     type "Edge Node"
   ]
   node [
     id 33
-    label "33"
+    label "RIKEN"
     Internal 1
     type "Edge Node"
   ]
   node [
     id 34
-    label "34"
+    label "Tokyo DC1"
     Country "Japan"
     Longitude 139.5813
     Internal 1
@@ -305,7 +306,7 @@ graph [
   ]
   node [
     id 35
-    label "35"
+    label "Tokyo DC2"
     Country "Japan"
     Longitude 139.5813
     Internal 1
@@ -314,19 +315,19 @@ graph [
   ]
   node [
     id 36
-    label "36"
+    label "JAXA-ISAS"
     Internal 1
     type "Edge Node"
   ]
   node [
     id 37
-    label "37"
+    label "Yokohama National U"
     Internal 1
     type "Edge Node"
   ]
   node [
     id 38
-    label "38"
+    label "Keio U"
     Country "Japan"
     Longitude 139.42416
     Internal 1
@@ -335,13 +336,13 @@ graph [
   ]
   node [
     id 39
-    label "39"
+    label "Tokyo IT"
     Internal 1
     type "Edge Node"
   ]
   node [
     id 40
-    label "40"
+    label "Niigata U"
     Country "Japan"
     Longitude 139.02361
     Internal 1
@@ -350,7 +351,7 @@ graph [
   ]
   node [
     id 41
-    label "41"
+    label "Fukui U"
     Country "Japan"
     Longitude 136.22257
     Internal 1
@@ -359,19 +360,19 @@ graph [
   ]
   node [
     id 42
-    label "42"
+    label "KEK"
     Internal 1
     type "Edge Node"
   ]
   node [
     id 43
-    label "43"
+    label "JAEA"
     Internal 1
     type "Edge Node"
   ]
   node [
     id 44
-    label "44"
+    label "Tsukuba DC"
     Country "Japan"
     Longitude 140.1
     Internal 1
@@ -380,7 +381,7 @@ graph [
   ]
   node [
     id 45
-    label "45"
+    label "U Tsukuba"
     Country "Japan"
     Longitude 140.1
     Internal 1
@@ -389,7 +390,7 @@ graph [
   ]
   node [
     id 46
-    label "46"
+    label "Gunma U"
     Country "Japan"
     Longitude 139.06083
     Internal 1
@@ -398,13 +399,13 @@ graph [
   ]
   node [
     id 47
-    label "47"
+    label "ISM"
     Internal 1
     type "Edge Node"
   ]
   node [
     id 48
-    label "48"
+    label "U Tokyo"
     Country "Japan"
     Longitude 139.5813
     Internal 1
@@ -413,7 +414,7 @@ graph [
   ]
   node [
     id 49
-    label "49"
+    label "Kyoto DC"
     Country "Japan"
     Longitude 135.75385
     Internal 1
@@ -422,7 +423,7 @@ graph [
   ]
   node [
     id 50
-    label "50"
+    label "Kyoto U"
     Country "Japan"
     Longitude 135.75385
     Internal 1
@@ -431,7 +432,7 @@ graph [
   ]
   node [
     id 51
-    label "51"
+    label "Waseda U"
     Country "Japan"
     Longitude 139.55
     Internal 1
@@ -440,7 +441,7 @@ graph [
   ]
   node [
     id 52
-    label "52"
+    label "Kansai U"
     Country "Japan"
     Longitude 136.5065
     Internal 1
@@ -449,7 +450,7 @@ graph [
   ]
   node [
     id 53
-    label "53"
+    label "Osaka U"
     Country "Japan"
     Longitude 135.50218
     Internal 1
@@ -458,7 +459,7 @@ graph [
   ]
   node [
     id 54
-    label "54"
+    label "Kobe U"
     Country "Japan"
     Longitude 135.183
     Internal 1
@@ -467,19 +468,19 @@ graph [
   ]
   node [
     id 55
-    label "55"
+    label "JAMSTEC"
     Internal 1
     type "Edge Node"
   ]
   node [
     id 56
-    label "56"
+    label "JASRI"
     Internal 1
     type "Edge Node"
   ]
   node [
     id 57
-    label "57"
+    label "Tottori U"
     Country "Japan"
     Longitude 134.23333
     Internal 1
@@ -488,7 +489,7 @@ graph [
   ]
   node [
     id 58
-    label "58"
+    label "Okayama U"
     Country "Japan"
     Longitude 133.935
     Internal 1
@@ -497,7 +498,7 @@ graph [
   ]
   node [
     id 59
-    label "59"
+    label "Osaka DC"
     Country "Japan"
     Longitude 135.50218
     Internal 1
@@ -506,13 +507,13 @@ graph [
   ]
   node [
     id 60
-    label "60"
+    label "NAOJ"
     Internal 1
     type "Edge Node"
   ]
   node [
     id 61
-    label "61"
+    label "Saitama U"
     Country "Japan"
     Longitude 139.65657
     Internal 1
@@ -521,19 +522,19 @@ graph [
   ]
   node [
     id 62
-    label "62"
+    label "JAXA-IAT"
     Internal 1
     type "Edge Node"
   ]
   node [
     id 63
-    label "63"
+    label "Tokyo U Ag and Tech"
     Internal 1
     type "Edge Node"
   ]
   node [
     id 64
-    label "64"
+    label "Nagasaki U"
     Country "Japan"
     Longitude 129.87361
     Internal 1
@@ -542,13 +543,13 @@ graph [
   ]
   node [
     id 65
-    label "65"
+    label "Kurnamoto U"
     Internal 1
     type "Edge Node"
   ]
   node [
     id 66
-    label "66"
+    label "Sapporo DC"
     Country "Japan"
     Longitude 141.34694
     Internal 1
@@ -557,7 +558,7 @@ graph [
   ]
   node [
     id 67
-    label "67"
+    label "Hokkaido U"
     Country "Japan"
     Longitude 141.34694
     Internal 1
@@ -566,13 +567,13 @@ graph [
   ]
   node [
     id 68
-    label "68"
+    label "Kitami IT"
     Internal 1
     type "Edge Node"
   ]
   node [
     id 69
-    label "69"
+    label "Hirosaki U"
     Country "Japan"
     Longitude 140.4725
     Internal 1
@@ -581,7 +582,7 @@ graph [
   ]
   node [
     id 70
-    label "70"
+    label "Sendai DC"
     Country "Japan"
     Longitude 140.87194
     Internal 1
@@ -590,7 +591,7 @@ graph [
   ]
   node [
     id 71
-    label "71"
+    label "Tohoku U"
     Country "Japan"
     Longitude 131.36667
     Internal 1
@@ -599,13 +600,13 @@ graph [
   ]
   node [
     id 72
-    label "72"
+    label "U of the Ryukyus"
     Internal 1
     type "Edge Node"
   ]
   node [
     id 73
-    label "73"
+    label "Kagoshima U"
     Country "Japan"
     Longitude 130.55814
     Internal 1

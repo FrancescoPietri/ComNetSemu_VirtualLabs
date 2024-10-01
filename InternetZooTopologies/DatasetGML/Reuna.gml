@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "3/02/11"
   GeoLocation "Chile"
   GeoExtent "Country"
@@ -30,13 +31,13 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "UCT"
     Internal 1
     type "Router Acceso G-REUNA (Catalyst 6503)"
   ]
   node [
     id 1
-    label "1"
+    label "ULAGOS"
     Country "Chile"
     Longitude -73.15
     Internal 1
@@ -45,37 +46,37 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "UACH"
     Internal 1
     type "Router Acceso G-REUNA (Catalyst 6503)"
   ]
   node [
     id 3
-    label "3"
+    label "UFRO"
     Internal 1
     type "Router Acceso G-REUNA (Catalyst 6503)"
   ]
   node [
     id 4
-    label "4"
+    label "UCN"
     Internal 1
     type "Router Acceso G-REUNA (Catalyst 6503)"
   ]
   node [
     id 5
-    label "5"
+    label "UNAP Sede Santiago"
     Internal 1
     type "Router Accesso REUNA2 (Cisco 7204)"
   ]
   node [
     id 6
-    label "6"
+    label "UNAP"
     Internal 1
     type "Router Acceso G-REUNA (Catalyst 6503)"
   ]
   node [
     id 7
-    label "7"
+    label "UTA"
     Country "Chile"
     Longitude -70.30417
     Internal 1
@@ -84,7 +85,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "ULAGO Puerto Montt"
     Country "Chile"
     Longitude -72.93694
     Internal 1
@@ -93,7 +94,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Arica"
     Country "Chile"
     Longitude -70.30417
     Internal 1
@@ -102,51 +103,51 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "PITs Nacionales"
     Internal 0
   ]
   node [
     id 11
-    label "11"
+    label "RC-12"
     Internal 1
   ]
   node [
     id 12
-    label "12"
+    label "RC-Nacional"
     Internal 1
   ]
   node [
     id 13
-    label "13"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 14
-    label "14"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 15
-    label "15"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 16
-    label "16"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 17
-    label "17"
+    label "RedCLARA"
     Internal 0
   ]
   node [
     id 18
-    label "18"
+    label "Osorno"
     Country "Chile"
     Longitude -73.15
     Internal 1
@@ -155,7 +156,7 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "La Serena"
     Country "Chile"
     Longitude -71.25417
     Internal 1
@@ -164,7 +165,7 @@ graph [
   ]
   node [
     id 20
-    label "20"
+    label "Copiapo"
     Country "Chile"
     Longitude -70.33333
     Internal 1
@@ -173,7 +174,7 @@ graph [
   ]
   node [
     id 21
-    label "21"
+    label "Antofagasta"
     Country "Chile"
     Longitude -70.4
     Internal 1
@@ -182,7 +183,7 @@ graph [
   ]
   node [
     id 22
-    label "22"
+    label "Iquique"
     Country "Chile"
     Longitude -70.14306
     Internal 1
@@ -191,7 +192,7 @@ graph [
   ]
   node [
     id 23
-    label "23"
+    label "Valdivia"
     Country "Chile"
     Longitude -73.24589
     Internal 1
@@ -200,7 +201,7 @@ graph [
   ]
   node [
     id 24
-    label "24"
+    label "Temuco"
     Country "Chile"
     Longitude -72.6
     Internal 1
@@ -209,7 +210,7 @@ graph [
   ]
   node [
     id 25
-    label "25"
+    label "Concepcion"
     Country "Chile"
     Longitude -73.04977
     Internal 1
@@ -218,7 +219,7 @@ graph [
   ]
   node [
     id 26
-    label "26"
+    label "Santiago"
     Country "Chile"
     Longitude -70.56656
     Internal 1
@@ -227,25 +228,25 @@ graph [
   ]
   node [
     id 27
-    label "27"
+    label "UDEC"
     Internal 1
     type "Router Acceso G-REUNA (Catalyst 6503)"
   ]
   node [
     id 28
-    label "28"
+    label "UBB"
     Internal 1
     type "Router Acceso G-REUNA (Catalyst 6503)"
   ]
   node [
     id 29
-    label "29"
+    label "UDA"
     Internal 1
     type "Router Acceso G-REUNA (Catalyst 6503)"
   ]
   node [
     id 30
-    label "30"
+    label "ULS"
     Country "Chile"
     Longitude -71.25417
     Internal 1
@@ -254,7 +255,7 @@ graph [
   ]
   node [
     id 31
-    label "31"
+    label "AURA"
     Country "Chile"
     Longitude -71.25417
     Internal 1
@@ -263,31 +264,31 @@ graph [
   ]
   node [
     id 32
-    label "32"
+    label "UCHILE"
     Internal 1
     type "Router Acceso G-REUNA (Catalyst 6503)"
   ]
   node [
     id 33
-    label "33"
+    label "UTEM"
     Internal 1
     type "Router Acceso G-REUNA (Catalyst 6503)"
   ]
   node [
     id 34
-    label "34"
+    label "UMCE"
     Internal 1
     type "Router Acceso G-REUNA (Catalyst 6503)"
   ]
   node [
     id 35
-    label "35"
+    label "USACH"
     Internal 1
     type "Router Acceso G-REUNA (Catalyst 6503)"
   ]
   node [
     id 36
-    label "36"
+    label "REUNA"
     Internal 1
     type "Router Acceso G-REUNA (Catalyst 6503)"
   ]

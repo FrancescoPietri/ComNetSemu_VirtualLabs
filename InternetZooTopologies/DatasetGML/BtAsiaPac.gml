@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "16/11/10"
   GeoLocation "Asia-Pacific"
   GeoExtent "Continent"
@@ -29,7 +30,7 @@ graph [
   Testbed 1
   node [
     id 0
-    label "0"
+    label "Jakarta"
     Country "Indonesia"
     Longitude 106.84513
     Internal 1
@@ -37,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Perth"
     Country "Australia"
     Longitude 115.83333
     Internal 1
@@ -45,7 +46,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Singapore"
     Country "Singapore"
     Longitude 103.85007
     Internal 1
@@ -53,7 +54,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Kuala Lumpur"
     Country "Malaysia"
     Longitude 101.68653
     Internal 1
@@ -61,17 +62,17 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "San Jose"
     Internal 0
   ]
   node [
     id 5
-    label "5"
+    label "Los Angeles"
     Internal 0
   ]
   node [
     id 6
-    label "6"
+    label "Sydney"
     Country "Australia"
     Longitude 151.20732
     Internal 1
@@ -79,7 +80,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Auckland"
     Country "New Zealand"
     Longitude 174.76667
     Internal 1
@@ -87,17 +88,17 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "London"
     Internal 0
   ]
   node [
     id 9
-    label "9"
+    label "Palo Alto"
     Internal 0
   ]
   node [
     id 10
-    label "10"
+    label "New Delhi"
     Country "India"
     Longitude 77.22445
     Internal 1
@@ -105,7 +106,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "Mumbai"
     Country "India"
     Longitude 72.84794
     Internal 1
@@ -113,7 +114,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Seoul"
     Country "South Korea"
     Longitude 126.97783
     Internal 1
@@ -121,7 +122,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "Tokyo"
     Country "Japan"
     Longitude 139.5813
     Internal 1
@@ -129,7 +130,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "Taipei"
     Country "Taiwan"
     Longitude 121.53185
     Internal 1
@@ -137,7 +138,7 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "Hong Kong"
     Country "Hong Kong"
     Longitude 114.15769
     Internal 1
@@ -145,7 +146,7 @@ graph [
   ]
   node [
     id 16
-    label "16"
+    label "Manila"
     Country "Philippines"
     Longitude 120.9822
     Internal 1
@@ -153,7 +154,7 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "Bangkok"
     Country "Thailand"
     Longitude 100.51667
     Internal 1
@@ -161,7 +162,7 @@ graph [
   ]
   node [
     id 18
-    label "18"
+    label "Chenai"
     Country "India"
     Longitude 80.27847
     Internal 1
@@ -169,7 +170,7 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "Mumbai"
     Country "India"
     Longitude 72.84794
     Internal 1

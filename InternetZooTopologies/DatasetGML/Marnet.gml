@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "20/07/11"
   GeoLocation "Macedonia"
   GeoExtent "Country"
@@ -30,7 +31,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "F. of Mining and Geology Stip"
     Country "Macedonia"
     Longitude 22.19583
     Internal 1
@@ -38,12 +39,12 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "ONnet NEOTEL SONET"
     Internal 0
   ]
   node [
     id 2
-    label "2"
+    label "NOC and CampusSocial Sciences"
     Country "Macedonia"
     Longitude 21.43333
     Internal 1
@@ -51,7 +52,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "I. of Economy"
     Country "Macedonia"
     Longitude 21.43333
     Internal 1
@@ -59,7 +60,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "NationalBroadcastingcompany Comm. Tower"
     Country "Macedonia"
     Longitude 21.43333
     Internal 1
@@ -67,7 +68,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "I of Political and Juridical Res"
     Country "Macedonia"
     Longitude 21.43333
     Internal 1
@@ -75,12 +76,12 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "GEANT SEEREN"
     Internal 0
   ]
   node [
     id 7
-    label "7"
+    label "Campus Natural Sciences and Mathematics"
     Country "Macedonia"
     Longitude 21.43333
     Internal 1
@@ -88,7 +89,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "F. of Pedagogy"
     Country "Macedonia"
     Longitude 21.43333
     Internal 1
@@ -96,12 +97,12 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "MOL"
     Internal 0
   ]
   node [
     id 10
-    label "10"
+    label "National and Univ Library"
     Country "Macedonia"
     Longitude 21.43333
     Internal 1
@@ -109,7 +110,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "I. of Earthquake Engineering"
     Country "Macedonia"
     Longitude 21.43333
     Internal 1
@@ -117,7 +118,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "I. of National History"
     Country "Macedonia"
     Longitude 21.43333
     Internal 1
@@ -125,7 +126,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "I. of Macedonian Literature"
     Country "Macedonia"
     Longitude 21.43333
     Internal 1
@@ -133,7 +134,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "St Clement of Ohrid University in Bitola"
     Country "Macedonia"
     Longitude 21.34028
     Internal 1
@@ -141,7 +142,7 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "Several Ministries of the Government"
     Country "Macedonia"
     Longitude 21.43333
     Internal 1
@@ -149,7 +150,7 @@ graph [
   ]
   node [
     id 16
-    label "16"
+    label "Campus Arch and Civil Eng"
     Country "Macedonia"
     Longitude 21.43333
     Internal 1
@@ -157,7 +158,7 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "CampusTechnical"
     Country "Macedonia"
     Longitude 21.43333
     Internal 1
@@ -165,7 +166,7 @@ graph [
   ]
   node [
     id 18
-    label "18"
+    label "Campus Medicine"
     Country "Macedonia"
     Longitude 21.43333
     Internal 1
@@ -173,7 +174,7 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "CampusBiotech. Sciences"
     Country "Macedonia"
     Longitude 21.43333
     Internal 1

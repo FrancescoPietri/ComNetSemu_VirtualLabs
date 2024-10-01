@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "20/10/10"
   GeoLocation "Ukraine"
   GeoExtent "Country"
@@ -29,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Kherson"
     Country "Ukraine"
     Longitude 32.6
     Internal 1
@@ -37,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Mykolaiv"
     Country "Ukraine"
     Longitude 32.0
     Internal 1
@@ -45,7 +46,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Sevastopol"
     Country "Ukraine"
     Longitude 33.5224
     Internal 1
@@ -53,7 +54,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Simferopol"
     Country "Ukraine"
     Longitude 34.10558
     Internal 1
@@ -61,7 +62,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Vinnitsa"
     Country "Ukraine"
     Longitude 28.48333
     Internal 1
@@ -69,7 +70,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Khmelnitsky"
     Country "Ukraine"
     Longitude 27.0
     Internal 1
@@ -77,7 +78,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Odessa"
     Country "Ukraine"
     Longitude 30.73262
     Internal 1
@@ -85,7 +86,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Kamianets-Podilsky"
     Country "Ukraine"
     Longitude 26.56667
     Internal 1
@@ -93,17 +94,17 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Frankfurt (Internet)"
     Internal 0
   ]
   node [
     id 9
-    label "9"
+    label "Poznan (GEANT & Internet)"
     Internal 0
   ]
   node [
     id 10
-    label "10"
+    label "Cherkassy"
     Country "Ukraine"
     Longitude 32.06667
     Internal 1
@@ -111,22 +112,22 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "Odessa-IX"
     Internal 0
   ]
   node [
     id 12
-    label "12"
+    label "Kharkiv-IX"
     Internal 0
   ]
   node [
     id 13
-    label "13"
+    label "UA-IX"
     Internal 0
   ]
   node [
     id 14
-    label "14"
+    label "Zaporizhia"
     Country "Ukraine"
     Longitude 35.18333
     Internal 1
@@ -134,7 +135,7 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "Dnipropetrovsk"
     Country "Ukraine"
     Longitude 34.98333
     Internal 1
@@ -142,7 +143,7 @@ graph [
   ]
   node [
     id 16
-    label "16"
+    label "Lviv"
     Country "Ukraine"
     Longitude 24.02324
     Internal 1
@@ -150,7 +151,7 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "Lutsk"
     Country "Ukraine"
     Longitude 25.33333
     Internal 1
@@ -158,7 +159,7 @@ graph [
   ]
   node [
     id 18
-    label "18"
+    label "Zhitomir"
     Country "Ukraine"
     Longitude 28.66667
     Internal 1
@@ -166,7 +167,7 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "Kiev"
     Country "Ukraine"
     Longitude 30.5238
     Internal 1
@@ -174,7 +175,7 @@ graph [
   ]
   node [
     id 20
-    label "20"
+    label "Pereyaslav"
     Country "Ukraine"
     Longitude 31.46667
     Internal 1
@@ -182,7 +183,7 @@ graph [
   ]
   node [
     id 21
-    label "21"
+    label "Poltava"
     Country "Ukraine"
     Longitude 34.56667
     Internal 1
@@ -190,7 +191,7 @@ graph [
   ]
   node [
     id 22
-    label "22"
+    label "Kharkiv"
     Country "Ukraine"
     Longitude 36.25
     Internal 1
@@ -198,7 +199,7 @@ graph [
   ]
   node [
     id 23
-    label "23"
+    label "Donetsk"
     Country "Ukraine"
     Longitude 37.8
     Internal 1

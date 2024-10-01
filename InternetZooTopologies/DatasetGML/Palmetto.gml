@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "19/10/10"
   GeoLocation "North Carolina, South Carolina, USA"
   GeoExtent "Region"
@@ -29,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Rock Hill"
     Country "United States"
     Longitude -81.02508
     Internal 1
@@ -37,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Charlotte"
     Country "United States"
     Longitude -80.84313
     Internal 1
@@ -45,7 +46,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Bethune"
     Country "United States"
     Longitude -80.34868
     Internal 1
@@ -53,7 +54,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Lancaster"
     Country "United States"
     Longitude -80.7709
     Internal 1
@@ -61,7 +62,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Courtney"
     Country "United States"
     Longitude -80.62062
     Internal 1
@@ -69,7 +70,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Lexington"
     Country "United States"
     Longitude -80.25338
     Internal 1
@@ -77,7 +78,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Concord"
     Country "United States"
     Longitude -80.57951
     Internal 1
@@ -85,7 +86,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Salisbury"
     Country "United States"
     Longitude -80.46256
     Internal 1
@@ -93,7 +94,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "High Point"
     Country "United States"
     Longitude -80.00532
     Internal 1
@@ -101,7 +102,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Asheboro"
     Country "United States"
     Longitude -79.81364
     Internal 1
@@ -109,7 +110,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Orangeburg"
     Country "United States"
     Longitude -80.85565
     Internal 1
@@ -117,7 +118,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "Aiken"
     Country "United States"
     Longitude -81.71955
     Internal 1
@@ -125,7 +126,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Chester"
     Country "United States"
     Longitude -81.21426
     Internal 1
@@ -133,7 +134,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "Columbia"
     Country "United States"
     Longitude -81.03481
     Internal 1
@@ -141,7 +142,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "Sumter"
     Country "United States"
     Longitude -80.34147
     Internal 1
@@ -149,7 +150,7 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "Georgetown"
     Country "United States"
     Longitude -79.2945
     Internal 1
@@ -157,7 +158,7 @@ graph [
   ]
   node [
     id 16
-    label "16"
+    label "Moncks Corner"
     Country "United States"
     Longitude -80.01314
     Internal 1
@@ -165,7 +166,7 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "Charleston"
     Country "United States"
     Longitude -79.93092
     Internal 1
@@ -173,7 +174,7 @@ graph [
   ]
   node [
     id 18
-    label "18"
+    label "St George"
     Country "United States"
     Longitude -80.57565
     Internal 1
@@ -181,7 +182,7 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "Walterboro"
     Country "United States"
     Longitude -80.66677
     Internal 1
@@ -189,7 +190,7 @@ graph [
   ]
   node [
     id 20
-    label "20"
+    label "Yemassee"
     Country "United States"
     Longitude -80.85066
     Internal 1
@@ -197,7 +198,7 @@ graph [
   ]
   node [
     id 21
-    label "21"
+    label "Augusta"
     Country "United States"
     Longitude -81.96512
     Internal 1
@@ -205,7 +206,7 @@ graph [
   ]
   node [
     id 22
-    label "22"
+    label "Hilton Head"
     Country "United States"
     Longitude -80.75261
     Internal 1
@@ -213,7 +214,7 @@ graph [
   ]
   node [
     id 23
-    label "23"
+    label "Beaufort"
     Country "United States"
     Longitude -80.66983
     Internal 1
@@ -221,7 +222,7 @@ graph [
   ]
   node [
     id 24
-    label "24"
+    label "Savannah"
     Country "United States"
     Longitude -81.09983
     Internal 1
@@ -229,7 +230,7 @@ graph [
   ]
   node [
     id 25
-    label "25"
+    label "Greenwood"
     Country "United States"
     Longitude -82.16179
     Internal 1
@@ -237,7 +238,7 @@ graph [
   ]
   node [
     id 26
-    label "26"
+    label "Due West"
     Country "United States"
     Longitude -82.3879
     Internal 1
@@ -245,7 +246,7 @@ graph [
   ]
   node [
     id 27
-    label "27"
+    label "Spartanburg"
     Country "United States"
     Longitude -81.93205
     Internal 1
@@ -253,7 +254,7 @@ graph [
   ]
   node [
     id 28
-    label "28"
+    label "Asheville"
     Country "United States"
     Longitude -82.55402
     Internal 1
@@ -261,7 +262,7 @@ graph [
   ]
   node [
     id 29
-    label "29"
+    label "Boone"
     Country "United States"
     Longitude -81.67455
     Internal 1
@@ -269,7 +270,7 @@ graph [
   ]
   node [
     id 30
-    label "30"
+    label "Hickory"
     Country "United States"
     Longitude -81.3412
     Internal 1
@@ -277,7 +278,7 @@ graph [
   ]
   node [
     id 31
-    label "31"
+    label "Anderson"
     Country "United States"
     Longitude -82.65013
     Internal 1
@@ -285,7 +286,7 @@ graph [
   ]
   node [
     id 32
-    label "32"
+    label "Clemson"
     Country "United States"
     Longitude -82.83737
     Internal 1
@@ -293,7 +294,7 @@ graph [
   ]
   node [
     id 33
-    label "33"
+    label "Toccoa"
     Country "United States"
     Longitude -83.33239
     Internal 1
@@ -301,7 +302,7 @@ graph [
   ]
   node [
     id 34
-    label "34"
+    label "Greenville"
     Country "United States"
     Longitude -82.39401
     Internal 1
@@ -309,7 +310,7 @@ graph [
   ]
   node [
     id 35
-    label "35"
+    label "Myrtle Beach"
     Country "United States"
     Longitude -78.88669
     Internal 1
@@ -317,7 +318,7 @@ graph [
   ]
   node [
     id 36
-    label "36"
+    label "Florence"
     Country "United States"
     Longitude -79.76256
     Internal 1
@@ -325,7 +326,7 @@ graph [
   ]
   node [
     id 37
-    label "37"
+    label "Baldwin"
     Country "United States"
     Longitude -81.53288
     Internal 1
@@ -333,7 +334,7 @@ graph [
   ]
   node [
     id 38
-    label "38"
+    label "Sparta"
     Country "United States"
     Longitude -81.12092
     Internal 1
@@ -341,7 +342,7 @@ graph [
   ]
   node [
     id 39
-    label "39"
+    label "Level Cross"
     Country "United States"
     Longitude -80.60729
     Internal 1
@@ -349,7 +350,7 @@ graph [
   ]
   node [
     id 40
-    label "40"
+    label "Greensboro"
     Country "United States"
     Longitude -79.79198
     Internal 1
@@ -357,7 +358,7 @@ graph [
   ]
   node [
     id 41
-    label "41"
+    label "Raleigh"
     Country "United States"
     Longitude -78.63861
     Internal 1
@@ -365,7 +366,7 @@ graph [
   ]
   node [
     id 42
-    label "42"
+    label "Rocky Mount"
     Country "United States"
     Longitude -77.79665
     Internal 1
@@ -373,7 +374,7 @@ graph [
   ]
   node [
     id 43
-    label "43"
+    label "Fayetteville"
     Country "United States"
     Longitude -78.87836
     Internal 1
@@ -381,7 +382,7 @@ graph [
   ]
   node [
     id 44
-    label "44"
+    label "Wilmington"
     Country "United States"
     Longitude -77.94471
     Internal 1
@@ -391,6 +392,11 @@ graph [
     source 0
     target 1
     id "e24"
+  ]
+  edge [
+    source 0
+    target 1
+    id "e23"
   ]
   edge [
     source 0
@@ -431,6 +437,11 @@ graph [
     source 4
     target 5
     id "e32"
+  ]
+  edge [
+    source 4
+    target 5
+    id "e31"
   ]
   edge [
     source 4
@@ -583,6 +594,11 @@ graph [
     id "e65"
   ]
   edge [
+    source 20
+    target 23
+    id "e66"
+  ]
+  edge [
     source 21
     target 24
     id "e64"
@@ -601,6 +617,11 @@ graph [
     source 25
     target 26
     id "e48"
+  ]
+  edge [
+    source 25
+    target 26
+    id "e47"
   ]
   edge [
     source 26
@@ -633,6 +654,11 @@ graph [
     id "e3"
   ]
   edge [
+    source 29
+    target 37
+    id "e2"
+  ]
+  edge [
     source 31
     target 32
     id "e44"
@@ -661,6 +687,11 @@ graph [
     source 35
     target 36
     id "e15"
+  ]
+  edge [
+    source 35
+    target 36
+    id "e14"
   ]
   edge [
     source 35

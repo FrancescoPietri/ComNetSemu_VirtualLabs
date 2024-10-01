@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "22/10/10"
   GeoLocation "Morocco"
   GeoExtent "Country"
@@ -29,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Marrkech"
     Country "Morocco"
     Longitude -8.00828
     Internal 1
@@ -37,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Fes"
     Country "Morocco"
     Longitude -4.9998
     Internal 1
@@ -45,7 +46,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Rabat"
     Country "Morocco"
     Longitude -6.83255
     Internal 1
@@ -53,7 +54,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Agadir"
     Country "Morocco"
     Longitude -9.59815
     Internal 1
@@ -61,7 +62,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Tanger"
     Country "Morocco"
     Longitude -5.81365
     Internal 1
@@ -69,17 +70,17 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "University 2"
     Internal 1
   ]
   node [
     id 6
-    label "6"
+    label "None"
     Internal 1
   ]
   node [
     id 7
-    label "7"
+    label "Casa"
     Country "Morocco"
     Longitude -7.61916
     Internal 1
@@ -87,42 +88,42 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Institution 1"
     Internal 1
   ]
   node [
     id 9
-    label "9"
+    label "University 3"
     Internal 1
   ]
   node [
     id 10
-    label "10"
+    label "University 1"
     Internal 1
   ]
   node [
     id 11
-    label "11"
+    label "GEANT"
     Internal 0
   ]
   node [
     id 12
-    label "12"
+    label "Internet"
     Internal 0
   ]
   node [
     id 13
-    label "13"
+    label "None"
     Internal 1
   ]
   node [
     id 14
-    label "14"
+    label "University 4"
     Internal 1
   ]
   node [
     id 15
-    label "15"
+    label "None"
     Internal 1
   ]
   edge [
@@ -200,6 +201,12 @@ graph [
     LinkLabel "2Mb/s"
     LinkSpeedUnits "M"
     LinkSpeedRaw 2000000.0
+  ]
+  edge [
+    source 6
+    target 15
+    LinkType "MPLS"
+    LinkLabel "MPLS"
   ]
   edge [
     source 6

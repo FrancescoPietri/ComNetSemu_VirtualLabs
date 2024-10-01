@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "15/11/10"
   GeoLocation "Louisiana, Texas, USA"
   GeoExtent "Region"
@@ -29,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "New Orleans"
     Country "United States"
     Longitude -90.07507
     Internal 1
@@ -37,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Thi'bodaux"
     Country "United States"
     Longitude -90.82287
     Internal 1
@@ -45,7 +46,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Covington"
     Country "United States"
     Longitude -90.10091
     Internal 1
@@ -53,7 +54,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Gulfport"
     Country "United States"
     Longitude -89.09282
     Internal 1
@@ -61,7 +62,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Baton Rouge"
     Country "United States"
     Longitude -91.15455
     Internal 1
@@ -69,7 +70,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Lafayette"
     Country "United States"
     Longitude -92.01984
     Internal 1
@@ -77,7 +78,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Morgan City"
     Country "United States"
     Longitude -91.20677
     Internal 1
@@ -85,7 +86,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Hammond"
     Country "United States"
     Longitude -90.4612
     Internal 1
@@ -93,7 +94,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Alexandria"
     Country "United States"
     Longitude -92.44514
     Internal 1
@@ -101,7 +102,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Derry"
     Country "United States"
     Longitude -92.94766
     Internal 1
@@ -109,7 +110,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "San Antonio"
     Country "United States"
     Longitude -98.49363
     Internal 1
@@ -117,7 +118,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "Austin"
     Country "United States"
     Longitude -97.74306
     Internal 1
@@ -125,7 +126,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "College Station"
     Country "United States"
     Longitude -96.33441
     Internal 1
@@ -133,7 +134,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "Waco"
     Country "United States"
     Longitude -97.14667
     Internal 1
@@ -141,7 +142,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "Natchitoches"
     Country "United States"
     Longitude -93.08627
     Internal 1
@@ -149,7 +150,7 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "Houston"
     Country "United States"
     Longitude -95.36327
     Internal 1
@@ -157,7 +158,7 @@ graph [
   ]
   node [
     id 16
-    label "16"
+    label "Liberty"
     Country "United States"
     Longitude -94.79548
     Internal 1
@@ -165,7 +166,7 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "Opelousas"
     Country "United States"
     Longitude -92.08151
     Internal 1
@@ -173,7 +174,7 @@ graph [
   ]
   node [
     id 18
-    label "18"
+    label "St Landry"
     Country "United States"
     Longitude -92.2579
     Internal 1
@@ -181,7 +182,7 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "Fort Polk"
     Country "United States"
     Longitude -93.20544
     Internal 1
@@ -189,7 +190,7 @@ graph [
   ]
   node [
     id 20
-    label "20"
+    label "Coushatta"
     Country "United States"
     Longitude -93.34212
     Internal 1
@@ -197,7 +198,7 @@ graph [
   ]
   node [
     id 21
-    label "21"
+    label "Nome"
     Country "United States"
     Longitude -94.42436
     Internal 1
@@ -205,7 +206,7 @@ graph [
   ]
   node [
     id 22
-    label "22"
+    label "Beaumont"
     Country "United States"
     Longitude -94.10185
     Internal 1
@@ -213,7 +214,7 @@ graph [
   ]
   node [
     id 23
-    label "23"
+    label "Lake Charles"
     Country "United States"
     Longitude -93.2044
     Internal 1
@@ -221,7 +222,7 @@ graph [
   ]
   node [
     id 24
-    label "24"
+    label "Deridder"
     Country "United States"
     Longitude -93.28905
     Internal 1
@@ -229,7 +230,7 @@ graph [
   ]
   node [
     id 25
-    label "25"
+    label "Jackson"
     Country "United States"
     Longitude -90.18481
     Internal 1
@@ -237,7 +238,7 @@ graph [
   ]
   node [
     id 26
-    label "26"
+    label "Slidell"
     Country "United States"
     Longitude -89.78117
     Internal 1
@@ -245,7 +246,7 @@ graph [
   ]
   node [
     id 27
-    label "27"
+    label "Dallas"
     Country "United States"
     Longitude -96.80667
     Internal 1
@@ -253,7 +254,7 @@ graph [
   ]
   node [
     id 28
-    label "28"
+    label "Tyler"
     Country "United States"
     Longitude -95.30106
     Internal 1
@@ -261,7 +262,7 @@ graph [
   ]
   node [
     id 29
-    label "29"
+    label "Longview"
     Country "United States"
     Longitude -94.74049
     Internal 1
@@ -269,7 +270,7 @@ graph [
   ]
   node [
     id 30
-    label "30"
+    label "Shreveport"
     Country "United States"
     Longitude -93.75018
     Internal 1
@@ -277,7 +278,7 @@ graph [
   ]
   node [
     id 31
-    label "31"
+    label "Bossier City"
     Country "United States"
     Longitude -93.73212
     Internal 1
@@ -285,7 +286,7 @@ graph [
   ]
   node [
     id 32
-    label "32"
+    label "Minden"
     Country "United States"
     Longitude -93.28684
     Internal 1
@@ -293,7 +294,7 @@ graph [
   ]
   node [
     id 33
-    label "33"
+    label "Ruston"
     Country "United States"
     Longitude -92.63793
     Internal 1
@@ -301,7 +302,7 @@ graph [
   ]
   node [
     id 34
-    label "34"
+    label "Monroe"
     Country "United States"
     Longitude -92.1193
     Internal 1

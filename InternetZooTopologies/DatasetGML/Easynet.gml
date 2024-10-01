@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "22/10/10"
   GeoLocation "Global"
   GeoExtent "Global"
@@ -29,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "1"
     Internal 1
   ]
   node [
@@ -39,17 +40,17 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "1"
     Internal 1
   ]
   node [
     id 3
-    label "3"
+    label "1"
     Internal 1
   ]
   node [
     id 4
-    label "4"
+    label "Mumbai"
     Country "India"
     Longitude 72.84794
     Internal 1
@@ -57,7 +58,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Hong Kong"
     Country "Hong Kong"
     Longitude 114.15769
     Internal 1
@@ -65,17 +66,17 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "1"
     Internal 1
   ]
   node [
     id 7
-    label "7"
+    label "1"
     Internal 1
   ]
   node [
     id 8
-    label "8"
+    label "Shanghai"
     Country "China"
     Longitude 121.45806
     Internal 1
@@ -83,7 +84,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Paris"
     Country "France"
     Longitude 2.3488
     Internal 1
@@ -91,7 +92,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "London"
     Country "United Kingdom"
     Longitude -0.12574
     Internal 1
@@ -99,7 +100,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "Los Angeles"
     Country "United States"
     Longitude -118.24368
     Internal 1
@@ -107,7 +108,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "San Jose?"
     Country "Costa Rica"
     Longitude -84.08333
     Internal 1
@@ -115,7 +116,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "Palo Alto?"
     Country "United States"
     Longitude -122.14302
     Internal 1
@@ -123,7 +124,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "New York"
     Country "United States"
     Longitude -74.00597
     Internal 1
@@ -131,7 +132,7 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "Washington"
     Country "United States"
     Longitude -77.03637
     Internal 1
@@ -139,7 +140,7 @@ graph [
   ]
   node [
     id 16
-    label "16"
+    label "Madrid"
     Country "Spain"
     Longitude -3.70256
     Internal 1
@@ -147,12 +148,12 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "1"
     Internal 1
   ]
   node [
     id 18
-    label "18"
+    label "Milan"
     Country "Italy"
     Longitude 9.18951
     Internal 1
@@ -162,6 +163,11 @@ graph [
     source 0
     target 1
     id "e21"
+  ]
+  edge [
+    source 0
+    target 1
+    id "e22"
   ]
   edge [
     source 0
@@ -182,6 +188,11 @@ graph [
     source 1
     target 7
     id "e25"
+  ]
+  edge [
+    source 1
+    target 7
+    id "e26"
   ]
   edge [
     source 2
@@ -247,6 +258,11 @@ graph [
     source 10
     target 14
     id "e7"
+  ]
+  edge [
+    source 10
+    target 14
+    id "e8"
   ]
   edge [
     source 10

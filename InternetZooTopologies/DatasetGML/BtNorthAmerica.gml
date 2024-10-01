@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "16/11/10"
   GeoLocation "North America"
   GeoExtent "Continent"
@@ -29,7 +30,7 @@ graph [
   Testbed 1
   node [
     id 0
-    label "0"
+    label "Cheyenne"
     Country "United States"
     Longitude -104.82025
     Internal 1
@@ -37,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Salt Lake"
     Country "United States"
     Longitude -111.89105
     Internal 1
@@ -45,7 +46,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Denver"
     Country "United States"
     Longitude -104.9847
     Internal 1
@@ -53,12 +54,12 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "?"
     Internal 1
   ]
   node [
     id 4
-    label "4"
+    label "Portland"
     Country "United States"
     Longitude -122.67621
     Internal 1
@@ -66,7 +67,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Eugene"
     Country "United States"
     Longitude -123.08675
     Internal 1
@@ -74,7 +75,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Spokane"
     Country "United States"
     Longitude -117.42605
     Internal 1
@@ -82,7 +83,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Seattle"
     Country "United States"
     Longitude -122.33207
     Internal 1
@@ -90,7 +91,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Burbank"
     Country "United States"
     Longitude -118.30897
     Internal 1
@@ -98,7 +99,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Los Angeles"
     Country "United States"
     Longitude -118.24368
     Internal 1
@@ -106,7 +107,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Newark"
     Country "United States"
     Longitude -74.17237
     Internal 1
@@ -114,7 +115,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "New York"
     Country "United States"
     Longitude -74.00597
     Internal 1
@@ -122,7 +123,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Boston"
     Country "United States"
     Longitude -71.05977
     Internal 1
@@ -130,7 +131,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "Eckington"
     Country "United States"
     Longitude -77.00914
     Internal 1
@@ -138,12 +139,12 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "Europe"
     Internal 0
   ]
   node [
     id 15
-    label "15"
+    label "Tukwita"
     Country "United States"
     Longitude -122.26096
     Internal 1
@@ -151,7 +152,7 @@ graph [
   ]
   node [
     id 16
-    label "16"
+    label "Washington"
     Country "United States"
     Longitude -77.03637
     Internal 1
@@ -159,7 +160,7 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "Chicago"
     Country "United States"
     Longitude -87.65005
     Internal 1
@@ -167,7 +168,7 @@ graph [
   ]
   node [
     id 18
-    label "18"
+    label "Dallas"
     Country "United States"
     Longitude -96.80667
     Internal 1
@@ -175,7 +176,7 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "Albuquerque"
     Country "United States"
     Longitude -106.65114
     Internal 1
@@ -183,7 +184,7 @@ graph [
   ]
   node [
     id 20
-    label "20"
+    label "Tucson"
     Country "United States"
     Longitude -110.92648
     Internal 1
@@ -191,7 +192,7 @@ graph [
   ]
   node [
     id 21
-    label "21"
+    label "Phoenix"
     Country "United States"
     Longitude -112.07404
     Internal 1
@@ -199,7 +200,7 @@ graph [
   ]
   node [
     id 22
-    label "22"
+    label "Cermak"
     Country "United States"
     Longitude -87.65005
     Internal 1
@@ -207,7 +208,7 @@ graph [
   ]
   node [
     id 23
-    label "23"
+    label "Atlanta"
     Country "United States"
     Longitude -84.38798
     Internal 1
@@ -215,7 +216,7 @@ graph [
   ]
   node [
     id 24
-    label "24"
+    label "Tampa"
     Country "United States"
     Longitude -82.45843
     Internal 1
@@ -223,7 +224,7 @@ graph [
   ]
   node [
     id 25
-    label "25"
+    label "Houston"
     Country "United States"
     Longitude -95.36327
     Internal 1
@@ -231,12 +232,12 @@ graph [
   ]
   node [
     id 26
-    label "26"
+    label "?"
     Internal 1
   ]
   node [
     id 27
-    label "27"
+    label "Kansas"
     Country "United States"
     Longitude -94.62746
     Internal 1
@@ -244,7 +245,7 @@ graph [
   ]
   node [
     id 28
-    label "28"
+    label "Sunnyvale"
     Country "United States"
     Longitude -122.03635
     Internal 1
@@ -252,7 +253,7 @@ graph [
   ]
   node [
     id 29
-    label "29"
+    label "Boise"
     Country "United States"
     Longitude -116.20345
     Internal 1
@@ -260,7 +261,7 @@ graph [
   ]
   node [
     id 30
-    label "30"
+    label "Helena"
     Country "United States"
     Longitude -112.03611
     Internal 1
@@ -268,7 +269,7 @@ graph [
   ]
   node [
     id 31
-    label "31"
+    label "Billings"
     Country "United States"
     Longitude -108.50069
     Internal 1
@@ -276,7 +277,7 @@ graph [
   ]
   node [
     id 32
-    label "32"
+    label "Fargo"
     Country "United States"
     Longitude -96.7898
     Internal 1
@@ -284,7 +285,7 @@ graph [
   ]
   node [
     id 33
-    label "33"
+    label "Minneapolis"
     Country "United States"
     Longitude -93.26384
     Internal 1
@@ -292,7 +293,7 @@ graph [
   ]
   node [
     id 34
-    label "34"
+    label "Sioux City"
     Country "United States"
     Longitude -96.40031
     Internal 1
@@ -300,7 +301,7 @@ graph [
   ]
   node [
     id 35
-    label "35"
+    label "Omaha"
     Country "United States"
     Longitude -95.93779
     Internal 1

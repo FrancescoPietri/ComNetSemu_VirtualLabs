@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "21/01/11"
   GeoLocation "Bulgaria"
   GeoExtent "Country"
@@ -29,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Shumen"
     Country "Bulgaria"
     Longitude 26.92286
     Internal 1
@@ -38,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Silistra"
     Country "Bulgaria"
     Longitude 27.26667
     Internal 1
@@ -47,7 +48,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Razgrad"
     Country "Bulgaria"
     Longitude 26.51667
     Internal 1
@@ -56,7 +57,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Turgovishte"
     Country "Bulgaria"
     Longitude 26.58917
     Internal 1
@@ -65,7 +66,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Yambol"
     Country "Bulgaria"
     Longitude 26.5
     Internal 1
@@ -74,7 +75,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Sliven"
     Country "Bulgaria"
     Longitude 26.32917
     Internal 1
@@ -83,7 +84,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Dobrich"
     Country "Bulgaria"
     Longitude 27.83333
     Internal 1
@@ -92,7 +93,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Burgas"
     Country "Bulgaria"
     Longitude 27.46781
     Internal 1
@@ -101,7 +102,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "St Zagora"
     Country "Bulgaria"
     Longitude 25.64194
     Internal 1
@@ -110,7 +111,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Gabrovo"
     Country "Bulgaria"
     Longitude 25.33417
     Internal 1
@@ -119,7 +120,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Kurjiali"
     Country "Bulgaria"
     Longitude 25.36667
     Internal 1
@@ -128,7 +129,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "Varna"
     Country "Bulgaria"
     Longitude 27.91667
     Internal 1
@@ -137,7 +138,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Plovdiv"
     Country "Bulgaria"
     Longitude 24.75
     Internal 1
@@ -146,13 +147,13 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "Frankfurt"
     Internal 1
     type "Small Yellow Node"
   ]
   node [
     id 14
-    label "14"
+    label "Sofia"
     Country "Bulgaria"
     Longitude 23.32415
     Internal 1
@@ -161,12 +162,12 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "Istanbul"
     Internal 0
   ]
   node [
     id 16
-    label "16"
+    label "Kap Andreevo"
     Country "Bulgaria"
     Longitude 26.31667
     Internal 1
@@ -175,7 +176,7 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "Haskovo"
     Country "Bulgaria"
     Longitude 25.56944
     Internal 1
@@ -184,7 +185,7 @@ graph [
   ]
   node [
     id 18
-    label "18"
+    label "Karlovo"
     Country "Bulgaria"
     Longitude 24.8
     Internal 1
@@ -193,7 +194,7 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "Kiustendil"
     Country "Bulgaria"
     Longitude 22.69111
     Internal 1
@@ -202,7 +203,7 @@ graph [
   ]
   node [
     id 20
-    label "20"
+    label "Pennik"
     Country "Bulgaria"
     Longitude 23.03333
     Internal 1
@@ -211,7 +212,7 @@ graph [
   ]
   node [
     id 21
-    label "21"
+    label "Sevlievo"
     Country "Bulgaria"
     Longitude 25.11361
     Internal 1
@@ -220,7 +221,7 @@ graph [
   ]
   node [
     id 22
-    label "22"
+    label "V Turnovo"
     Country "Bulgaria"
     Longitude 25.62904
     Internal 1
@@ -229,7 +230,7 @@ graph [
   ]
   node [
     id 23
-    label "23"
+    label "Pazardjik"
     Country "Bulgaria"
     Longitude 24.33333
     Internal 1
@@ -238,7 +239,7 @@ graph [
   ]
   node [
     id 24
-    label "24"
+    label "Smolian"
     Country "Bulgaria"
     Longitude 24.69194
     Internal 1
@@ -247,7 +248,7 @@ graph [
   ]
   node [
     id 25
-    label "25"
+    label "Petrich"
     Country "Bulgaria"
     Longitude 23.21667
     Internal 1
@@ -256,7 +257,7 @@ graph [
   ]
   node [
     id 26
-    label "26"
+    label "Blagoevgrad"
     Country "Bulgaria"
     Longitude 23.1
     Internal 1
@@ -265,13 +266,13 @@ graph [
   ]
   node [
     id 27
-    label "27"
+    label "Bucharest"
     Internal 1
     type "Green Node"
   ]
   node [
     id 28
-    label "28"
+    label "Ruse"
     Country "Bulgaria"
     Longitude 25.97083
     Internal 1
@@ -280,13 +281,13 @@ graph [
   ]
   node [
     id 29
-    label "29"
+    label "Amsterdam"
     Internal 1
     type "Green Node"
   ]
   node [
     id 30
-    label "30"
+    label "Vidin"
     Country "Bulgaria"
     Longitude 22.8725
     Internal 1
@@ -295,7 +296,7 @@ graph [
   ]
   node [
     id 31
-    label "31"
+    label "Kozloduj"
     Country "Bulgaria"
     Longitude 23.73333
     Internal 1
@@ -304,7 +305,7 @@ graph [
   ]
   node [
     id 32
-    label "32"
+    label "Montana"
     Country "Bulgaria"
     Longitude 23.225
     Internal 1
@@ -313,7 +314,7 @@ graph [
   ]
   node [
     id 33
-    label "33"
+    label "Vraca"
     Country "Bulgaria"
     Longitude 23.5625
     Internal 1
@@ -322,7 +323,7 @@ graph [
   ]
   node [
     id 34
-    label "34"
+    label "Pleven"
     Country "Bulgaria"
     Longitude 24.61667
     Internal 1
@@ -331,7 +332,7 @@ graph [
   ]
   node [
     id 35
-    label "35"
+    label "Lovech"
     Country "Bulgaria"
     Longitude 24.71667
     Internal 1
@@ -340,7 +341,7 @@ graph [
   ]
   node [
     id 36
-    label "36"
+    label "Skopie"
     Internal 1
     type "Green Node"
   ]

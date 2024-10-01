@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "18/10/10"
   GeoLocation "Wisconsin, USA"
   GeoExtent "Region"
@@ -29,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Milwaukee"
     Country "United States"
     Longitude -87.90647
     Internal 1
@@ -37,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Rockford"
     Country "United States"
     Longitude -89.094
     Internal 1
@@ -45,7 +46,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Janesville"
     Country "United States"
     Longitude -89.01872
     Internal 1
@@ -53,7 +54,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Waukesha"
     Country "United States"
     Longitude -88.23148
     Internal 1
@@ -61,7 +62,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Chicago"
     Country "United States"
     Longitude -87.8248
     Internal 1
@@ -69,7 +70,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Madison"
     Country "United States"
     Longitude -89.40123
     Internal 1
@@ -77,7 +78,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Camp Douglas"
     Country "United States"
     Longitude -90.27152
     Internal 1
@@ -85,7 +86,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Minneaopolis"
     Country "United States"
     Longitude -93.26384
     Internal 1
@@ -93,7 +94,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Eau Claire"
     Country "United States"
     Longitude -91.49849
     Internal 1
@@ -101,7 +102,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Wausau"
     Country "United States"
     Longitude -89.63012
     Internal 1
@@ -109,7 +110,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Green Bay"
     Country "United States"
     Longitude -88.01983
     Internal 1
@@ -117,7 +118,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "Appleton"
     Country "United States"
     Longitude -88.41538
     Internal 1
@@ -125,7 +126,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Oshkosh"
     Country "United States"
     Longitude -88.54261
     Internal 1
@@ -133,7 +134,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "Fon Du Lac"
     Country "United States"
     Longitude -88.43883
     Internal 1
@@ -141,7 +142,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "Beaver Dam"
     Country "United States"
     Longitude -88.83733
     Internal 1

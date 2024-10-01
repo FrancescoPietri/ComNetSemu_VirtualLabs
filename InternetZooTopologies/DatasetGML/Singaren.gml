@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "22/10/10"
   GeoLocation "Singapore"
   GeoExtent "Country"
@@ -29,57 +30,57 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "NICT QGPOP APAN-JP Japan"
     Internal 0
   ]
   node [
     id 1
-    label "1"
+    label "AARNET"
     Internal 0
   ]
   node [
     id 2
-    label "2"
+    label "Academia Sinica Taiwan"
     Internal 0
   ]
   node [
     id 3
-    label "3"
+    label "NTU"
     Internal 1
   ]
   node [
     id 4
-    label "4"
+    label "Biopolis"
     Internal 1
   ]
   node [
     id 5
-    label "5"
+    label "Fusionopolis"
     Internal 1
   ]
   node [
     id 6
-    label "6"
+    label "NUS"
     Internal 1
   ]
   node [
     id 7
-    label "7"
+    label "Schools"
     Internal 1
   ]
   node [
     id 8
-    label "8"
+    label "SingAREN members"
     Internal 1
   ]
   node [
     id 9
-    label "9"
+    label "SingAREN-GIX"
     Internal 1
   ]
   node [
     id 10
-    label "10"
+    label "TEIN3"
     Internal 0
   ]
   edge [

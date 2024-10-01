@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "22/10/10"
   GeoLocation "Japan"
   GeoExtent "Country"
@@ -30,7 +31,7 @@ graph [
   Testbed 1
   node [
     id 0
-    label "0"
+    label "Chugoku"
     Country "Japan"
     Longitude 133.0
     Internal 1
@@ -38,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Kinki"
     Country "Japan"
     Longitude 135.5
     Internal 1
@@ -46,7 +47,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Kyushu"
     Country "Japan"
     Longitude 131.0
     Internal 1
@@ -54,7 +55,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Shikoku"
     Country "Japan"
     Longitude 133.5
     Internal 1
@@ -63,7 +64,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Shinetsu"
     Country "Japan"
     Longitude 145.13197
     Internal 1
@@ -71,12 +72,12 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Busan"
     Internal 0
   ]
   node [
     id 6
-    label "6"
+    label "Tokai"
     Country "Japan"
     Longitude 136.89846
     Internal 1
@@ -84,7 +85,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Hokuriku"
     Country "Japan"
     Longitude 137.5
     Internal 1
@@ -92,12 +93,12 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Hongkong"
     Internal 0
   ]
   node [
     id 9
-    label "9"
+    label "Okinawa"
     Country "Japan"
     Longitude 127.80139
     Internal 1
@@ -105,7 +106,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Hokkaido"
     Country "Japan"
     Longitude 141.34694
     Internal 1
@@ -113,7 +114,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "Tohoku"
     Country "Japan"
     Longitude 140.87194
     Internal 1
@@ -121,7 +122,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Tokyo"
     Country "Japan"
     Longitude 139.5813
     Internal 1
@@ -129,28 +130,28 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "Chicago"
     Internal 0
   ]
   node [
     id 14
-    label "14"
+    label "Los Angeles"
     Internal 0
   ]
   node [
     id 15
-    label "15"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 16
-    label "16"
+    label "Singapore"
     Internal 0
   ]
   node [
     id 17
-    label "17"
+    label "Bangkok"
     Internal 0
   ]
   edge [

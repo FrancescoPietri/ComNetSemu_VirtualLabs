@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "29/03/2012"
   GeoLocation "Europe"
   GeoExtent "Continent"
@@ -29,7 +30,7 @@ graph [
   Testbed 1
   node [
     id 0
-    label "0"
+    label "NL"
     Country "Netherlands"
     Longitude 4.88969
     Internal 1
@@ -37,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "BE"
     Country "Belgium"
     Longitude 4.34878
     Internal 1
@@ -45,7 +46,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "DK"
     Country "Denmark"
     Longitude 12.56553
     Internal 1
@@ -54,7 +55,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "PL"
     Country "Poland"
     Longitude 16.96667
     Internal 1
@@ -62,7 +63,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "DE"
     Country "Germany"
     Longitude 8.68333
     Internal 1
@@ -70,7 +71,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "CZ"
     Country "Czech Republic"
     Longitude 14.42076
     Internal 1
@@ -78,7 +79,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "LU"
     Country "Luxembourg"
     Longitude 6.13
     Internal 1
@@ -86,7 +87,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "FR"
     Country "France"
     Longitude 2.3488
     Internal 1
@@ -94,7 +95,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "CH"
     Country "Switzerland"
     Longitude 7.44744
     Internal 1
@@ -102,7 +103,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "IT"
     Country "Italy"
     Longitude 9.18951
     Internal 1
@@ -110,17 +111,17 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "UA"
     Internal 1
   ]
   node [
     id 11
-    label "11"
+    label "MD"
     Internal 1
   ]
   node [
     id 12
-    label "12"
+    label "BG"
     Country "Bulgaria"
     Longitude 23.32415
     Internal 1
@@ -128,7 +129,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "RO"
     Country "Romania"
     Longitude 26.10626
     Internal 1
@@ -136,7 +137,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "TR"
     geocode_country "Turkey"
     Country "Turkey"
     Longitude 34.91155
@@ -145,7 +146,7 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "GR"
     Country "Greece"
     Longitude 23.71622
     Internal 1
@@ -153,7 +154,7 @@ graph [
   ]
   node [
     id 16
-    label "16"
+    label "CY"
     Country "Cyprus"
     Longitude 33.36667
     Internal 1
@@ -161,7 +162,7 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "IL"
     geocode_country "Israel"
     Country "Israel"
     Longitude 34.75
@@ -170,7 +171,7 @@ graph [
   ]
   node [
     id 18
-    label "18"
+    label "MT"
     Country "Malta"
     Longitude 14.42556
     Internal 1
@@ -178,12 +179,12 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "BY"
     Internal 1
   ]
   node [
     id 20
-    label "20"
+    label "MK"
     Country "Macedonia"
     Longitude 21.43333
     Internal 1
@@ -191,7 +192,7 @@ graph [
   ]
   node [
     id 21
-    label "21"
+    label "ME"
     Country "Montenegro"
     Longitude 19.26361
     Internal 1
@@ -199,7 +200,7 @@ graph [
   ]
   node [
     id 22
-    label "22"
+    label "HU"
     Country "Hungary"
     Longitude 19.03991
     Internal 1
@@ -207,7 +208,7 @@ graph [
   ]
   node [
     id 23
-    label "23"
+    label "SK"
     Country "Slovakia"
     Longitude 17.10674
     Internal 1
@@ -215,7 +216,7 @@ graph [
   ]
   node [
     id 24
-    label "24"
+    label "PT"
     Country "Portugal"
     Longitude -9.13333
     Internal 1
@@ -223,7 +224,7 @@ graph [
   ]
   node [
     id 25
-    label "25"
+    label "ES"
     Country "Spain"
     Longitude -3.70256
     Internal 1
@@ -231,7 +232,7 @@ graph [
   ]
   node [
     id 26
-    label "26"
+    label "RS"
     Country "Serbia"
     Longitude 20.46513
     Internal 1
@@ -239,7 +240,7 @@ graph [
   ]
   node [
     id 27
-    label "27"
+    label "HR"
     Country "Croatia"
     Longitude 15.97798
     Internal 1
@@ -247,7 +248,7 @@ graph [
   ]
   node [
     id 28
-    label "28"
+    label "SL"
     Country "Slovenia"
     Longitude 14.50513
     Internal 1
@@ -255,7 +256,7 @@ graph [
   ]
   node [
     id 29
-    label "29"
+    label "AT"
     Country "Austria"
     Longitude 16.37208
     Internal 1
@@ -263,7 +264,7 @@ graph [
   ]
   node [
     id 30
-    label "30"
+    label "LT"
     Country "Lithuania"
     Longitude 23.9
     Internal 1
@@ -271,7 +272,7 @@ graph [
   ]
   node [
     id 31
-    label "31"
+    label "RU"
     Country "Russia"
     Longitude 37.61556
     Internal 1
@@ -280,7 +281,7 @@ graph [
   ]
   node [
     id 32
-    label "32"
+    label "IS"
     Country "Iceland"
     Longitude -21.89541
     Internal 1
@@ -289,7 +290,7 @@ graph [
   ]
   node [
     id 33
-    label "33"
+    label "IE"
     Country "Ireland"
     Longitude -6.26719
     Internal 1
@@ -297,7 +298,7 @@ graph [
   ]
   node [
     id 34
-    label "34"
+    label "UK"
     Country "United Kingdom"
     Longitude -0.12574
     Internal 1
@@ -305,7 +306,7 @@ graph [
   ]
   node [
     id 35
-    label "35"
+    label "NO"
     geocode_country "Norway"
     Country "Norway"
     Longitude 10.0
@@ -315,7 +316,7 @@ graph [
   ]
   node [
     id 36
-    label "36"
+    label "SE"
     Country "Sweden"
     Longitude 18.0649
     Internal 1
@@ -324,7 +325,7 @@ graph [
   ]
   node [
     id 37
-    label "37"
+    label "FI"
     Country "Finland"
     Longitude 22.26869
     Internal 1
@@ -333,7 +334,7 @@ graph [
   ]
   node [
     id 38
-    label "38"
+    label "EE"
     Country "Estonia"
     Longitude 24.75353
     Internal 1
@@ -341,7 +342,7 @@ graph [
   ]
   node [
     id 39
-    label "39"
+    label "LV"
     Country "Latvia"
     Longitude 24.10589
     Internal 1

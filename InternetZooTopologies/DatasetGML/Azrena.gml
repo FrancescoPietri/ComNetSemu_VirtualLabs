@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "20/10/10"
   GeoLocation "Azerbaijan"
   GeoExtent "Country"
@@ -29,122 +30,122 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "None"
     Internal 1
     type "Switch"
   ]
   node [
     id 1
-    label "1"
+    label "Dialup server"
     Internal 1
     type "Switch"
   ]
   node [
     id 2
-    label "2"
+    label "Wireless server"
     Internal 1
     type "Router"
   ]
   node [
     id 3
-    label "3"
+    label "Wireless router"
     Internal 1
     type "Router"
   ]
   node [
     id 4
-    label "4"
+    label "Geology"
     Internal 1
     type "Switch"
   ]
   node [
     id 5
-    label "5"
+    label "Physics"
     Internal 1
     type "Switch"
   ]
   node [
     id 6
-    label "6"
+    label "ANAS users"
     Internal 0
   ]
   node [
     id 7
-    label "7"
+    label "Distribution switch"
     Internal 1
     type "Switch"
   ]
   node [
     id 8
-    label "8"
+    label "Information Tech."
     Internal 1
   ]
   node [
     id 9
-    label "9"
+    label "Baku Uni"
     Internal 1
   ]
   node [
     id 10
-    label "10"
+    label "Shamsa Obs."
     Internal 1
   ]
   node [
     id 11
-    label "11"
+    label "Cybenetics"
     Internal 1
   ]
   node [
     id 12
-    label "12"
+    label "Khazar Uni"
     Internal 1
   ]
   node [
     id 13
-    label "13"
+    label "NOC"
     Internal 1
     type "Router"
   ]
   node [
     id 14
-    label "14"
+    label "Economical Uni"
     Internal 1
     type "Router"
   ]
   node [
     id 15
-    label "15"
+    label "Local ISP"
     Internal 0
   ]
   node [
     id 16
-    label "16"
+    label "Silk Highway"
     Internal 0
   ]
   node [
     id 17
-    label "17"
+    label "VSAT Station"
     Internal 1
     type "Router"
   ]
   node [
     id 18
-    label "18"
+    label "Technical Uni"
     Internal 1
   ]
   node [
     id 19
-    label "19"
+    label "RENASCENE"
     Internal 1
   ]
   node [
     id 20
-    label "20"
+    label "Architecture-Building Uni"
     Internal 1
   ]
   node [
     id 21
-    label "21"
+    label "Foreign Language Uni."
     Internal 1
   ]
   edge [
@@ -176,6 +177,18 @@ graph [
     target 7
     LinkType "Ethernet"
     LinkLabel "Ethernet"
+  ]
+  edge [
+    source 1
+    target 6
+    LinkType "Serial"
+    LinkLabel "Serial"
+  ]
+  edge [
+    source 1
+    target 6
+    LinkType "Serial"
+    LinkLabel "Serial"
   ]
   edge [
     source 1
@@ -266,6 +279,18 @@ graph [
     target 15
     LinkType "Serial"
     LinkLabel "serial"
+  ]
+  edge [
+    source 13
+    target 15
+    LinkType "Serial"
+    LinkLabel "Serial"
+  ]
+  edge [
+    source 13
+    target 15
+    LinkType "Serial"
+    LinkLabel "Serial"
   ]
   edge [
     source 16

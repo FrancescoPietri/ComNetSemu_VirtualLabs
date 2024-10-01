@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "19/10/10"
   GeoLocation "Global"
   GeoExtent "Global"
@@ -29,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Los Angeles"
     Country "United States"
     Longitude -118.24368
     Internal 1
@@ -37,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Chennai"
     Country "India"
     Longitude 80.27847
     Internal 1
@@ -45,32 +46,32 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "NYIX"
     Internal 0
   ]
   node [
     id 3
-    label "3"
+    label "LAIX"
     Internal 0
   ]
   node [
     id 4
-    label "4"
+    label "NiXI"
     Internal 0
   ]
   node [
     id 5
-    label "5"
+    label "LINX"
     Internal 0
   ]
   node [
     id 6
-    label "6"
+    label "EQUINOX IX"
     Internal 0
   ]
   node [
     id 7
-    label "7"
+    label "New York"
     Country "United States"
     Longitude -74.00597
     Internal 1
@@ -78,7 +79,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "London"
     Country "United Kingdom"
     Longitude -0.12574
     Internal 1
@@ -86,7 +87,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Mumbai"
     Country "India"
     Longitude 72.84794
     Internal 1
@@ -94,7 +95,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Palermo"
     Country "Italy"
     Longitude 13.35976
     Internal 1
@@ -102,7 +103,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "Marseille"
     Country "France"
     Longitude 5.4
     Internal 1
@@ -110,12 +111,12 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "HKIX"
     Internal 0
   ]
   node [
     id 13
-    label "13"
+    label "Hong Kong"
     Country "Hong Kong"
     Longitude 114.15769
     Internal 1
@@ -123,7 +124,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "Singapore"
     Country "Singapore"
     Longitude 103.85007
     Internal 1
@@ -131,13 +132,18 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "STIX"
     Internal 0
   ]
   edge [
     source 0
     target 1
     LinkLabel "Medium-High Bandwidth"
+  ]
+  edge [
+    source 0
+    target 1
+    LinkLabel "High Bandwidth"
   ]
   edge [
     source 0
@@ -156,6 +162,21 @@ graph [
   ]
   edge [
     source 0
+    target 14
+    LinkLabel "Medium-High Bandwidth"
+  ]
+  edge [
+    source 0
+    target 7
+    LinkLabel "Low Bandwidth"
+  ]
+  edge [
+    source 0
+    target 7
+    LinkLabel "Low Bandwidth"
+  ]
+  edge [
+    source 0
     target 7
     LinkLabel "Low Bandwidth"
   ]
@@ -163,6 +184,16 @@ graph [
     source 1
     target 7
     LinkLabel "High Bandwidth"
+  ]
+  edge [
+    source 1
+    target 7
+    LinkLabel "High Bandwidth"
+  ]
+  edge [
+    source 1
+    target 7
+    LinkLabel "Low Bandwidth"
   ]
   edge [
     source 1
@@ -188,6 +219,11 @@ graph [
     source 1
     target 13
     LinkLabel "Medium-Low Bandwidth"
+  ]
+  edge [
+    source 1
+    target 14
+    LinkLabel "High Bandwidth"
   ]
   edge [
     source 1
@@ -221,6 +257,21 @@ graph [
   ]
   edge [
     source 7
+    target 8
+    LinkLabel "Low Bandwidth"
+  ]
+  edge [
+    source 7
+    target 8
+    LinkLabel "Low Bandwidth"
+  ]
+  edge [
+    source 7
+    target 9
+    LinkLabel "Low Bandwidth"
+  ]
+  edge [
+    source 7
     target 9
     LinkLabel "Low Bandwidth"
   ]
@@ -233,6 +284,11 @@ graph [
     source 7
     target 14
     LinkLabel "Medium-Low Bandwidth"
+  ]
+  edge [
+    source 8
+    target 9
+    LinkLabel "Low Bandwidth"
   ]
   edge [
     source 8

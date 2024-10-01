@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "23/03/11"
   GeoLocation "Northern Ireland"
   GeoExtent "Country"
@@ -29,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Drogheda"
     Country "Ireland"
     Longitude -6.34778
     Internal 1
@@ -38,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Southport"
     Country "United Kingdom"
     Longitude -3.00648
     Internal 1
@@ -47,7 +48,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Portadown"
     Country "United Kingdom"
     Longitude -6.44743
     Internal 1
@@ -56,7 +57,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Castleblayney"
     Country "Ireland"
     Longitude -6.73333
     Internal 1
@@ -65,7 +66,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Monaghan"
     Country "Ireland"
     Longitude -6.96667
     Internal 1
@@ -75,7 +76,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Dundalk"
     Country "Ireland"
     Longitude -6.41667
     Internal 1
@@ -84,7 +85,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Dublin"
     Country "Ireland"
     Longitude -6.26719
     Internal 1
@@ -93,7 +94,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Armagh"
     Country "United Kingdom"
     Longitude -6.66667
     Internal 1
@@ -102,7 +103,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Ballymena"
     Country "United Kingdom"
     Longitude -6.27628
     Internal 1
@@ -111,7 +112,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Belfast"
     Country "United Kingdom"
     Longitude -5.93333
     Internal 1
@@ -120,23 +121,23 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Europe"
     Internal 0
   ]
   node [
     id 11
-    label "11"
+    label "North America"
     Internal 0
   ]
   node [
     id 12
-    label "12"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 13
-    label "13"
+    label "Omagh"
     Country "United Kingdom"
     Longitude -7.3
     Internal 1
@@ -145,7 +146,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "Strabane"
     Country "United Kingdom"
     Longitude -7.46916
     Internal 1
@@ -154,7 +155,7 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "Letterkenny"
     Country "Ireland"
     Longitude -7.73333
     Internal 1
@@ -163,7 +164,7 @@ graph [
   ]
   node [
     id 16
-    label "16"
+    label "Londonderry"
     Country "United Kingdom"
     Longitude -7.30934
     Internal 1
@@ -172,7 +173,7 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "Coleraine"
     Country "United Kingdom"
     Longitude -6.66667
     Internal 1
@@ -193,6 +194,11 @@ graph [
     source 1
     target 10
     LinkLabel "Green"
+  ]
+  edge [
+    source 1
+    target 10
+    LinkLabel "Blue"
   ]
   edge [
     source 1

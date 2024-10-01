@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "2/12/10"
   GeoLocation "South Korea"
   GeoExtent "Country"
@@ -30,7 +31,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Jeonju"
     Country "South Korea"
     Longitude 127.14889
     Internal 1
@@ -38,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Jeju"
     Country "South Korea"
     Longitude 126.52194
     Internal 1
@@ -46,7 +47,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Kwangju"
     Country "South Korea"
     Longitude 126.91556
     Internal 1
@@ -54,7 +55,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Busan"
     Country "South Korea"
     Longitude 129.04028
     Internal 1
@@ -62,7 +63,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Changwon"
     Country "South Korea"
     Longitude 128.68111
     Internal 1
@@ -70,7 +71,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Seoul"
     Country "South Korea"
     Longitude 126.97783
     Internal 1
@@ -78,7 +79,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Incheon"
     Country "South Korea"
     Longitude 126.73167
     Internal 1
@@ -86,7 +87,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Suwon"
     Country "South Korea"
     Longitude 127.00889
     Internal 1
@@ -94,7 +95,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Cheonan"
     Country "South Korea"
     Longitude 127.1522
     Internal 1
@@ -102,7 +103,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Ochang"
     Country "South Korea"
     Longitude 127.49042
     Internal 1
@@ -110,7 +111,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Daejeon"
     Country "South Korea"
     Longitude 127.41972
     Internal 1
@@ -118,7 +119,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "Pohang"
     Country "South Korea"
     Longitude 129.365
     Internal 1
@@ -126,7 +127,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Daegu"
     Country "South Korea"
     Longitude 128.59111
     Internal 1

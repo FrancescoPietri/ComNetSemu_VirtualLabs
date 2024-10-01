@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "22/10/10"
   GeoLocation "Europe"
   GeoExtent "Continent"
@@ -29,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Gorzow"
     Country "Poland"
     Longitude 15.22878
     Internal 1
@@ -38,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Zeilona Gora"
     Country "Poland"
     Longitude 15.50643
     Internal 1
@@ -47,7 +48,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Kobenhavn"
     Country "Denmark"
     Longitude 12.56553
     Internal 1
@@ -56,7 +57,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Hamburg"
     Country "Germany"
     Longitude 10.0
     Internal 1
@@ -65,7 +66,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Gdansk"
     Country "Poland"
     Longitude 18.64637
     Internal 1
@@ -74,7 +75,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Gdynia"
     Country "Poland"
     Longitude 18.53188
     Internal 1
@@ -83,7 +84,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Slupsk"
     Country "Poland"
     Longitude 17.02872
     Internal 1
@@ -92,7 +93,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Koszalin"
     Country "Poland"
     Longitude 16.17222
     Internal 1
@@ -101,7 +102,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Kolobrzeg"
     Country "Poland"
     Longitude 15.58342
     Internal 1
@@ -110,7 +111,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Szczecin"
     Country "Poland"
     Longitude 14.55302
     Internal 1
@@ -119,7 +120,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Braniewo"
     Country "Poland"
     Longitude 19.81959
     Internal 1
@@ -128,46 +129,46 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 12
-    label "12"
+    label "Poti, Georgia"
     Internal 0
   ]
   node [
     id 13
-    label "13"
+    label "Georgia, Armenia, Iran, Iraq, Syria"
     Internal 0
   ]
   node [
     id 14
-    label "14"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 15
-    label "15"
+    label "Amsterdam, London"
     Internal 0
   ]
   node [
     id 16
-    label "16"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 17
-    label "17"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 18
-    label "18"
+    label "Lowicz"
     Country "Poland"
     Longitude 19.94525
     Internal 1
@@ -176,7 +177,7 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "Ulmi"
     Country "Romania"
     Longitude 25.78028
     Internal 1
@@ -186,7 +187,7 @@ graph [
   ]
   node [
     id 20
-    label "20"
+    label "Beograd"
     Country "Serbia"
     Longitude 20.46513
     Internal 1
@@ -195,7 +196,7 @@ graph [
   ]
   node [
     id 21
-    label "21"
+    label "Balvanesti"
     Country "Romania"
     Longitude 22.68028
     Internal 1
@@ -204,7 +205,7 @@ graph [
   ]
   node [
     id 22
-    label "22"
+    label "Alexandria"
     Country "Romania"
     Longitude 25.33333
     Internal 1
@@ -213,7 +214,7 @@ graph [
   ]
   node [
     id 23
-    label "23"
+    label "Craiova"
     Country "Romania"
     Longitude 23.8
     Internal 1
@@ -222,7 +223,7 @@ graph [
   ]
   node [
     id 24
-    label "24"
+    label "Arad"
     Country "Romania"
     Longitude 21.31667
     Internal 1
@@ -231,7 +232,7 @@ graph [
   ]
   node [
     id 25
-    label "25"
+    label "Oradea"
     Country "Romania"
     Longitude 21.93333
     Internal 1
@@ -240,7 +241,7 @@ graph [
   ]
   node [
     id 26
-    label "26"
+    label "Caransebes"
     Country "Romania"
     Longitude 22.21667
     Internal 1
@@ -249,7 +250,7 @@ graph [
   ]
   node [
     id 27
-    label "27"
+    label "Timisoara"
     Country "Romania"
     Longitude 21.22722
     Internal 1
@@ -258,7 +259,7 @@ graph [
   ]
   node [
     id 28
-    label "28"
+    label "Ploiesti"
     Country "Romania"
     Longitude 26.01667
     Internal 1
@@ -267,7 +268,7 @@ graph [
   ]
   node [
     id 29
-    label "29"
+    label "Giurgiu"
     Country "Romania"
     Longitude 25.96667
     Internal 1
@@ -276,12 +277,12 @@ graph [
   ]
   node [
     id 30
-    label "30"
+    label "Kazakhstan"
     Internal 0
   ]
   node [
     id 31
-    label "31"
+    label "Szombathely"
     Country "Hungary"
     Longitude 16.62155
     Internal 1
@@ -290,7 +291,7 @@ graph [
   ]
   node [
     id 32
-    label "32"
+    label "Szekesfehervar"
     Country "Hungary"
     Longitude 18.41034
     Internal 1
@@ -299,7 +300,7 @@ graph [
   ]
   node [
     id 33
-    label "33"
+    label "Tatabanya"
     Country "Hungary"
     Longitude 18.41667
     Internal 1
@@ -308,7 +309,7 @@ graph [
   ]
   node [
     id 34
-    label "34"
+    label "Keszthely"
     Country "Hungary"
     Longitude 17.25
     Internal 1
@@ -317,7 +318,7 @@ graph [
   ]
   node [
     id 35
-    label "35"
+    label "Veszprem"
     Country "Hungary"
     Longitude 17.91149
     Internal 1
@@ -326,7 +327,7 @@ graph [
   ]
   node [
     id 36
-    label "36"
+    label "Rozvadov"
     geocode_append "Czech Republic"
     Country "Czech Republic"
     Longitude 12.55188
@@ -336,7 +337,7 @@ graph [
   ]
   node [
     id 37
-    label "37"
+    label "Karlovy Vary"
     Country "Czech Republic"
     Longitude 12.87117
     Internal 1
@@ -345,7 +346,7 @@ graph [
   ]
   node [
     id 38
-    label "38"
+    label "Liberec"
     Country "Czech Republic"
     Longitude 15.05619
     Internal 1
@@ -354,7 +355,7 @@ graph [
   ]
   node [
     id 39
-    label "39"
+    label "Plzen"
     Country "Czech Republic"
     Longitude 13.37759
     Internal 1
@@ -363,7 +364,7 @@ graph [
   ]
   node [
     id 40
-    label "40"
+    label "Kyiv"
     Country "Ukraine"
     Longitude 30.4497
     Internal 1
@@ -372,7 +373,7 @@ graph [
   ]
   node [
     id 41
-    label "41"
+    label "Warszawa"
     Country "Poland"
     Longitude 21.01178
     Internal 1
@@ -381,7 +382,7 @@ graph [
   ]
   node [
     id 42
-    label "42"
+    label "Tirane"
     Country "Albania"
     Longitude 19.81889
     Internal 1
@@ -390,7 +391,7 @@ graph [
   ]
   node [
     id 43
-    label "43"
+    label "Athina"
     Country "Greece"
     Longitude 23.71622
     Internal 1
@@ -399,7 +400,7 @@ graph [
   ]
   node [
     id 44
-    label "44"
+    label "Vilnius"
     Country "Lithuania"
     Longitude 25.2798
     Internal 1
@@ -408,7 +409,7 @@ graph [
   ]
   node [
     id 45
-    label "45"
+    label "Tallinn"
     Country "Estonia"
     Longitude 24.75353
     Internal 1
@@ -417,7 +418,7 @@ graph [
   ]
   node [
     id 46
-    label "46"
+    label "Kaliningrad"
     Country "Russia"
     Longitude 20.5
     Internal 1
@@ -426,7 +427,7 @@ graph [
   ]
   node [
     id 47
-    label "47"
+    label "Minsk"
     Country "Belarus"
     Longitude 27.56667
     Internal 1
@@ -435,7 +436,7 @@ graph [
   ]
   node [
     id 48
-    label "48"
+    label "Riga"
     Country "Latvia"
     Longitude 24.10589
     Internal 1
@@ -444,7 +445,7 @@ graph [
   ]
   node [
     id 49
-    label "49"
+    label "Helsinki"
     Country "Finland"
     Longitude 24.93545
     Internal 1
@@ -453,7 +454,7 @@ graph [
   ]
   node [
     id 50
-    label "50"
+    label "Poieni"
     Country "Romania"
     Longitude 22.9
     Internal 1
@@ -463,7 +464,7 @@ graph [
   ]
   node [
     id 51
-    label "51"
+    label "Sliven"
     Country "Bulgaria"
     Longitude 26.32917
     Internal 1
@@ -472,7 +473,7 @@ graph [
   ]
   node [
     id 52
-    label "52"
+    label "Iasi"
     Country "Romania"
     Longitude 27.6
     Internal 1
@@ -481,7 +482,7 @@ graph [
   ]
   node [
     id 53
-    label "53"
+    label "Galati"
     Country "Romania"
     Longitude 28.05
     Internal 1
@@ -490,7 +491,7 @@ graph [
   ]
   node [
     id 54
-    label "54"
+    label "Brasov"
     Country "Romania"
     Longitude 25.60613
     Internal 1
@@ -499,7 +500,7 @@ graph [
   ]
   node [
     id 55
-    label "55"
+    label "Bacau"
     Country "Romania"
     Longitude 26.9
     Internal 1
@@ -508,7 +509,7 @@ graph [
   ]
   node [
     id 56
-    label "56"
+    label "Medias"
     Country "Romania"
     Longitude 24.35
     Internal 1
@@ -517,7 +518,7 @@ graph [
   ]
   node [
     id 57
-    label "57"
+    label "Cluj"
     Country "Romania"
     Longitude 23.6
     Internal 1
@@ -526,7 +527,7 @@ graph [
   ]
   node [
     id 58
-    label "58"
+    label "Constanta"
     Country "Romania"
     Longitude 28.65
     Internal 1
@@ -535,7 +536,7 @@ graph [
   ]
   node [
     id 59
-    label "59"
+    label "Dumbravita"
     Country "Romania"
     Longitude 25.43333
     Internal 1
@@ -545,7 +546,7 @@ graph [
   ]
   node [
     id 60
-    label "60"
+    label "Komarno"
     Country "Slovakia"
     Longitude 18.12263
     Internal 1
@@ -554,7 +555,7 @@ graph [
   ]
   node [
     id 61
-    label "61"
+    label "Gyor"
     Country "Hungary"
     Longitude 17.63512
     Internal 1
@@ -563,7 +564,7 @@ graph [
   ]
   node [
     id 62
-    label "62"
+    label "Sopron"
     Country "Hungary"
     Longitude 16.6
     Internal 1
@@ -572,7 +573,7 @@ graph [
   ]
   node [
     id 63
-    label "63"
+    label "Odesa"
     Country "Ukraine"
     Longitude 30.73262
     Internal 1
@@ -581,7 +582,7 @@ graph [
   ]
   node [
     id 64
-    label "64"
+    label "Kharkiv"
     Country "Ukraine"
     Longitude 36.25
     Internal 1
@@ -590,7 +591,7 @@ graph [
   ]
   node [
     id 65
-    label "65"
+    label "Dnipropetrovsk"
     Country "Ukraine"
     Longitude 34.98333
     Internal 1
@@ -599,7 +600,7 @@ graph [
   ]
   node [
     id 66
-    label "66"
+    label "Lviv"
     Country "Ukraine"
     Longitude 24.02324
     Internal 1
@@ -608,7 +609,7 @@ graph [
   ]
   node [
     id 67
-    label "67"
+    label "Tarnow"
     Country "Poland"
     Longitude 20.98698
     Internal 1
@@ -617,7 +618,7 @@ graph [
   ]
   node [
     id 68
-    label "68"
+    label "Banska Bystrica"
     Country "Slovakia"
     Longitude 19.15
     Internal 1
@@ -626,7 +627,7 @@ graph [
   ]
   node [
     id 69
-    label "69"
+    label "Nove Zamky"
     Country "Slovakia"
     Longitude 18.16195
     Internal 1
@@ -635,7 +636,7 @@ graph [
   ]
   node [
     id 70
-    label "70"
+    label "Praha"
     Country "Czech Republic"
     Longitude 14.42076
     Internal 1
@@ -644,7 +645,7 @@ graph [
   ]
   node [
     id 71
-    label "71"
+    label "Szolnok"
     Country "Hungary"
     Longitude 20.2
     Internal 1
@@ -653,7 +654,7 @@ graph [
   ]
   node [
     id 72
-    label "72"
+    label "Zalaegerszeg"
     Country "Hungary"
     Longitude 16.84389
     Internal 1
@@ -662,7 +663,7 @@ graph [
   ]
   node [
     id 73
-    label "73"
+    label "Tapolca"
     Country "Hungary"
     Longitude 17.43333
     Internal 1
@@ -671,7 +672,7 @@ graph [
   ]
   node [
     id 74
-    label "74"
+    label "Tekirdag"
     Country "Turkey"
     Longitude 27.50852
     Internal 1
@@ -680,7 +681,7 @@ graph [
   ]
   node [
     id 75
-    label "75"
+    label "Cheb"
     Country "Czech Republic"
     Longitude 12.37392
     Internal 1
@@ -689,7 +690,7 @@ graph [
   ]
   node [
     id 76
-    label "76"
+    label "Usti nad Labem"
     Country "Czech Republic"
     Longitude 14.03227
     Internal 1
@@ -698,7 +699,7 @@ graph [
   ]
   node [
     id 77
-    label "77"
+    label "Hradec Kralove"
     Country "Czech Republic"
     Longitude 15.83277
     Internal 1
@@ -707,7 +708,7 @@ graph [
   ]
   node [
     id 78
-    label "78"
+    label "Dunaujvaros"
     Country "Hungary"
     Longitude 18.93333
     Internal 1
@@ -716,7 +717,7 @@ graph [
   ]
   node [
     id 79
-    label "79"
+    label "Kiskunhalas"
     Country "Hungary"
     Longitude 19.4875
     Internal 1
@@ -725,7 +726,7 @@ graph [
   ]
   node [
     id 80
-    label "80"
+    label "Tompa"
     geocode_append "Hungary"
     Country "Hungary"
     Longitude 19.54222
@@ -735,7 +736,7 @@ graph [
   ]
   node [
     id 81
-    label "81"
+    label "Szeged"
     Country "Hungary"
     Longitude 20.14824
     Internal 1
@@ -744,7 +745,7 @@ graph [
   ]
   node [
     id 82
-    label "82"
+    label "Szentes"
     Country "Hungary"
     Longitude 20.26667
     Internal 1
@@ -753,7 +754,7 @@ graph [
   ]
   node [
     id 83
-    label "83"
+    label "Zilina"
     Country "Slovakia"
     Longitude 18.73941
     Internal 1
@@ -762,7 +763,7 @@ graph [
   ]
   node [
     id 84
-    label "84"
+    label "Kosice"
     Country "Slovakia"
     Longitude 21.25
     Internal 1
@@ -771,7 +772,7 @@ graph [
   ]
   node [
     id 85
-    label "85"
+    label "Kecskemet"
     Country "Hungary"
     Longitude 19.69128
     Internal 1
@@ -780,7 +781,7 @@ graph [
   ]
   node [
     id 86
-    label "86"
+    label "Paks"
     Country "Hungary"
     Longitude 18.86667
     Internal 1
@@ -789,7 +790,7 @@ graph [
   ]
   node [
     id 87
-    label "87"
+    label "Burgas"
     Country "Bulgaria"
     Longitude 27.46781
     Internal 1
@@ -798,7 +799,7 @@ graph [
   ]
   node [
     id 88
-    label "88"
+    label "Debrecen"
     Country "Hungary"
     Longitude 21.63333
     Internal 1
@@ -807,7 +808,7 @@ graph [
   ]
   node [
     id 89
-    label "89"
+    label "Bors"
     Country "Romania"
     Longitude 21.81667
     Internal 1
@@ -816,7 +817,7 @@ graph [
   ]
   node [
     id 90
-    label "90"
+    label "Haskovo"
     Country "Bulgaria"
     Longitude 25.56944
     Internal 1
@@ -825,7 +826,7 @@ graph [
   ]
   node [
     id 91
-    label "91"
+    label "Wroclaw"
     Country "Poland"
     Longitude 17.03333
     Internal 1
@@ -834,7 +835,7 @@ graph [
   ]
   node [
     id 92
-    label "92"
+    label "Leszno"
     Country "Poland"
     Longitude 16.57494
     Internal 1
@@ -843,7 +844,7 @@ graph [
   ]
   node [
     id 93
-    label "93"
+    label "Inowroclaw"
     Country "Poland"
     Longitude 18.26388
     Internal 1
@@ -852,7 +853,7 @@ graph [
   ]
   node [
     id 94
-    label "94"
+    label "Poznan"
     Country "Poland"
     Longitude 16.96667
     Internal 1
@@ -861,7 +862,7 @@ graph [
   ]
   node [
     id 95
-    label "95"
+    label "Tczew"
     Country "Poland"
     Longitude 18.77787
     Internal 1
@@ -870,7 +871,7 @@ graph [
   ]
   node [
     id 96
-    label "96"
+    label "Bydgoszcz"
     Country "Poland"
     Longitude 18.00762
     Internal 1
@@ -879,7 +880,7 @@ graph [
   ]
   node [
     id 97
-    label "97"
+    label "Wloclawek"
     Country "Poland"
     Longitude 19.0678
     Internal 1
@@ -888,7 +889,7 @@ graph [
   ]
   node [
     id 98
-    label "98"
+    label "Olsztyn"
     Country "Poland"
     Longitude 20.48333
     Internal 1
@@ -897,7 +898,7 @@ graph [
   ]
   node [
     id 99
-    label "99"
+    label "Konin"
     Country "Poland"
     Longitude 18.25121
     Internal 1
@@ -906,7 +907,7 @@ graph [
   ]
   node [
     id 100
-    label "100"
+    label "Torun"
     Country "Poland"
     Longitude 18.59814
     Internal 1
@@ -915,7 +916,7 @@ graph [
   ]
   node [
     id 101
-    label "101"
+    label "Lublin"
     Country "Poland"
     Longitude 22.56667
     Internal 1
@@ -924,7 +925,7 @@ graph [
   ]
   node [
     id 102
-    label "102"
+    label "Rzeszow"
     Country "Poland"
     Longitude 21.99901
     Internal 1
@@ -933,7 +934,7 @@ graph [
   ]
   node [
     id 103
-    label "103"
+    label "Kutno"
     Country "Poland"
     Longitude 19.36409
     Internal 1
@@ -942,7 +943,7 @@ graph [
   ]
   node [
     id 104
-    label "104"
+    label "Bialystok"
     Country "Poland"
     Longitude 23.15
     Internal 1
@@ -951,7 +952,7 @@ graph [
   ]
   node [
     id 105
-    label "105"
+    label "Radom"
     Country "Poland"
     Longitude 21.14714
     Internal 1
@@ -960,7 +961,7 @@ graph [
   ]
   node [
     id 106
-    label "106"
+    label "Lodz"
     Country "Poland"
     Longitude 19.46667
     Internal 1
@@ -969,7 +970,7 @@ graph [
   ]
   node [
     id 107
-    label "107"
+    label "Krakow"
     Country "Poland"
     Longitude 19.91667
     Internal 1
@@ -978,7 +979,7 @@ graph [
   ]
   node [
     id 108
-    label "108"
+    label "Kielce"
     Country "Poland"
     Longitude 20.62752
     Internal 1
@@ -987,7 +988,7 @@ graph [
   ]
   node [
     id 109
-    label "109"
+    label "Opole"
     Country "Poland"
     Longitude 17.95
     Internal 1
@@ -996,7 +997,7 @@ graph [
   ]
   node [
     id 110
-    label "110"
+    label "Katowice"
     Country "Poland"
     Longitude 19.01667
     Internal 1
@@ -1005,7 +1006,7 @@ graph [
   ]
   node [
     id 111
-    label "111"
+    label "Svilengrad"
     Country "Bulgaria"
     Longitude 26.2
     Internal 1
@@ -1014,7 +1015,7 @@ graph [
   ]
   node [
     id 112
-    label "112"
+    label "Edirne"
     Country "Turkey"
     Longitude 26.55597
     Internal 1
@@ -1023,7 +1024,7 @@ graph [
   ]
   node [
     id 113
-    label "113"
+    label "Olomouc"
     Country "Czech Republic"
     Longitude 17.25175
     Internal 1
@@ -1032,7 +1033,7 @@ graph [
   ]
   node [
     id 114
-    label "114"
+    label "Hodonin"
     Country "Czech Republic"
     Longitude 17.13244
     Internal 1
@@ -1041,7 +1042,7 @@ graph [
   ]
   node [
     id 115
-    label "115"
+    label "Zlin"
     Country "Czech Republic"
     Longitude 17.66667
     Internal 1
@@ -1050,7 +1051,7 @@ graph [
   ]
   node [
     id 116
-    label "116"
+    label "Ostrava"
     Country "Czech Republic"
     Longitude 18.28204
     Internal 1
@@ -1059,7 +1060,7 @@ graph [
   ]
   node [
     id 117
-    label "117"
+    label "Varna"
     Country "Bulgaria"
     Longitude 27.91667
     Internal 1
@@ -1068,7 +1069,7 @@ graph [
   ]
   node [
     id 118
-    label "118"
+    label "Ceske Budejovice"
     Country "Czech Republic"
     Longitude 14.47434
     Internal 1
@@ -1077,7 +1078,7 @@ graph [
   ]
   node [
     id 119
-    label "119"
+    label "Jihlava"
     Country "Czech Republic"
     Longitude 15.59124
     Internal 1
@@ -1086,7 +1087,7 @@ graph [
   ]
   node [
     id 120
-    label "120"
+    label "Brno"
     Country "Czech Republic"
     Longitude 16.60796
     Internal 1
@@ -1095,7 +1096,7 @@ graph [
   ]
   node [
     id 121
-    label "121"
+    label "Bielsko"
     Country "Poland"
     Longitude 19.03333
     Internal 1
@@ -1104,7 +1105,7 @@ graph [
   ]
   node [
     id 122
-    label "122"
+    label "Most"
     Country "Czech Republic"
     Longitude 13.63617
     Internal 1
@@ -1113,7 +1114,7 @@ graph [
   ]
   node [
     id 123
-    label "123"
+    label "Ljubljana"
     Country "Slovenia"
     Longitude 14.50513
     Internal 1
@@ -1122,7 +1123,7 @@ graph [
   ]
   node [
     id 124
-    label "124"
+    label "Zagreb"
     Country "Croatia"
     Longitude 15.97798
     Internal 1
@@ -1131,7 +1132,7 @@ graph [
   ]
   node [
     id 125
-    label "125"
+    label "Frankfurt am Main"
     Country "Germany"
     Longitude 8.68333
     Internal 1
@@ -1140,7 +1141,7 @@ graph [
   ]
   node [
     id 126
-    label "126"
+    label "Moskva"
     Country "Russia"
     Longitude 37.61556
     Internal 1
@@ -1149,7 +1150,7 @@ graph [
   ]
   node [
     id 127
-    label "127"
+    label "Sankt Peterburg"
     Country "Russia"
     Longitude 30.26417
     Internal 1
@@ -1158,7 +1159,7 @@ graph [
   ]
   node [
     id 128
-    label "128"
+    label "Stockholm"
     Country "Sweden"
     Longitude 18.0649
     Internal 1
@@ -1167,7 +1168,7 @@ graph [
   ]
   node [
     id 129
-    label "129"
+    label "Budapest"
     Country "Hungary"
     Longitude 19.03991
     Internal 1
@@ -1176,7 +1177,7 @@ graph [
   ]
   node [
     id 130
-    label "130"
+    label "Bratislava"
     Country "Slovakia"
     Longitude 17.10674
     Internal 1
@@ -1185,7 +1186,7 @@ graph [
   ]
   node [
     id 131
-    label "131"
+    label "Wien"
     Country "Austria"
     Longitude 16.37208
     Internal 1
@@ -1194,7 +1195,7 @@ graph [
   ]
   node [
     id 132
-    label "132"
+    label "Berlin"
     Country "Germany"
     Longitude 13.41053
     Internal 1
@@ -1203,7 +1204,7 @@ graph [
   ]
   node [
     id 133
-    label "133"
+    label "Pristina"
     Country "Kosovo"
     Longitude 21.16688
     Internal 1
@@ -1212,7 +1213,7 @@ graph [
   ]
   node [
     id 134
-    label "134"
+    label "Podgorica"
     Country "Montenegro"
     Longitude 19.26361
     Internal 1
@@ -1221,7 +1222,7 @@ graph [
   ]
   node [
     id 135
-    label "135"
+    label "Balikesir"
     Country "Turkey"
     Longitude 27.88611
     Internal 1
@@ -1230,7 +1231,7 @@ graph [
   ]
   node [
     id 136
-    label "136"
+    label "Izmir"
     Country "Turkey"
     Longitude 27.13838
     Internal 1
@@ -1239,7 +1240,7 @@ graph [
   ]
   node [
     id 137
-    label "137"
+    label "Thessaloniki"
     Country "Greece"
     Longitude 22.94389
     Internal 1
@@ -1248,7 +1249,7 @@ graph [
   ]
   node [
     id 138
-    label "138"
+    label "Petrich"
     Country "Bulgaria"
     Longitude 23.21667
     Internal 1
@@ -1257,7 +1258,7 @@ graph [
   ]
   node [
     id 139
-    label "139"
+    label "Pleven"
     Country "Bulgaria"
     Longitude 24.61667
     Internal 1
@@ -1266,7 +1267,7 @@ graph [
   ]
   node [
     id 140
-    label "140"
+    label "Plovdiv"
     Country "Bulgaria"
     Longitude 24.75
     Internal 1
@@ -1275,7 +1276,7 @@ graph [
   ]
   node [
     id 141
-    label "141"
+    label "Sarajevo"
     Country "Bosnia and Herzegovina"
     Longitude 18.35644
     Internal 1
@@ -1284,7 +1285,7 @@ graph [
   ]
   node [
     id 142
-    label "142"
+    label "Bucuresti"
     Country "Romania"
     Longitude 26.10626
     Internal 1
@@ -1293,7 +1294,7 @@ graph [
   ]
   node [
     id 143
-    label "143"
+    label "Chisinau"
     Country "Moldova"
     Longitude 28.8575
     Internal 1
@@ -1302,7 +1303,7 @@ graph [
   ]
   node [
     id 144
-    label "144"
+    label "Sofia"
     Country "Bulgaria"
     Longitude 23.32415
     Internal 1
@@ -1311,7 +1312,7 @@ graph [
   ]
   node [
     id 145
-    label "145"
+    label "Istanbul"
     Country "Turkey"
     Longitude 28.94966
     Internal 1
@@ -1320,7 +1321,7 @@ graph [
   ]
   node [
     id 146
-    label "146"
+    label "Istanbul"
     Country "Turkey"
     Longitude 28.94966
     Internal 1
@@ -1329,7 +1330,7 @@ graph [
   ]
   node [
     id 147
-    label "147"
+    label "Ankara"
     Country "Turkey"
     Longitude 32.85427
     Internal 1
@@ -1338,7 +1339,7 @@ graph [
   ]
   node [
     id 148
-    label "148"
+    label "Skopje"
     Country "Macedonia"
     Longitude 21.43333
     Internal 1

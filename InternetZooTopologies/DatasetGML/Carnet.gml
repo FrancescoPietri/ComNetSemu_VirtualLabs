@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "20/10/10"
   GeoLocation "Croatia"
   GeoExtent "Country"
@@ -30,7 +31,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Stara Gradnifska"
     Country "Croatia"
     Longitude 17.24667
     Internal 1
@@ -39,7 +40,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Kutina"
     Country "Croatia"
     Longitude 16.78194
     Internal 1
@@ -48,7 +49,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Slavonski"
     Country "Croatia"
     Longitude 18.01556
     Internal 1
@@ -57,7 +58,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Pozega"
     Country "Croatia"
     Longitude 17.68528
     Internal 1
@@ -66,7 +67,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Gorica"
     Country "Croatia"
     Longitude 16.07556
     Internal 1
@@ -75,7 +76,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Karlovac"
     Country "Croatia"
     Longitude 15.54778
     Internal 1
@@ -84,7 +85,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Sisak"
     Country "Croatia"
     Longitude 16.37833
     Internal 1
@@ -93,7 +94,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Petrinja"
     Country "Croatia"
     Longitude 16.29
     Internal 1
@@ -102,7 +103,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Jastrebarsko"
     Country "Croatia"
     Longitude 15.64861
     Internal 1
@@ -111,12 +112,12 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "GEANT"
     Internal 0
   ]
   node [
     id 10
-    label "10"
+    label "Hvar"
     Country "Croatia"
     Longitude 16.44278
     Internal 1
@@ -125,7 +126,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "Dubrovnik"
     Country "Croatia"
     Longitude 18.09216
     Internal 1
@@ -134,7 +135,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Rovinj"
     Country "Croatia"
     Longitude 13.64
     Internal 1
@@ -143,7 +144,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "Visnjan"
     Country "Croatia"
     Longitude 13.72083
     Internal 1
@@ -152,7 +153,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "Opatija"
     Country "Croatia"
     Longitude 14.30833
     Internal 1
@@ -161,7 +162,7 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "Porec"
     Country "Croatia"
     Longitude 13.59389
     Internal 1
@@ -170,7 +171,7 @@ graph [
   ]
   node [
     id 16
-    label "16"
+    label "Buje"
     Country "Croatia"
     Longitude 13.66194
     Internal 1
@@ -179,7 +180,7 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "Zadar"
     Country "Croatia"
     Longitude 15.24222
     Internal 1
@@ -188,7 +189,7 @@ graph [
   ]
   node [
     id 18
-    label "18"
+    label "Zenumik D"
     Country "Croatia"
     Longitude 15.38056
     Internal 1
@@ -197,7 +198,7 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "Knin"
     Country "Croatia"
     Longitude 16.2
     Internal 1
@@ -206,7 +207,7 @@ graph [
   ]
   node [
     id 20
-    label "20"
+    label "Trogic"
     Country "Croatia"
     Longitude 16.25167
     Internal 1
@@ -215,7 +216,7 @@ graph [
   ]
   node [
     id 21
-    label "21"
+    label "Pucisca"
     Country "Croatia"
     Longitude 16.73389
     Internal 1
@@ -224,7 +225,7 @@ graph [
   ]
   node [
     id 22
-    label "22"
+    label "Solin"
     Country "Croatia"
     Longitude 16.5
     Internal 1
@@ -233,7 +234,7 @@ graph [
   ]
   node [
     id 23
-    label "23"
+    label "Sibenik"
     Country "Croatia"
     Longitude 15.90583
     Internal 1
@@ -242,7 +243,7 @@ graph [
   ]
   node [
     id 24
-    label "24"
+    label "Pula"
     Country "Croatia"
     Longitude 13.84806
     Internal 1
@@ -251,7 +252,7 @@ graph [
   ]
   node [
     id 25
-    label "25"
+    label "M. Losinj"
     Country "Croatia"
     Longitude 14.46861
     Internal 1
@@ -260,7 +261,7 @@ graph [
   ]
   node [
     id 26
-    label "26"
+    label "Rijeka"
     Country "Croatia"
     Longitude 14.40917
     Internal 1
@@ -269,7 +270,7 @@ graph [
   ]
   node [
     id 27
-    label "27"
+    label "Split"
     Country "Croatia"
     Longitude 16.43915
     Internal 1
@@ -278,7 +279,7 @@ graph [
   ]
   node [
     id 28
-    label "28"
+    label "Cakovec"
     Country "Croatia"
     Longitude 16.43389
     Internal 1
@@ -287,12 +288,12 @@ graph [
   ]
   node [
     id 29
-    label "29"
+    label "GEANT"
     Internal 0
   ]
   node [
     id 30
-    label "30"
+    label "Gospic"
     Country "Croatia"
     Longitude 15.37472
     Internal 1
@@ -301,7 +302,7 @@ graph [
   ]
   node [
     id 31
-    label "31"
+    label "Otocac"
     Country "Croatia"
     Longitude 15.2375
     Internal 1
@@ -310,7 +311,7 @@ graph [
   ]
   node [
     id 32
-    label "32"
+    label "Vinkovci"
     Country "Croatia"
     Longitude 18.80472
     Internal 1
@@ -319,12 +320,12 @@ graph [
   ]
   node [
     id 33
-    label "33"
+    label "BIHarnet"
     Internal 0
   ]
   node [
     id 34
-    label "34"
+    label "Vukovar"
     Country "Croatia"
     Longitude 18.99972
     Internal 1
@@ -333,7 +334,7 @@ graph [
   ]
   node [
     id 35
-    label "35"
+    label "Dakovo"
     Country "Croatia"
     Longitude 18.41056
     Internal 1
@@ -342,7 +343,7 @@ graph [
   ]
   node [
     id 36
-    label "36"
+    label "Zagreb"
     Country "Croatia"
     Longitude 15.97798
     Internal 1
@@ -351,7 +352,7 @@ graph [
   ]
   node [
     id 37
-    label "37"
+    label "Zabresic"
     Country "Croatia"
     Longitude 15.80778
     Internal 1
@@ -360,7 +361,7 @@ graph [
   ]
   node [
     id 38
-    label "38"
+    label "Samobor"
     Country "Croatia"
     Longitude 15.71806
     Internal 1
@@ -369,7 +370,7 @@ graph [
   ]
   node [
     id 39
-    label "39"
+    label "Varazdin"
     Country "Croatia"
     Longitude 16.33778
     Internal 1
@@ -378,7 +379,7 @@ graph [
   ]
   node [
     id 40
-    label "40"
+    label "Krizevci"
     Country "Croatia"
     Longitude 16.5425
     Internal 1
@@ -387,7 +388,7 @@ graph [
   ]
   node [
     id 41
-    label "41"
+    label "Bjelovar"
     Country "Croatia"
     Longitude 16.84889
     Internal 1
@@ -396,7 +397,7 @@ graph [
   ]
   node [
     id 42
-    label "42"
+    label "Virovitica"
     Country "Croatia"
     Longitude 17.38389
     Internal 1
@@ -405,7 +406,7 @@ graph [
   ]
   node [
     id 43
-    label "43"
+    label "Osijek"
     Country "Croatia"
     Longitude 18.69389
     Internal 1

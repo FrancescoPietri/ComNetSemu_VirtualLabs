@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "22/10/10"
   GeoLocation "Tokyo, Japan"
   GeoExtent "Metro"
@@ -29,22 +30,22 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Pacific NW Gigapop (Seattle, WA)"
     Internal 0
   ]
   node [
     id 1
-    label "1"
+    label "Future IEEAF Asian Extension"
     Internal 0
   ]
   node [
     id 2
-    label "2"
+    label "Cat 6500 AS23814"
     Internal 1
   ]
   node [
     id 3
-    label "3"
+    label "ONS-15454"
     Country "France"
     Longitude 1.92302
     Internal 1
@@ -52,42 +53,42 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "DR Data Reservoir"
     Internal 0
   ]
   node [
     id 5
-    label "5"
+    label "U-Tokyo akihabara"
     Internal 0
   ]
   node [
     id 6
-    label "6"
+    label "JGN2"
     Internal 0
   ]
   node [
     id 7
-    label "7"
+    label "APAN-JP AS7660"
     Internal 0
   ]
   node [
     id 8
-    label "8"
+    label "WIDE AS2500"
     Internal 0
   ]
   node [
     id 9
-    label "9"
+    label "ASCC/TW AS9264"
     Internal 0
   ]
   node [
     id 10
-    label "10"
+    label "BigIron 15000 AS23814"
     Internal 1
   ]
   node [
     id 11
-    label "11"
+    label "NetIron N140G AS23814"
     Internal 1
   ]
   edge [
@@ -95,6 +96,12 @@ graph [
     target 3
     LinkType "OC-12"
     LinkLabel "OC-12"
+  ]
+  edge [
+    source 0
+    target 3
+    LinkType "OC-192"
+    LinkLabel "OC-192"
   ]
   edge [
     source 1
@@ -118,6 +125,12 @@ graph [
     LinkLabel "WANPHY"
   ]
   edge [
+    source 2
+    target 3
+    LinkType "OC-48"
+    LinkLabel "OC-48"
+  ]
+  edge [
     source 3
     target 11
     LinkLabel "WANPHY"
@@ -126,6 +139,11 @@ graph [
     source 3
     target 10
     LinkLabel "8*GbE"
+  ]
+  edge [
+    source 3
+    target 10
+    id "e6"
   ]
   edge [
     source 4

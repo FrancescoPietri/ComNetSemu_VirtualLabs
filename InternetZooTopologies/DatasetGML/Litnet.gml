@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "22/10/10"
   GeoLocation "Lithuania"
   GeoExtent "Country"
@@ -29,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Zarasai"
     Country "Lithuania"
     Longitude 26.25
     Internal 1
@@ -38,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Panevezys"
     Country "Lithuania"
     Longitude 24.35
     Internal 1
@@ -47,7 +48,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Rokiskis"
     Country "Lithuania"
     Longitude 25.58333
     Internal 1
@@ -56,7 +57,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Kupiskis"
     Country "Lithuania"
     Longitude 24.96667
     Internal 1
@@ -65,7 +66,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Kelme"
     Country "Lithuania"
     Longitude 22.93417
     Internal 1
@@ -74,13 +75,13 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Siale"
     Internal 1
     type "PoP"
   ]
   node [
     id 6
-    label "6"
+    label "Radviliskis"
     Country "Lithuania"
     Longitude 23.53333
     Internal 1
@@ -89,7 +90,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Plunge"
     Country "Lithuania"
     Longitude 21.84417
     Internal 1
@@ -98,7 +99,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Taurage"
     Country "Lithuania"
     Longitude 22.28972
     Internal 1
@@ -107,7 +108,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Zemaiciu Naumiestis"
     Country "Lithuania"
     Longitude 21.70222
     Internal 1
@@ -116,7 +117,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Prienai"
     Country "Lithuania"
     Longitude 23.95
     Internal 1
@@ -125,7 +126,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "Trakar"
     Country "Lithuania"
     Longitude 24.93333
     Internal 1
@@ -134,7 +135,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Ignalina"
     Country "Lithuania"
     Longitude 26.16667
     Internal 1
@@ -143,7 +144,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "Ukmerge"
     Country "Lithuania"
     Longitude 24.75
     Internal 1
@@ -152,7 +153,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "Sirvintos"
     Country "Lithuania"
     Longitude 24.95
     Internal 1
@@ -161,7 +162,7 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "Jurbarkas"
     Country "Lithuania"
     Longitude 22.76639
     Internal 1
@@ -170,7 +171,7 @@ graph [
   ]
   node [
     id 16
-    label "16"
+    label "Sakiai"
     Country "Lithuania"
     Longitude 23.03583
     Internal 1
@@ -179,7 +180,7 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "Vilkaviskis"
     Country "Lithuania"
     Longitude 23.03222
     Internal 1
@@ -188,7 +189,7 @@ graph [
   ]
   node [
     id 18
-    label "18"
+    label "Marijampole"
     Country "Lithuania"
     Longitude 23.35
     Internal 1
@@ -197,7 +198,7 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "Alytus"
     Country "Lithuania"
     Longitude 24.05
     Internal 1
@@ -206,7 +207,7 @@ graph [
   ]
   node [
     id 20
-    label "20"
+    label "Druskininkai"
     Country "Lithuania"
     Longitude 23.96667
     Internal 1
@@ -215,7 +216,7 @@ graph [
   ]
   node [
     id 21
-    label "21"
+    label "Salcininkai"
     Country "Lithuania"
     Longitude 25.38333
     Internal 1
@@ -224,12 +225,12 @@ graph [
   ]
   node [
     id 22
-    label "22"
+    label "GEANT"
     Internal 0
   ]
   node [
     id 23
-    label "23"
+    label "Moletai"
     Country "Lithuania"
     Longitude 25.41667
     Internal 1
@@ -238,7 +239,7 @@ graph [
   ]
   node [
     id 24
-    label "24"
+    label "Visaginas"
     Country "Lithuania"
     Longitude 26.41667
     Internal 1
@@ -247,7 +248,7 @@ graph [
   ]
   node [
     id 25
-    label "25"
+    label "Pasvalys"
     Country "Lithuania"
     Longitude 24.40361
     Internal 1
@@ -256,7 +257,7 @@ graph [
   ]
   node [
     id 26
-    label "26"
+    label "Kaunas"
     Country "Lithuania"
     Longitude 23.9
     Internal 1
@@ -265,7 +266,7 @@ graph [
   ]
   node [
     id 27
-    label "27"
+    label "Kedainiai"
     Country "Lithuania"
     Longitude 23.97472
     Internal 1
@@ -274,7 +275,7 @@ graph [
   ]
   node [
     id 28
-    label "28"
+    label "Raseiniai"
     Country "Lithuania"
     Longitude 23.12167
     Internal 1
@@ -283,7 +284,7 @@ graph [
   ]
   node [
     id 29
-    label "29"
+    label "Utena"
     Country "Lithuania"
     Longitude 25.6
     Internal 1
@@ -292,7 +293,7 @@ graph [
   ]
   node [
     id 30
-    label "30"
+    label "Anyksciai"
     Country "Lithuania"
     Longitude 25.10264
     Internal 1
@@ -301,7 +302,7 @@ graph [
   ]
   node [
     id 31
-    label "31"
+    label "Jonava"
     Country "Lithuania"
     Longitude 24.28333
     Internal 1
@@ -310,7 +311,7 @@ graph [
   ]
   node [
     id 32
-    label "32"
+    label "Vilnius"
     Country "Lithuania"
     Longitude 25.2798
     Internal 1
@@ -319,7 +320,7 @@ graph [
   ]
   node [
     id 33
-    label "33"
+    label "Klaipeda"
     Country "Lithuania"
     Longitude 21.1175
     Internal 1
@@ -328,7 +329,7 @@ graph [
   ]
   node [
     id 34
-    label "34"
+    label "Telsiai"
     Country "Lithuania"
     Longitude 22.24722
     Internal 1
@@ -337,7 +338,7 @@ graph [
   ]
   node [
     id 35
-    label "35"
+    label "Mazeikiai"
     Country "Lithuania"
     Longitude 22.33333
     Internal 1
@@ -346,13 +347,13 @@ graph [
   ]
   node [
     id 36
-    label "36"
+    label "N.Akmene"
     Internal 1
     type "PoP"
   ]
   node [
     id 37
-    label "37"
+    label "Joniskis"
     Country "Lithuania"
     Longitude 23.61528
     Internal 1
@@ -361,7 +362,7 @@ graph [
   ]
   node [
     id 38
-    label "38"
+    label "Birzai"
     Country "Lithuania"
     Longitude 24.75
     Internal 1
@@ -370,7 +371,7 @@ graph [
   ]
   node [
     id 39
-    label "39"
+    label "Siauliai"
     Country "Lithuania"
     Longitude 23.31667
     Internal 1
@@ -379,13 +380,13 @@ graph [
   ]
   node [
     id 40
-    label "40"
+    label "Skoudas"
     Internal 1
     type "PoP"
   ]
   node [
     id 41
-    label "41"
+    label "Palanga"
     Country "Lithuania"
     Longitude 21.06861
     Internal 1
@@ -394,7 +395,7 @@ graph [
   ]
   node [
     id 42
-    label "42"
+    label "Kretinga"
     Country "Lithuania"
     Longitude 21.25083
     Internal 1

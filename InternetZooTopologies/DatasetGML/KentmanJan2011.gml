@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "31/01/11"
   GeoLocation "Kent, UK"
   GeoExtent "Region"
@@ -30,7 +31,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Hilderstone College"
     Country "United Kingdom"
     Longitude 1.43006
     Internal 1
@@ -39,7 +40,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "K College- Ashford"
     Country "United Kingdom"
     Longitude 0.86101
     Internal 1
@@ -48,7 +49,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Canterbury College"
     Country "United Kingdom"
     Longitude 1.08782
     Internal 1
@@ -57,7 +58,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Thanet College"
     Country "United Kingdom"
     Longitude 1.43483
     Internal 1
@@ -66,7 +67,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "West Kent College"
     Country "United Kingdom"
     Longitude 0.2647
     Internal 1
@@ -75,7 +76,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "UoK-C"
     Country "United Kingdom"
     Longitude 1.06121
     Internal 1
@@ -84,7 +85,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "UCA - Rochester"
     Country "United Kingdom"
     Longitude 0.51438
     Internal 1
@@ -93,7 +94,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Hadlow College"
     Country "United Kingdom"
     Longitude 0.33333
     Internal 1
@@ -102,7 +103,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "University College Folkestone"
     Country "United Kingdom"
     Longitude 1.18218
     Internal 1
@@ -111,7 +112,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "IFS School of Finance"
     Country "United Kingdom"
     Longitude 1.08382
     Internal 1
@@ -120,7 +121,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "WEA"
     Country "United Kingdom"
     Longitude 0.51919
     Internal 1
@@ -129,7 +130,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "Medway Council"
     Country "United Kingdom"
     Longitude 0.52492
     Internal 1
@@ -138,33 +139,33 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "KPSN"
     Internal 0
   ]
   node [
     id 13
-    label "13"
+    label "janet"
     Internal 0
   ]
   node [
     id 14
-    label "14"
+    label "janet"
     Internal 0
   ]
   node [
     id 15
-    label "15"
+    label "orbitalnet"
     Internal 0
   ]
   node [
     id 16
-    label "16"
+    label "UCA-Epsom"
     Internal 1
     type "Connected Site"
   ]
   node [
     id 17
-    label "17"
+    label "Pilgrims-Margate"
     Country "United Kingdom"
     Longitude 1.38617
     Internal 1
@@ -173,7 +174,7 @@ graph [
   ]
   node [
     id 18
-    label "18"
+    label "Chatham"
     Country "United Kingdom"
     Longitude 0.52786
     Internal 1
@@ -182,13 +183,13 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "UCA - Chatham"
     Internal 1
     type "Connected Site"
   ]
   node [
     id 20
-    label "20"
+    label "Pilgrim - Ashford"
     Country "United Kingdom"
     Longitude 0.90191
     Internal 1
@@ -197,7 +198,7 @@ graph [
   ]
   node [
     id 21
-    label "21"
+    label "Pilgrim-Canterbury"
     Country "United Kingdom"
     Longitude 1.07077
     Internal 1
@@ -206,7 +207,7 @@ graph [
   ]
   node [
     id 22
-    label "22"
+    label "University of Kent"
     Country "United Kingdom"
     Longitude 1.06121
     Internal 1
@@ -215,7 +216,7 @@ graph [
   ]
   node [
     id 23
-    label "23"
+    label "Hadlow College Mottingham"
     Country "United Kingdom"
     Longitude 0.02978
     Internal 1
@@ -224,7 +225,7 @@ graph [
   ]
   node [
     id 24
-    label "24"
+    label "UCA - Maidstone"
     Country "United Kingdom"
     Longitude 0.49799
     Internal 1
@@ -233,7 +234,7 @@ graph [
   ]
   node [
     id 25
-    label "25"
+    label "UoK - Tonbridge"
     Country "United Kingdom"
     Longitude 0.2702
     Internal 1
@@ -242,7 +243,7 @@ graph [
   ]
   node [
     id 26
-    label "26"
+    label "UCA - Canterbury"
     Country "United Kingdom"
     Longitude 1.09078
     Internal 1
@@ -251,13 +252,13 @@ graph [
   ]
   node [
     id 27
-    label "27"
+    label "SOAS - Wye"
     Internal 1
     type "Connected Site"
   ]
   node [
     id 28
-    label "28"
+    label "Mid Kent College"
     Country "United Kingdom"
     Longitude 0.54608
     Internal 1
@@ -266,7 +267,7 @@ graph [
   ]
   node [
     id 29
-    label "29"
+    label "UCCA-C"
     Country "United Kingdom"
     Longitude 1.09078
     Internal 1
@@ -275,7 +276,7 @@ graph [
   ]
   node [
     id 30
-    label "30"
+    label "UoG-AH"
     Country "United Kingdom"
     Longitude 0.07703
     Internal 1
@@ -284,13 +285,13 @@ graph [
   ]
   node [
     id 31
-    label "31"
+    label "Universities at Medway"
     Internal 1
     type "Connected Site"
   ]
   node [
     id 32
-    label "32"
+    label "Hadlow College Canterbury"
     Country "United Kingdom"
     Longitude 1.09578
     Internal 1
@@ -299,7 +300,7 @@ graph [
   ]
   node [
     id 33
-    label "33"
+    label "EIS-Maidstone"
     Country "United Kingdom"
     Longitude 0.54953
     Internal 1
@@ -308,7 +309,7 @@ graph [
   ]
   node [
     id 34
-    label "34"
+    label "CCCU-S"
     Country "United Kingdom"
     Longitude 0.24307
     Internal 1
@@ -317,7 +318,7 @@ graph [
   ]
   node [
     id 35
-    label "35"
+    label "CCCU-T"
     Country "United Kingdom"
     Longitude 1.40616
     Internal 1
@@ -326,7 +327,7 @@ graph [
   ]
   node [
     id 36
-    label "36"
+    label "Dorton College"
     Country "United Kingdom"
     Longitude 0.21928
     Internal 1
@@ -335,7 +336,7 @@ graph [
   ]
   node [
     id 37
-    label "37"
+    label "NW Kent College - Dartford"
     Country "United Kingdom"
     Longitude 0.21667
     Internal 1
@@ -613,6 +614,14 @@ graph [
     LinkLabel "100 Mbps"
     LinkSpeedUnits "M"
     LinkSpeedRaw 100000000.0
+  ]
+  edge [
+    source 25
+    target 34
+    LinkSpeed "10"
+    LinkLabel "10 Mbps"
+    LinkSpeedUnits "M"
+    LinkSpeedRaw 10000000.0
   ]
   edge [
     source 25

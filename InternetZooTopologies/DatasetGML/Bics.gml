@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "16/01/11"
   GeoLocation "Europe"
   GeoExtent "Continent"
@@ -30,7 +31,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Bratislava"
     Country "Slovakia"
     Longitude 17.10674
     Internal 1
@@ -39,7 +40,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Vienna"
     Country "Austria"
     Longitude 16.37208
     Internal 1
@@ -48,7 +49,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Praha"
     Country "Czech Republic"
     Longitude 14.42076
     Internal 1
@@ -57,7 +58,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Rotterdam"
     Country "Netherlands"
     Longitude 4.47917
     Internal 1
@@ -66,7 +67,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Roma"
     Country "Italy"
     Longitude 12.4839
     Internal 1
@@ -75,7 +76,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Budapest"
     Country "Hungary"
     Longitude 19.03991
     Internal 1
@@ -84,7 +85,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Ljubjana"
     Country "Slovenia"
     Longitude 14.50513
     Internal 1
@@ -93,7 +94,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Zagreb"
     Country "Croatia"
     Longitude 15.97798
     Internal 1
@@ -102,7 +103,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Bucharest"
     Country "Romania"
     Longitude 26.10626
     Internal 1
@@ -111,7 +112,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Istanbul"
     Country "Turkey"
     Longitude 28.94966
     Internal 1
@@ -120,7 +121,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Vaduz"
     Country "Liechtenstein"
     Longitude 9.52154
     Internal 1
@@ -129,7 +130,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "Strasbourg"
     Country "France"
     Longitude 7.75
     Internal 1
@@ -138,7 +139,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Luxembourg"
     Country "Luxembourg"
     Longitude 6.13
     Internal 1
@@ -147,7 +148,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "Zurich"
     Country "Switzerland"
     Longitude 8.55
     Internal 1
@@ -156,7 +157,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "Brussels"
     Country "Belgium"
     Longitude 4.34878
     Internal 1
@@ -165,7 +166,7 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "Geneva"
     Country "Switzerland"
     Longitude 6.14569
     Internal 1
@@ -174,7 +175,7 @@ graph [
   ]
   node [
     id 16
-    label "16"
+    label "Milan"
     Country "Italy"
     Longitude 9.18951
     Internal 1
@@ -183,7 +184,7 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "Athens"
     Country "Greece"
     Longitude 23.71622
     Internal 1
@@ -192,7 +193,7 @@ graph [
   ]
   node [
     id 18
-    label "18"
+    label "Sofia"
     Country "Bulgaria"
     Longitude 23.32415
     Internal 1
@@ -201,7 +202,7 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "Frankfurt"
     Country "Germany"
     Longitude 8.68333
     Internal 1
@@ -210,7 +211,7 @@ graph [
   ]
   node [
     id 20
-    label "20"
+    label "Amsterdam"
     Country "Netherlands"
     Longitude 4.88969
     Internal 1
@@ -219,7 +220,7 @@ graph [
   ]
   node [
     id 21
-    label "21"
+    label "London"
     Country "United Kingdom"
     Longitude -0.12574
     Internal 1
@@ -228,7 +229,7 @@ graph [
   ]
   node [
     id 22
-    label "22"
+    label "Paris"
     Country "France"
     Longitude 2.3488
     Internal 1
@@ -237,7 +238,7 @@ graph [
   ]
   node [
     id 23
-    label "23"
+    label "Stockholm"
     Country "Sweden"
     Longitude 18.0649
     Internal 1
@@ -246,7 +247,7 @@ graph [
   ]
   node [
     id 24
-    label "24"
+    label "Warsaw"
     Country "Poland"
     Longitude 21.01178
     Internal 1
@@ -255,7 +256,7 @@ graph [
   ]
   node [
     id 25
-    label "25"
+    label "Kiev"
     Country "Ukraine"
     Longitude 30.5238
     Internal 1
@@ -264,7 +265,7 @@ graph [
   ]
   node [
     id 26
-    label "26"
+    label "Dublin"
     Country "Ireland"
     Longitude -6.26719
     Internal 1
@@ -273,7 +274,7 @@ graph [
   ]
   node [
     id 27
-    label "27"
+    label "Lisbon"
     Country "Portugal"
     Longitude -9.13333
     Internal 1
@@ -282,7 +283,7 @@ graph [
   ]
   node [
     id 28
-    label "28"
+    label "Madrid"
     Country "Spain"
     Longitude -3.70256
     Internal 1
@@ -291,7 +292,7 @@ graph [
   ]
   node [
     id 29
-    label "29"
+    label "Barcelona"
     Country "Spain"
     Longitude 2.15899
     Internal 1
@@ -300,7 +301,7 @@ graph [
   ]
   node [
     id 30
-    label "30"
+    label "Marseille"
     Country "France"
     Longitude 5.38107
     Internal 1
@@ -309,7 +310,7 @@ graph [
   ]
   node [
     id 31
-    label "31"
+    label "Lyon"
     Country "France"
     Longitude 4.85
     Internal 1
@@ -318,7 +319,7 @@ graph [
   ]
   node [
     id 32
-    label "32"
+    label "Basel"
     Country "Switzerland"
     Longitude 7.6
     Internal 1

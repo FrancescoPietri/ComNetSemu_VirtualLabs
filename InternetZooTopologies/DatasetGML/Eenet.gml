@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "20/10/10"
   GeoLocation "Estonia"
   GeoExtent "Country"
@@ -29,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Parnu"
     Country "Estonia"
     Longitude 24.49711
     Internal 1
@@ -38,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Haapsald"
     Country "Estonia"
     Longitude 23.54139
     Internal 1
@@ -47,7 +48,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Kuressaare"
     Country "Estonia"
     Longitude 22.50389
     Internal 1
@@ -56,7 +57,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Rakvere"
     Country "Estonia"
     Longitude 26.35583
     Internal 1
@@ -65,7 +66,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Narva"
     Country "Estonia"
     Longitude 28.19028
     Internal 1
@@ -74,7 +75,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Tallinn"
     Country "Estonia"
     Longitude 24.75353
     Internal 1
@@ -83,12 +84,12 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "GEANT2"
     Internal 0
   ]
   node [
     id 7
-    label "7"
+    label "Paide"
     Country "Estonia"
     Longitude 25.55722
     Internal 1
@@ -97,7 +98,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Turi"
     Country "Estonia"
     Longitude 25.4325
     Internal 1
@@ -106,7 +107,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Viljandi"
     Country "Estonia"
     Longitude 25.59
     Internal 1
@@ -115,7 +116,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Jogeva"
     Country "Estonia"
     Longitude 26.39389
     Internal 1
@@ -124,7 +125,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "Tartu"
     Country "Estonia"
     Longitude 26.72509
     Internal 1
@@ -133,7 +134,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Voru"
     Country "Estonia"
     Longitude 27.01944
     Internal 1
@@ -198,6 +199,14 @@ graph [
   ]
   edge [
     source 5
+    target 7
+    LinkSpeed "1"
+    LinkLabel "1Gb/s"
+    LinkSpeedUnits "G"
+    LinkSpeedRaw 1000000000.0
+  ]
+  edge [
+    source 5
     target 9
     LinkSpeed "10"
     LinkLabel "10Mb/s"
@@ -223,6 +232,22 @@ graph [
   edge [
     source 7
     target 10
+    LinkSpeed "1"
+    LinkLabel "1Gb/s"
+    LinkSpeedUnits "G"
+    LinkSpeedRaw 1000000000.0
+  ]
+  edge [
+    source 7
+    target 10
+    LinkSpeed "1"
+    LinkLabel "1Gb/s"
+    LinkSpeedUnits "G"
+    LinkSpeedRaw 1000000000.0
+  ]
+  edge [
+    source 10
+    target 11
     LinkSpeed "1"
     LinkLabel "1Gb/s"
     LinkSpeedUnits "G"

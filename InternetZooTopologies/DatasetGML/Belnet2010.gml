@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "12/03/11"
   GeoLocation "Belgium"
   GeoExtent "Country"
@@ -30,13 +31,13 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Liege1 "
     Internal 1
     type "One of two small nodes in same city"
   ]
   node [
     id 1
-    label "1"
+    label "Brussels Campus"
     Country "Belgium"
     Longitude 4.34878
     Internal 1
@@ -45,7 +46,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Arlon"
     Country "Belgium"
     Longitude 5.81667
     Internal 1
@@ -54,7 +55,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Liege2"
     Country "Belgium"
     Longitude 5.57178
     Internal 1
@@ -63,7 +64,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Vilvoorde"
     Country "Belgium"
     Longitude 4.40731
     Internal 1
@@ -72,7 +73,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Leuven1"
     Country "Belgium"
     Longitude 4.70093
     Internal 1
@@ -81,13 +82,13 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Bruzav"
     Internal 1
     type "Small Node"
   ]
   node [
     id 7
-    label "7"
+    label "Evere"
     Country "Belgium"
     Longitude 4.4
     Internal 1
@@ -96,7 +97,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Leuven2"
     Country "Belgium"
     Longitude 4.70093
     Internal 1
@@ -105,7 +106,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Hasselt"
     Country "Belgium"
     Longitude 5.33333
     Internal 1
@@ -114,13 +115,13 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Brudie"
     Internal 1
     type "Small Node"
   ]
   node [
     id 11
-    label "11"
+    label "Geel"
     Country "Belgium"
     Longitude 5.0
     Internal 1
@@ -129,7 +130,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Louvain-la-Neuve"
     Country "Belgium"
     Longitude 4.61443
     Internal 1
@@ -138,7 +139,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "Namur"
     Country "Belgium"
     Longitude 4.82577
     Internal 1
@@ -147,7 +148,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "Brugge"
     Country "Belgium"
     Longitude 3.22424
     Internal 1
@@ -156,7 +157,7 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "Gent1"
     Country "Belgium"
     Longitude 3.71667
     Internal 1
@@ -165,7 +166,7 @@ graph [
   ]
   node [
     id 16
-    label "16"
+    label "Gent2"
     Country "Belgium"
     Longitude 3.71667
     Internal 1
@@ -174,7 +175,7 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "Antwerpen1"
     Country "Belgium"
     Longitude 4.41667
     Internal 1
@@ -183,7 +184,7 @@ graph [
   ]
   node [
     id 18
-    label "18"
+    label "Antwerpen2"
     Country "Belgium"
     Longitude 4.41667
     Internal 1
@@ -192,7 +193,7 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "Korthijk"
     Country "Belgium"
     Longitude 3.26487
     Internal 1
@@ -201,7 +202,7 @@ graph [
   ]
   node [
     id 20
-    label "20"
+    label "Mons"
     Country "Belgium"
     Longitude 3.95229
     Internal 1
@@ -210,12 +211,17 @@ graph [
   ]
   node [
     id 21
-    label "21"
+    label "Charleroi"
     Country "Belgium"
     Longitude 4.43333
     Internal 1
     Latitude 50.41667
     type "Small Node"
+  ]
+  edge [
+    source 0
+    target 3
+    LinkLabel "Green"
   ]
   edge [
     source 0
@@ -265,6 +271,26 @@ graph [
   edge [
     source 4
     target 7
+    LinkLabel "Grey"
+  ]
+  edge [
+    source 4
+    target 7
+    LinkLabel "Green"
+  ]
+  edge [
+    source 4
+    target 7
+    LinkLabel "Red"
+  ]
+  edge [
+    source 4
+    target 7
+    LinkLabel "Blue"
+  ]
+  edge [
+    source 5
+    target 8
     LinkLabel "Grey"
   ]
   edge [
@@ -328,8 +354,18 @@ graph [
     LinkLabel "Blue"
   ]
   edge [
+    source 15
+    target 16
+    LinkLabel "Blue"
+  ]
+  edge [
     source 16
     target 17
+    LinkLabel "Blue"
+  ]
+  edge [
+    source 17
+    target 18
     LinkLabel "Blue"
   ]
   edge [

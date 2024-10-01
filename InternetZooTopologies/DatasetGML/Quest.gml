@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "24/10/10"
   GeoLocation "Asia-Pacific"
   GeoExtent "Continent"
@@ -30,7 +31,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Auckland 2"
     Country "New Zealand"
     Longitude 174.76667
     Internal 1
@@ -38,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Fiji"
     geocode_country "Fiji"
     Country "Fiji"
     Longitude 178.0
@@ -47,7 +48,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Sydney 1"
     Country "Australia"
     Longitude 151.20732
     Internal 1
@@ -55,7 +56,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Auckland 1"
     Country "New Zealand"
     Longitude 174.76667
     Internal 1
@@ -63,7 +64,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Sacramento"
     Country "United States"
     Longitude -121.4944
     Internal 1
@@ -71,7 +72,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Los Angeles"
     Country "United States"
     Longitude -118.24368
     Internal 1
@@ -79,7 +80,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Hawaii 1"
     Country "United States"
     Longitude -157.85833
     Internal 1
@@ -87,7 +88,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Hawaii 2"
     Country "United States"
     Longitude -157.85833
     Internal 1
@@ -95,7 +96,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Taiwan"
     geocode_country "Taiwan"
     Country "Taiwan"
     Longitude 121.0
@@ -104,7 +105,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Philippines 2"
     geocode_country "Philippines"
     Country "Philippines"
     Longitude 122.0
@@ -113,7 +114,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Melbourne"
     Country "Australia"
     Longitude 144.96332
     Internal 1
@@ -121,7 +122,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "Sydney 2"
     Country "Australia"
     Longitude 151.20732
     Internal 1
@@ -129,7 +130,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Korea"
     geocode_country "Korea"
     Country "South Korea"
     Longitude 127.5
@@ -138,7 +139,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "Japan"
     geocode_country "Japan"
     Country "Japan"
     Longitude 139.75309
@@ -147,7 +148,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "Guam"
     geocode_country "Guam"
     Country "Guam"
     Longitude 144.73667
@@ -156,7 +157,7 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "Philippines 1"
     geocode_country "Philippines"
     Country "Philippines"
     Longitude 122.0
@@ -165,7 +166,7 @@ graph [
   ]
   node [
     id 16
-    label "16"
+    label "Hong Kong"
     geocode_country "Hong Kong"
     Country "Hong Kong"
     Longitude 114.16667
@@ -174,7 +175,7 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "Singapore/Malaysia"
     geocode_country "Singapore"
     Country "Singapore"
     Longitude 103.8
@@ -183,7 +184,7 @@ graph [
   ]
   node [
     id 18
-    label "18"
+    label "Thailand"
     geocode_country "Thailand"
     Country "Thailand"
     Longitude 100.0
@@ -192,7 +193,7 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "Perth"
     Country "Australia"
     Longitude 115.83333
     Internal 1

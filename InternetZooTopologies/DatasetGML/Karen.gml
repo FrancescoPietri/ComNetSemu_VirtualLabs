@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "22/10/10"
   GeoLocation "New Zealand"
   GeoExtent "Country"
@@ -30,7 +31,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "WLG"
     Country "New Zealand"
     Longitude 174.77557
     Internal 1
@@ -38,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "DUD"
     Country "New Zealand"
     Longitude 170.50361
     Internal 1
@@ -46,7 +47,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "AVL"
     Country "New Zealand"
     Longitude 174.92019
     Internal 1
@@ -54,7 +55,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "PNR"
     Country "New Zealand"
     Longitude 175.61667
     Internal 1
@@ -62,7 +63,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "LCN"
     Country "New Zealand"
     Longitude 172.48333
     Internal 1
@@ -70,7 +71,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "CHC"
     Country "New Zealand"
     Longitude 172.63333
     Internal 1
@@ -78,7 +79,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "IVM"
     Country "New Zealand"
     Longitude 170.3801
     Internal 1
@@ -86,7 +87,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "INV"
     Country "New Zealand"
     Longitude 168.35
     Internal 1
@@ -94,7 +95,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "TPO"
     Country "New Zealand"
     Longitude 170.5
     Internal 1
@@ -102,7 +103,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "NLS"
     Country "New Zealand"
     Longitude 173.28333
     Internal 1
@@ -110,12 +111,12 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Syd"
     Internal 0
   ]
   node [
     id 11
-    label "11"
+    label "MTA"
     Country "New Zealand"
     Longitude 174.72019
     Internal 1
@@ -123,7 +124,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "NPL"
     Country "New Zealand"
     Longitude 174.08333
     Internal 1
@@ -131,7 +132,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "WAG"
     Country "New Zealand"
     Longitude 175.05
     Internal 1
@@ -139,7 +140,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "MUP"
     Country "New Zealand"
     Longitude 175.61667
     Internal 1
@@ -147,7 +148,7 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "NSH"
     Country "New Zealand"
     Longitude 174.75
     Internal 1
@@ -155,7 +156,7 @@ graph [
   ]
   node [
     id 16
-    label "16"
+    label "WRK"
     Country "New Zealand"
     Longitude 174.66667
     Internal 1
@@ -163,12 +164,12 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "LAX"
     Internal 0
   ]
   node [
     id 18
-    label "18"
+    label "TAU"
     Country "New Zealand"
     Longitude 176.16667
     Internal 1
@@ -176,7 +177,7 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "GIS"
     Country "New Zealand"
     Longitude 178.00417
     Internal 1
@@ -184,7 +185,7 @@ graph [
   ]
   node [
     id 20
-    label "20"
+    label "POR"
     Country "New Zealand"
     Longitude 174.85
     Internal 1
@@ -192,7 +193,7 @@ graph [
   ]
   node [
     id 21
-    label "21"
+    label "NAP"
     Country "New Zealand"
     Longitude 176.91667
     Internal 1
@@ -200,7 +201,7 @@ graph [
   ]
   node [
     id 22
-    label "22"
+    label "ROT"
     Country "New Zealand"
     Longitude 176.24516
     Internal 1
@@ -208,7 +209,7 @@ graph [
   ]
   node [
     id 23
-    label "23"
+    label "HLT"
     Country "New Zealand"
     Longitude 175.28333
     Internal 1
@@ -216,7 +217,7 @@ graph [
   ]
   node [
     id 24
-    label "24"
+    label "AKL"
     Country "New Zealand"
     Longitude 174.76667
     Internal 1
@@ -276,6 +277,15 @@ graph [
     LinkSpeed "10"
     LinkLabel "10Gb/s"
     LinkSpeedUnits "G"
+    LinkSpeedRaw 10000000000.0
+  ]
+  edge [
+    source 1
+    target 6
+    LinkSpeed "10"
+    LinkSpeedUnits "G"
+    LinkLabel "10Gb/s (planning)"
+    LinkStatus "Planning"
     LinkSpeedRaw 10000000000.0
   ]
   edge [
@@ -389,6 +399,14 @@ graph [
     LinkLabel "1Gb/s"
     LinkSpeedUnits "G"
     LinkSpeedRaw 1000000000.0
+  ]
+  edge [
+    source 15
+    target 24
+    LinkSpeed "10"
+    LinkLabel "10Gb/s"
+    LinkSpeedUnits "G"
+    LinkSpeedRaw 10000000000.0
   ]
   edge [
     source 15

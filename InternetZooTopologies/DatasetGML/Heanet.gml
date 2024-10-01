@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "20/07/11"
   GeoLocation "Ireland"
   GeoExtent "Country"
@@ -30,7 +31,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Galway"
     Country "Ireland"
     Longitude -9.04889
     y "104.0"
@@ -40,7 +41,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Limerick"
     Country "Ireland"
     Longitude -8.62306
     y "149.0"
@@ -50,7 +51,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Cork"
     Country "Ireland"
     Longitude -8.49583
     y "273.0"
@@ -60,7 +61,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "CityWest"
     Country "Ireland"
     Longitude -6.26719
     y "85.0"
@@ -70,7 +71,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "DCU (Dublin City University"
     Country "Ireland"
     Longitude -6.26719
     y "114.0"
@@ -80,7 +81,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "TDC (Trinity College Dublin)"
     Country "Ireland"
     Longitude -6.26719
     y "270.0"
@@ -90,7 +91,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Kilcarbery"
     Country "Ireland"
     Longitude -6.26719
     y "269.0"
@@ -140,8 +141,18 @@ graph [
   ]
   edge [
     source 3
+    target 5
+    id "e8"
+  ]
+  edge [
+    source 3
     target 6
     id "e10"
+  ]
+  edge [
+    source 3
+    target 6
+    id "e9"
   ]
   edge [
     source 4

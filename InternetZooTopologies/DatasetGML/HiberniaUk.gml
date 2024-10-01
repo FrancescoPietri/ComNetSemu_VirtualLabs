@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "23/03/11"
   GeoLocation "UK"
   GeoExtent "Country"
@@ -29,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "London"
     Country "United Kingdom"
     Longitude -0.12574
     Internal 1
@@ -38,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Southport"
     Country "United Kingdom"
     Longitude -3.00648
     Internal 1
@@ -47,17 +48,17 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "None"
     Internal 0
   ]
   node [
     id 3
-    label "3"
+    label "None"
     Internal 0
   ]
   node [
     id 4
-    label "4"
+    label "Manchester"
     Country "United Kingdom"
     Longitude -2.23743
     Internal 1
@@ -66,7 +67,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Peterborough"
     Country "United Kingdom"
     Longitude -0.24777
     Internal 1
@@ -75,7 +76,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Cambridge"
     Country "United Kingdom"
     Longitude 0.11667
     Internal 1
@@ -84,7 +85,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Sheffield"
     Country "United Kingdom"
     Longitude -1.4659
     Internal 1
@@ -93,7 +94,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Leicester"
     Country "United Kingdom"
     Longitude -1.13333
     Internal 1
@@ -102,7 +103,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Bracewell"
     Country "United Kingdom"
     Longitude -2.20958
     Internal 1
@@ -111,7 +112,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Leeds"
     Country "United Kingdom"
     Longitude -1.54785
     Internal 1
@@ -120,7 +121,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "Birmingham"
     Country "United Kingdom"
     Longitude -1.91667
     Internal 1
@@ -129,7 +130,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Liverpool"
     Country "United Kingdom"
     Longitude -2.97794
     Internal 1
@@ -138,7 +139,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "Reading"
     Country "United Kingdom"
     Longitude -0.97113
     Internal 1
@@ -147,7 +148,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "Bristol"
     Country "United Kingdom"
     Longitude -2.58333
     Internal 1

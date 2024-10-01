@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "14/02/11"
   GeoLocation "Czech Republic"
   GeoExtent "Country"
@@ -30,7 +31,7 @@ graph [
   Testbed 1
   node [
     id 0
-    label "0"
+    label "Hradec Kralove"
     Country "Czech Republic"
     Longitude 15.83277
     Internal 1
@@ -39,7 +40,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Ceska Trebova"
     Country "Czech Republic"
     Longitude 16.44413
     Internal 1
@@ -48,7 +49,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Jindrichuv Hradec"
     Country "Czech Republic"
     Longitude 15.00301
     Internal 1
@@ -57,7 +58,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Pardubice"
     Country "Czech Republic"
     Longitude 15.77659
     Internal 1
@@ -66,7 +67,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Vyskov"
     Country "Czech Republic"
     Longitude 16.99897
     Internal 1
@@ -75,7 +76,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Zlin"
     Country "Czech Republic"
     Longitude 17.66667
     Internal 1
@@ -84,7 +85,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Olomouc"
     Country "Czech Republic"
     Longitude 17.25175
     Internal 1
@@ -93,7 +94,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Brno"
     Country "Czech Republic"
     Longitude 16.60796
     Internal 1
@@ -102,7 +103,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Breclav,Lednice"
     Country "Czech Republic"
     Longitude 16.88203
     Internal 1
@@ -111,7 +112,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Ostrava"
     Country "Czech Republic"
     Longitude 18.28204
     Internal 1
@@ -120,7 +121,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Turnov"
     Country "Czech Republic"
     Longitude 15.15186
     Internal 1
@@ -129,7 +130,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "Letohrad"
     Country "Czech Republic"
     Longitude 16.49879
     Internal 1
@@ -138,17 +139,17 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "PIONIER"
     Internal 0
   ]
   node [
     id 13
-    label "13"
+    label "ACONET"
     Internal 0
   ]
   node [
     id 14
-    label "14"
+    label "Beroun"
     Country "Czech Republic"
     Longitude 14.072
     Internal 1
@@ -157,7 +158,7 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "Marlanske Lazne"
     Country "Czech Republic"
     Longitude 12.70118
     Internal 1
@@ -166,7 +167,7 @@ graph [
   ]
   node [
     id 16
-    label "16"
+    label "Most"
     Country "Czech Republic"
     Longitude 13.63617
     Internal 1
@@ -175,7 +176,7 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "Dvur Kralove"
     Country "Czech Republic"
     Longitude 15.81402
     Internal 1
@@ -184,7 +185,7 @@ graph [
   ]
   node [
     id 18
-    label "18"
+    label "Krnov"
     Country "Czech Republic"
     Longitude 17.70385
     Internal 1
@@ -193,7 +194,7 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "Kyjov"
     Country "Czech Republic"
     Longitude 17.12253
     Internal 1
@@ -202,7 +203,7 @@ graph [
   ]
   node [
     id 20
-    label "20"
+    label "Jihlava"
     Country "Czech Republic"
     Longitude 15.59124
     Internal 1
@@ -211,12 +212,12 @@ graph [
   ]
   node [
     id 21
-    label "21"
+    label "SANET"
     Internal 0
   ]
   node [
     id 22
-    label "22"
+    label "Ondrejov"
     Country "Czech Republic"
     Longitude 14.0889
     Internal 1
@@ -225,7 +226,7 @@ graph [
   ]
   node [
     id 23
-    label "23"
+    label "Humpolec"
     Country "Czech Republic"
     Longitude 15.35932
     Internal 1
@@ -234,7 +235,7 @@ graph [
   ]
   node [
     id 24
-    label "24"
+    label "Jablonec n N"
     Country "Czech Republic"
     Longitude 15.17108
     Internal 1
@@ -243,7 +244,7 @@ graph [
   ]
   node [
     id 25
-    label "25"
+    label "Litomysl"
     Country "Czech Republic"
     Longitude 16.31298
     Internal 1
@@ -252,7 +253,7 @@ graph [
   ]
   node [
     id 26
-    label "26"
+    label "Uherske Hradiste"
     Country "Czech Republic"
     Longitude 17.45969
     Internal 1
@@ -261,7 +262,7 @@ graph [
   ]
   node [
     id 27
-    label "27"
+    label "Prostejov"
     Country "Czech Republic"
     Longitude 17.11184
     Internal 1
@@ -270,7 +271,7 @@ graph [
   ]
   node [
     id 28
-    label "28"
+    label "Vodnany"
     Country "Czech Republic"
     Longitude 14.17513
     Internal 1
@@ -279,12 +280,12 @@ graph [
   ]
   node [
     id 29
-    label "29"
+    label "AMS-IX"
     Internal 0
   ]
   node [
     id 30
-    label "30"
+    label "Znojmo"
     Country "Czech Republic"
     Longitude 16.0488
     Internal 1
@@ -293,7 +294,7 @@ graph [
   ]
   node [
     id 31
-    label "31"
+    label "Nove Hrady"
     Country "Czech Republic"
     Longitude 14.77839
     Internal 1
@@ -302,7 +303,7 @@ graph [
   ]
   node [
     id 32
-    label "32"
+    label "Telc"
     Country "Czech Republic"
     Longitude 15.45275
     Internal 1
@@ -311,7 +312,7 @@ graph [
   ]
   node [
     id 33
-    label "33"
+    label "Kostelec n C.L"
     Country "Czech Republic"
     Longitude 14.85922
     Internal 1
@@ -320,7 +321,7 @@ graph [
   ]
   node [
     id 34
-    label "34"
+    label "Trebon"
     Country "Czech Republic"
     Longitude 14.77065
     Internal 1
@@ -329,12 +330,12 @@ graph [
   ]
   node [
     id 35
-    label "35"
+    label "GEANT"
     Internal 0
   ]
   node [
     id 36
-    label "36"
+    label "Opava"
     Country "Czech Republic"
     Longitude 17.90257
     Internal 1
@@ -343,7 +344,7 @@ graph [
   ]
   node [
     id 37
-    label "37"
+    label "Karvina"
     Country "Czech Republic"
     Longitude 18.49166
     Internal 1
@@ -352,7 +353,7 @@ graph [
   ]
   node [
     id 38
-    label "38"
+    label "Kutna Hora"
     Country "Czech Republic"
     Longitude 15.26816
     Internal 1
@@ -361,7 +362,7 @@ graph [
   ]
   node [
     id 39
-    label "39"
+    label "Rez"
     Country "Czech Republic"
     Longitude 14.35733
     Internal 1
@@ -370,7 +371,7 @@ graph [
   ]
   node [
     id 40
-    label "40"
+    label "Tabor"
     Country "Czech Republic"
     Longitude 14.6578
     Internal 1
@@ -379,7 +380,7 @@ graph [
   ]
   node [
     id 41
-    label "41"
+    label "Pisek"
     Country "Czech Republic"
     Longitude 14.1475
     Internal 1
@@ -388,17 +389,17 @@ graph [
   ]
   node [
     id 42
-    label "42"
+    label "NIX"
     Internal 0
   ]
   node [
     id 43
-    label "43"
+    label "Internet"
     Internal 0
   ]
   node [
     id 44
-    label "44"
+    label "Cheb"
     Country "Czech Republic"
     Longitude 12.37392
     Internal 1
@@ -407,7 +408,7 @@ graph [
   ]
   node [
     id 45
-    label "45"
+    label "Plzen"
     Country "Czech Republic"
     Longitude 13.37759
     Internal 1
@@ -416,7 +417,7 @@ graph [
   ]
   node [
     id 46
-    label "46"
+    label "Decin"
     Country "Czech Republic"
     Longitude 14.21478
     Internal 1
@@ -425,7 +426,7 @@ graph [
   ]
   node [
     id 47
-    label "47"
+    label "Usti nad Labem"
     Country "Czech Republic"
     Longitude 14.03227
     Internal 1
@@ -434,7 +435,7 @@ graph [
   ]
   node [
     id 48
-    label "48"
+    label "Praha"
     Country "Czech Republic"
     Longitude 14.42076
     Internal 1
@@ -443,7 +444,7 @@ graph [
   ]
   node [
     id 49
-    label "49"
+    label "Liberec"
     Country "Czech Republic"
     Longitude 15.05619
     Internal 1
@@ -452,7 +453,7 @@ graph [
   ]
   node [
     id 50
-    label "50"
+    label "Podebrady"
     Country "Czech Republic"
     Longitude 15.11881
     Internal 1
@@ -461,7 +462,7 @@ graph [
   ]
   node [
     id 51
-    label "51"
+    label "Ceske Budejovice"
     Country "Czech Republic"
     Longitude 14.47434
     Internal 1

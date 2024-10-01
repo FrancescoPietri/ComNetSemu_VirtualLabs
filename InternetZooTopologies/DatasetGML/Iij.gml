@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "21/10/10"
   GeoLocation "Japan, USA"
   GeoExtent "Country+"
@@ -29,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Tokyo DC1"
     Country "Japan"
     Longitude 139.5813
     Internal 1
@@ -37,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Tokyo DC2"
     Country "Japan"
     Longitude 139.5813
     Internal 1
@@ -45,7 +46,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Sendai DC"
     Country "Japan"
     Longitude 130.3
     Internal 1
@@ -53,7 +54,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Saitama DC"
     Country "Japan"
     Longitude 139.65657
     Internal 1
@@ -61,7 +62,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Nerima DC"
     Country "Japan"
     Longitude 139.65
     Internal 1
@@ -69,7 +70,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Yokohama DC1"
     Country "Japan"
     Longitude 139.6425
     Internal 1
@@ -77,7 +78,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Shibuya DC"
     Country "Japan"
     Longitude 139.7049
     Internal 1
@@ -85,7 +86,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Ikebukuro DC"
     Country "Japan"
     Longitude 139.7115
     Internal 1
@@ -93,7 +94,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Yokohama DC2"
     Country "Japan"
     Longitude 139.6425
     Internal 1
@@ -101,7 +102,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Nagoya DC"
     Country "Japan"
     Longitude 136.90641
     Internal 1
@@ -109,52 +110,52 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "JPNAP Tokyo 1"
     Internal 0
   ]
   node [
     id 11
-    label "11"
+    label "China"
     Internal 0
   ]
   node [
     id 12
-    label "12"
+    label "JPNAP Osaka"
     Internal 0
   ]
   node [
     id 13
-    label "13"
+    label "JPNAP Tokyo 2"
     Internal 0
   ]
   node [
     id 14
-    label "14"
+    label "NYIIX"
     Internal 0
   ]
   node [
     id 15
-    label "15"
+    label "PAIX"
     Internal 0
   ]
   node [
     id 16
-    label "16"
+    label "LAIIX"
     Internal 0
   ]
   node [
     id 17
-    label "17"
+    label "dix-ie"
     Internal 0
   ]
   node [
     id 18
-    label "18"
+    label "Equinix exchange"
     Internal 0
   ]
   node [
     id 19
-    label "19"
+    label "Newyork DC"
     Country "United States"
     Longitude -74.00597
     Internal 1
@@ -162,7 +163,7 @@ graph [
   ]
   node [
     id 20
-    label "20"
+    label "Fukuoka DC"
     Country "Japan"
     Longitude 130.41806
     Internal 1
@@ -170,7 +171,7 @@ graph [
   ]
   node [
     id 21
-    label "21"
+    label "Shinsaibashi DC"
     Country "Japan"
     Longitude 135.50031
     Internal 1
@@ -178,7 +179,7 @@ graph [
   ]
   node [
     id 22
-    label "22"
+    label "Kyoto DC"
     Country "Japan"
     Longitude 135.75385
     Internal 1
@@ -186,7 +187,7 @@ graph [
   ]
   node [
     id 23
-    label "23"
+    label "Ashburn DC"
     Country "United States"
     Longitude -77.48749
     Internal 1
@@ -194,7 +195,7 @@ graph [
   ]
   node [
     id 24
-    label "24"
+    label "LA DC"
     Country "United States"
     Longitude -91.15455
     Internal 1
@@ -202,7 +203,7 @@ graph [
   ]
   node [
     id 25
-    label "25"
+    label "San Jose DC"
     Country "United States"
     Longitude -121.89496
     Internal 1
@@ -210,7 +211,7 @@ graph [
   ]
   node [
     id 26
-    label "26"
+    label "PaloAlto DC"
     Country "United States"
     Longitude -122.14302
     Internal 1
@@ -218,7 +219,7 @@ graph [
   ]
   node [
     id 27
-    label "27"
+    label "Okinawa"
     Country "Japan"
     Longitude 127.80139
     Internal 1
@@ -226,7 +227,7 @@ graph [
   ]
   node [
     id 28
-    label "28"
+    label "Sappora DC"
     Country "Japan"
     Longitude 141.34694
     Internal 1
@@ -234,7 +235,7 @@ graph [
   ]
   node [
     id 29
-    label "29"
+    label "Chiba"
     Country "Japan"
     Longitude 140.12333
     Internal 1
@@ -242,7 +243,7 @@ graph [
   ]
   node [
     id 30
-    label "30"
+    label "Tokyo"
     Country "Japan"
     Longitude 139.5813
     Internal 1
@@ -250,7 +251,7 @@ graph [
   ]
   node [
     id 31
-    label "31"
+    label "Toyama"
     Country "Japan"
     Longitude 137.21139
     Internal 1
@@ -258,7 +259,7 @@ graph [
   ]
   node [
     id 32
-    label "32"
+    label "Kanazawa"
     Country "Japan"
     Longitude 136.62556
     Internal 1
@@ -266,7 +267,7 @@ graph [
   ]
   node [
     id 33
-    label "33"
+    label "Hamamatsu"
     Country "Japan"
     Longitude 137.73333
     Internal 1
@@ -274,7 +275,7 @@ graph [
   ]
   node [
     id 34
-    label "34"
+    label "Osaka"
     Country "Japan"
     Longitude 135.50218
     Internal 1
@@ -282,7 +283,7 @@ graph [
   ]
   node [
     id 35
-    label "35"
+    label "Okayama"
     Country "Japan"
     Longitude 133.935
     Internal 1
@@ -290,7 +291,7 @@ graph [
   ]
   node [
     id 36
-    label "36"
+    label "Hiroshima"
     Country "Japan"
     Longitude 132.45937
     Internal 1
@@ -427,6 +428,15 @@ graph [
     target 30
     LinkType "STM-4"
     LinkLabel "STM-4"
+  ]
+  edge [
+    source 6
+    target 30
+    LinkSpeed "10"
+    LinkNote "Ex24"
+    LinkLabel "10GEx24"
+    LinkSpeedUnits "G"
+    LinkSpeedRaw 10000000000.0
   ]
   edge [
     source 7

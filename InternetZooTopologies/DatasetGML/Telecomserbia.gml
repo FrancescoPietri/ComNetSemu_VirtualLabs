@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "2/01/11"
   GeoLocation "Serbia, Montenegro"
   GeoExtent "Country+"
@@ -29,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Novi Sad"
     Country "Serbia"
     Longitude 19.83694
     Internal 1
@@ -38,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Belgrade"
     Country "Serbia"
     Longitude 20.46513
     Internal 1
@@ -47,7 +48,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Kragujevac"
     Country "Serbia"
     Longitude 20.91667
     Internal 1
@@ -56,7 +57,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Nis"
     Country "Serbia"
     Longitude 21.90333
     Internal 1
@@ -65,7 +66,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Krusevac"
     Country "Serbia"
     Longitude 21.33389
     Internal 1
@@ -74,7 +75,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Podgorica"
     Country "Montenegro"
     Longitude 19.26361
     Internal 1

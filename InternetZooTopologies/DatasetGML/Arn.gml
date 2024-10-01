@@ -1,11 +1,12 @@
 graph [
+  multigraph 1
   DateObtained "19/10/10"
   GeoLocation "Algeria"
   GeoExtent "Country"
   Network "ARN"
   Provenance "Primary"
   Access 0
-  Source "http://www.arn.dz/index.php?option=com_content&#38;task=view&#38;id=18&#38;Itemid=33"
+  Source "http://www.arn.dz/index.php?option=com_content&amp;task=view&amp;id=18&amp;Itemid=33"
   Version "1.0"
   Type "REN"
   DateType "Current"
@@ -29,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Djelfa"
     Country "Algeria"
     Longitude 3.263
     Internal 1
@@ -37,7 +38,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Medea"
     Country "Algeria"
     Longitude 2.75393
     Internal 1
@@ -45,12 +46,12 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Internet"
     Internal 0
   ]
   node [
     id 3
-    label "3"
+    label "Blida"
     Country "Algeria"
     Longitude 2.8277
     Internal 1
@@ -58,7 +59,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "ElOued"
     Country "Algeria"
     Longitude 6.86319
     Internal 1
@@ -66,7 +67,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Msila"
     Country "Algeria"
     Longitude 5.67186
     Internal 1
@@ -74,7 +75,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Laghouat"
     Country "Algeria"
     Longitude 2.86514
     Internal 1
@@ -82,7 +83,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Ouargla"
     Country "Algeria"
     Longitude 5.32502
     Internal 1
@@ -90,7 +91,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Constantine"
     Country "Algeria"
     Longitude 6.61472
     Internal 1
@@ -98,7 +99,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Biskra"
     Country "Algeria"
     Longitude 5.72805
     Internal 1
@@ -106,7 +107,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Batna"
     Country "Algeria"
     Longitude 6.17414
     Internal 1
@@ -114,7 +115,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "Tizi Ouzou"
     Country "Algeria"
     Longitude 4.04591
     Internal 1
@@ -122,7 +123,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Annaba"
     Country "Algeria"
     Longitude 7.76667
     Internal 1
@@ -130,7 +131,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "Guelma"
     Country "Algeria"
     Longitude 7.42608
     Internal 1
@@ -138,7 +139,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "Tebessa"
     Country "Algeria"
     Longitude 8.12417
     Internal 1
@@ -146,7 +147,7 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "Oum el Bouaghi"
     Country "Algeria"
     Longitude 7.11353
     Internal 1
@@ -154,7 +155,7 @@ graph [
   ]
   node [
     id 16
-    label "16"
+    label "Bejaia"
     Country "Algeria"
     Longitude 5.08433
     Internal 1
@@ -162,7 +163,7 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "Setif"
     Country "Algeria"
     Longitude 5.41373
     Internal 1
@@ -170,7 +171,7 @@ graph [
   ]
   node [
     id 18
-    label "18"
+    label "Skikda"
     Country "Algeria"
     Longitude 6.90921
     Internal 1
@@ -178,7 +179,7 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "Jijel"
     Country "Algeria"
     Longitude 5.76671
     Internal 1
@@ -186,7 +187,7 @@ graph [
   ]
   node [
     id 20
-    label "20"
+    label "Tiaret"
     Country "Algeria"
     Longitude 1.31699
     Internal 1
@@ -194,12 +195,12 @@ graph [
   ]
   node [
     id 21
-    label "21"
+    label "GEANT"
     Internal 0
   ]
   node [
     id 22
-    label "22"
+    label "Alger"
     Country "Algeria"
     Longitude 3.04197
     Internal 1
@@ -207,7 +208,7 @@ graph [
   ]
   node [
     id 23
-    label "23"
+    label "Chlef"
     Country "Algeria"
     Longitude 1.25538
     Internal 1
@@ -215,7 +216,7 @@ graph [
   ]
   node [
     id 24
-    label "24"
+    label "Oran"
     Country "Algeria"
     Longitude -0.64167
     Internal 1
@@ -223,7 +224,7 @@ graph [
   ]
   node [
     id 25
-    label "25"
+    label "Mostaganem"
     Country "Algeria"
     Longitude 0.08918
     Internal 1
@@ -231,7 +232,7 @@ graph [
   ]
   node [
     id 26
-    label "26"
+    label "Tlemcen"
     Country "Algeria"
     Longitude -1.315
     Internal 1
@@ -239,7 +240,7 @@ graph [
   ]
   node [
     id 27
-    label "27"
+    label "Sidi Bel Abbes"
     Country "Algeria"
     Longitude -0.63085
     Internal 1
@@ -247,7 +248,7 @@ graph [
   ]
   node [
     id 28
-    label "28"
+    label "Saida"
     Country "Algeria"
     Longitude 0.15171
     Internal 1
@@ -255,7 +256,7 @@ graph [
   ]
   node [
     id 29
-    label "29"
+    label "Mascara"
     Country "Algeria"
     Longitude -0.05037
     Internal 1

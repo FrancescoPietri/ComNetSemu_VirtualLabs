@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "5/07/11"
   GeoLocation "Poland"
   GeoExtent "Country"
@@ -30,7 +31,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Warszawa"
     Country "Poland"
     Longitude 21.01178
     Internal 1
@@ -38,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Radom"
     Country "Poland"
     Longitude 21.14714
     Internal 1
@@ -46,12 +47,12 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Belarus"
     Internal 0
   ]
   node [
     id 3
-    label "3"
+    label "Bialystok"
     Country "Poland"
     Longitude 23.15
     Internal 1
@@ -59,7 +60,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Lublin"
     Country "Poland"
     Longitude 22.56667
     Internal 1
@@ -67,12 +68,12 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Ukraine"
     Internal 0
   ]
   node [
     id 6
-    label "6"
+    label "Lodz"
     Country "Poland"
     Longitude 19.46667
     Internal 1
@@ -80,7 +81,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Pulawy"
     Country "Poland"
     Longitude 21.96939
     Internal 1
@@ -88,7 +89,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Rzeszow"
     Country "Poland"
     Longitude 21.99901
     Internal 1
@@ -96,7 +97,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Kielce"
     Country "Poland"
     Longitude 20.62752
     Internal 1
@@ -104,7 +105,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Elblag"
     Country "Poland"
     Longitude 19.40884
     Internal 1
@@ -112,7 +113,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "Suwalki"
     Country "Poland"
     Longitude 22.93087
     Internal 1
@@ -120,7 +121,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Sochaczew"
     Country "Poland"
     Longitude 20.23838
     Internal 1
@@ -128,7 +129,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "Gorzow Wlkp"
     Country "Poland"
     Longitude 15.22878
     Internal 1
@@ -136,27 +137,27 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "SURFnet/NORDUnet"
     Internal 0
   ]
   node [
     id 15
-    label "15"
+    label "DFN"
     Internal 0
   ]
   node [
     id 16
-    label "16"
+    label "GEANT3"
     Internal 0
   ]
   node [
     id 17
-    label "17"
+    label "Internet"
     Internal 0
   ]
   node [
     id 18
-    label "18"
+    label "Bielsko-Biala"
     Country "Poland"
     Longitude 19.04686
     Internal 1
@@ -164,7 +165,7 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "Zamosc"
     Country "Poland"
     Longitude 23.25196
     Internal 1
@@ -172,7 +173,7 @@ graph [
   ]
   node [
     id 20
-    label "20"
+    label "Czechtochowa"
     Country "Poland"
     Longitude 19.12409
     Internal 1
@@ -180,17 +181,17 @@ graph [
   ]
   node [
     id 21
-    label "21"
+    label "CESNET"
     Internal 0
   ]
   node [
     id 22
-    label "22"
+    label "SANET"
     Internal 0
   ]
   node [
     id 23
-    label "23"
+    label "Krakow"
     Country "Poland"
     Longitude 19.91667
     Internal 1
@@ -198,12 +199,12 @@ graph [
   ]
   node [
     id 24
-    label "24"
+    label "Geant2/Internet"
     Internal 0
   ]
   node [
     id 25
-    label "25"
+    label "Wroclaw"
     Country "Poland"
     Longitude 17.03333
     Internal 1
@@ -211,7 +212,7 @@ graph [
   ]
   node [
     id 26
-    label "26"
+    label "Opole"
     Country "Poland"
     Longitude 17.95
     Internal 1
@@ -219,7 +220,7 @@ graph [
   ]
   node [
     id 27
-    label "27"
+    label "Gliwice"
     Country "Poland"
     Longitude 18.66667
     Internal 1
@@ -227,7 +228,7 @@ graph [
   ]
   node [
     id 28
-    label "28"
+    label "Olsztyn"
     Country "Poland"
     Longitude 20.48333
     Internal 1
@@ -235,12 +236,12 @@ graph [
   ]
   node [
     id 29
-    label "29"
+    label "Lithuania"
     Internal 0
   ]
   node [
     id 30
-    label "30"
+    label "Gdansk"
     Country "Poland"
     Longitude 18.64637
     Internal 1
@@ -248,7 +249,7 @@ graph [
   ]
   node [
     id 31
-    label "31"
+    label "Koszalin"
     Country "Poland"
     Longitude 16.17222
     Internal 1
@@ -256,7 +257,7 @@ graph [
   ]
   node [
     id 32
-    label "32"
+    label "Szczecin"
     Country "Poland"
     Longitude 14.55302
     Internal 1
@@ -264,7 +265,7 @@ graph [
   ]
   node [
     id 33
-    label "33"
+    label "Zielona gora"
     Country "Poland"
     Longitude 15.50643
     Internal 1
@@ -272,7 +273,7 @@ graph [
   ]
   node [
     id 34
-    label "34"
+    label "Poznan"
     Country "Poland"
     Longitude 16.96667
     Internal 1
@@ -280,7 +281,7 @@ graph [
   ]
   node [
     id 35
-    label "35"
+    label "Bydgoszcz"
     Country "Poland"
     Longitude 18.00762
     Internal 1
@@ -288,7 +289,7 @@ graph [
   ]
   node [
     id 36
-    label "36"
+    label "Torun"
     Country "Poland"
     Longitude 18.59814
     Internal 1
@@ -296,8 +297,18 @@ graph [
   ]
   node [
     id 37
-    label "37"
+    label "Russia"
     Internal 0
+  ]
+  edge [
+    source 0
+    target 1
+    LinkLabel "2x10Gb/s"
+  ]
+  edge [
+    source 0
+    target 1
+    LinkLabel "2x10Gb/s"
   ]
   edge [
     source 0
@@ -316,12 +327,27 @@ graph [
   ]
   edge [
     source 0
+    target 3
+    LinkLabel "2x10Gb/s"
+  ]
+  edge [
+    source 0
     target 6
     LinkLabel "2x10Gb/s"
   ]
   edge [
     source 1
     target 9
+    LinkLabel "2x10Gb/s"
+  ]
+  edge [
+    source 1
+    target 9
+    LinkLabel "2x10Gb/s"
+  ]
+  edge [
+    source 1
+    target 7
     LinkLabel "2x10Gb/s"
   ]
   edge [
@@ -345,6 +371,11 @@ graph [
   edge [
     source 4
     target 19
+    LinkLabel "2x10Gb/s"
+  ]
+  edge [
+    source 4
+    target 7
     LinkLabel "2x10Gb/s"
   ]
   edge [
@@ -382,6 +413,11 @@ graph [
   ]
   edge [
     source 8
+    target 23
+    LinkLabel "2x10Gb/s"
+  ]
+  edge [
+    source 9
     target 23
     LinkLabel "2x10Gb/s"
   ]

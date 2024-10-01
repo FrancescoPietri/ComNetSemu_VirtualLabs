@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "20/07/11"
   GeoLocation "Latvia"
   GeoExtent "Country"
@@ -29,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Iecava"
     Country "Latvia"
     Longitude 24.20222
     Internal 1
@@ -38,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Vircava"
     Country "Latvia"
     Longitude 23.77194
     Internal 1
@@ -47,7 +48,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Kraslava"
     Country "Latvia"
     Longitude 27.16799
     Internal 1
@@ -56,7 +57,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Baldone"
     Country "Latvia"
     Longitude 24.35194
     Internal 1
@@ -65,7 +66,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Auce"
     Country "Latvia"
     Longitude 22.90169
     Internal 1
@@ -74,7 +75,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Broceni"
     Country "Latvia"
     Longitude 22.53333
     Internal 1
@@ -83,7 +84,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Platone"
     Country "Latvia"
     Longitude 23.69639
     Internal 1
@@ -92,7 +93,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Dobele"
     Country "Latvia"
     Longitude 23.27861
     Internal 1
@@ -101,7 +102,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Krimulda"
     Country "Latvia"
     Longitude 24.70278
     Internal 1
@@ -110,7 +111,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Vijkene"
     Country "Latvia"
     Longitude 24.60722
     Internal 1
@@ -119,7 +120,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Saldus"
     Country "Latvia"
     Longitude 22.48807
     Internal 1
@@ -128,7 +129,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "Kapsede"
     Country "Latvia"
     Longitude 21.13862
     Internal 1
@@ -137,7 +138,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Viesite"
     Country "Latvia"
     Longitude 25.55514
     Internal 1
@@ -146,7 +147,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "Aizkroukle"
     Country "Latvia"
     Longitude 25.25534
     Internal 1
@@ -155,7 +156,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "Vilani"
     Country "Latvia"
     Longitude 26.92449
     Internal 1
@@ -164,7 +165,7 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "Gulbene"
     Country "Latvia"
     Longitude 26.75291
     Internal 1
@@ -173,7 +174,7 @@ graph [
   ]
   node [
     id 16
-    label "16"
+    label "Rujiena"
     Country "Latvia"
     Longitude 25.33155
     Internal 1
@@ -182,7 +183,7 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "Salagriva"
     Country "Latvia"
     Longitude 24.35806
     Internal 1
@@ -191,7 +192,7 @@ graph [
   ]
   node [
     id 18
-    label "18"
+    label "Aloja"
     Country "Latvia"
     Longitude 24.8825
     Internal 1
@@ -200,7 +201,7 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "Mazsalaca"
     Country "Latvia"
     Longitude 25.05475
     Internal 1
@@ -209,7 +210,7 @@ graph [
   ]
   node [
     id 20
-    label "20"
+    label "Strenci"
     Country "Latvia"
     Longitude 25.68535
     Internal 1
@@ -218,7 +219,7 @@ graph [
   ]
   node [
     id 21
-    label "21"
+    label "Pociems"
     Country "Latvia"
     Longitude 24.85139
     Internal 1
@@ -227,7 +228,7 @@ graph [
   ]
   node [
     id 22
-    label "22"
+    label "Limbazi"
     Country "Latvia"
     Longitude 24.71941
     Internal 1
@@ -236,7 +237,7 @@ graph [
   ]
   node [
     id 23
-    label "23"
+    label "Liepupe"
     Country "Latvia"
     Longitude 24.46778
     Internal 1
@@ -245,7 +246,7 @@ graph [
   ]
   node [
     id 24
-    label "24"
+    label "Skriveri"
     Country "Latvia"
     Longitude 25.12058
     Internal 1
@@ -254,7 +255,7 @@ graph [
   ]
   node [
     id 25
-    label "25"
+    label "Valmiera"
     Country "Latvia"
     Longitude 25.42751
     Internal 1
@@ -263,7 +264,7 @@ graph [
   ]
   node [
     id 26
-    label "26"
+    label "Rezekne"
     Country "Latvia"
     Longitude 27.31667
     Internal 1
@@ -272,7 +273,7 @@ graph [
   ]
   node [
     id 27
-    label "27"
+    label "Carnikava"
     Country "Latvia"
     Longitude 24.27444
     Internal 1
@@ -281,7 +282,7 @@ graph [
   ]
   node [
     id 28
-    label "28"
+    label "Jumprava"
     Country "Latvia"
     Longitude 24.92056
     Internal 1
@@ -290,7 +291,7 @@ graph [
   ]
   node [
     id 29
-    label "29"
+    label "Kegums"
     Country "Latvia"
     Longitude 24.72439
     Internal 1
@@ -299,7 +300,7 @@ graph [
   ]
   node [
     id 30
-    label "30"
+    label "Riga"
     Country "Latvia"
     Longitude 24.10589
     Internal 1
@@ -308,7 +309,7 @@ graph [
   ]
   node [
     id 31
-    label "31"
+    label "Daugapils"
     Country "Latvia"
     Longitude 26.53333
     Internal 1
@@ -317,7 +318,7 @@ graph [
   ]
   node [
     id 32
-    label "32"
+    label "Ventspits"
     Country "Latvia"
     Longitude 21.56056
     Internal 1
@@ -326,7 +327,7 @@ graph [
   ]
   node [
     id 33
-    label "33"
+    label "Grobina"
     Country "Latvia"
     Longitude 21.16782
     Internal 1
@@ -335,7 +336,7 @@ graph [
   ]
   node [
     id 34
-    label "34"
+    label "Liepaja"
     Country "Latvia"
     Longitude 21.01667
     Internal 1
@@ -344,7 +345,7 @@ graph [
   ]
   node [
     id 35
-    label "35"
+    label "Ulbroka"
     Country "Latvia"
     Longitude 24.28972
     Internal 1
@@ -353,7 +354,7 @@ graph [
   ]
   node [
     id 36
-    label "36"
+    label "Olaine"
     Country "Latvia"
     Longitude 23.93806
     Internal 1
@@ -362,7 +363,7 @@ graph [
   ]
   node [
     id 37
-    label "37"
+    label "Lielvarde"
     Country "Latvia"
     Longitude 24.80743
     Internal 1
@@ -371,7 +372,7 @@ graph [
   ]
   node [
     id 38
-    label "38"
+    label "Ikskile"
     Country "Latvia"
     Longitude 24.5
     Internal 1
@@ -380,7 +381,7 @@ graph [
   ]
   node [
     id 39
-    label "39"
+    label "Salaspils"
     Country "Latvia"
     Longitude 24.36544
     Internal 1
@@ -389,7 +390,7 @@ graph [
   ]
   node [
     id 40
-    label "40"
+    label "Bauska"
     Country "Latvia"
     Longitude 24.19056
     Internal 1
@@ -398,7 +399,7 @@ graph [
   ]
   node [
     id 41
-    label "41"
+    label "Jekabpils"
     Country "Latvia"
     Longitude 25.85735
     Internal 1
@@ -407,7 +408,7 @@ graph [
   ]
   node [
     id 42
-    label "42"
+    label "Jelgava"
     Country "Latvia"
     Longitude 23.71278
     Internal 1
@@ -416,7 +417,7 @@ graph [
   ]
   node [
     id 43
-    label "43"
+    label "Kalnciems"
     Country "Latvia"
     Longitude 23.58902
     Internal 1
@@ -425,7 +426,7 @@ graph [
   ]
   node [
     id 44
-    label "44"
+    label "Kekava"
     Country "Latvia"
     Longitude 24.23
     Internal 1
@@ -434,12 +435,12 @@ graph [
   ]
   node [
     id 45
-    label "45"
+    label "GEANT2"
     Internal 0
   ]
   node [
     id 46
-    label "46"
+    label "Livberze"
     Country "Latvia"
     Longitude 23.5
     Internal 1
@@ -448,7 +449,7 @@ graph [
   ]
   node [
     id 47
-    label "47"
+    label "Ledurga"
     Country "Latvia"
     Longitude 24.74301
     Internal 1
@@ -457,7 +458,7 @@ graph [
   ]
   node [
     id 48
-    label "48"
+    label "Sigulda"
     Country "Latvia"
     Longitude 24.86472
     Internal 1
@@ -466,7 +467,7 @@ graph [
   ]
   node [
     id 49
-    label "49"
+    label "Jurmala"
     Country "Latvia"
     Longitude 23.77038
     Internal 1
@@ -475,7 +476,7 @@ graph [
   ]
   node [
     id 50
-    label "50"
+    label "Tukums"
     Country "Latvia"
     Longitude 23.15528
     Internal 1
@@ -484,7 +485,7 @@ graph [
   ]
   node [
     id 51
-    label "51"
+    label "Talsi"
     Country "Latvia"
     Longitude 22.58137
     Internal 1
@@ -493,7 +494,7 @@ graph [
   ]
   node [
     id 52
-    label "52"
+    label "Aizpute"
     Country "Latvia"
     Longitude 21.6
     Internal 1
@@ -502,7 +503,7 @@ graph [
   ]
   node [
     id 53
-    label "53"
+    label "Ragona"
     Country "Latvia"
     Longitude 24.70731
     Internal 1
@@ -511,7 +512,7 @@ graph [
   ]
   node [
     id 54
-    label "54"
+    label "Vangazi"
     Country "Latvia"
     Longitude 24.54861
     Internal 1
@@ -520,7 +521,7 @@ graph [
   ]
   node [
     id 55
-    label "55"
+    label "Adazi"
     Country "Latvia"
     Longitude 24.32139
     Internal 1
@@ -529,7 +530,7 @@ graph [
   ]
   node [
     id 56
-    label "56"
+    label "Ozolnieki"
     Country "Latvia"
     Longitude 23.78778
     Internal 1
@@ -538,7 +539,7 @@ graph [
   ]
   node [
     id 57
-    label "57"
+    label "Eleja"
     Country "Latvia"
     Longitude 23.68335
     Internal 1
@@ -547,7 +548,7 @@ graph [
   ]
   node [
     id 58
-    label "58"
+    label "Ogre"
     Country "Latvia"
     Longitude 24.61401
     Internal 1
@@ -556,7 +557,7 @@ graph [
   ]
   node [
     id 59
-    label "59"
+    label "Preili"
     Country "Latvia"
     Longitude 26.72459
     Internal 1
@@ -565,7 +566,7 @@ graph [
   ]
   node [
     id 60
-    label "60"
+    label "Livani"
     Country "Latvia"
     Longitude 26.17579
     Internal 1
@@ -574,7 +575,7 @@ graph [
   ]
   node [
     id 61
-    label "61"
+    label "Balvi"
     Country "Latvia"
     Longitude 27.26583
     Internal 1
@@ -583,7 +584,7 @@ graph [
   ]
   node [
     id 62
-    label "62"
+    label "Karsava"
     Country "Latvia"
     Longitude 27.68829
     Internal 1
@@ -592,7 +593,7 @@ graph [
   ]
   node [
     id 63
-    label "63"
+    label "Malnava"
     Country "Latvia"
     Longitude 27.71902
     Internal 1
@@ -601,7 +602,7 @@ graph [
   ]
   node [
     id 64
-    label "64"
+    label "Pusmucova"
     Country "Latvia"
     Longitude 27.71667
     Internal 1
@@ -610,7 +611,7 @@ graph [
   ]
   node [
     id 65
-    label "65"
+    label "Zvigzdene"
     Country "Latvia"
     Longitude 27.66667
     Internal 1
@@ -619,7 +620,7 @@ graph [
   ]
   node [
     id 66
-    label "66"
+    label "Ludza"
     Country "Latvia"
     Longitude 27.71667
     Internal 1
@@ -628,7 +629,7 @@ graph [
   ]
   node [
     id 67
-    label "67"
+    label "Cibla"
     Country "Latvia"
     Longitude 27.88333
     Internal 1
@@ -637,7 +638,7 @@ graph [
   ]
   node [
     id 68
-    label "68"
+    label "Zilupe"
     Country "Latvia"
     Longitude 28.12165
     Internal 1

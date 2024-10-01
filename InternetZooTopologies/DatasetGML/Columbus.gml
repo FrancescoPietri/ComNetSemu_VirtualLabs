@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "30/10/10"
   GeoLocation "Latin America"
   GeoExtent "Continent"
@@ -29,19 +30,19 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "None"
     Internal 1
     type "MAYA"
   ]
   node [
     id 1
-    label "1"
+    label "None"
     Internal 1
     type "ARCOS"
   ]
   node [
     id 2
-    label "2"
+    label "Costa Rica"
     geocode_country "Costa Rica"
     Country "Costa Rica"
     Longitude -84.0
@@ -51,7 +52,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Panama"
     geocode_country "Panama"
     Country "Panama"
     Longitude -80.0
@@ -61,7 +62,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Venezuela"
     geocode_country "Venezuela"
     Country "Venezuela"
     Longitude -66.0
@@ -71,7 +72,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Curacao"
     geocode_country "Curacao"
     Country "Curacao"
     Longitude -69.0
@@ -81,7 +82,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Columbia"
     geocode_country "Columbia"
     Country "Colombia"
     Longitude -72.0
@@ -91,25 +92,25 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "None"
     Internal 1
     type "ARCOS"
   ]
   node [
     id 8
-    label "8"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 9
-    label "9"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 10
-    label "10"
+    label "Bonaire"
     geocode_country "Bonaire"
     Country "Bonaire, Saint Eustatius and Saba"
     Longitude -68.29445
@@ -119,7 +120,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "St Vincent"
     geocode_country "St Vincent"
     Country "Saint Vincent and the Grenadines"
     Longitude -61.2
@@ -129,7 +130,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Mexico"
     geocode_country "Mexico"
     Country "Mexico"
     Longitude -102.0
@@ -139,25 +140,25 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 14
-    label "14"
+    label "None"
     Internal 1
     type "MAYA"
   ]
   node [
     id 15
-    label "15"
+    label "None"
     Internal 1
     type "ARCOS"
   ]
   node [
     id 16
-    label "16"
+    label "Turks and Caicos"
     geocode_country "Turks and Caicos"
     Country "Turks and Caicos Islands"
     Longitude -71.58333
@@ -167,13 +168,13 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "None"
     Internal 1
     type "ARCOS"
   ]
   node [
     id 18
-    label "18"
+    label "Antigua"
     geocode_country "Antigua"
     Country "Antigua and Barbuda"
     Longitude -61.8
@@ -183,7 +184,7 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "Guadeloupe"
     geocode_country "Guadeloupe"
     Country "Guadeloupe"
     Longitude -61.58333
@@ -193,7 +194,7 @@ graph [
   ]
   node [
     id 20
-    label "20"
+    label "Dominica"
     geocode_country "Dominica"
     Country "Dominica"
     Longitude -61.33333
@@ -203,7 +204,7 @@ graph [
   ]
   node [
     id 21
-    label "21"
+    label "Martinique"
     geocode_country "Martinique"
     Country "Martinique"
     Longitude -61.0
@@ -213,13 +214,13 @@ graph [
   ]
   node [
     id 22
-    label "22"
+    label "None"
     Internal 1
     type "Off-Net Subsea Carrier Networks"
   ]
   node [
     id 23
-    label "23"
+    label "Barbados"
     geocode_country "Barbados"
     Country "Barbados"
     Longitude -59.53333
@@ -229,13 +230,13 @@ graph [
   ]
   node [
     id 24
-    label "24"
+    label "None"
     Internal 1
     type "Off-Net Subsea Carrier Networks"
   ]
   node [
     id 25
-    label "25"
+    label "Grenada"
     geocode_country "Grenada"
     Country "Grenada"
     Longitude -61.66667
@@ -245,31 +246,31 @@ graph [
   ]
   node [
     id 26
-    label "26"
+    label "None"
     Internal 1
     type "Branching Unit"
   ]
   node [
     id 27
-    label "27"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 28
-    label "28"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 29
-    label "29"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 30
-    label "30"
+    label "Bahamas"
     geocode_country "Bahamas"
     Country "Bahamas"
     Longitude -76.0
@@ -279,61 +280,61 @@ graph [
   ]
   node [
     id 31
-    label "31"
+    label "None"
     Internal 1
     type "ARCOS"
   ]
   node [
     id 32
-    label "32"
+    label "None"
     Internal 1
     type "Fibralink, Carribean Crossings, ECLink"
   ]
   node [
     id 33
-    label "33"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 34
-    label "34"
+    label "None"
     Internal 1
     type "ARCOS"
   ]
   node [
     id 35
-    label "35"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 36
-    label "36"
+    label "Ecuador"
     geocode_country "Ecuador"
     Internal 0
   ]
   node [
     id 37
-    label "37"
+    label "None"
     Internal 1
     type "Terrestrial Fiber Partners"
   ]
   node [
     id 38
-    label "38"
+    label "None"
     Internal 1
     type "Branching Unit"
   ]
   node [
     id 39
-    label "39"
+    label "None"
     Internal 1
     type "Branching Unit"
   ]
   node [
     id 40
-    label "40"
+    label "Jamaica"
     geocode_country "Jamaica"
     Country "Jamaica"
     Longitude -77.5
@@ -343,13 +344,13 @@ graph [
   ]
   node [
     id 41
-    label "41"
+    label "None"
     Internal 1
     type "CFX Express Route"
   ]
   node [
     id 42
-    label "42"
+    label "USA"
     geocode_country "USA"
     Country "United States"
     Longitude -98.5
@@ -359,7 +360,7 @@ graph [
   ]
   node [
     id 43
-    label "43"
+    label "Cayman Islands"
     geocode_country "Cayman Islands"
     Country "Cayman Islands"
     Longitude -80.66667
@@ -369,32 +370,32 @@ graph [
   ]
   node [
     id 44
-    label "44"
+    label "None"
     Internal 1
     type "ARCOS"
   ]
   node [
     id 45
-    label "45"
+    label "None"
     Internal 1
     type "Fibralink, Carribean Crossings, ECLink"
   ]
   node [
     id 46
-    label "46"
+    label "None"
     hyperedge 1
     Internal 1
   ]
   node [
     id 47
-    label "47"
-    geocode_country "St Kitts &#38; Nevis"
+    label "St Kitts & Nevis"
+    geocode_country "St Kitts &amp; Nevis"
     Internal 1
     type "Off-Net Subsea Carrier Networks"
   ]
   node [
     id 48
-    label "48"
+    label "St Martin"
     geocode_country "St Martin"
     Country "Saint Martin"
     Longitude -63.06667
@@ -404,19 +405,19 @@ graph [
   ]
   node [
     id 49
-    label "49"
+    label "None"
     Internal 1
     type "Fibralink, Carribean Crossings, ECLink"
   ]
   node [
     id 50
-    label "50"
+    label "None"
     Internal 1
     type "Off-Net Subsea Carrier Networks"
   ]
   node [
     id 51
-    label "51"
+    label "Suriname"
     geocode_country "Suriname"
     Country "Suriname"
     Longitude -56.0
@@ -426,7 +427,7 @@ graph [
   ]
   node [
     id 52
-    label "52"
+    label "Guyana"
     geocode_country "Guyana"
     Country "Guyana"
     Longitude -59.0
@@ -436,7 +437,7 @@ graph [
   ]
   node [
     id 53
-    label "53"
+    label "Trinidad and Tobago"
     geocode_country "Trinidad and Tobago"
     Country "Trinidad and Tobago"
     Longitude -61.0
@@ -446,7 +447,7 @@ graph [
   ]
   node [
     id 54
-    label "54"
+    label "St Croix"
     geocode_country "St Croix"
     Country "U.S. Virgin Islands"
     Longitude -64.74795
@@ -456,7 +457,7 @@ graph [
   ]
   node [
     id 55
-    label "55"
+    label "Dominican Republic"
     geocode_country "Dominican Republic"
     Country "Dominican Republic"
     Longitude -70.66667
@@ -466,13 +467,13 @@ graph [
   ]
   node [
     id 56
-    label "56"
+    label "None"
     Internal 1
     type "ARCOS"
   ]
   node [
     id 57
-    label "57"
+    label "Puerto Rico"
     geocode_country "Puerto Rico"
     Country "Puerto Rico"
     Longitude -66.49989
@@ -482,25 +483,25 @@ graph [
   ]
   node [
     id 58
-    label "58"
+    label "None"
     Internal 1
     type "ARCOS"
   ]
   node [
     id 59
-    label "59"
+    label "None"
     Internal 1
     type "Fibralink, Carribean Crossings, ECLink"
   ]
   node [
     id 60
-    label "60"
+    label "None"
     Internal 1
     type "ARCOS"
   ]
   node [
     id 61
-    label "61"
+    label "Nicaragua"
     geocode_country "Nicaragua"
     Country "Nicaragua"
     Longitude -85.0
@@ -510,19 +511,19 @@ graph [
   ]
   node [
     id 62
-    label "62"
+    label "None"
     Internal 1
     type "MAYA"
   ]
   node [
     id 63
-    label "63"
+    label "None"
     Internal 1
     type "MAYA"
   ]
   node [
     id 64
-    label "64"
+    label "El Salvador"
     geocode_country "El Salvador"
     Country "El Salvador"
     Longitude -88.91667
@@ -532,7 +533,7 @@ graph [
   ]
   node [
     id 65
-    label "65"
+    label "Guatemala"
     geocode_country "Guatemala"
     Country "Guatemala"
     Longitude -90.25
@@ -542,7 +543,7 @@ graph [
   ]
   node [
     id 66
-    label "66"
+    label "Belize"
     geocode_country "Belize"
     Country "Belize"
     Longitude -88.75
@@ -552,13 +553,13 @@ graph [
   ]
   node [
     id 67
-    label "67"
+    label "None"
     Internal 1
     type "ARCOS"
   ]
   node [
     id 68
-    label "68"
+    label "Honduras"
     geocode_country "Honduras"
     Country "Honduras"
     Longitude -86.5
@@ -568,7 +569,7 @@ graph [
   ]
   node [
     id 69
-    label "69"
+    label "None"
     Internal 1
     type "ARCOS"
   ]

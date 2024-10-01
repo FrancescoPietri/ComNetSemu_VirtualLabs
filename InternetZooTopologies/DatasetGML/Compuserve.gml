@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "14/01/11"
   GeoLocation "USA"
   GeoExtent "Country"
@@ -30,7 +31,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "1"
     Internal 0
   ]
   node [
@@ -40,7 +41,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Washington, DC"
     Country "United States"
     Longitude -77.03637
     Internal 1
@@ -48,12 +49,12 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "1"
     Internal 0
   ]
   node [
     id 4
-    label "4"
+    label "Boston"
     Country "United States"
     Longitude -71.05977
     Internal 1
@@ -61,7 +62,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "New York"
     Country "United States"
     Longitude -74.00597
     Internal 1
@@ -69,7 +70,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Seattle"
     Country "United States"
     Longitude -122.33207
     Internal 1
@@ -77,7 +78,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "San Francisco"
     Country "United States"
     Longitude -122.41942
     Internal 1
@@ -85,7 +86,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Los Angeles"
     Country "United States"
     Longitude -118.24368
     Internal 1
@@ -93,7 +94,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Dallas"
     Country "United States"
     Longitude -96.80667
     Internal 1
@@ -101,7 +102,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Houston"
     Country "United States"
     Longitude -95.36327
     Internal 1
@@ -109,7 +110,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "Atlanta"
     Country "United States"
     Longitude -84.38798
     Internal 1
@@ -117,7 +118,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Columbus"
     Country "United States"
     Longitude -82.99879
     Internal 1
@@ -125,7 +126,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "Chicago"
     Country "United States"
     Longitude -87.65005
     Internal 1

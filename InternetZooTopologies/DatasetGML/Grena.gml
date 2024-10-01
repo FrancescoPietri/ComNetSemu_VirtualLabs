@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "20/07/11"
   GeoLocation "Georgia"
   GeoExtent "Country"
@@ -29,7 +30,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Cisco 3640 Samtredia"
     Country "Georgia"
     Longitude 42.33517
     Internal 1
@@ -38,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Cisco 2621 Batumi"
     Country "Georgia"
     Longitude 41.63593
     Internal 1
@@ -47,7 +48,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Cisco 2511 Kutaisi"
     Country "Georgia"
     Longitude 42.69974
     Internal 1
@@ -56,7 +57,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Cisco 3640 Kutaisi C04"
     Country "Georgia"
     Longitude 42.69974
     Internal 1
@@ -65,7 +66,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Cisco 3640 Poti"
     Country "Georgia"
     Longitude 41.67197
     Internal 1
@@ -74,7 +75,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Cisco 3640 Zugididi"
     Country "Georgia"
     Longitude 41.87088
     Internal 1
@@ -83,7 +84,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Cisco 3640 Khashuri"
     Country "Georgia"
     Longitude 43.59994
     Internal 1
@@ -92,13 +93,13 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Corecess DX6524"
     Internal 1
     type "Router"
   ]
   node [
     id 8
-    label "8"
+    label "Tbilisi GRENA Network"
     Country "Georgia"
     Longitude 44.83368
     Internal 1
@@ -107,13 +108,13 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Corecess DX6524"
     Internal 1
     type "Router"
   ]
   node [
     id 10
-    label "10"
+    label "Rustavi CO14"
     Country "Georgia"
     Longitude 44.99323
     Internal 1
@@ -122,7 +123,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "Cisco 3640 Telavi"
     Country "Georgia"
     Longitude 45.47315
     Internal 1
@@ -131,13 +132,13 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Corecess DX6524"
     Internal 1
     type "Router"
   ]
   node [
     id 13
-    label "13"
+    label "Rustavi CO15"
     Country "Georgia"
     Longitude 44.99323
     Internal 1
@@ -146,7 +147,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "Cisco 3640 Gori"
     Country "Georgia"
     Longitude 44.11578
     Internal 1
@@ -155,7 +156,7 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "Cisco 3640 Kutaisi C07"
     Country "Georgia"
     Longitude 42.69974
     Internal 1

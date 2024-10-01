@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "22/03/11"
   GeoLocation "Iceland"
   GeoExtent "Country"
@@ -30,7 +31,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Solborg-Akureyri"
     Country "Iceland"
     Longitude -18.0878
     Internal 1
@@ -38,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Fjarski"
     Country "Iceland"
     Longitude -21.89541
     Internal 1
@@ -46,7 +47,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "FSA-Akureyri"
     Country "Iceland"
     Longitude -18.0878
     Internal 1
@@ -54,7 +55,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "DST-Akureyri"
     Country "Iceland"
     Longitude -18.0878
     Internal 1
@@ -62,17 +63,17 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "RIX"
     Internal 0
   ]
   node [
     id 5
-    label "5"
+    label "NORDUnet"
     Internal 0
   ]
   node [
     id 6
-    label "6"
+    label "Hvanneyri"
     Country "Iceland"
     Longitude -18.90512
     Internal 1
@@ -80,12 +81,12 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Bifrost"
     Internal 1
   ]
   node [
     id 8
-    label "8"
+    label "Grensas"
     Country "Iceland"
     Longitude -21.89541
     Internal 1
@@ -93,7 +94,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "Skulagata"
     Country "Iceland"
     Longitude -21.89541
     Internal 1
@@ -101,7 +102,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Taeknigarour"
     Country "Iceland"
     Longitude -21.89541
     Internal 1
@@ -109,7 +110,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "Sturlugata"
     Country "Iceland"
     Longitude -21.89541
     Internal 1
@@ -117,7 +118,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Hringbraut"
     Country "Iceland"
     Longitude -21.89541
     Internal 1
@@ -125,7 +126,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "Bustaoavegur"
     Country "Iceland"
     Longitude -21.89541
     Internal 1
@@ -133,7 +134,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "Ofanleiti"
     Country "Iceland"
     Longitude -20.2944
     Internal 1
@@ -141,7 +142,7 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "Keldhaholt"
     Country "Iceland"
     Longitude -18.90512
     Internal 1

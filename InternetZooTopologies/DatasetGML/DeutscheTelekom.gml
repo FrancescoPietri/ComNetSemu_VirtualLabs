@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "16/11/10"
   GeoLocation "Global"
   GeoExtent "Global"
@@ -30,7 +31,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "Zurich"
     Country "Switzerland"
     Longitude 8.55
     Internal 1
@@ -38,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "Geneva"
     Country "Switzerland"
     Longitude 6.14569
     Internal 1
@@ -46,7 +47,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Budapest"
     Country "Hungary"
     Longitude 19.03991
     Internal 1
@@ -54,7 +55,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "Stuttgart"
     Country "Germany"
     Longitude 9.17702
     Internal 1
@@ -62,7 +63,7 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "Madrid"
     Country "Spain"
     Longitude -3.70256
     Internal 1
@@ -70,7 +71,7 @@ graph [
   ]
   node [
     id 5
-    label "5"
+    label "Lisbon"
     Country "Portugal"
     Longitude -9.13333
     Internal 1
@@ -78,7 +79,7 @@ graph [
   ]
   node [
     id 6
-    label "6"
+    label "Milan"
     Country "Italy"
     Longitude 9.18951
     Internal 1
@@ -86,7 +87,7 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "Barcelona"
     Country "Spain"
     Longitude 2.15899
     Internal 1
@@ -94,7 +95,7 @@ graph [
   ]
   node [
     id 8
-    label "8"
+    label "Paris"
     Country "France"
     Longitude 2.3488
     Internal 1
@@ -102,7 +103,7 @@ graph [
   ]
   node [
     id 9
-    label "9"
+    label "London"
     Country "United Kingdom"
     Longitude -0.12574
     Internal 1
@@ -110,7 +111,7 @@ graph [
   ]
   node [
     id 10
-    label "10"
+    label "Tokyo"
     Country "Japan"
     Longitude 139.5813
     Internal 1
@@ -118,7 +119,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "Chicago"
     Country "United States"
     Longitude -87.65005
     Internal 1
@@ -126,7 +127,7 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Washington"
     Country "United States"
     Longitude -77.03637
     Internal 1
@@ -134,7 +135,7 @@ graph [
   ]
   node [
     id 13
-    label "13"
+    label "Miami"
     Country "United States"
     Longitude -80.19366
     Internal 1
@@ -142,7 +143,7 @@ graph [
   ]
   node [
     id 14
-    label "14"
+    label "Los Angeles"
     Country "United States"
     Longitude -118.24368
     Internal 1
@@ -150,7 +151,7 @@ graph [
   ]
   node [
     id 15
-    label "15"
+    label "Palo Alto"
     Country "United States"
     Longitude -122.14302
     Internal 1
@@ -158,7 +159,7 @@ graph [
   ]
   node [
     id 16
-    label "16"
+    label "San Jose"
     Country "Costa Rica"
     Longitude -84.08333
     Internal 1
@@ -166,7 +167,7 @@ graph [
   ]
   node [
     id 17
-    label "17"
+    label "Hong Kong"
     Country "Hong Kong"
     Longitude 114.15769
     Internal 1
@@ -174,7 +175,7 @@ graph [
   ]
   node [
     id 18
-    label "18"
+    label "Singapore"
     Country "Singapore"
     Longitude 103.85007
     Internal 1
@@ -182,7 +183,7 @@ graph [
   ]
   node [
     id 19
-    label "19"
+    label "Toronto"
     Country "Canada"
     Longitude -79.4163
     Internal 1
@@ -190,7 +191,7 @@ graph [
   ]
   node [
     id 20
-    label "20"
+    label "New York"
     Country "United States"
     Longitude -74.00597
     Internal 1
@@ -198,7 +199,7 @@ graph [
   ]
   node [
     id 21
-    label "21"
+    label "Frankfurt"
     Country "Germany"
     Longitude 8.68333
     Internal 1
@@ -206,7 +207,7 @@ graph [
   ]
   node [
     id 22
-    label "22"
+    label "Cologne"
     Country "Germany"
     Longitude 6.95
     Internal 1
@@ -214,7 +215,7 @@ graph [
   ]
   node [
     id 23
-    label "23"
+    label "Hanover"
     Country "Germany"
     Longitude 9.73322
     Internal 1
@@ -222,7 +223,7 @@ graph [
   ]
   node [
     id 24
-    label "24"
+    label "Amsterdam"
     Country "Netherlands"
     Longitude 4.88969
     Internal 1
@@ -230,7 +231,7 @@ graph [
   ]
   node [
     id 25
-    label "25"
+    label "Ashburn"
     Country "United States"
     Longitude -77.48749
     Internal 1
@@ -238,7 +239,7 @@ graph [
   ]
   node [
     id 26
-    label "26"
+    label "Hamburg"
     Country "Germany"
     Longitude 10.0
     Internal 1
@@ -246,7 +247,7 @@ graph [
   ]
   node [
     id 27
-    label "27"
+    label "Dortmund"
     Country "Germany"
     Longitude 7.45
     Internal 1
@@ -254,7 +255,7 @@ graph [
   ]
   node [
     id 28
-    label "28"
+    label "Dusseldorf"
     Country "Germany"
     Longitude 6.77616
     Internal 1
@@ -262,7 +263,7 @@ graph [
   ]
   node [
     id 29
-    label "29"
+    label "Vienna"
     Country "Austria"
     Longitude 16.37208
     Internal 1
@@ -270,7 +271,7 @@ graph [
   ]
   node [
     id 30
-    label "30"
+    label "Munich"
     Country "Germany"
     Longitude 11.57549
     Internal 1
@@ -278,7 +279,7 @@ graph [
   ]
   node [
     id 31
-    label "31"
+    label "Copenhagen"
     Country "Denmark"
     Longitude 12.56553
     Internal 1
@@ -286,7 +287,7 @@ graph [
   ]
   node [
     id 32
-    label "32"
+    label "Stockholm"
     Country "Sweden"
     Longitude 18.0649
     Internal 1
@@ -294,7 +295,7 @@ graph [
   ]
   node [
     id 33
-    label "33"
+    label "Warsaw"
     Country "Poland"
     Longitude 21.01178
     Internal 1
@@ -302,7 +303,7 @@ graph [
   ]
   node [
     id 34
-    label "34"
+    label "Moscow"
     Country "Russia"
     Longitude 37.61556
     Internal 1
@@ -310,7 +311,7 @@ graph [
   ]
   node [
     id 35
-    label "35"
+    label "Berlin"
     Country "Germany"
     Longitude 13.41053
     Internal 1
@@ -318,7 +319,7 @@ graph [
   ]
   node [
     id 36
-    label "36"
+    label "Leipzig"
     Country "Germany"
     Longitude 12.37129
     Internal 1
@@ -326,7 +327,7 @@ graph [
   ]
   node [
     id 37
-    label "37"
+    label "Prague"
     Country "Czech Republic"
     Longitude 14.42076
     Internal 1
@@ -334,7 +335,7 @@ graph [
   ]
   node [
     id 38
-    label "38"
+    label "Nuremberg"
     Country "Germany"
     Longitude 11.06833
     Internal 1

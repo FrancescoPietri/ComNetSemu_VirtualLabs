@@ -1,4 +1,5 @@
 graph [
+  multigraph 1
   DateObtained "11/10/10"
   GeoLocation "USA"
   GeoExtent "Country"
@@ -30,7 +31,7 @@ graph [
   Testbed 0
   node [
     id 0
-    label "0"
+    label "ELPA"
     Country "United States"
     Longitude -106.48693
     Internal 1
@@ -38,7 +39,7 @@ graph [
   ]
   node [
     id 1
-    label "1"
+    label "CHI-SL"
     Country "United States"
     Longitude -87.65005
     Internal 1
@@ -46,7 +47,7 @@ graph [
   ]
   node [
     id 2
-    label "2"
+    label "Denv"
     Country "United States"
     Longitude -104.9847
     Internal 1
@@ -54,7 +55,7 @@ graph [
   ]
   node [
     id 3
-    label "3"
+    label "ALBU"
     Country "United States"
     Longitude -106.65114
     Internal 1
@@ -62,17 +63,17 @@ graph [
   ]
   node [
     id 4
-    label "4"
+    label "ANL"
     Internal 1
   ]
   node [
     id 5
-    label "5"
+    label "AMES"
     Internal 1
   ]
   node [
     id 6
-    label "6"
+    label "CHIC"
     Country "United States"
     Longitude -87.65005
     Internal 1
@@ -80,22 +81,22 @@ graph [
   ]
   node [
     id 7
-    label "7"
+    label "FNAL"
     Internal 1
   ]
   node [
     id 8
-    label "8"
+    label "DOE-A"
     Internal 1
   ]
   node [
     id 9
-    label "9"
+    label "Allied Signal"
     Internal 1
   ]
   node [
     id 10
-    label "10"
+    label "NASH"
     Country "United States"
     Longitude -86.78444
     Internal 1
@@ -103,7 +104,7 @@ graph [
   ]
   node [
     id 11
-    label "11"
+    label "ATLA"
     Country "United States"
     Longitude -84.38798
     Internal 1
@@ -111,77 +112,77 @@ graph [
   ]
   node [
     id 12
-    label "12"
+    label "Abilene"
     Internal 0
   ]
   node [
     id 13
-    label "13"
+    label "PacificWave"
     Internal 0
   ]
   node [
     id 14
-    label "14"
+    label "AU"
     Internal 0
   ]
   node [
     id 15
-    label "15"
+    label "NASA"
     Internal 0
   ]
   node [
     id 16
-    label "16"
+    label "None"
     Internal 1
   ]
   node [
     id 17
-    label "17"
+    label "None"
     Internal 1
   ]
   node [
     id 18
-    label "18"
+    label "NETL"
     Internal 1
   ]
   node [
     id 19
-    label "19"
+    label "DOE"
     Internal 1
   ]
   node [
     id 20
-    label "20"
+    label "None"
     Internal 1
   ]
   node [
     id 21
-    label "21"
+    label "None"
     Internal 1
   ]
   node [
     id 22
-    label "22"
+    label "PPPL"
     Internal 1
   ]
   node [
     id 23
-    label "23"
+    label "BNL"
     Internal 1
   ]
   node [
     id 24
-    label "24"
+    label "PSFC"
     Internal 1
   ]
   node [
     id 25
-    label "25"
+    label "None"
     Internal 1
   ]
   node [
     id 26
-    label "26"
+    label "PANTEX"
     Country "United States"
     Longitude -101.49906
     Internal 1
@@ -189,97 +190,97 @@ graph [
   ]
   node [
     id 27
-    label "27"
+    label "NREL"
     Internal 1
   ]
   node [
     id 28
-    label "28"
+    label "GEANT"
     Internal 0
   ]
   node [
     id 29
-    label "29"
+    label "SNLA"
     Internal 1
   ]
   node [
     id 30
-    label "30"
+    label "AMPATH"
     Internal 0
   ]
   node [
     id 31
-    label "31"
+    label "GA"
     Internal 1
   ]
   node [
     id 32
-    label "32"
+    label "MAXGPOP"
     Internal 0
   ]
   node [
     id 33
-    label "33"
+    label "CERN"
     Internal 0
   ]
   node [
     id 34
-    label "34"
+    label "Starlight"
     Internal 0
   ]
   node [
     id 35
-    label "35"
+    label "Equinix"
     Internal 0
   ]
   node [
     id 36
-    label "36"
+    label "ARM"
     Internal 1
   ]
   node [
     id 37
-    label "37"
+    label "NOAA"
     Internal 1
   ]
   node [
     id 38
-    label "38"
+    label "None"
     Internal 1
   ]
   node [
     id 39
-    label "39"
+    label "None"
     Internal 1
   ]
   node [
     id 40
-    label "40"
+    label "None"
     Internal 1
   ]
   node [
     id 41
-    label "41"
+    label "None"
     Internal 1
   ]
   node [
     id 42
-    label "42"
+    label "None"
     Internal 1
   ]
   node [
     id 43
-    label "43"
+    label "None"
     Internal 1
   ]
   node [
     id 44
-    label "44"
+    label "BECHTEL-NV"
     Internal 1
   ]
   node [
     id 45
-    label "45"
+    label "YUCCA MT"
     Country "United States"
     Longitude -110.31402
     Internal 1
@@ -287,27 +288,27 @@ graph [
   ]
   node [
     id 46
-    label "46"
+    label "DOE GTN"
     Internal 1
   ]
   node [
     id 47
-    label "47"
+    label "NNSA"
     Internal 1
   ]
   node [
     id 48
-    label "48"
+    label "OSTI"
     Internal 1
   ]
   node [
     id 49
-    label "49"
+    label "ORAU"
     Internal 1
   ]
   node [
     id 50
-    label "50"
+    label "ORNL"
     Country "United States"
     Longitude -81.37924
     Internal 1
@@ -315,7 +316,7 @@ graph [
   ]
   node [
     id 51
-    label "51"
+    label "WASH"
     Country "United States"
     Longitude -77.03637
     Internal 1
@@ -323,7 +324,7 @@ graph [
   ]
   node [
     id 52
-    label "52"
+    label "NEWY"
     Country "United States"
     Longitude -74.00597
     Internal 1
@@ -331,32 +332,32 @@ graph [
   ]
   node [
     id 53
-    label "53"
+    label "Equinix"
     Internal 0
   ]
   node [
     id 54
-    label "54"
+    label "JLAB"
     Internal 1
   ]
   node [
     id 55
-    label "55"
+    label "SRS"
     Internal 1
   ]
   node [
     id 56
-    label "56"
+    label "PNNL"
     Internal 1
   ]
   node [
     id 57
-    label "57"
+    label "SInet"
     Internal 0
   ]
   node [
     id 58
-    label "58"
+    label "Salt Lake"
     Country "United States"
     Longitude -111.89105
     Internal 1
@@ -364,12 +365,12 @@ graph [
   ]
   node [
     id 59
-    label "59"
+    label "INL"
     Internal 1
   ]
   node [
     id 60
-    label "60"
+    label "SEA"
     Country "United States"
     Longitude -122.33207
     Internal 1
@@ -377,7 +378,7 @@ graph [
   ]
   node [
     id 61
-    label "61"
+    label "SUNN"
     Country "United States"
     Longitude -122.03635
     Internal 1
@@ -385,7 +386,7 @@ graph [
   ]
   node [
     id 62
-    label "62"
+    label "SNV1"
     Country "United States"
     Longitude -122.03635
     Internal 1
@@ -393,27 +394,27 @@ graph [
   ]
   node [
     id 63
-    label "63"
+    label "Pacwave"
     Internal 0
   ]
   node [
     id 64
-    label "64"
+    label "LANL"
     Internal 1
   ]
   node [
     id 65
-    label "65"
+    label "LIGO"
     Internal 1
   ]
   node [
     id 66
-    label "66"
+    label "AU"
     Internal 0
   ]
   node [
     id 67
-    label "67"
+    label "SDSC"
     Country "United States"
     Longitude -117.15726
     Internal 1
@@ -457,6 +458,11 @@ graph [
   ]
   edge [
     source 1
+    target 6
+    id "e41"
+  ]
+  edge [
+    source 1
     target 7
     id "e42"
   ]
@@ -464,6 +470,11 @@ graph [
     source 2
     target 58
     id "e25"
+  ]
+  edge [
+    source 2
+    target 58
+    id "e26"
   ]
   edge [
     source 2
@@ -479,9 +490,19 @@ graph [
     id "e29"
   ]
   edge [
+    source 2
+    target 6
+    id "e30"
+  ]
+  edge [
     source 3
     target 64
     id "e34"
+  ]
+  edge [
+    source 3
+    target 64
+    id "e33"
   ]
   edge [
     source 3
@@ -535,8 +556,23 @@ graph [
   ]
   edge [
     source 6
+    target 18
+    id "e47"
+  ]
+  edge [
+    source 6
+    target 18
+    id "e45"
+  ]
+  edge [
+    source 6
     target 51
     id "e48"
+  ]
+  edge [
+    source 6
+    target 51
+    id "e49"
   ]
   edge [
     source 6
@@ -567,6 +603,11 @@ graph [
     source 11
     target 51
     id "e57"
+  ]
+  edge [
+    source 11
+    target 51
+    id "e56"
   ]
   edge [
     source 11
@@ -624,6 +665,11 @@ graph [
     id "e82"
   ]
   edge [
+    source 18
+    target 52
+    id "e81"
+  ]
+  edge [
     source 19
     target 51
     id "e69"
@@ -647,6 +693,11 @@ graph [
     source 23
     target 52
     id "e79"
+  ]
+  edge [
+    source 23
+    target 52
+    id "e80"
   ]
   edge [
     source 24
@@ -774,6 +825,11 @@ graph [
   ]
   edge [
     source 51
+    target 52
+    id "e65"
+  ]
+  edge [
+    source 51
     target 53
     id "e63"
   ]
@@ -801,6 +857,11 @@ graph [
     id "e7"
   ]
   edge [
+    source 58
+    target 60
+    id "e6"
+  ]
+  edge [
     source 59
     target 60
     id "e8"
@@ -825,6 +886,11 @@ graph [
     LinkLabel "10Gbps"
     LinkSpeedUnits "G"
     LinkSpeedRaw 10000000000.0
+  ]
+  edge [
+    source 60
+    target 62
+    id "e2"
   ]
   edge [
     source 60
