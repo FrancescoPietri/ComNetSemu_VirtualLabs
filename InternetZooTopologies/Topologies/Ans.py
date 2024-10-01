@@ -6,7 +6,7 @@ from mininet.cli import CLI
 from mininet.link import TCLink
 
 
-class Karen(Topo):
+class Ans(Topo):
     def __init__(self):
         Topo.__init__(self)
         # Adding Switches
@@ -28,13 +28,6 @@ class Karen(Topo):
         s15 = self.addSwitch("s15", dpid="0000000000000011")
         s16 = self.addSwitch("s16", dpid="0000000000000012")
         s17 = self.addSwitch("s17", dpid="0000000000000013")
-        s18 = self.addSwitch("s18", dpid="0000000000000014")
-        s19 = self.addSwitch("s19", dpid="0000000000000015")
-        s20 = self.addSwitch("s20", dpid="0000000000000016")
-        s21 = self.addSwitch("s21", dpid="0000000000000017")
-        s22 = self.addSwitch("s22", dpid="0000000000000018")
-        s23 = self.addSwitch("s23", dpid="0000000000000019")
-        s24 = self.addSwitch("s24", dpid="000000000000001a")
 
         # Adding Links
         link0_conf = {
@@ -52,24 +45,8 @@ class Karen(Topo):
             "burst": 1000000,
         }
         link2_conf = {
-            "bw": 3.0,
-            "delay": 3.0,
-            "jitter": 3.0,
-            "loss": 3.0,
-            "gro": False,
-            "txo": True,
-            "rxo": True,
-            "speedup": 0,
-            "use_hfsc": False,
-            "use_tbf": False,
-            "latency_ms": 33.0,
-            "enable_ecn": False,
-            "enable_red": False,
-            "max_queue_size": 3,
-        }
-        link3_conf = {
-            "bw": 3.0,
-            "delay": None,
+            "bw": 2.0,
+            "delay": 2.0,
             "jitter": None,
             "loss": None,
             "gro": False,
@@ -78,39 +55,52 @@ class Karen(Topo):
             "speedup": 0,
             "use_hfsc": False,
             "use_tbf": False,
-            "latency_ms": 33.0,
+            "latency_ms": None,
             "enable_ecn": False,
             "enable_red": False,
-            "max_queue_size": 3,
+            "max_queue_size": None,
         }
-        self.addLink(s0, s1, **link1_conf)
-        self.addLink(s0, s2, **link1_conf)
-        self.addLink(s0, s3, **link1_conf)
-        self.addLink(s0, s5, **link3_conf)
-        self.addLink(s0, s9, **link3_conf)
-        self.addLink(s1, s4, **link1_conf)
-        self.addLink(s1, s6, **link0_conf)
-        self.addLink(s1, s7, **link1_conf)
-        self.addLink(s2, s20, **link1_conf)
-        self.addLink(s2, s14, **link1_conf)
-        self.addLink(s3, s24, **link1_conf)
-        self.addLink(s3, s12, **link2_conf)
-        self.addLink(s3, s13, **link1_conf)
-        self.addLink(s3, s14, **link3_conf)
-        self.addLink(s4, s5, **link3_conf)
-        self.addLink(s5, s8, **link0_conf)
-        self.addLink(s5, s9, **link2_conf)
-        self.addLink(s10, s24, **link3_conf)
-        self.addLink(s11, s24, **link2_conf)
-        self.addLink(s14, s21, **link1_conf)
-        self.addLink(s15, s16, **link1_conf)
-        self.addLink(s15, s24, **link3_conf)
-        self.addLink(s17, s24, **link1_conf)
-        self.addLink(s18, s22, **link2_conf)
-        self.addLink(s19, s21, **link0_conf)
-        self.addLink(s21, s22, **link2_conf)
-        self.addLink(s22, s23, **link0_conf)
-        self.addLink(s23, s24, **link3_conf)
+        link3_conf = {
+            "bw": 2.0,
+            "delay": 2.0,
+            "jitter": 67.0,
+            "loss": 24.0,
+            "gro": False,
+            "txo": True,
+            "rxo": True,
+            "speedup": 0,
+            "use_hfsc": False,
+            "use_tbf": False,
+            "latency_ms": None,
+            "enable_ecn": False,
+            "enable_red": False,
+            "max_queue_size": None,
+        }
+        self.addLink(s0, s1, **link3_conf)
+        self.addLink(s0, s3, **link2_conf)
+        self.addLink(s1, s3, **link2_conf)
+        self.addLink(s1, s6, **link1_conf)
+        self.addLink(s1, s7, **link2_conf)
+        self.addLink(s2, s3, **link1_conf)
+        self.addLink(s2, s9, **link3_conf)
+        self.addLink(s2, s11, **link1_conf)
+        self.addLink(s4, s5, **link2_conf)
+        self.addLink(s4, s6, **link3_conf)
+        self.addLink(s5, s17, **link0_conf)
+        self.addLink(s6, s7, **link2_conf)
+        self.addLink(s7, s8, **link0_conf)
+        self.addLink(s7, s9, **link1_conf)
+        self.addLink(s8, s9, **link0_conf)
+        self.addLink(s8, s13, **link0_conf)
+        self.addLink(s8, s17, **link0_conf)
+        self.addLink(s10, s11, **link1_conf)
+        self.addLink(s10, s12, **link1_conf)
+        self.addLink(s11, s12, **link3_conf)
+        self.addLink(s12, s13, **link2_conf)
+        self.addLink(s12, s14, **link0_conf)
+        self.addLink(s14, s15, **link2_conf)
+        self.addLink(s15, s16, **link3_conf)
+        self.addLink(s15, s17, **link3_conf)
 
 
-topos = {"Karen": (lambda: Karen())}
+topos = {"Ans": (lambda: Ans())}

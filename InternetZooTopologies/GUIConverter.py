@@ -5,16 +5,21 @@ import random
 import os.path as op
 from GMLtoTopology import GMLtoTopology
 from tkinter import font as tkFont
+import json
 
 PATH_DATASET = 'DatasetGML/'
 PATH_TOPOLOGIES = 'Topologies/'
 
-LINK0_CONF = dict(delay='20ms', use_tbf=True, bw=20, max_queue_size=10, burst=1000000)
-LINK1_CONF = dict(delay='25ms', use_tbf=True, bw=50, max_queue_size=10,  burst=1000000)
-DICT_LINKS_CONF = {
-    0: LINK0_CONF,
-    1: LINK1_CONF
-}
+
+DICT_LINKS_CONF = {}
+
+def save_link_config():
+    with open('LinkConfig.json', 'w') as lkc: 
+        json.dump(DICT_LINKS_CONF, lkc, indent=4)
+
+def load_link_config():
+    with open('LinkConfig.json', 'r') as lkc:
+        return json.load(lkc)
 
 def convert_specific():
     name = os.path.basename(filedialog.askopenfilename(initialdir=PATH_DATASET, title="Select GML file",
@@ -51,6 +56,18 @@ def quit_app():
 def show_frame(frame):
     print_link_conf()
     frame.tkraise()
+
+def delete_config(n):
+    del DICT_LINKS_CONF[n]
+    i=0
+    for key in DICT_LINKS_CONF.keys():
+        if i != int(key) and i<int(key):
+            DICT_LINKS_CONF[str(i)]=DICT_LINKS_CONF[str(key)]
+            del DICT_LINKS_CONF[str(key)]
+        i=i+1
+        
+    save_link_config()
+    print_link_conf()
 
 def apply_config():
 
@@ -108,22 +125,38 @@ def apply_config():
         'max_queue_size': max_queue,
     }
     DICT_LINKS_CONF[len(DICT_LINKS_CONF)] = config_values
+    save_link_config()
 
 def print_link_conf():
+    global DICT_LINKS_CONF
+    DICT_LINKS_CONF = load_link_config()
+    update_dropdown()
     text_area.delete('1.0', tk.END)
     for link_id in DICT_LINKS_CONF:
         link_info = str(DICT_LINKS_CONF[link_id])
         text_area.insert(tk.END, link_info)
         text_area.insert(tk.END, "\n\n")
 
+def update_dropdown():
+    menu = dropdown["menu"]
+    menu.delete(0, "end")
+    
+    if DICT_LINKS_CONF:
+        for key in DICT_LINKS_CONF.keys():
+            menu.add_command(label=key, command=tk._setit(var, key))
+        var.set(list(DICT_LINKS_CONF.keys())[0]) 
+        btn_del.config(state="normal")  
+    else:
+        var.set("")  
+        btn_del.config(state="disabled") 
 
 if __name__ == "__main__":
     converter = GMLtoTopology()
 
     root = tk.Tk()
     root.title("GML to Topology Converter")
-    root.geometry("500x500")
-    #root.resizable(False, False)
+    root.geometry("327x480")
+    root.resizable(False, False)
     root.configure(bg="#f0f0f0")  
 
     font_title = tkFont.Font(family="Helvetica", size=18, weight="bold")
@@ -146,37 +179,51 @@ if __name__ == "__main__":
     frame_buttons = tk.Frame(page1, bg="#ffffff", padx=20, pady=20, relief=tk.RIDGE, bd=2)
     frame_buttons.pack(pady=10, fill="both", expand=True)
 
-    btn_specific = tk.Button(frame_buttons, text="Convert Specific GML", font=font_button, bg="#4CAF50", fg="white", padx=10, pady=5, command = convert_specific)
-    btn_specific.pack(pady=5, fill="x")
+    btn_specific = tk.Button(frame_buttons, text="Convert Specific GML", font=font_button, bg="#4CAF50", fg="black", padx=10, pady=5, command = convert_specific)
+    btn_specific.pack(pady=10, fill="x")
 
-    btn_random = tk.Button(frame_buttons, text="Convert Random GML", font=font_button, bg="#03A9F4", fg="white", padx=10, pady=5, command = convert_random)
-    btn_random.pack(pady=5, fill="x")
+    btn_random = tk.Button(frame_buttons, text="Convert Random GML", font=font_button, bg="#03A9F4", fg="black", padx=10, pady=5, command = convert_random)
+    btn_random.pack(pady=10, fill="x")
 
-    btn_all = tk.Button(frame_buttons, text="Convert All GML Files", font=font_button, bg="#FF9800", fg="white", padx=10, pady=5, command = convert_all)
-    btn_all.pack(pady=5, fill="x")
+    btn_all = tk.Button(frame_buttons, text="Convert All GML Files", font=font_button, bg="#FF9800", fg="black", padx=10, pady=5, command = convert_all)
+    btn_all.pack(pady=10, fill="x")
 
-    btn_clear = tk.Button(frame_buttons, text="Clear Topologies", font=font_button, bg="#F44336", fg="white", padx=10, pady=5, command = clear_topologies)
-    btn_clear.pack(pady=5, fill="x")
+    btn_clear = tk.Button(frame_buttons, text="Clear Topologies", font=font_button, bg="#F44336", fg="black", padx=10, pady=5, command = clear_topologies)
+    btn_clear.pack(pady=10, fill="x")
 
     flagLink = tk.BooleanVar()  
     checkbox = tk.Checkbutton(frame_buttons, text="Add Link Capacity", variable=flagLink, font=font_button, bg="#ffffff")
     checkbox.pack(pady=10)
 
-    btn_next_page = tk.Button(page1, text="Go to Settings", command=lambda: show_frame(page2), font=font_button, bg="#9E9E9E", fg="white", padx=10, pady=5)
-    btn_next_page.pack(pady=20)
+    btn_next_page = tk.Button(page1, text="Go to Settings", command=lambda: show_frame(page2), font=font_button, bg="#9E9E9E", fg="black", padx=10, pady=5)
+    btn_next_page.pack(pady=10)
 
     # ===== Page 2 =====
     label_settings = tk.Label(page2, text="Link Configurations", font=font_title, fg="#333333", bg="#f7f7f7")
     label_settings.pack(pady=20)
 
-    text_area = tk.Text(page2, width=40, height=10, font=font_button, wrap=tk.WORD)
-    text_area.pack(pady=10)
+    text_area = tk.Text(page2, width=40, height=15, font=font_button, wrap=tk.WORD)
+    text_area.pack(pady=5)
 
-    btn_back = tk.Button(page2, text="Back to Converter", command=lambda: show_frame(page1), font=font_button, bg="#9E9E9E", fg="white", padx=10, pady=5)
-    btn_back.pack(pady=20)
+    btn_next_page = tk.Button(page2, text="Add Link Config", command=lambda: show_frame(page3), font=font_button, bg="#4CAF50", fg="black", padx=10, pady=5)
+    btn_next_page.pack(pady=5)
 
-    btn_next_page = tk.Button(page2, text="Add Link Config", command=lambda: show_frame(page3), font=font_button, bg="#9E9E9E", fg="white", padx=10, pady=5)
-    btn_next_page.pack(pady=20)
+    frame_dropdown_delete = tk.Frame(page2, bg = "white")
+    frame_dropdown_delete.pack(pady=5)
+
+    var = tk.StringVar(root)
+
+
+    dropdown = tk.OptionMenu(frame_dropdown_delete, var, "")
+    dropdown.pack(side=tk.RIGHT, padx=(0, 10))  
+
+   
+    btn_del = tk.Button(frame_dropdown_delete, text="Del Link Config", command=lambda: delete_config(var.get()), font=("Arial", 12), bg="#F44336", fg="black", padx=10, pady=5)
+    btn_del.pack(side=tk.LEFT)  
+    btn_del.config(state="disabled") 
+
+    btn_back = tk.Button(page2, text="Back to Converter", command=lambda: show_frame(page1), font=font_button, bg="#9E9E9E", fg="black", padx=10, pady=5)
+    btn_back.pack(pady=5)
 
     # ===== Page 3 =====
     label_config = tk.Label(page3, text="Configure Link Parameters", font=font_title, fg="#333333", bg="#f7f7f7")
@@ -231,11 +278,11 @@ if __name__ == "__main__":
     entry_max_queue = tk.Entry(page3)
     entry_max_queue.grid(row=11, column=1, padx=5, pady=5)
 
-    btn_apply = tk.Button(page3, text="Apply Configuration", command=apply_config, font=font_button, bg="#4CAF50", fg="white", padx=10, pady=5)
-    btn_apply.grid(row=13, column=0, columnspan=2, pady=20)
+    btn_apply = tk.Button(page3, text="Apply Configuration", command=apply_config, font=font_button, bg="#4CAF50", fg="black", padx=10, pady=5)
+    btn_apply.grid(row=13, column=0, columnspan=2, pady=5)
 
-    btn_back_to_settings = tk.Button(page3, text="Back to Settings", command=lambda: show_frame(page2), font=font_button, bg="#9E9E9E", fg="white", padx=10, pady=5)
-    btn_back_to_settings.grid(row=14, column=0, columnspan=2, pady=20)
+    btn_back_to_settings = tk.Button(page3, text="Back to Settings", command=lambda: show_frame(page2), font=font_button, bg="#9E9E9E", fg="black", padx=10, pady=5)
+    btn_back_to_settings.grid(row=14, column=0, columnspan=2, pady=10)
 
     show_frame(page1)
 

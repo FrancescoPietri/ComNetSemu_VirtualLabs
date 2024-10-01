@@ -1,0 +1,16 @@
+{
+    "0": {
+        "delay": "20ms",
+        "use_tbf": true,
+        "bw": 20,
+        "max_queue_size": 10,
+        "burst": 1000000
+    },
+    "1": {
+        "delay": "25ms",
+        "use_tbf": true,
+        "bw": 50,
+        "max_queue_size": 10,
+        "burst": 1000000
+    }
+}
