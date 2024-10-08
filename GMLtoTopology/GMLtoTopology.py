@@ -19,9 +19,11 @@ class GMLtoTopology:
     def __init__(self):
         pass
 
-    def init_topo(self, name, topologyDirPath):
+    def init_topo(self, name, topologyDirPath, numSwitches):
         file_topo = open(op.join(topologyDirPath, name + ".py"), "w")
-        file_topo.write("""#!/usr/bin/python
+        file_topo.write(f"""#!/usr/bin/python
+#{numSwitches}
+from mininet.node import Host
 from mininet.topo import Topo
 from mininet.net import Mininet
 from mininet.node import OVSKernelSwitch, RemoteController
@@ -60,7 +62,7 @@ from mininet.link import TCLink\n\n""")
 
         graph = nx.read_gml(op.join(datasetDirPath, name + '.gml'), "id")
 
-        self.init_topo(name, topologyDirPath)
+        self.init_topo(name, topologyDirPath, len(graph.nodes.items()))
 
         with open(op.join(topologyDirPath, name + ".py"), "a") as file_topo:
             file_topo.write("  # Adding Switches\n")
