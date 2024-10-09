@@ -7,38 +7,22 @@ import black
 import re
 from mininet.link import TCLink
 import random
+import json
 
 PATH_DATASET = 'DatasetGML/'
 PATH_TOPOLOGIES = 'Topologies/'
 
-VlanConfig = {
-    "h1": {
-        "vlan": 10,
-        "ip": '10.0.1.1/24' 
-    },
-    "h2": {
-        "vlan": 20,
-        "ip": '10.0.2.1/24' 
-    },
-    "h3": {
-        "vlan": 10,
-        "ip": '10.0.1.2/24' 
-    },
-    "h4": {
-        "vlan": 20,
-        "ip": '10.0.2.2/24' 
-    }
-}
+VlanConfig = {}
+HostToSwitchConfig = {}
 
-HostToSwitchConfig = {
-    "s0": "h1",
-    "s20": "h2",
-    "s15": "h3",
-    "s10": "h4"
-}
+def add_vlans(nameFile):
+    with open('VlanConfig.json', 'r') as vlc:
+        VlanConfig = json.load(vlc)
 
-if __name__ == "__main__":
-    with open(op.join(PATH_TOPOLOGIES, "BtNorthAmerica.py"), "r") as filepy:
+    with open('HostConfig.json', 'r') as htc:
+        HostToSwitchConfig = json.load(htc)
+
+    with open(op.join(PATH_TOPOLOGIES, nameFile), "r") as filepy:
         contents = filepy.readlines()
 
     indexToWrite = 15 + int(contents[1].strip("#"))
@@ -76,6 +60,11 @@ if __name__ == "__main__":
         contents.insert(indexToWrite, f"        {host} = self.addHost('{host}', cls=VLANHost, vlan={VlanConfig[host]['vlan']}, ip='{VlanConfig[host]['ip']}') \n")
     contents.insert(indexToWrite, f"\n        #adding hosts \n")
 
-    with open(op.join(PATH_TOPOLOGIES, "BtNorthAmerica.py"), "w") as f:
+    with open(op.join(PATH_TOPOLOGIES, nameFile), "w") as f:
         contents = "".join(contents)
         f.write(contents)
+
+if __name__ == "__main__":
+    print("Enter file name to add Vlans:")
+    nameFile = input()
+    add_vlans()

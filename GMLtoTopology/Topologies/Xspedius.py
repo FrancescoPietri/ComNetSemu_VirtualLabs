@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# 36
+# 34
 from mininet.node import Host
 from mininet.topo import Topo
 from mininet.net import Mininet
@@ -31,8 +31,32 @@ class VLANHost( Host ):
 
         return r
 
+class VLANHost( Host ):
+    "Host connected to VLAN interface"
 
-class BtNorthAmerica(Topo):
+    # pylint: disable=arguments-differ
+    def config( self, vlan=100, **params ):
+
+        r = super( VLANHost, self ).config( **params )
+
+        intf = self.defaultIntf()
+        # remove IP from default, "physical" interface
+        self.cmd( 'ifconfig %s inet 0' % intf )
+        # create VLAN interface
+        self.cmd( 'vconfig add %s %d' % ( intf, vlan ) )
+        # assign the host's IP to the VLAN interface
+        self.cmd( 'ifconfig %s.%d inet %s' % ( intf, vlan, params['ip'] ) )
+        # update the intf name and host's intf map
+        newName = '%s.%d' % ( intf, vlan )
+        # update the (Mininet) interface to refer to VLAN interface name
+        intf.name = newName
+        # add VLAN interface to host's name to intf map
+        self.nameToIntf[ newName ] = intf
+
+        return r
+
+
+class Xspedius(Topo):
     def __init__(self):
         Topo.__init__(self)
         # Adding Switches
@@ -46,6 +70,18 @@ class BtNorthAmerica(Topo):
         s7 = self.addSwitch("s7", dpid="0000000000000009")
         s8 = self.addSwitch("s8", dpid="000000000000000a")
         s9 = self.addSwitch("s9", dpid="000000000000000b")
+        h4 = self.addHost('h4', cls=VLANHost, vlan=20, ip='10.0.2.2/24') 
+        h3 = self.addHost('h3', cls=VLANHost, vlan=10, ip='10.0.1.2/24') 
+        h2 = self.addHost('h2', cls=VLANHost, vlan=20, ip='10.0.2.1/24') 
+        h1 = self.addHost('h1', cls=VLANHost, vlan=10, ip='10.0.1.1/24') 
+
+        #adding hosts 
+        self.addLink(s10, h4) 
+        self.addLink(s15, h3) 
+        self.addLink(s20, h2) 
+        self.addLink(s0, h1) 
+
+        #adding host to switch links
         s10 = self.addSwitch("s10", dpid="000000000000000c")
         s11 = self.addSwitch("s11", dpid="000000000000000d")
         s12 = self.addSwitch("s12", dpid="000000000000000e")
@@ -70,8 +106,6 @@ class BtNorthAmerica(Topo):
         s31 = self.addSwitch("s31", dpid="0000000000000021")
         s32 = self.addSwitch("s32", dpid="0000000000000022")
         s33 = self.addSwitch("s33", dpid="0000000000000023")
-        s34 = self.addSwitch("s34", dpid="0000000000000024")
-        s35 = self.addSwitch("s35", dpid="0000000000000025")
 
         #adding hosts 
         h4 = self.addHost('h4', cls=VLANHost, vlan=20, ip='10.0.2.2/24') 
@@ -87,81 +121,54 @@ class BtNorthAmerica(Topo):
 
         # Adding Links
         self.addLink(s0, s1)
-        self.addLink(s0, s2)
-        self.addLink(s1, s2)
+        self.addLink(s0, s3)
+        self.addLink(s0, s10)
+        self.addLink(s0, s20)
+        self.addLink(s0, s22)
+        self.addLink(s0, s23)
         self.addLink(s1, s6)
-        self.addLink(s1, s8)
-        self.addLink(s1, s22)
-        self.addLink(s1, s28)
-        self.addLink(s1, s29)
-        self.addLink(s1, s31)
         self.addLink(s2, s3)
-        self.addLink(s2, s19)
-        self.addLink(s2, s21)
-        self.addLink(s2, s27)
-        self.addLink(s2, s28)
+        self.addLink(s2, s31)
         self.addLink(s3, s27)
         self.addLink(s4, s8)
-        self.addLink(s4, s5)
-        self.addLink(s4, s15)
-        self.addLink(s5, s15)
-        self.addLink(s6, s7)
-        self.addLink(s7, s17)
-        self.addLink(s7, s21)
-        self.addLink(s7, s30)
+        self.addLink(s4, s7)
+        self.addLink(s5, s24)
+        self.addLink(s5, s25)
+        self.addLink(s5, s18)
+        self.addLink(s6, s21)
+        self.addLink(s6, s15)
         self.addLink(s7, s15)
-        self.addLink(s8, s9)
-        self.addLink(s8, s21)
-        self.addLink(s8, s25)
-        self.addLink(s8, s28)
-        self.addLink(s9, s25)
-        self.addLink(s9, s28)
+        self.addLink(s7, s23)
+        self.addLink(s8, s33)
+        self.addLink(s8, s18)
+        self.addLink(s9, s18)
         self.addLink(s10, s11)
-        self.addLink(s10, s12)
-        self.addLink(s10, s13)
         self.addLink(s10, s14)
-        self.addLink(s10, s17)
-        self.addLink(s10, s25)
-        self.addLink(s10, s27)
-        self.addLink(s11, s16)
-        self.addLink(s11, s17)
         self.addLink(s11, s12)
-        self.addLink(s11, s13)
-        self.addLink(s13, s16)
-        self.addLink(s13, s22)
-        self.addLink(s13, s23)
+        self.addLink(s12, s23)
         self.addLink(s13, s24)
-        self.addLink(s13, s25)
-        self.addLink(s13, s27)
-        self.addLink(s13, s28)
-        self.addLink(s14, s16)
-        self.addLink(s15, s28)
-        self.addLink(s15, s29)
+        self.addLink(s13, s32)
+        self.addLink(s14, s19)
+        self.addLink(s14, s23)
         self.addLink(s16, s17)
+        self.addLink(s16, s18)
         self.addLink(s16, s23)
-        self.addLink(s17, s22)
-        self.addLink(s17, s27)
-        self.addLink(s17, s28)
-        self.addLink(s18, s25)
-        self.addLink(s18, s27)
-        self.addLink(s18, s20)
-        self.addLink(s19, s20)
+        self.addLink(s17, s19)
+        self.addLink(s17, s23)
         self.addLink(s20, s21)
-        self.addLink(s22, s33)
-        self.addLink(s22, s23)
-        self.addLink(s22, s27)
-        self.addLink(s23, s24)
-        self.addLink(s23, s25)
-        self.addLink(s24, s25)
-        self.addLink(s25, s28)
+        self.addLink(s21, s22)
+        self.addLink(s23, s31)
+        self.addLink(s24, s33)
+        self.addLink(s24, s31)
+        self.addLink(s25, s31)
         self.addLink(s26, s27)
-        self.addLink(s26, s35)
-        self.addLink(s27, s33)
-        self.addLink(s27, s35)
+        self.addLink(s26, s29)
+        self.addLink(s27, s28)
+        self.addLink(s28, s30)
+        self.addLink(s29, s30)
+        self.addLink(s30, s32)
         self.addLink(s30, s31)
         self.addLink(s32, s33)
-        self.addLink(s32, s34)
-        self.addLink(s34, s35)
 
 
-topos = {"BtNorthAmerica": (lambda: BtNorthAmerica())}
+topos = {"Xspedius": (lambda: Xspedius())}
