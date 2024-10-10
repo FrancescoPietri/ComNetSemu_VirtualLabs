@@ -52,8 +52,8 @@ def add_vlans(nameFile):
         return r\n\n""")
 
 
-    for switch in HostToSwitchConfig:
-        contents.insert(indexToWrite, f"        self.addLink({switch}, {HostToSwitchConfig[switch]}) \n")
+    for host in HostToSwitchConfig:
+        contents.insert(indexToWrite, f"        self.addLink({host}, {HostToSwitchConfig[host]}) \n")
     contents.insert(indexToWrite, f"\n        #adding host to switch links\n")
 
     for host in VlanConfig:
@@ -67,4 +67,4 @@ def add_vlans(nameFile):
 if __name__ == "__main__":
     print("Enter file name to add Vlans:")
     nameFile = input()
-    add_vlans()
+    add_vlans(nameFile)
