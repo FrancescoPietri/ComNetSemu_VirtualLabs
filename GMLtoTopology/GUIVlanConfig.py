@@ -72,6 +72,10 @@ def add_vlans(nameFile):
             contents.insert(indexToWrite, f"        self.addLink({host}, {HostToSwitchConfig[host]}) \n")
         contents.insert(indexToWrite, f"\n        #adding host to switch links\n")
 
+        for host in HostToSwitchConfig:
+            if not host in VlanConfig:
+                contents.insert(indexToWrite, f"        {host} = self.addHost('{host}') \n")
+
         for host in VlanConfig:
             contents.insert(indexToWrite, f"        {host} = self.addHost('{host}', cls=VLANHost, vlan={VlanConfig[host]['vlan']}, ip='{VlanConfig[host]['ip']}') \n")
         contents.insert(indexToWrite, f"\n        #adding hosts \n")
@@ -92,30 +96,54 @@ def select_file():
         add_vlans(file_name)
 
 def show_frame(frame):
+    update_text_area()
     frame.tkraise()
 
 def apply_vlan_config(host, vlan, ip):
-    Vconf = {
-        "vlan": int(vlan),
-        "ip": ip,
-    }
-    VlanConfig[host] = Vconf
-    save_vlan_config()
-    messagebox.showinfo("Success", f"VLAN configuration for host {host} saved successfully!")
+    try:
+        Vconf = {
+            "vlan": int(vlan),
+            "ip": ip,
+        }
+        VlanConfig[host] = Vconf
+        save_vlan_config()
+        messagebox.showinfo("Success", f"VLAN configuration for host {host} saved successfully!")
+        update_text_area()
+    except ValueError as e:
+        messagebox.showerror("Error", str(e))
 
 def apply_host_config(host, switch):
     HostToSwitchConfig[host] = switch
     save_host_config()
     update_host_menu()
     messagebox.showinfo("Success", f"Host {host} connected to switch {switch} saved successfully!")
+    update_text_area()
 
 def update_host_menu():
-        hosts = list(HostToSwitchConfig.values())
-        host_menu['values'] = hosts
-        if hosts:
-            host_var.set(hosts[0])
-        else:
-            host_var.set('')
+    hosts = list(HostToSwitchConfig.keys())
+    host_menu['values'] = hosts
+    if hosts:
+        host_var.set(hosts[0])
+    else:
+        host_var.set('')
+
+def update_text_area():
+    text_area.delete(1.0, tk.END)  
+    if HostToSwitchConfig:
+        for host, switch in HostToSwitchConfig.items():
+            text_area.insert(tk.END, f"Host: {host} -> Switch: {switch}\n")
+            if(host in VlanConfig):
+                text_area.insert(tk.END, f"{host}: VLAN -> {VlanConfig[host]['vlan']}, ip -> {VlanConfig[host]['ip']}\n\n")
+    else:
+        text_area.insert(tk.END, "No host configurations available.\n")
+
+def clear():
+    VlanConfig.clear()
+    HostToSwitchConfig.clear() 
+    save_host_config()
+    save_vlan_config()
+    update_text_area()
+
 
 if __name__ == "__main__":
     VlanConfig = load_vlan_config()
@@ -130,8 +158,9 @@ if __name__ == "__main__":
     frame1 = ttk.Frame(root)
     frame2 = ttk.Frame(root)
     frame3 = ttk.Frame(root)
+    frame4 = ttk.Frame(root)
 
-    for frame in (frame1, frame2, frame3):
+    for frame in (frame1, frame2, frame3, frame4):
         frame.grid(row=0, column=0, sticky='nsew')
 
     # ===== PAGE 1 =====
@@ -146,6 +175,9 @@ if __name__ == "__main__":
 
     btn_to_frame2 = ttk.Button(frame1, text="Configure VLANs", command=lambda: show_frame(frame2))
     btn_to_frame2.grid(row=2, column=1, padx=20, pady=10)
+
+    btn_to_frame4 = ttk.Button(frame1, text="View Host Config", command=lambda: show_frame(frame4))
+    btn_to_frame4.grid(row=3, column=0, padx=20, pady=10)
 
     # ===== PAGE 2 =====
     lbl2 = ttk.Label(frame2, text="VLAN Configuration:")
@@ -198,6 +230,20 @@ if __name__ == "__main__":
 
     btn_to_frame1 = ttk.Button(frame3, text="Back", command=lambda: show_frame(frame1))
     btn_to_frame1.grid(row=4, column=0, columnspan=2, padx=20, pady=10)
+
+    # ===== PAGE 4 =====
+    lbl4 = ttk.Label(frame4, text="Current Host Configuration")
+    lbl4.grid(row=0, column=0, columnspan=2, padx=20, pady=10)
+
+    text_area = tk.Text(frame4, width=40, height=10, wrap=tk.WORD)
+    text_area.grid(row=1, column=0, columnspan=2, padx=20, pady=5)
+    update_text_area()
+
+    btn_to_frame1 = ttk.Button(frame4, text="Clear Config", command=clear)
+    btn_to_frame1.grid(row=2, column=0, columnspan=2, padx=20, pady=5)
+
+    btn_to_frame1 = ttk.Button(frame4, text="Back", command=lambda: show_frame(frame1))
+    btn_to_frame1.grid(row=3, column=0, columnspan=2, padx=20, pady=5)
 
     show_frame(frame1)
 

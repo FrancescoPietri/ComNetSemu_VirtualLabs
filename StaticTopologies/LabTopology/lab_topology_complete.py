@@ -55,15 +55,15 @@ class LabTopologyComplete(Topo):
         
 
         # Define hosts with VLANs
-        h1 = self.addHost('h1',  cls=VLANHost, vlan=1)
-        h2 = self.addHost('h2',  cls=VLANHost, vlan=1)
-        h3 = self.addHost('h3',  cls=VLANHost, vlan=2)
-        h4 = self.addHost('h4',  cls=VLANHost, vlan=2)
-        h5 = self.addHost('h5',  cls=VLANHost, vlan=3)
-        h6 = self.addHost('h6',  cls=VLANHost, vlan=3)
-        h7 = self.addHost('h7',  cls=VLANHost, vlan=4)
-        h8 = self.addHost('h8',  cls=VLANHost, vlan=4)
-        h9 = self.addHost('h9',  cls=VLANHost, vlan=5)
+        h1 = self.addHost('h1',  cls=VLANHost, vlan=1,  ip='10.0.1.1/24')
+        h2 = self.addHost('h2',  cls=VLANHost, vlan=1,  ip='10.0.1.2/24')
+        h3 = self.addHost('h3',  cls=VLANHost, vlan=2,  ip='10.0.2.1/24')
+        h4 = self.addHost('h4',  cls=VLANHost, vlan=2,  ip='10.0.2.2/24')
+        h5 = self.addHost('h5',  cls=VLANHost, vlan=3,  ip='10.0.3.1/24')
+        h6 = self.addHost('h6',  cls=VLANHost, vlan=3,  ip='10.0.3.2/24')
+        h7 = self.addHost('h7',  cls=VLANHost, vlan=4,  ip='10.0.4.1/24')
+        h8 = self.addHost('h8',  cls=VLANHost, vlan=4,  ip='10.0.4.2/24')
+        h9 = self.addHost('h9',  cls=VLANHost, vlan=5,  ip='10.0.5.1/24')
 
         # Link configurations
         queue_lenght = 10

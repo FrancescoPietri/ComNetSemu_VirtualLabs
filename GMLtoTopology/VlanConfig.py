@@ -56,6 +56,10 @@ def add_vlans(nameFile):
         contents.insert(indexToWrite, f"        self.addLink({host}, {HostToSwitchConfig[host]}) \n")
     contents.insert(indexToWrite, f"\n        #adding host to switch links\n")
 
+    for host in HostToSwitchConfig:
+            if not host in VlanConfig:
+                contents.insert(indexToWrite, f"        {host} = self.addHost('{host}') \n")
+
     for host in VlanConfig:
         contents.insert(indexToWrite, f"        {host} = self.addHost('{host}', cls=VLANHost, vlan={VlanConfig[host]['vlan']}, ip='{VlanConfig[host]['ip']}') \n")
     contents.insert(indexToWrite, f"\n        #adding hosts \n")
