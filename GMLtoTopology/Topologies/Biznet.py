@@ -1,5 +1,5 @@
 #!/usr/bin/python
-# 30
+# 29
 from mininet.node import Host
 from mininet.topo import Topo
 from mininet.net import Mininet
@@ -32,7 +32,7 @@ class VLANHost( Host ):
         return r
 
 
-class Arn(Topo):
+class Biznet(Topo):
     def __init__(self):
         Topo.__init__(self)
         # Adding Switches
@@ -65,7 +65,6 @@ class Arn(Topo):
         s26 = self.addSwitch("s26", dpid="000000000000001c")
         s27 = self.addSwitch("s27", dpid="000000000000001d")
         s28 = self.addSwitch("s28", dpid="000000000000001e")
-        s29 = self.addSwitch("s29", dpid="000000000000001f")
 
         #adding hosts 
         h1 = self.addHost('h1', cls=VLANHost, vlan=1, ip='10.0.0.1/24') 
@@ -76,49 +75,39 @@ class Arn(Topo):
         self.addLink(h2, s5) 
 
         # Adding Links
-        link0_conf = {
-            "delay": "20ms",
-            "use_tbf": True,
-            "bw": 20,
-            "max_queue_size": 10,
-            "burst": 1000000,
-        }
-        link1_conf = {
-            "delay": "25ms",
-            "use_tbf": True,
-            "bw": 50,
-            "max_queue_size": 10,
-            "burst": 1000000,
-        }
-        self.addLink(s0, s22, **link0_conf)
-        self.addLink(s1, s22, **link1_conf)
-        self.addLink(s2, s22, **link1_conf)
-        self.addLink(s3, s22, **link0_conf)
-        self.addLink(s4, s7, **link0_conf)
-        self.addLink(s5, s8, **link1_conf)
-        self.addLink(s6, s7, **link0_conf)
-        self.addLink(s7, s22, **link1_conf)
-        self.addLink(s8, s9, **link0_conf)
-        self.addLink(s8, s10, **link1_conf)
-        self.addLink(s8, s12, **link1_conf)
-        self.addLink(s8, s13, **link1_conf)
-        self.addLink(s8, s14, **link0_conf)
-        self.addLink(s8, s15, **link0_conf)
-        self.addLink(s8, s18, **link0_conf)
-        self.addLink(s8, s19, **link1_conf)
-        self.addLink(s8, s22, **link0_conf)
-        self.addLink(s11, s22, **link0_conf)
-        self.addLink(s16, s22, **link1_conf)
-        self.addLink(s17, s22, **link0_conf)
-        self.addLink(s20, s24, **link1_conf)
-        self.addLink(s21, s22, **link0_conf)
-        self.addLink(s22, s23, **link0_conf)
-        self.addLink(s22, s24, **link0_conf)
-        self.addLink(s24, s25, **link0_conf)
-        self.addLink(s24, s26, **link0_conf)
-        self.addLink(s24, s27, **link0_conf)
-        self.addLink(s24, s28, **link0_conf)
-        self.addLink(s24, s29, **link1_conf)
+        self.addLink(s0, s1)
+        self.addLink(s0, s3)
+        self.addLink(s1, s6)
+        self.addLink(s2, s26)
+        self.addLink(s2, s23)
+        self.addLink(s3, s23)
+        self.addLink(s4, s21)
+        self.addLink(s4, s5)
+        self.addLink(s5, s8)
+        self.addLink(s5, s9)
+        self.addLink(s6, s7)
+        self.addLink(s7, s9)
+        self.addLink(s8, s14)
+        self.addLink(s9, s13)
+        self.addLink(s10, s15)
+        self.addLink(s11, s17)
+        self.addLink(s11, s12)
+        self.addLink(s11, s14)
+        self.addLink(s12, s18)
+        self.addLink(s12, s13)
+        self.addLink(s15, s16)
+        self.addLink(s16, s17)
+        self.addLink(s16, s18)
+        self.addLink(s19, s28)
+        self.addLink(s20, s26)
+        self.addLink(s20, s28)
+        self.addLink(s21, s22)
+        self.addLink(s22, s23)
+        self.addLink(s23, s24)
+        self.addLink(s24, s25)
+        self.addLink(s25, s26)
+        self.addLink(s25, s27)
+        self.addLink(s27, s28)
 
 
-topos = {"Arn": (lambda: Arn())}
+topos = {"Biznet": (lambda: Biznet())}

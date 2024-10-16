@@ -103,29 +103,29 @@ def apply_config():
         if max_queue is not None and max_queue <= 0:
             raise ValueError("Max Queue Size must be greater than 0.")
 
+        config_values = {
+            'bw': bw,
+            'delay': delay,
+            'jitter':jitter ,
+            'loss': loss,
+            'gro': var_gro.get(),
+            'txo': var_txo.get(),
+            'rxo': var_rxo.get(),
+            'speedup': speedup,
+            'use_hfsc': var_use_hfsc.get(),
+            'use_tbf': var_use_tbf.get(),
+            'latency_ms': latency,
+            'enable_ecn': var_enable_ecn.get(),
+            'enable_red': var_enable_red.get(),
+            'max_queue_size': max_queue,
+        }
+        DICT_LINKS_CONF[len(DICT_LINKS_CONF)] = config_values
+        save_link_config()
+
         messagebox.showinfo("Success", "Configuration applied successfully!")
 
     except ValueError as e:
         messagebox.showerror("Input Error", str(e))
-
-    config_values = {
-        'bw': bw,
-        'delay': delay,
-        'jitter':jitter ,
-        'loss': loss,
-        'gro': var_gro.get(),
-        'txo': var_txo.get(),
-        'rxo': var_rxo.get(),
-        'speedup': speedup,
-        'use_hfsc': var_use_hfsc.get(),
-        'use_tbf': var_use_tbf.get(),
-        'latency_ms': latency,
-        'enable_ecn': var_enable_ecn.get(),
-        'enable_red': var_enable_red.get(),
-        'max_queue_size': max_queue,
-    }
-    DICT_LINKS_CONF[len(DICT_LINKS_CONF)] = config_values
-    save_link_config()
 
 def print_link_conf():
     global DICT_LINKS_CONF
@@ -229,19 +229,19 @@ if __name__ == "__main__":
     label_config = tk.Label(page3, text="Configure Link Parameters", font=font_title, fg="#333333", bg="#f7f7f7")
     label_config.grid(row=0, column=0, columnspan=2, pady=20)
 
-    tk.Label(page3, text="Bandwidth (bw):", bg="#f7f7f7").grid(row=1, column=0, padx=5, pady=5, sticky="e")
+    tk.Label(page3, text="Bandwidth (Mbps):", bg="#f7f7f7").grid(row=1, column=0, padx=5, pady=5, sticky="e")
     entry_bw = tk.Entry(page3)
     entry_bw.grid(row=1, column=1, padx=5, pady=5)
 
-    tk.Label(page3, text="Delay:", bg="#f7f7f7").grid(row=2, column=0, padx=5, pady=5, sticky="e")
+    tk.Label(page3, text="Delay (ms):", bg="#f7f7f7").grid(row=2, column=0, padx=5, pady=5, sticky="e")
     entry_delay = tk.Entry(page3)
     entry_delay.grid(row=2, column=1, padx=5, pady=5)
 
-    tk.Label(page3, text="Jitter:", bg="#f7f7f7").grid(row=3, column=0, padx=5, pady=5, sticky="e")
+    tk.Label(page3, text="Jitter (ms):", bg="#f7f7f7").grid(row=3, column=0, padx=5, pady=5, sticky="e")
     entry_jitter = tk.Entry(page3)
     entry_jitter.grid(row=3, column=1, padx=5, pady=5)
 
-    tk.Label(page3, text="Loss:", bg="#f7f7f7").grid(row=4, column=0, padx=5, pady=5, sticky="e")
+    tk.Label(page3, text="Loss (%):", bg="#f7f7f7").grid(row=4, column=0, padx=5, pady=5, sticky="e")
     entry_loss = tk.Entry(page3)
     entry_loss.grid(row=4, column=1, padx=5, pady=5)
 
