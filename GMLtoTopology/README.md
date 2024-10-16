@@ -47,13 +47,15 @@ This repository includes the following key Python scripts:
 ### Running the GUI Converter:
 ```bash
 sudo python3 GUIConverter.py
+```
 
 ```bash
 sudo python3 GUIVlanConfig.py
+```
 
 ```bash
 sudo mn --custom <topologyname>.py --topo <topologyname> --link tc
-
+```
 _Note: --link tc is mandatory to ensure correct link configuration._
 
 ### Implementation Notes
