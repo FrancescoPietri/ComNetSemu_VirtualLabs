@@ -11,6 +11,7 @@ import json
 
 PATH_DATASET = 'DatasetGML/'
 PATH_TOPOLOGIES = 'Topologies/'
+PATH_OUTTOPOLOGIES = 'HostVLANTopologies/'
 
 VlanConfig = {}
 HostToSwitchConfig = {}
@@ -64,7 +65,7 @@ def add_vlans(nameFile):
         contents.insert(indexToWrite, f"        {host} = self.addHost('{host}', cls=VLANHost, vlan={VlanConfig[host]['vlan']}, ip='{VlanConfig[host]['ip']}') \n")
     contents.insert(indexToWrite, f"\n        #adding hosts \n")
 
-    with open(op.join(PATH_TOPOLOGIES, nameFile), "w") as f:
+    with open(op.join(PATH_OUTTOPOLOGIES, nameFile), "w") as f:
         contents = "".join(contents)
         f.write(contents)
 

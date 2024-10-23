@@ -1,23 +1,9 @@
 {
     "0": {
-        "delay": "20ms",
-        "use_tbf": true,
-        "bw": 20,
-        "max_queue_size": 10,
-        "burst": 1000000
-    },
-    "1": {
-        "delay": "25ms",
-        "use_tbf": true,
-        "bw": 50,
-        "max_queue_size": 10,
-        "burst": 1000000
-    },
-    "2": {
-        "bw": 20.0,
+        "bw": 100.0,
         "delay": 10.0,
-        "jitter": 1.0,
-        "loss": 12.0,
+        "jitter": null,
+        "loss": null,
         "gro": false,
         "txo": true,
         "rxo": true,
