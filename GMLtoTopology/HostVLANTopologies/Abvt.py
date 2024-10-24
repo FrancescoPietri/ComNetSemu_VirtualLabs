@@ -63,10 +63,10 @@ class Abvt(Topo):
         s22 = self.addSwitch("s22", dpid="0000000000000018")
 
         #adding hosts 
-        h4 = self.addHost('h4', cls=VLANHost, vlan=20, ip='10.0.2.2/24') 
-        h2 = self.addHost('h2', cls=VLANHost, vlan=20, ip='10.0.2.1/24') 
-        h3 = self.addHost('h3', cls=VLANHost, vlan=10, ip='10.0.1.2/24') 
-        h1 = self.addHost('h1', cls=VLANHost, vlan=10, ip='10.0.1.1/24') 
+        h4 = self.addHost('h4') 
+        h3 = self.addHost('h3') 
+        h2 = self.addHost('h2') 
+        h1 = self.addHost('h1') 
 
         #adding host to switch links
         self.addLink(h4, s12) 
