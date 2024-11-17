@@ -77,7 +77,7 @@ class Abvt(Topo):
         # Adding Links
         link0_conf = {
             "bw": 100.0,
-            "delay": 10.0,
+            "delay": "1ms",
             "jitter": None,
             "loss": None,
             "gro": False,
@@ -91,37 +91,69 @@ class Abvt(Topo):
             "enable_red": False,
             "max_queue_size": None,
         }
-        self.addLink(s0, s2, **link0_conf)
+        link1_conf = {
+            "bw": 100.0,
+            "delay": "5ms",
+            "jitter": None,
+            "loss": None,
+            "gro": False,
+            "txo": True,
+            "rxo": True,
+            "speedup": 0,
+            "use_hfsc": False,
+            "use_tbf": False,
+            "latency_ms": None,
+            "enable_ecn": False,
+            "enable_red": False,
+            "max_queue_size": None,
+        }
+        link2_conf = {
+            "bw": 100.0,
+            "delay": "10ms",
+            "jitter": None,
+            "loss": None,
+            "gro": False,
+            "txo": True,
+            "rxo": True,
+            "speedup": 0,
+            "use_hfsc": False,
+            "use_tbf": False,
+            "latency_ms": None,
+            "enable_ecn": False,
+            "enable_red": False,
+            "max_queue_size": None,
+        }
+        self.addLink(s0, s2, **link1_conf)
         self.addLink(s0, s4, **link0_conf)
-        self.addLink(s0, s5, **link0_conf)
-        self.addLink(s0, s7, **link0_conf)
-        self.addLink(s1, s8, **link0_conf)
-        self.addLink(s1, s6, **link0_conf)
-        self.addLink(s1, s4, **link0_conf)
-        self.addLink(s1, s5, **link0_conf)
+        self.addLink(s0, s5, **link2_conf)
+        self.addLink(s0, s7, **link2_conf)
+        self.addLink(s1, s8, **link1_conf)
+        self.addLink(s1, s6, **link1_conf)
+        self.addLink(s1, s4, **link2_conf)
+        self.addLink(s1, s5, **link2_conf)
         self.addLink(s1, s22, **link0_conf)
-        self.addLink(s2, s10, **link0_conf)
+        self.addLink(s2, s10, **link2_conf)
         self.addLink(s2, s3, **link0_conf)
         self.addLink(s3, s10, **link0_conf)
-        self.addLink(s5, s12, **link0_conf)
+        self.addLink(s5, s12, **link1_conf)
         self.addLink(s5, s8, **link0_conf)
         self.addLink(s6, s7, **link0_conf)
-        self.addLink(s8, s9, **link0_conf)
-        self.addLink(s9, s12, **link0_conf)
+        self.addLink(s8, s9, **link1_conf)
+        self.addLink(s9, s12, **link1_conf)
         self.addLink(s10, s20, **link0_conf)
         self.addLink(s10, s13, **link0_conf)
-        self.addLink(s10, s14, **link0_conf)
-        self.addLink(s11, s13, **link0_conf)
-        self.addLink(s11, s22, **link0_conf)
+        self.addLink(s10, s14, **link2_conf)
+        self.addLink(s11, s13, **link1_conf)
+        self.addLink(s11, s22, **link1_conf)
         self.addLink(s11, s21, **link0_conf)
-        self.addLink(s13, s14, **link0_conf)
-        self.addLink(s15, s16, **link0_conf)
-        self.addLink(s15, s22, **link0_conf)
-        self.addLink(s16, s18, **link0_conf)
-        self.addLink(s17, s18, **link0_conf)
+        self.addLink(s13, s14, **link2_conf)
+        self.addLink(s15, s16, **link1_conf)
+        self.addLink(s15, s22, **link1_conf)
+        self.addLink(s16, s18, **link2_conf)
+        self.addLink(s17, s18, **link2_conf)
         self.addLink(s18, s19, **link0_conf)
-        self.addLink(s18, s21, **link0_conf)
-        self.addLink(s19, s20, **link0_conf)
+        self.addLink(s18, s21, **link2_conf)
+        self.addLink(s19, s20, **link1_conf)
 
 
 topos = {"Abvt": (lambda: Abvt())}

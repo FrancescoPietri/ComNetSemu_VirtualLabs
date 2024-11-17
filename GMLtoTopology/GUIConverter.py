@@ -81,8 +81,8 @@ def apply_config():
 
     try:
         bw = float(bw) if bw else None
-        delay = float(delay) if delay else None
-        jitter = float(jitter) if jitter else None
+        delay = float(delay) if delay else 0
+        jitter = float(jitter) if jitter else 0
         loss = float(loss) if loss else None
         speedup = float(speedup) if speedup else 0
         latency = float(latency) if latency else None
@@ -105,8 +105,8 @@ def apply_config():
 
         config_values = {
             'bw': bw,
-            'delay': delay,
-            'jitter':jitter ,
+            'delay': str(int(delay)) + "ms",
+            'jitter':str(int(jitter)) + "ms",
             'loss': loss,
             'gro': var_gro.get(),
             'txo': var_txo.get(),
