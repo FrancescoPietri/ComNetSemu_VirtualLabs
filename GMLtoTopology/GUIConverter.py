@@ -155,8 +155,8 @@ if __name__ == "__main__":
 
     root = tk.Tk()
     root.title("GML to Topology Converter")
-    root.geometry("327x480")
-    root.resizable(False, False)
+    root.geometry("400x540")
+    root.resizable(True, True)
     root.configure(bg="#f0f0f0")  
 
     font_title = tkFont.Font(family="Helvetica", size=18, weight="bold")
